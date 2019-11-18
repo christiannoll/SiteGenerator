@@ -1,0 +1,23 @@
+<content>
+<item type="text">
+	<title>DER BAU von Franz Kafka</title>
+	<data>[Der Bau](https://de.wikipedia.org/wiki/Der_Bau) entwickelte sich gut, erfüllte seinen Zweck, bot Rückzugsraum und Geborgenheit, bis eines Tages ein Geräusch diese Ruhe zerstörte, ein Geräusch das sich nicht zuordnen ließ und dessen Verursacher nicht zu identifizieren war. Kommt das Geräusch näher, ist es Bedrohung oder nur Einbildung, bietet der Bau Schutz oder wird er zur Falle ...</data>
+	<date>08.11.2019</date>
+	<index><i>Franz Kafka</i></index>
+	<tags><t>Literatur</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<title>Spots</title>
+	<data>lights_small.png</data>
+	<date>09.11.2019</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
+<item type="text">
+	<title>Paul Klee über Fotografie</title>
+	<data>[Paul Klee](https://de.wikipedia.org/wiki/Paul_Klee) schreibt 1905 in seinem Tagebuch über das Verhältnis der Malerei zur Fotografie: "Das Foto wurde als Warnung der materialistischen Anschauung im rechten Moment erfunden. ..." [677]</data>
+	<date>10.11.2019</date>
+	<index><i>Paul Klee</i></index>
+	<tags><t>Fotografie</t><t>Malerei</t></tags>
+</item>
+</content>
