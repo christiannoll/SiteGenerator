@@ -6,15 +6,43 @@ enum MarkdownToken {
     case rightDelimiter(UnicodeScalar)
 }
 
-private extension CharacterSet {
+extension MarkdownToken: Equatable {}
+
+extension MarkdownToken: CustomStringConvertible {
+    var description: String {
+        switch self {
+        case .text(let value):
+            return value
+        case .leftDelimiter(let value):
+            return String(value)
+        case .rightDelimiter(let value):
+            return String(value)
+        }
+    }
+}
+
+
+extension CharacterSet {
     static let delimiters = CharacterSet(charactersIn: "[]()")
     static let whitespaceAndPunctuation = CharacterSet.whitespacesAndNewlines
         .union(CharacterSet.punctuationCharacters)
+    
+    static func getLeftDelimiter(rightDelimiter: UnicodeScalar) -> UnicodeScalar {
+        switch(rightDelimiter) {
+        case ")":
+            return "("
+        case "]":
+            return "["
+        default:
+            return " "
+        }
+    }
 }
 
 private extension UnicodeScalar {
     static let space: UnicodeScalar = " "
 }
+
 
 class MarkdownTokenizer {
     
@@ -33,6 +61,12 @@ class MarkdownTokenizer {
         }
         
         var token: MarkdownToken?
+        
+        if CharacterSet.delimiters.contains(c) {
+            token = scan(delimiter: c)
+        } else {
+            token = scanText()
+        }
         
         if token == nil {
             token = .text(String(c))
@@ -63,6 +97,73 @@ class MarkdownTokenizer {
         }
         let index = input.index(after: currentIndex)
         return input[index]
+    }
+    
+    private func scan(delimiter d: UnicodeScalar) -> MarkdownToken? {
+        return scanRight(delimiter: d) ?? scanLeft(delimiter: d)
+    }
+    
+    private func scanLeft(delimiter: UnicodeScalar) -> MarkdownToken? {
+        let p = previous ?? .space
+        
+        guard let n = next else {
+            return nil
+        }
+        
+        // Left delimiters must be predeced by whitespace or punctuation
+        // and NOT followed by whitespaces or newlines
+        guard CharacterSet.whitespaceAndPunctuation.contains(p) &&
+            !CharacterSet.whitespacesAndNewlines.contains(n) &&
+            !leftDelimiters.contains(delimiter) else {
+                return nil
+        }
+        
+        leftDelimiters.append(delimiter)
+        advance()
+        
+        return .leftDelimiter(delimiter)
+    }
+    
+    private func scanRight(delimiter: UnicodeScalar) -> MarkdownToken? {
+        guard let p = previous else {
+            return nil
+        }
+        
+        let n = next ?? .space
+        
+        // Right delimiters must NOT be preceded by whitespace and must be
+        // followed by whitespace or punctuation
+        guard !CharacterSet.whitespacesAndNewlines.contains(p) &&
+            CharacterSet.whitespaceAndPunctuation.contains(n) &&
+            (leftDelimiters.contains(delimiter) || leftDelimiters.contains(CharacterSet.getLeftDelimiter(rightDelimiter:delimiter))) else {
+                return nil
+        }
+        
+        while !leftDelimiters.isEmpty {
+            if leftDelimiters.popLast() == delimiter {
+                break
+            }
+        }
+        advance()
+        
+        return .rightDelimiter(delimiter)
+    }
+
+    private func scanText() -> MarkdownToken? {
+        let startIndex = currentIndex
+        scanUntil { CharacterSet.delimiters.contains($0) }
+        
+        guard currentIndex > startIndex else {
+            return nil
+        }
+        
+        return .text(String(input[startIndex ..< currentIndex]))
+    }
+    
+    private func scanUntil(_ predicate: (UnicodeScalar) -> Bool) {
+        while currentIndex < input.endIndex && !predicate(input[currentIndex]) {
+            advance()
+        }
     }
  
     private func advance() {

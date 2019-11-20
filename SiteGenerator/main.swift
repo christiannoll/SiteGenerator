@@ -15,3 +15,8 @@ for post: Item in posts {
     print(" --- ")
 }
 
+let s = "text1 [title](url) text2"
+let elements = MarkdownParser.parse(text: s)
+
+print(elements)
+
