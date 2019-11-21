@@ -3,7 +3,7 @@ import Foundation
 public class MarkdownParser {
     public static func parse(text: String) -> [MarkdownNode] {
         let parser = MarkdownParser(text: text)
-        return parser.parse()
+        return parser.parseLinks(elements: parser.parse())
     }
     
     private var tokenizer: MarkdownTokenizer
@@ -60,5 +60,34 @@ public class MarkdownParser {
         }
         
         return MarkdownNode(delimiter: delimiter, children: newElements)
+    }
+    
+    private func parseLinks(elements: [MarkdownNode]) -> [MarkdownNode] {
+        var nodes: [MarkdownNode] = []
+        
+        var bracketsNode: MarkdownNode?
+        
+        for element: MarkdownNode in elements {
+            switch element {
+            case .text:
+                if bracketsNode != nil {
+                    nodes.append(bracketsNode!)
+                }
+                nodes.append(element)
+                bracketsNode = nil
+            case .brackets:
+                bracketsNode = element
+            case .parenthesis:
+                if bracketsNode != nil {
+                    let newElements: [MarkdownNode] = [bracketsNode!, element]
+                    nodes.append(MarkdownNode(delimiter: " ", children: newElements)!)
+                }
+                bracketsNode = nil
+            default:
+                break
+            }
+        }
+        
+        return nodes
     }
 }
