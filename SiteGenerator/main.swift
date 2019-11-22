@@ -18,5 +18,6 @@ for post: Item in posts {
 let s = "text1 [title](url) text2"
 let elements = MarkdownParser.parse(text: s)
 
-print(elements)
+let smlBuilder = SmlBuilder()
+print(smlBuilder.parse(elements))
 
