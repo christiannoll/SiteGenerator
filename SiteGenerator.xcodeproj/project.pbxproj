@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		D63B71A32383261B00E989EE /* MarkdownTokenizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = D63B71A22383261B00E989EE /* MarkdownTokenizer.swift */; };
+		D65545B02389B37A00D18FD2 /* SmlNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = D65545AF2389B37A00D18FD2 /* SmlNode.swift */; };
 		D676120D237F43960042F55D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D676120C237F43960042F55D /* main.swift */; };
 		D69221C423818FEB0007E774 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = D69221C323818FEB0007E774 /* Item.swift */; };
 		D69221C6238196740007E774 /* ContentParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = D69221C5238196740007E774 /* ContentParser.swift */; };
@@ -30,6 +31,7 @@
 
 /* Begin PBXFileReference section */
 		D63B71A22383261B00E989EE /* MarkdownTokenizer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarkdownTokenizer.swift; sourceTree = "<group>"; };
+		D65545AF2389B37A00D18FD2 /* SmlNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmlNode.swift; sourceTree = "<group>"; };
 		D6761209237F43960042F55D /* SiteGenerator */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SiteGenerator; sourceTree = BUILT_PRODUCTS_DIR; };
 		D676120C237F43960042F55D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		D69221C323818FEB0007E774 /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
@@ -76,6 +78,7 @@
 				D63B71A22383261B00E989EE /* MarkdownTokenizer.swift */,
 				D6ADD6532385DAF9005C0495 /* MarkdownNode.swift */,
 				D6F6FF7A238875BB0049F171 /* SmlBuilder.swift */,
+				D65545AF2389B37A00D18FD2 /* SmlNode.swift */,
 			);
 			path = SiteGenerator;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			files = (
 				D69221C423818FEB0007E774 /* Item.swift in Sources */,
 				D69221C6238196740007E774 /* ContentParser.swift in Sources */,
+				D65545B02389B37A00D18FD2 /* SmlNode.swift in Sources */,
 				D676120D237F43960042F55D /* main.swift in Sources */,
 				D6F92EC4238320D900FCAAC1 /* MarkdownParser.swift in Sources */,
 				D6F6FF7B238875BB0049F171 /* SmlBuilder.swift in Sources */,
