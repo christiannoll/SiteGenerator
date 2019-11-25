@@ -96,6 +96,9 @@ class MarkdownTokenizer {
             return nil
         }
         let index = input.index(after: currentIndex)
+        guard index < input.endIndex else {
+            return nil
+        }  
         return input[index]
     }
     

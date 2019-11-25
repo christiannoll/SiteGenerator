@@ -30,12 +30,12 @@ class SmlBuilder {
             case .text(let text):
                 s.append(text)
             case .parenthesis(let nodes):
-                s.append("\" link_url=\"")
+                s.append("<a href=\"")
                 s.append(parse(nodes))
-                s.append("\"")
+                s.append("\">")
             case .brackets(let nodes):
-                s.append("link_title=\"")
                 s.append(parse(nodes))
+                s.append("</a>")
             default:
                 break
             }

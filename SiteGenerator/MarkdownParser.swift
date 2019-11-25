@@ -76,16 +76,23 @@ public class MarkdownParser {
                 nodes.append(element)
                 bracketsNode = nil
             case .brackets:
+                if bracketsNode != nil {
+                    nodes.append(bracketsNode!)
+                }
                 bracketsNode = element
             case .parenthesis:
                 if bracketsNode != nil {
-                    let newElements: [MarkdownNode] = [bracketsNode!, element]
+                    let newElements: [MarkdownNode] = [element, bracketsNode!]
                     nodes.append(MarkdownNode(delimiter: " ", children: newElements)!)
                 }
                 bracketsNode = nil
             default:
                 break
             }
+        }
+        
+        if bracketsNode != nil {
+            nodes.append(bracketsNode!)
         }
         
         return nodes

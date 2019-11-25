@@ -5,7 +5,12 @@ let posts = contentParser.parse()
 
 for post: Item in posts {
     print(post.title)
-    print(post.data)
+    
+    let elements = MarkdownParser.parse(text: post.data)
+    
+    let smlBuilder = SmlBuilder()
+    print(smlBuilder.parse(elements))
+    
     let date = post.date
     if date != nil {
         let testFormatter = DateFormatter()
@@ -15,9 +20,9 @@ for post: Item in posts {
     print(" --- ")
 }
 
-let s = "text1 [title](url) text2"
+/*let s = "text1 [title](url) text2"
 let elements = MarkdownParser.parse(text: s)
 
 let smlBuilder = SmlBuilder()
-print(smlBuilder.parse(elements))
+print(smlBuilder.parse(elements))*/
 
