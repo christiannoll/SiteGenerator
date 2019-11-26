@@ -38,6 +38,12 @@ extension SmlNode: ExpressibleByStringLiteral {
     }
 }
 
+extension SmlNode {
+    func render() -> String {
+        return SmlPrinter.render(node: self)
+    }
+}
+
 func node(_ name: String, _ attribs: [SmlAttribute], _ children: [SmlNode]?) -> SmlNode {
     return .element(.init(name, attribs, children))
 }

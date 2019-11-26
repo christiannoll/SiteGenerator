@@ -48,17 +48,18 @@ class ContentParser : NSObject, XMLParserDelegate {
                 didEndElement elementName: String,
                 namespaceURI: String?,
                 qualifiedName qName: String?) {
+        let trimmedText = foundCharacters.trimmingCharacters(in: .whitespacesAndNewlines)
         switch elementName {
         case "title":
-            item.title = foundCharacters
+            item.title = trimmedText
         case "data":
-            item.data = foundCharacters
+            item.data = trimmedText
         case "date":
-            item.date = parseDate(foundCharacters)
+            item.date = parseDate(trimmedText)
         case "t":
-            item.tags.insert(foundCharacters)
+            item.tags.insert(trimmedText)
         case "i":
-            item.indices.insert(foundCharacters)
+            item.indices.insert(trimmedText)
         case "item":
             items.append(item)
         default:

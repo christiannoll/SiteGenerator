@@ -9,7 +9,7 @@ for post: Item in posts {
     let elements = MarkdownParser.parse(text: post.data)
     
     let smlBuilder = SmlBuilder()
-    print(smlBuilder.parse(elements))
+    print(smlBuilder.parse(elements).render())
     
     let date = post.date
     if date != nil {

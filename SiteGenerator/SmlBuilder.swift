@@ -2,7 +2,12 @@ import Foundation
 
 class SmlBuilder {
     
-    public func parse(_ markdownNodes: [MarkdownNode]) -> String {
+    public func parse(_ markdownNodes: [MarkdownNode]) -> SmlNode {
+        let smlNode: SmlNode = .text(parse(markdownNodes))
+        return p([smlNode])
+    }
+    
+    private func parse(_ markdownNodes: [MarkdownNode]) -> String {
         var s = ""
         for markDownNode: MarkdownNode in markdownNodes {
             switch markDownNode {

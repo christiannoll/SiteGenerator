@@ -13,6 +13,7 @@
 		D69221C423818FEB0007E774 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = D69221C323818FEB0007E774 /* Item.swift */; };
 		D69221C6238196740007E774 /* ContentParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = D69221C5238196740007E774 /* ContentParser.swift */; };
 		D6ADD6542385DAF9005C0495 /* MarkdownNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6ADD6532385DAF9005C0495 /* MarkdownNode.swift */; };
+		D6D356D5238DBAC300A2F217 /* SmlPrinter.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6D356D4238DBAC300A2F217 /* SmlPrinter.swift */; };
 		D6F6FF7B238875BB0049F171 /* SmlBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F6FF7A238875BB0049F171 /* SmlBuilder.swift */; };
 		D6F92EC4238320D900FCAAC1 /* MarkdownParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F92EC3238320D900FCAAC1 /* MarkdownParser.swift */; };
 /* End PBXBuildFile section */
@@ -37,6 +38,7 @@
 		D69221C323818FEB0007E774 /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		D69221C5238196740007E774 /* ContentParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentParser.swift; sourceTree = "<group>"; };
 		D6ADD6532385DAF9005C0495 /* MarkdownNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarkdownNode.swift; sourceTree = "<group>"; };
+		D6D356D4238DBAC300A2F217 /* SmlPrinter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmlPrinter.swift; sourceTree = "<group>"; };
 		D6F6FF7A238875BB0049F171 /* SmlBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmlBuilder.swift; sourceTree = "<group>"; };
 		D6F92EC3238320D900FCAAC1 /* MarkdownParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarkdownParser.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -79,6 +81,7 @@
 				D6ADD6532385DAF9005C0495 /* MarkdownNode.swift */,
 				D6F6FF7A238875BB0049F171 /* SmlBuilder.swift */,
 				D65545AF2389B37A00D18FD2 /* SmlNode.swift */,
+				D6D356D4238DBAC300A2F217 /* SmlPrinter.swift */,
 			);
 			path = SiteGenerator;
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 				D65545B02389B37A00D18FD2 /* SmlNode.swift in Sources */,
 				D676120D237F43960042F55D /* main.swift in Sources */,
 				D6F92EC4238320D900FCAAC1 /* MarkdownParser.swift in Sources */,
+				D6D356D5238DBAC300A2F217 /* SmlPrinter.swift in Sources */,
 				D6F6FF7B238875BB0049F171 /* SmlBuilder.swift in Sources */,
 				D6ADD6542385DAF9005C0495 /* MarkdownNode.swift in Sources */,
 				D63B71A32383261B00E989EE /* MarkdownTokenizer.swift in Sources */,
