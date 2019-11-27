@@ -44,6 +44,9 @@ extension SmlNode {
     }
 }
 
+let newLine: SmlNode  = .text("\n")
+let tab: SmlNode  = .text("\t")
+
 func node(_ name: String, _ attribs: [SmlAttribute], _ children: [SmlNode]?) -> SmlNode {
     return .element(.init(name, attribs, children))
 }
@@ -58,6 +61,16 @@ func p(_ attribs: [SmlAttribute], _ children: [SmlNode]) -> SmlNode {
 
 func p(_ children: [SmlNode]) -> SmlNode {
     return p([], children)
+}
+
+func div(_ attribs: [SmlAttribute], _ children: [SmlNode]) -> SmlNode {
+    return node("div", attribs, children)
+}
+
+let css_class = SmlAttributeKey<String>("class")
+
+func div_postBody(_ children: [SmlNode]) -> SmlNode {
+    return div([css_class => "postBody"], children)
 }
 
 func a(_ attribs: [SmlAttribute], _ children: [SmlNode]) -> SmlNode {

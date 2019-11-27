@@ -2,7 +2,13 @@ import Foundation
 
 class SmlBuilder {
     
-    public func parse(_ markdownNodes: [MarkdownNode]) -> SmlNode {
+    public func createPostBody(_ markdownNodes: [MarkdownNode]) -> SmlNode {
+        let p: SmlNode = parse(markdownNodes)
+        let postBody = div_postBody([newLine, tab, p])
+        return postBody
+    }
+    
+    private func parse(_ markdownNodes: [MarkdownNode]) -> SmlNode {
         let smlNode: SmlNode = .text(parse(markdownNodes))
         return p([smlNode])
     }
