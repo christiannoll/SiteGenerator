@@ -4,12 +4,8 @@ let contentParser = ContentParser()
 let posts = contentParser.parse()
 
 for post: Item in posts {
-    print(post.title)
-    
-    let elements = MarkdownParser.parse(text: post.data)
-    
     let smlBuilder = SmlBuilder()
-    print(smlBuilder.createPostBody(elements).render())
+    print(smlBuilder.createArticle(post).render())
     
     let date = post.date
     if date != nil {

@@ -63,14 +63,26 @@ func p(_ children: [SmlNode]) -> SmlNode {
     return p([], children)
 }
 
+func h3(_ children: [SmlNode]) -> SmlNode {
+    return node("h3", [], children)
+}
+
 func div(_ attribs: [SmlAttribute], _ children: [SmlNode]) -> SmlNode {
     return node("div", attribs, children)
+}
+
+func article(_ attribs: [SmlAttribute], _ children: [SmlNode]) -> SmlNode {
+    return node("article", attribs, children)
 }
 
 let css_class = SmlAttributeKey<String>("class")
 
 func div_postBody(_ children: [SmlNode]) -> SmlNode {
     return div([css_class => "postBody"], children)
+}
+
+func article_post(_ children: [SmlNode]) -> SmlNode {
+    return article([css_class => "post"], children)
 }
 
 func a(_ attribs: [SmlAttribute], _ children: [SmlNode]) -> SmlNode {
