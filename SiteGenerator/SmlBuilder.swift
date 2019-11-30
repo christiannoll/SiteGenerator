@@ -8,7 +8,7 @@ class SmlBuilder {
         let postTitle = createPostTitle(item)
         
         let elements = MarkdownParser.parse(text: item.data)
-        let postBody = createPostBody(elements)
+        let postBody = createTextPostBody(elements)
         
         let postDateline = createPostDateline(item)
         
@@ -17,18 +17,25 @@ class SmlBuilder {
     }
     
     public func createImageArticle(_ item: ImagePost) -> SmlNode {
-        let postTitle = createPostTitle(item)
-        
-        let elements = MarkdownParser.parse(text: item.data)
-        let postBody = createPostBody(elements)
-        
+        let postBody = createImagePostBody(item)
         let postDateline = createPostDateline(item)
         
-        let post = article_post([newLine, tab, postTitle, newLine, tab, postBody, newLine, tab, postDateline, newLine])
+        let post = article_post([newLine, tab, postBody, newLine, tab, postDateline, newLine])
         return post
     }
+
+    private func createImagePostBody(_ item: ImagePost) -> SmlNode {
+        let imgNode: SmlNode = img([css_class => "centeredImage",
+                                    src => createImageUrl(item),
+                                    height => String(item.height),
+                                    width => String(item.width),
+                                    alt => String(item.title)])
+        let para = p([imgNode, newLine, tab, tab])
+        let postBody = div_postBody([newLine, tab, tab, para, newLine, tab])
+        return postBody
+    }
     
-    private func createPostBody(_ markdownNodes: [MarkdownNode]) -> SmlNode {
+    private func createTextPostBody(_ markdownNodes: [MarkdownNode]) -> SmlNode {
         let p: SmlNode = parse(markdownNodes)
         let postBody = div_postBody([newLine, tab, tab, p, newLine, tab])
         return postBody
@@ -103,6 +110,13 @@ class SmlBuilder {
         url.append(dateFormatter.string(from: item.date!))
         url.append(item.name)
         
+        return url
+    }
+    
+    private func createImageUrl(_ item: Item) -> String {
+        var url = baseUrl
+        url.append("images/")
+        url.append(item.data)
         return url
     }
     

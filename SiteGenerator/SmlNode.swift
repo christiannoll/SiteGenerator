@@ -89,6 +89,10 @@ func article_post(_ children: [SmlNode]) -> SmlNode {
     return article([css_class => "post"], children)
 }
 
+func img(_ attribs: [SmlAttribute]) -> SmlNode {
+    return node("img", attribs, nil)
+}
+
 func a(_ attribs: [SmlAttribute], _ children: [SmlNode]) -> SmlNode {
     return node("a", attribs, children)
 }
@@ -103,6 +107,10 @@ func => <A> (key: SmlAttributeKey<A>, value: A) -> SmlAttribute {
 }
 
 let href = SmlAttributeKey<String>("href")
+let src = SmlAttributeKey<String>("src")
+let height = SmlAttributeKey<String>("height")
+let width = SmlAttributeKey<String>("width")
+let alt = SmlAttributeKey<String>("alt")
 
 let document: SmlNode =
     p([
