@@ -85,6 +85,10 @@ func div_postDateline(_ children: [SmlNode]) -> SmlNode {
     return div([css_class => "postDateline"], children)
 }
 
+func div_postStyledDateline(_ children: [SmlNode]) -> SmlNode {
+    return div([css_class => "postDateline", style => "text-align:center"], children)
+}
+
 func article_post(_ children: [SmlNode]) -> SmlNode {
     return article([css_class => "post"], children)
 }
@@ -111,6 +115,7 @@ let src = SmlAttributeKey<String>("src")
 let height = SmlAttributeKey<String>("height")
 let width = SmlAttributeKey<String>("width")
 let alt = SmlAttributeKey<String>("alt")
+let style = SmlAttributeKey<String>("style")
 
 let document: SmlNode =
     p([

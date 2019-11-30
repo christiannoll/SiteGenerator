@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		D63B71A32383261B00E989EE /* MarkdownTokenizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = D63B71A22383261B00E989EE /* MarkdownTokenizer.swift */; };
+		D650F34F23930CC000B2320E /* Page.swift in Sources */ = {isa = PBXBuildFile; fileRef = D650F34E23930CC000B2320E /* Page.swift */; };
+		D650F35123930EBB00B2320E /* HomePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D650F35023930EBB00B2320E /* HomePage.swift */; };
 		D65545B02389B37A00D18FD2 /* SmlNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = D65545AF2389B37A00D18FD2 /* SmlNode.swift */; };
 		D676120D237F43960042F55D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D676120C237F43960042F55D /* main.swift */; };
 		D69221C423818FEB0007E774 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = D69221C323818FEB0007E774 /* Item.swift */; };
@@ -32,6 +34,8 @@
 
 /* Begin PBXFileReference section */
 		D63B71A22383261B00E989EE /* MarkdownTokenizer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarkdownTokenizer.swift; sourceTree = "<group>"; };
+		D650F34E23930CC000B2320E /* Page.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page.swift; sourceTree = "<group>"; };
+		D650F35023930EBB00B2320E /* HomePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePage.swift; sourceTree = "<group>"; };
 		D65545AF2389B37A00D18FD2 /* SmlNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmlNode.swift; sourceTree = "<group>"; };
 		D6761209237F43960042F55D /* SiteGenerator */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SiteGenerator; sourceTree = BUILT_PRODUCTS_DIR; };
 		D676120C237F43960042F55D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -82,6 +86,8 @@
 				D6F6FF7A238875BB0049F171 /* SmlBuilder.swift */,
 				D65545AF2389B37A00D18FD2 /* SmlNode.swift */,
 				D6D356D4238DBAC300A2F217 /* SmlPrinter.swift */,
+				D650F34E23930CC000B2320E /* Page.swift */,
+				D650F35023930EBB00B2320E /* HomePage.swift */,
 			);
 			path = SiteGenerator;
 			sourceTree = "<group>";
@@ -145,9 +151,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				D69221C423818FEB0007E774 /* Item.swift in Sources */,
+				D650F35123930EBB00B2320E /* HomePage.swift in Sources */,
 				D69221C6238196740007E774 /* ContentParser.swift in Sources */,
 				D65545B02389B37A00D18FD2 /* SmlNode.swift in Sources */,
 				D676120D237F43960042F55D /* main.swift in Sources */,
+				D650F34F23930CC000B2320E /* Page.swift in Sources */,
 				D6F92EC4238320D900FCAAC1 /* MarkdownParser.swift in Sources */,
 				D6D356D5238DBAC300A2F217 /* SmlPrinter.swift in Sources */,
 				D6F6FF7B238875BB0049F171 /* SmlBuilder.swift in Sources */,

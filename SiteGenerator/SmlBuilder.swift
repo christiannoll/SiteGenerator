@@ -10,7 +10,7 @@ class SmlBuilder {
         let elements = MarkdownParser.parse(text: item.data)
         let postBody = createTextPostBody(elements)
         
-        let postDateline = createPostDateline(item)
+        let postDateline = createTextPostDateline(item)
         
         let post = article_post([newLine, tab, postTitle, newLine, tab, postBody, newLine, tab, postDateline, newLine])
         return post
@@ -18,7 +18,7 @@ class SmlBuilder {
     
     public func createImageArticle(_ item: ImagePost) -> SmlNode {
         let postBody = createImagePostBody(item)
-        let postDateline = createPostDateline(item)
+        let postDateline = createImagePostDateline(item)
         
         let post = article_post([newLine, tab, postBody, newLine, tab, postDateline, newLine])
         return post
@@ -41,10 +41,17 @@ class SmlBuilder {
         return postBody
     }
     
-    private func createPostDateline(_ item: Item) -> SmlNode {
+    private func createTextPostDateline(_ item: Item) -> SmlNode {
         let urlTitle: SmlNode = .text(createPostDate(item))
         let link = a([href => createPostUrl(item)], [urlTitle])
         let div = div_postDateline([link, newLine, tab])
+        return div
+    }
+    
+    private func createImagePostDateline(_ item: Item) -> SmlNode {
+        let urlTitle: SmlNode = .text(createPostDate(item))
+        let link = a([href => createPostUrl(item)], [urlTitle])
+        let div = div_postStyledDateline([link, newLine, tab])
         return div
     }
     
