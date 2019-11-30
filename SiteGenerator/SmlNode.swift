@@ -81,6 +81,10 @@ func div_postBody(_ children: [SmlNode]) -> SmlNode {
     return div([css_class => "postBody"], children)
 }
 
+func div_postDateline(_ children: [SmlNode]) -> SmlNode {
+    return div([css_class => "postDateline"], children)
+}
+
 func article_post(_ children: [SmlNode]) -> SmlNode {
     return article([css_class => "post"], children)
 }

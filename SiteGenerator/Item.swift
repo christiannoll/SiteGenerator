@@ -6,6 +6,7 @@ protocol PostItem {
 
 class Item : PostItem {
     var data = ""
+    var name = ""
     var title = ""
     var date: Date?
     var tags : Set<String> = []

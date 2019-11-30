@@ -50,6 +50,8 @@ class ContentParser : NSObject, XMLParserDelegate {
                 qualifiedName qName: String?) {
         let trimmedText = foundCharacters.trimmingCharacters(in: .whitespacesAndNewlines)
         switch elementName {
+        case "name":
+            item.name = trimmedText
         case "title":
             item.title = trimmedText
         case "data":

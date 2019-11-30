@@ -2,13 +2,17 @@ import Foundation
 
 class SmlBuilder {
     
+    private let baseUrl = "http://localhost:8000/"
+    
     public func createArticle(_ item: Item) -> SmlNode {
         let postTitle = createPostTitle(item)
         
         let elements = MarkdownParser.parse(text: item.data)
         let postBody = createPostBody(elements)
         
-        let post = article_post([newLine, tab, postTitle, newLine, tab, postBody, newLine])
+        let postDateline = createPostDateline(item)
+        
+        let post = article_post([newLine, tab, postTitle, newLine, tab, postBody, newLine, tab, postDateline, newLine])
         return post
     }
     
@@ -18,9 +22,16 @@ class SmlBuilder {
         return postBody
     }
     
+    private func createPostDateline(_ item: Item) -> SmlNode {
+        let urlTitle: SmlNode = .text(createPostDate(item))
+        let link = a([href => createPostUrl(item)], [urlTitle])
+        let div = div_postDateline([link, newLine, tab])
+        return div
+    }
+    
     private func createPostTitle(_ item: Item) -> SmlNode {
         let urlTitle: SmlNode = .text(item.title)
-        let link = a([href => "http://url"], [urlTitle])
+        let link = a([href => createPostUrl(item)], [urlTitle])
         let h = h3([link])
         return h
     }
@@ -71,5 +82,22 @@ class SmlBuilder {
         return s
     }
     
+    private func createPostUrl(_ item: Item) -> String {
+        var url = baseUrl
+        
+        let dateFormatter = DateFormatter()
+        dateFormatter.locale = Locale(identifier: "de_DE")
+        dateFormatter.dateFormat = "/yyyy/MM/dd/"
+        url.append(dateFormatter.string(from: item.date!))
+        url.append(item.name)
+        
+        return url
+    }
     
+    private func createPostDate(_ item: Item) -> String {
+        let dateFormatter = DateFormatter()
+        dateFormatter.locale = Locale(identifier: "de_DE")
+        dateFormatter.dateFormat = "dd MMM yyyy"
+        return dateFormatter.string(from: item.date!)
+    }
 }
