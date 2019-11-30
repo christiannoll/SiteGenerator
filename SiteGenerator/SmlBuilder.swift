@@ -4,7 +4,19 @@ class SmlBuilder {
     
     private let baseUrl = "http://localhost:8000/"
     
-    public func createArticle(_ item: Item) -> SmlNode {
+    public func createTextArticle(_ item: TextPost) -> SmlNode {
+        let postTitle = createPostTitle(item)
+        
+        let elements = MarkdownParser.parse(text: item.data)
+        let postBody = createPostBody(elements)
+        
+        let postDateline = createPostDateline(item)
+        
+        let post = article_post([newLine, tab, postTitle, newLine, tab, postBody, newLine, tab, postDateline, newLine])
+        return post
+    }
+    
+    public func createImageArticle(_ item: ImagePost) -> SmlNode {
         let postTitle = createPostTitle(item)
         
         let elements = MarkdownParser.parse(text: item.data)

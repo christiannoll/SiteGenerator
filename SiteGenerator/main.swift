@@ -4,8 +4,7 @@ let contentParser = ContentParser()
 let posts = contentParser.parse()
 
 for post: Item in posts {
-    let smlBuilder = SmlBuilder()
-    print(smlBuilder.createArticle(post).render())
+    print(post.renderPost())
     print(" --- ")
 }
 

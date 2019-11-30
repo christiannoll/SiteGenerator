@@ -1,7 +1,7 @@
 import Foundation
 
 protocol PostItem {
-    func generatePost()
+    func renderPost() -> String
 }
 
 class Item : PostItem {
@@ -12,11 +12,14 @@ class Item : PostItem {
     var tags : Set<String> = []
     var indices : Set<String> = []
     
-    func generatePost() {}
+    let smlBuilder = SmlBuilder()
+    
+    func renderPost() -> String {return ""}
 }
 
 class TextPost: Item {
-    override func generatePost() {
+    override func renderPost() -> String {
+        return smlBuilder.createTextArticle(self).render()
     }
 }
 
@@ -24,6 +27,7 @@ class ImagePost : Item {
     var width = 250
     var height = 250
     
-    override func generatePost() {
+    override func renderPost() -> String {
+        return smlBuilder.createImageArticle(self).render()
     }
 }
