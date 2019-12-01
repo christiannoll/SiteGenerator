@@ -7,6 +7,7 @@ class Page {
         htmlChildren.append(newLine)
         
         htmlChildren.append(renderHead())
+        htmlChildren.append(newLine)
         
         htmlChildren.append(renderBody())
         htmlChildren.append(newLine)
@@ -33,7 +34,13 @@ class Page {
     }
     
     private func renderHead() -> SmlNode {
-        return .text("")
+        var headChildren: [SmlNode] = [newLine, tab]
+        
+        headChildren.append(node("title", [.text("v.n.z.n")]))
+        headChildren.append(newLine)
+        
+        let h = head(headChildren)
+        return h
     }
     
     func renderContent() -> SmlNode {
@@ -65,6 +72,10 @@ class Page {
     
     private func html(_ children: [SmlNode]) -> SmlNode {
         return node("html", children)
+    }
+    
+    private func head(_ children: [SmlNode]) -> SmlNode {
+        return node("head", children)
     }
 
     private func body(_ children: [SmlNode]) -> SmlNode {
