@@ -1,6 +1,9 @@
 import Foundation
 
-let page = HomePage()
+let contentParser = ContentParser()
+let posts = contentParser.parse()
+
+let page = HomePage(posts)
 print(page.render())
 
 /*let s = "text1 [title](url) text2"

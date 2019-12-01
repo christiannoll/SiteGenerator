@@ -2,7 +2,7 @@ import Foundation
 
 class SmlBuilder {
     
-    private let baseUrl = "http://localhost:8000/"
+    public static let baseUrl = "http://localhost:8000/"
     
     public func createTextArticle(_ item: TextPost) -> SmlNode {
         let postTitle = createPostTitle(item)
@@ -109,7 +109,7 @@ class SmlBuilder {
     }
     
     private func createPostUrl(_ item: Item) -> String {
-        var url = baseUrl
+        var url = SmlBuilder.baseUrl
         
         let dateFormatter = DateFormatter()
         dateFormatter.locale = Locale(identifier: "de_DE")
@@ -121,7 +121,7 @@ class SmlBuilder {
     }
     
     private func createImageUrl(_ item: Item) -> String {
-        var url = baseUrl
+        var url = SmlBuilder.baseUrl
         url.append("images/")
         url.append(item.data)
         return url

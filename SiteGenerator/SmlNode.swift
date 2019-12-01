@@ -116,6 +116,7 @@ let height = SmlAttributeKey<String>("height")
 let width = SmlAttributeKey<String>("width")
 let alt = SmlAttributeKey<String>("alt")
 let style = SmlAttributeKey<String>("style")
+let id = SmlAttributeKey<String>("id")
 
 let document: SmlNode =
     p([

@@ -1,6 +1,7 @@
 import Foundation
 
 public class MarkdownParser {
+    
     public static func parse(text: String) -> [MarkdownNode] {
         let parser = MarkdownParser(text: text)
         return parser.parseLinks(elements: parser.parse())

@@ -1,7 +1,7 @@
 import Foundation
 
 protocol PostItem {
-    func renderPost() -> String
+    func renderPost() -> SmlNode
 }
 
 class Item : PostItem {
@@ -14,12 +14,12 @@ class Item : PostItem {
     
     let smlBuilder = SmlBuilder()
     
-    func renderPost() -> String {return ""}
+    func renderPost() -> SmlNode {return .text("")}
 }
 
 class TextPost: Item {
-    override func renderPost() -> String {
-        return smlBuilder.createTextArticle(self).render()
+    override func renderPost() -> SmlNode {
+        return smlBuilder.createTextArticle(self)
     }
 }
 
@@ -27,7 +27,7 @@ class ImagePost : Item {
     var width = 250
     var height = 250
     
-    override func renderPost() -> String {
-        return smlBuilder.createImageArticle(self).render()
+    override func renderPost() -> SmlNode {
+        return smlBuilder.createImageArticle(self)
     }
 }

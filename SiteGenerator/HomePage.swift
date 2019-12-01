@@ -2,14 +2,22 @@ import Foundation
 
 class HomePage : Page {
     
-    override func renderContent() -> String {
-        let contentParser = ContentParser()
-        let posts = contentParser.parse()
-        
-        var s = ""
+    private let posts: [Item]
+    
+    init(_ posts: [Item]) {
+        self.posts = posts
+    }
+    
+    override func renderContent() -> SmlNode {
+        var mainChildren: [SmlNode] = [newLine]
         for post: Item in posts {
-            s.append(post.renderPost())
+            mainChildren.append(post.renderPost())
         }
-        return s
+        mainChildren.append(newLine)
+        return main(mainChildren)
+    }
+    
+    private func main(_ children: [SmlNode]) -> SmlNode {
+        return node("main", children)
     }
 }
