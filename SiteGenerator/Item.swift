@@ -12,7 +12,7 @@ class Item : PostItem {
     var tags : Set<String> = []
     var indices : Set<String> = []
     
-    let smlBuilder = SmlBuilder()
+    let smlBuilder = PostBuilder()
     
     func renderPost() -> SmlNode {return .text("")}
 }

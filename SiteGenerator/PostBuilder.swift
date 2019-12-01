@@ -1,8 +1,6 @@
 import Foundation
 
-class SmlBuilder {
-    
-    public static let baseUrl = "http://localhost:8000/"
+class PostBuilder {
     
     public func createTextArticle(_ item: TextPost) -> SmlNode {
         let postTitle = createPostTitle(item)
@@ -109,11 +107,11 @@ class SmlBuilder {
     }
     
     private func createPostUrl(_ item: Item) -> String {
-        var url = SmlBuilder.baseUrl
+        var url = Page.baseUrl
         
         let dateFormatter = DateFormatter()
         dateFormatter.locale = Locale(identifier: "de_DE")
-        dateFormatter.dateFormat = "/yyyy/MM/dd/"
+        dateFormatter.dateFormat = "yyyy/MM/dd/"
         url.append(dateFormatter.string(from: item.date!))
         url.append(item.name)
         
@@ -121,7 +119,7 @@ class SmlBuilder {
     }
     
     private func createImageUrl(_ item: Item) -> String {
-        var url = SmlBuilder.baseUrl
+        var url = Page.baseUrl
         url.append("images/")
         url.append(item.data)
         return url

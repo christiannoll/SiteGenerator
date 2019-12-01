@@ -2,6 +2,8 @@ import Foundation
 
 class Page {
     
+    public static let baseUrl = "http://localhost:8000/"
+    
     public func render() -> String {
         var htmlChildren: [SmlNode] = []
         htmlChildren.append(newLine)
@@ -51,7 +53,7 @@ class Page {
         var headerChildren: [SmlNode] = [newLine, tab]
         
         let urlTitle: SmlNode = .text("v.n.z.n")
-        let link = a([href => SmlBuilder.baseUrl], [urlTitle])
+        let link = a([href => Page.baseUrl], [urlTitle])
         let spanBigLink = span([id => "biglink"], [link])
         headerChildren.append(spanBigLink)
         headerChildren.append(newLine)
