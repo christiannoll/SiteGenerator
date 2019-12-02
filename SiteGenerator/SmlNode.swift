@@ -118,10 +118,4 @@ let alt = SmlAttributeKey<String>("alt")
 let style = SmlAttributeKey<String>("style")
 let id = SmlAttributeKey<String>("id")
 
-let document: SmlNode =
-    p([
-        "Welcome to you, who has come here. See ",
-        a([href => "/more"], ["more"]),
-        "."
-        ])
 

@@ -13,6 +13,12 @@ class HomePage : Page {
         for post: Item in posts {
             mainChildren.append(post.renderPost())
         }
+        
+        mainChildren.append(newLine)
+        let link = a([href => (Page.baseUrl + "achive")], ["Archiv"])
+        let para = p([link])
+        mainChildren.append(para)
+        
         mainChildren.append(newLine)
         return main(mainChildren)
     }
