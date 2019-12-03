@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D60667612396E2A100F7B79E /* PostPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D60667602396E2A100F7B79E /* PostPage.swift */; };
 		D63B71A32383261B00E989EE /* MarkdownTokenizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = D63B71A22383261B00E989EE /* MarkdownTokenizer.swift */; };
 		D650F34F23930CC000B2320E /* Page.swift in Sources */ = {isa = PBXBuildFile; fileRef = D650F34E23930CC000B2320E /* Page.swift */; };
 		D650F35123930EBB00B2320E /* HomePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D650F35023930EBB00B2320E /* HomePage.swift */; };
@@ -33,6 +34,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		D60667602396E2A100F7B79E /* PostPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostPage.swift; sourceTree = "<group>"; };
 		D63B71A22383261B00E989EE /* MarkdownTokenizer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarkdownTokenizer.swift; sourceTree = "<group>"; };
 		D650F34E23930CC000B2320E /* Page.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page.swift; sourceTree = "<group>"; };
 		D650F35023930EBB00B2320E /* HomePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePage.swift; sourceTree = "<group>"; };
@@ -88,6 +90,7 @@
 				D6D356D4238DBAC300A2F217 /* SmlPrinter.swift */,
 				D650F34E23930CC000B2320E /* Page.swift */,
 				D650F35023930EBB00B2320E /* HomePage.swift */,
+				D60667602396E2A100F7B79E /* PostPage.swift */,
 			);
 			path = SiteGenerator;
 			sourceTree = "<group>";
@@ -158,6 +161,7 @@
 				D650F34F23930CC000B2320E /* Page.swift in Sources */,
 				D6F92EC4238320D900FCAAC1 /* MarkdownParser.swift in Sources */,
 				D6D356D5238DBAC300A2F217 /* SmlPrinter.swift in Sources */,
+				D60667612396E2A100F7B79E /* PostPage.swift in Sources */,
 				D6F6FF7B238875BB0049F171 /* PostBuilder.swift in Sources */,
 				D6ADD6542385DAF9005C0495 /* MarkdownNode.swift in Sources */,
 				D63B71A32383261B00E989EE /* MarkdownTokenizer.swift in Sources */,

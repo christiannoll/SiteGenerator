@@ -33,8 +33,6 @@ class Page {
         bodyChildren.append(renderContent())
         bodyChildren.append(newLine)
         
-        bodyChildren.append(renderFooter())
-        
         let b = body(bodyChildren)
         return b
     }
@@ -66,6 +64,12 @@ class Page {
     
     func renderContent() -> SmlNode {
         return .text("")
+    }
+    
+    func renderArchiveLink() -> SmlNode {
+        let link = a([href => (Page.baseUrl + "archive")], ["Archiv"])
+        let para = p([link])
+        return para
     }
     
     private func renderHeader() -> SmlNode {

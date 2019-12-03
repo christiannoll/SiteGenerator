@@ -1,18 +1,17 @@
 import Foundation
 
-class HomePage : Page {
+class PostPage : Page {
     
-    private let posts: [Item]
+    private let post: Item
     
-    init(_ posts: [Item]) {
-        self.posts = posts
+    init(_ post: Item) {
+        self.post = post
     }
     
     override func renderContent() -> SmlNode {
         var mainChildren: [SmlNode] = [newLine]
-        for post: Item in posts {
-            mainChildren.append(post.renderPost())
-        }
+        
+        mainChildren.append(post.renderPost())
         
         mainChildren.append(newLine)
         mainChildren.append(renderArchiveLink())
