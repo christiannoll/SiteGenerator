@@ -2,6 +2,13 @@ import Foundation
 
 class PostBuilder {
     
+    public static func createDatePath(_ item: Item) -> String {
+        let dateFormatter = DateFormatter()
+        dateFormatter.locale = Locale(identifier: "de_DE")
+        dateFormatter.dateFormat = "yyyy/MM/dd/"
+        return dateFormatter.string(from: item.date!)
+    }
+    
     public func createTextArticle(_ item: TextPost) -> SmlNode {
         let postTitle = createPostTitle(item)
         
@@ -109,10 +116,7 @@ class PostBuilder {
     private func createPostUrl(_ item: Item) -> String {
         var url = Page.baseUrl
         
-        let dateFormatter = DateFormatter()
-        dateFormatter.locale = Locale(identifier: "de_DE")
-        dateFormatter.dateFormat = "yyyy/MM/dd/"
-        url.append(dateFormatter.string(from: item.date!))
+        url.append(PostBuilder.createDatePath(item))
         url.append(item.name)
         
         return url
