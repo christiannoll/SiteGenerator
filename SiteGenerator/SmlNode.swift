@@ -67,6 +67,10 @@ func h3(_ children: [SmlNode]) -> SmlNode {
     return node("h3", [], children)
 }
 
+func h4(_ children: [SmlNode]) -> SmlNode {
+    return node("h4", [], children)
+}
+
 func div(_ attribs: [SmlAttribute], _ children: [SmlNode]) -> SmlNode {
     return node("div", attribs, children)
 }
@@ -89,6 +93,10 @@ func div_postStyledDateline(_ children: [SmlNode]) -> SmlNode {
     return div([css_class => "postDateline", style => "text-align:center"], children)
 }
 
+func div_blogArchiveIndex(_ children: [SmlNode]) -> SmlNode {
+    return div([css_class => "blogArchiveIndex"], children)
+}
+
 func article_post(_ children: [SmlNode]) -> SmlNode {
     return article([css_class => "post"], children)
 }
@@ -108,6 +116,11 @@ func a(_ children: [SmlNode]) -> SmlNode {
 func li(_ children: [SmlNode]) -> SmlNode {
     return node("li", [], children)
 }
+
+func ul(_ children: [SmlNode]) -> SmlNode {
+    return node("ul", [], children)
+}
+
 
 infix operator =>
 func => <A> (key: SmlAttributeKey<A>, value: A) -> SmlAttribute {

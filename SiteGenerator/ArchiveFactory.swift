@@ -10,6 +10,20 @@ class Archive {
         years.append(year)
     }
     
+    public func renderArchiveIndex() -> SmlNode {
+        var divChildren: [SmlNode] = []
+        
+        for year: ArchiveYear in years {
+            let h_4 = h4([.text(year.name)])
+            divChildren.append(h_4)
+            divChildren.append(newLine)
+            divChildren.append(year.renderMonths())
+        }
+        
+        let div = div_blogArchiveIndex(divChildren)
+        return div
+    }
+    
     private func getYear(_ post: Item) -> ArchiveYear {
         for year: ArchiveYear in years {
             let comps = Calendar.current.dateComponents([.year], from: post.date!)

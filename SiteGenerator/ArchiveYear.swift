@@ -5,8 +5,12 @@ class ArchiveYear {
     private var _year: Int
     private var months: [ArchiveMonth] = []
     
-    var year : Int {
+    var year: Int {
         get { return _year }
+    }
+    
+    var name: String {
+        get { return String(_year) }
     }
     
     init(_ year: Int) {
@@ -17,6 +21,23 @@ class ArchiveYear {
         let month = getMonth(post)
         month.addPost(post)
         months.append(month)
+    }
+    
+    public func renderMonths() -> SmlNode {
+        if posts.count > 0 {
+            var ulChildren: [SmlNode] = []
+            
+            for month: ArchiveMonth in months {
+                ulChildren.append(month.renderMonth())
+                ulChildren.append(newLine)
+            }
+            
+            let u = ul(ulChildren)
+            return u
+        }
+        else {
+            return .text("")
+        }
     }
     
     private func getMonth(_ post: Item) -> ArchiveMonth {
