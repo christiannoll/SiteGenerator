@@ -19,8 +19,4 @@ class PostPage : Page {
         mainChildren.append(newLine)
         return main(mainChildren)
     }
-    
-    private func main(_ children: [SmlNode]) -> SmlNode {
-        return node("main", children)
-    }
 }

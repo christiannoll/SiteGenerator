@@ -5,13 +5,19 @@ let posts = contentParser.parse()
 
 let writer = PageWriter()
 
-let page = HomePage(posts)
-writer.writeHomePage(page.render())
+let homePage = HomePage(posts)
+writer.writeHomePage(homePage.render())
 
 for post: Item in posts {
     let page = PostPage(post)
     writer.writePostPage(post, page.render())
 }
+
+let archiveFactory = ArchiveFactory()
+let archive = archiveFactory.createArchive(posts)
+let archivePage = ArchivePage(archive);
+writer.writeArchivePage(archivePage.render())
+
 
 /*let s = "text1 [title](url) text2"
 let elements = MarkdownParser.parse(text: s)
