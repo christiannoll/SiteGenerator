@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		D60667612396E2A100F7B79E /* PostPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D60667602396E2A100F7B79E /* PostPage.swift */; };
 		D63B510A23991165001E7E7B /* ArchiveFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = D63B510923991165001E7E7B /* ArchiveFactory.swift */; };
+		D63B510C23996704001E7E7B /* ArchiveMonth.swift in Sources */ = {isa = PBXBuildFile; fileRef = D63B510B23996704001E7E7B /* ArchiveMonth.swift */; };
+		D63B510E2399673E001E7E7B /* ArchiveYear.swift in Sources */ = {isa = PBXBuildFile; fileRef = D63B510D2399673E001E7E7B /* ArchiveYear.swift */; };
 		D63B71A32383261B00E989EE /* MarkdownTokenizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = D63B71A22383261B00E989EE /* MarkdownTokenizer.swift */; };
 		D650F34F23930CC000B2320E /* Page.swift in Sources */ = {isa = PBXBuildFile; fileRef = D650F34E23930CC000B2320E /* Page.swift */; };
 		D650F35123930EBB00B2320E /* HomePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D650F35023930EBB00B2320E /* HomePage.swift */; };
@@ -38,6 +40,8 @@
 /* Begin PBXFileReference section */
 		D60667602396E2A100F7B79E /* PostPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostPage.swift; sourceTree = "<group>"; };
 		D63B510923991165001E7E7B /* ArchiveFactory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArchiveFactory.swift; sourceTree = "<group>"; };
+		D63B510B23996704001E7E7B /* ArchiveMonth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArchiveMonth.swift; sourceTree = "<group>"; };
+		D63B510D2399673E001E7E7B /* ArchiveYear.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArchiveYear.swift; sourceTree = "<group>"; };
 		D63B71A22383261B00E989EE /* MarkdownTokenizer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarkdownTokenizer.swift; sourceTree = "<group>"; };
 		D650F34E23930CC000B2320E /* Page.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page.swift; sourceTree = "<group>"; };
 		D650F35023930EBB00B2320E /* HomePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePage.swift; sourceTree = "<group>"; };
@@ -97,6 +101,8 @@
 				D60667602396E2A100F7B79E /* PostPage.swift */,
 				D6CAB6FE2398488A00C4D2EF /* PageWriter.swift */,
 				D63B510923991165001E7E7B /* ArchiveFactory.swift */,
+				D63B510B23996704001E7E7B /* ArchiveMonth.swift */,
+				D63B510D2399673E001E7E7B /* ArchiveYear.swift */,
 			);
 			path = SiteGenerator;
 			sourceTree = "<group>";
@@ -160,6 +166,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D69221C423818FEB0007E774 /* Item.swift in Sources */,
+				D63B510C23996704001E7E7B /* ArchiveMonth.swift in Sources */,
 				D650F35123930EBB00B2320E /* HomePage.swift in Sources */,
 				D69221C6238196740007E774 /* ContentParser.swift in Sources */,
 				D65545B02389B37A00D18FD2 /* SmlNode.swift in Sources */,
@@ -173,6 +180,7 @@
 				D6F6FF7B238875BB0049F171 /* PostBuilder.swift in Sources */,
 				D6ADD6542385DAF9005C0495 /* MarkdownNode.swift in Sources */,
 				D63B71A32383261B00E989EE /* MarkdownTokenizer.swift in Sources */,
+				D63B510E2399673E001E7E7B /* ArchiveYear.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

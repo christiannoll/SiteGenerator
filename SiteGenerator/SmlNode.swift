@@ -105,6 +105,10 @@ func a(_ children: [SmlNode]) -> SmlNode {
     return a([], children)
 }
 
+func li(_ children: [SmlNode]) -> SmlNode {
+    return node("li", [], children)
+}
+
 infix operator =>
 func => <A> (key: SmlAttributeKey<A>, value: A) -> SmlAttribute {
     return .init(key.key, "\(value)")
