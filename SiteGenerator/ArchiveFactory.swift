@@ -2,10 +2,14 @@ import Foundation
 
 class Archive {
     
-    private var _years: [ArchiveYear] = []
+    private var _years: [ArchiveYear]
     
     var years: [ArchiveYear] {
         get { return _years }
+    }
+    
+    fileprivate init() {
+        _years = []
     }
     
     public func addPost(_ post: Item) {

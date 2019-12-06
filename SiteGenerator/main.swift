@@ -26,6 +26,9 @@ for year: ArchiveYear in archiveYears {
     }
 }
 
+let indexFactory = IndexFactory()
+let index = indexFactory.createIndex(posts)
+
 
 /*let s = "text1 [title](url) text2"
 let elements = MarkdownParser.parse(text: s)
