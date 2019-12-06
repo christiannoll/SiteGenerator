@@ -33,12 +33,14 @@ class Index {
     private func getIndexItems(_ post: Item) -> [IndexItem] {
         var indexItems: [IndexItem] = []
         for index: String in post.indices {
+            var found = false
             for indexItem: IndexItem in _indexItems {
                 if index == indexItem.key {
                     indexItems.append(indexItem)
+                    found = true
                 }
             }
-            if indexItems.count == 0 {
+            if !found {
                 let indexItem = IndexItem(index)
                 indexItems.append(indexItem)
                 _indexItems.append(indexItem)

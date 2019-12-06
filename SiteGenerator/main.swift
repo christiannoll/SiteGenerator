@@ -31,6 +31,11 @@ let index = indexFactory.createIndex(posts)
 let indexPage = IndexPage(index)
 writer.writeIndexPage(indexPage.render())
 
+let tagsFactory = TagsFactory()
+let tags = tagsFactory.createTags(posts)
+let tagsPage = TagsPage(tags)
+writer.writeTagsPage(tagsPage.render())
+
 
 /*let s = "text1 [title](url) text2"
 let elements = MarkdownParser.parse(text: s)
