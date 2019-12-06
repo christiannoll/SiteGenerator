@@ -7,7 +7,6 @@ class Archive {
     public func addPost(_ post: Item) {
         let year = getYear(post)
         year.addPost(post)
-        years.append(year)
     }
     
     public func renderArchiveIndex() -> SmlNode {
@@ -36,7 +35,9 @@ class Archive {
     
     private func createYear(_ post: Item) -> ArchiveYear {
         let comps = Calendar.current.dateComponents([.year], from: post.date!)
-        return ArchiveYear(comps.year!)
+        let year = ArchiveYear(comps.year!)
+        years.append(year)
+        return year
     }
 }
 

@@ -20,7 +20,6 @@ class ArchiveYear {
     public func addPost(_ post: Item) {
         let month = getMonth(post)
         month.addPost(post)
-        months.append(month)
     }
     
     public func renderMonths() -> SmlNode {
@@ -52,6 +51,8 @@ class ArchiveYear {
     
     private func createMonth(_ post: Item) -> ArchiveMonth {
         let comps = Calendar.current.dateComponents([.month], from: post.date!)
-        return ArchiveMonth(comps.month!)
+        let month = ArchiveMonth(comps.month!)
+        months.append(month)
+        return month
     }
 }
