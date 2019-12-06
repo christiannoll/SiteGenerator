@@ -28,6 +28,8 @@ for year: ArchiveYear in archiveYears {
 
 let indexFactory = IndexFactory()
 let index = indexFactory.createIndex(posts)
+let indexPage = IndexPage(index)
+writer.writeIndexPage(indexPage.render())
 
 
 /*let s = "text1 [title](url) text2"

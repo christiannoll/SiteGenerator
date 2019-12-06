@@ -17,13 +17,15 @@ class Index {
     public func renderIndex() -> SmlNode {
         var divChildren: [SmlNode] = []
         
-        /*for year: ArchiveYear in _years {
-            let h_4 = h4([.text(year.name)])
+        for indexItem: IndexItem in _indexItems {
+            divChildren.append(newLine)
+            let h_4 = h4([.text(indexItem.key)])
             divChildren.append(h_4)
             divChildren.append(newLine)
-            divChildren.append(year.renderMonths())
-        }*/
+            divChildren.append(indexItem.renderIndexItem())
+        }
         
+        divChildren.append(newLine)
         let div = div_blogArchiveIndex(divChildren)
         return div
     }
@@ -37,7 +39,9 @@ class Index {
                 }
             }
             if indexItems.count == 0 {
-                indexItems.append(IndexItem(index))
+                let indexItem = IndexItem(index)
+                indexItems.append(indexItem)
+                _indexItems.append(indexItem)
             }
         }
         return indexItems
@@ -48,6 +52,7 @@ class IndexItem {
     
     private let _key: String
     private var posts: [Item] = []
+    private let postBuilder = PostBuilder()
     
     var key: String {
         get { return _key }
@@ -59,6 +64,22 @@ class IndexItem {
     
     public func addPost(_ post: Item) {
         posts.append(post)
+    }
+    
+    public func renderIndexItem() -> SmlNode {
+        var ulChildren: [SmlNode] = [newLine]
+        
+        for post: Item in posts {
+            var liChildren: [SmlNode] = []
+            let link = postBuilder.createPostLink(post)
+            liChildren.append(link)
+            let l = li(liChildren)
+            ulChildren.append(l)
+            ulChildren.append(newLine)
+        }
+        
+        let u = ul(ulChildren)
+        return u
     }
 }
 

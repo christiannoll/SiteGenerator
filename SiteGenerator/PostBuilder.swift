@@ -28,6 +28,12 @@ class PostBuilder {
         let post = article_post([newLine, tab, postBody, newLine, tab, postDateline, newLine])
         return post
     }
+    
+    public func createPostLink(_ post: Item) -> SmlNode {
+        let urlTitle: SmlNode = .text(post.title)
+        let link = a([href => createPostUrl(post)], [urlTitle])
+        return link
+    }
 
     private func createImagePostBody(_ item: ImagePost) -> SmlNode {
         let imgNode: SmlNode = img([css_class => "centeredImage",
