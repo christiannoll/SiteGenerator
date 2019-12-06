@@ -3,14 +3,24 @@ import Foundation
 class ArchiveMonth {
     
     private var _month: Int
+    private var _year: Int
     private var posts: [Item] = []
     
     var month: Int {
         get { return _month }
     }
     
-    init(_ month: Int) {
-        self._month = month
+    var monthName: String {
+        get { return getMonthName() }
+    }
+    
+    var yearName: String {
+        get { return String(_year) }
+    }
+    
+    init(_ month: Int, _ year: Int) {
+        _month = month
+        _year = year
     }
     
     public func addPost(_ post: Item) {
@@ -30,6 +40,15 @@ class ArchiveMonth {
         }
     }
     
+    public func renderMonthPosts() -> [SmlNode] {
+        var monthPosts: [SmlNode] = [newLine]
+        
+        for post: Item in posts {
+            monthPosts.append(post.renderPost())
+        }
+        return monthPosts
+    }
+    
     private func createLinkUrl() -> String {
         let post = posts[0]
         let dateFormatter = DateFormatter()
@@ -39,10 +58,14 @@ class ArchiveMonth {
     }
     
     private func createLinkTitle() -> SmlNode {
+        return .text(getMonthName())
+    }
+    
+    private func getMonthName() -> String {
         let post = posts[0]
         let dateFormatter = DateFormatter()
         dateFormatter.locale = Locale(identifier: "de_DE")
         dateFormatter.dateFormat = "MMMM"
-        return .text(dateFormatter.string(from: post.date!))
+        return dateFormatter.string(from: post.date!)
     }
 }

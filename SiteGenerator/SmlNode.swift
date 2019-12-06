@@ -63,6 +63,10 @@ func p(_ children: [SmlNode]) -> SmlNode {
     return p([], children)
 }
 
+func h1(_ children: [SmlNode]) -> SmlNode {
+    return node("h1", [], children)
+}
+
 func h3(_ children: [SmlNode]) -> SmlNode {
     return node("h3", [], children)
 }

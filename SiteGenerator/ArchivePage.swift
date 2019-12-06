@@ -15,5 +15,4 @@ class ArchivePage : Page {
         mainChildren.append(newLine)
         return main(mainChildren)
     }
-    
 }

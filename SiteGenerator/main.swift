@@ -18,6 +18,14 @@ let archive = archiveFactory.createArchive(posts)
 let archivePage = ArchivePage(archive);
 writer.writeArchivePage(archivePage.render())
 
+let archiveYears = archive.years
+for year: ArchiveYear in archiveYears {
+    for month: ArchiveMonth in year.months {
+        let page = ArchiveMonthPage(month)
+        writer.writeArchiveMonthPage(month, page.render())
+    }
+}
+
 
 /*let s = "text1 [title](url) text2"
 let elements = MarkdownParser.parse(text: s)

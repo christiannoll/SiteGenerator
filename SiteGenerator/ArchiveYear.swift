@@ -3,7 +3,7 @@ import Foundation
 class ArchiveYear {
     
     private var _year: Int
-    private var months: [ArchiveMonth] = []
+    private var _months: [ArchiveMonth] = []
     
     var year: Int {
         get { return _year }
@@ -11,6 +11,10 @@ class ArchiveYear {
     
     var name: String {
         get { return String(_year) }
+    }
+    
+    var months: [ArchiveMonth] {
+        get { return _months }
     }
     
     init(_ year: Int) {
@@ -26,7 +30,7 @@ class ArchiveYear {
         if posts.count > 0 {
             var ulChildren: [SmlNode] = []
             
-            for month: ArchiveMonth in months {
+            for month: ArchiveMonth in _months {
                 ulChildren.append(month.renderMonth())
                 ulChildren.append(newLine)
             }
@@ -40,7 +44,7 @@ class ArchiveYear {
     }
     
     private func getMonth(_ post: Item) -> ArchiveMonth {
-        for month: ArchiveMonth in months {
+        for month: ArchiveMonth in _months {
             let comps = Calendar.current.dateComponents([.month], from: post.date!)
             if comps.month! == month.month {
                 return month
@@ -51,8 +55,8 @@ class ArchiveYear {
     
     private func createMonth(_ post: Item) -> ArchiveMonth {
         let comps = Calendar.current.dateComponents([.month], from: post.date!)
-        let month = ArchiveMonth(comps.month!)
-        months.append(month)
+        let month = ArchiveMonth(comps.month!, _year)
+        _months.append(month)
         return month
     }
 }

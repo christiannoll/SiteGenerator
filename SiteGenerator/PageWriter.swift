@@ -20,6 +20,13 @@ class PageWriter {
         writeHtmlFile(content, "archive/", "index.html")
     }
     
+    public func writeArchiveMonthPage(_ archiveMonth: ArchiveMonth, _ content: String) {
+        var relPath = archiveMonth.yearName + "/"
+        relPath.append(String(archiveMonth.month))
+        relPath.append("/")
+        writeHtmlFile(content, relPath, "index.html")
+    }
+    
     private func writeHtmlFile(_ content: String, _ relPath: String, _ fileName: String) {
         do {
             let htmlContent = content + "<!DOCTYPE html>\n"
