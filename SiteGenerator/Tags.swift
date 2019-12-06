@@ -4,6 +4,10 @@ class Tags {
     
     private var _tagItems: [TagItem]
     
+    var tagItems: [TagItem] {
+        get { return _tagItems }
+    }
+    
     fileprivate init() {
         _tagItems = []
     }
@@ -77,6 +81,15 @@ class TagItem {
         liChildren.append(link)
         let l = li(liChildren)
         return l
+    }
+    
+    public func renderTagItemPosts() -> [SmlNode] {
+        var tagItemPosts: [SmlNode] = [newLine]
+        
+        for post: Item in posts {
+            tagItemPosts.append(post.renderPost())
+        }
+        return tagItemPosts
     }
     
     private func createLinkUrl() -> String {

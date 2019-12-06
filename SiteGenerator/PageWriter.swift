@@ -35,6 +35,11 @@ class PageWriter {
         writeHtmlFile(content, "tags/", "index.html")
     }
     
+    public func writeTagItemPage(_ tagItem: TagItem, _ content: String) {
+        let relPath = "tags/" + tagItem.key + "/"
+        writeHtmlFile(content, relPath, "index.html")
+    }
+    
     private func writeHtmlFile(_ content: String, _ relPath: String, _ fileName: String) {
         do {
             let htmlContent = content + "<!DOCTYPE html>\n"

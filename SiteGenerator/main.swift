@@ -36,6 +36,12 @@ let tags = tagsFactory.createTags(posts)
 let tagsPage = TagsPage(tags)
 writer.writeTagsPage(tagsPage.render())
 
+let tagItems = tags.tagItems
+for tagItem: TagItem in tagItems {
+    let page = TagItemPage(tagItem)
+    writer.writeTagItemPage(tagItem, page.render())
+}
+
 
 /*let s = "text1 [title](url) text2"
 let elements = MarkdownParser.parse(text: s)
