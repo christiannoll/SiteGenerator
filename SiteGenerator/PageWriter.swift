@@ -42,7 +42,7 @@ class PageWriter {
     
     private func writeHtmlFile(_ content: String, _ relPath: String, _ fileName: String) {
         do {
-            let htmlContent = content + "<!DOCTYPE html>\n"
+            let htmlContent = "<!DOCTYPE html>\n" + content 
             let path = baseDir + relPath
             if relPath.count > 0 {
             try FileManager.default.createDirectory(atPath: path, withIntermediateDirectories: true, attributes: nil)

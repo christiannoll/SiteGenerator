@@ -33,7 +33,7 @@ class TagItem {
     }
     
     private func createLinkUrl() -> String {
-        return Page.baseUrl + key + "/"
+        return Page.baseUrl + "tags/" + key + "/"
     }
     
     private func createLinkTitle() -> SmlNode {

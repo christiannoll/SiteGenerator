@@ -68,3 +68,7 @@ fastlane/screenshots
 fastlane/test_output
 
 xcuserdata/
+
+## project specific
+vnzn/
+
