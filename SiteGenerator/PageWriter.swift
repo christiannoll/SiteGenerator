@@ -40,6 +40,10 @@ class PageWriter {
         writeHtmlFile(content, relPath, "index.html")
     }
     
+    public func writeImpressumPage(_ content: String) {
+        writeHtmlFile(content, "impressum/", "index.html")
+    }
+    
     private func writeHtmlFile(_ content: String, _ relPath: String, _ fileName: String) {
         do {
             let htmlContent = "<!DOCTYPE html>\n" + content 

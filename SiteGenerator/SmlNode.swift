@@ -109,6 +109,10 @@ func img(_ attribs: [SmlAttribute]) -> SmlNode {
     return node("img", attribs, nil)
 }
 
+func br() -> SmlNode {
+    return node("br", [], nil)
+}
+
 func a(_ attribs: [SmlAttribute], _ children: [SmlNode]) -> SmlNode {
     return node("a", attribs, children)
 }

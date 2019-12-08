@@ -42,6 +42,8 @@ for tagItem: TagItem in tagItems {
     writer.writeTagItemPage(tagItem, page.render())
 }
 
+let impressumPage = ImpressumPage()
+writer.writeImpressumPage(impressumPage.render())
 
 /*let s = "text1 [title](url) text2"
 let elements = MarkdownParser.parse(text: s)
