@@ -50,10 +50,13 @@ class PostBuilder {
     }
     
     private func createTextPostBody(_ item: TextPost) -> SmlNode {
-        var children = [newLine, tab, tab]
+        var children: [SmlNode] = []
         
         let paragraphs = item.data.components(separatedBy: "\t")
         for paragraph: String in paragraphs {
+            children.append(newLine)
+            children.append(tab)
+            children.append(tab)
             let p = createTextPostParagraph(MarkdownParser.parse(text: paragraph))
             children.append(p)
         }
@@ -87,7 +90,7 @@ class PostBuilder {
     
     private func parse(_ markdownNodes: [MarkdownNode]) -> SmlNode {
         let smlNode: SmlNode = .text(parse(markdownNodes))
-        return p([smlNode, newLine, tab, tab])
+        return p([smlNode])
     }
     
     private func parse(_ markdownNodes: [MarkdownNode]) -> String {
