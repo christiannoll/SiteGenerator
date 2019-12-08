@@ -12,8 +12,7 @@ class PostBuilder {
     public func createTextArticle(_ item: TextPost) -> SmlNode {
         let postTitle = createPostTitle(item)
         
-        let elements = MarkdownParser.parse(text: item.data)
-        let postBody = createTextPostBody(elements)
+        let postBody = createTextPostBody(item)
         
         let postDateline = createTextPostDateline(item)
         
@@ -46,9 +45,22 @@ class PostBuilder {
         return postBody
     }
     
-    private func createTextPostBody(_ markdownNodes: [MarkdownNode]) -> SmlNode {
-        let p: SmlNode = parse(markdownNodes)
-        let postBody = div_postBody([newLine, tab, tab, p, newLine, tab])
+    private func createTextPostParagraph(_ markdownNodes: [MarkdownNode]) -> SmlNode {
+        return parse(markdownNodes)
+    }
+    
+    private func createTextPostBody(_ item: TextPost) -> SmlNode {
+        var children = [newLine, tab, tab]
+        
+        let paragraphs = item.data.components(separatedBy: "\t")
+        for paragraph: String in paragraphs {
+            let p = createTextPostParagraph(MarkdownParser.parse(text: paragraph))
+            children.append(p)
+        }
+        
+        children.append(newLine)
+        children.append(tab)
+        let postBody = div_postBody(children)
         return postBody
     }
     
