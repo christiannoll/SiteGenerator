@@ -99,6 +99,14 @@ class PostBuilder {
             switch markDownNode {
             case .text(let text):
                 s.append(text)
+            case .bold(let nodes):
+                s.append("<strong>")
+                s.append(parse(nodes))
+                s.append("</strong>")
+            case .italic(let nodes):
+                s.append("<em>")
+                s.append(parse(nodes))
+                s.append("</em>")
             case .parenthesis(let nodes):
                 s.append("(")
                 s.append(parse(nodes))

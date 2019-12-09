@@ -23,7 +23,7 @@ extension MarkdownToken: CustomStringConvertible {
 
 
 extension CharacterSet {
-    static let delimiters = CharacterSet(charactersIn: "[]()")
+    static let delimiters = CharacterSet(charactersIn: "[]()*_")
     static let whitespaceAndPunctuation = CharacterSet.whitespacesAndNewlines
         .union(CharacterSet.punctuationCharacters)
     

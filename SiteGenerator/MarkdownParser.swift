@@ -71,6 +71,10 @@ public class MarkdownParser {
         for element: MarkdownNode in elements {
             switch element {
             case .text:
+                fallthrough
+            case .bold:
+                fallthrough
+            case .italic:
                 if bracketsNode != nil {
                     nodes.append(bracketsNode!)
                 }
