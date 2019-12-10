@@ -19,6 +19,8 @@ public class MarkdownParser {
         
         while let token = tokenizer.nextToken() {
             switch token {
+            case .tab:
+                elements.append(.linebreak)
             case .text(let text):
                 elements.append(.text(text))
                 
@@ -70,6 +72,8 @@ public class MarkdownParser {
         
         for element: MarkdownNode in elements {
             switch element {
+            case .linebreak:
+                fallthrough
             case .text:
                 fallthrough
             case .bold:

@@ -1,6 +1,7 @@
 import Foundation
 
 public enum MarkdownNode {
+    case linebreak
     case text(String)
     case bold([MarkdownNode])
     case italic([MarkdownNode])

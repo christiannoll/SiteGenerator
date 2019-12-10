@@ -1,6 +1,7 @@
 import Foundation
 
 enum MarkdownToken {
+    case tab
     case text(String)
     case leftDelimiter(UnicodeScalar)
     case rightDelimiter(UnicodeScalar)
@@ -11,6 +12,8 @@ extension MarkdownToken: Equatable {}
 extension MarkdownToken: CustomStringConvertible {
     var description: String {
         switch self {
+        case .tab:
+            return "\n"
         case .text(let value):
             return value
         case .leftDelimiter(let value):
@@ -37,10 +40,19 @@ extension CharacterSet {
             return " "
         }
     }
+    
+    static func isTab(_ c: UnicodeScalar) -> Bool {
+        if c == UnicodeScalar.space {
+            return false
+        }
+        
+        return CharacterSet.whitespacesAndNewlines.contains(c)
+    }
 }
 
 private extension UnicodeScalar {
     static let space: UnicodeScalar = " "
+    static let tab: UnicodeScalar = "\t"
 }
 
 
@@ -64,6 +76,10 @@ class MarkdownTokenizer {
         
         if CharacterSet.delimiters.contains(c) {
             token = scan(delimiter: c)
+        }
+        else if c == UnicodeScalar.tab {
+            token = .tab
+            advance()
         } else {
             token = scanText()
         }
@@ -154,7 +170,7 @@ class MarkdownTokenizer {
 
     private func scanText() -> MarkdownToken? {
         let startIndex = currentIndex
-        scanUntil { CharacterSet.delimiters.contains($0) }
+        scanUntil { CharacterSet.delimiters.contains($0) || UnicodeScalar.tab == $0}
         
         guard currentIndex > startIndex else {
             return nil

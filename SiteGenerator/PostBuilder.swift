@@ -52,7 +52,7 @@ class PostBuilder {
     private func createTextPostBody(_ item: TextPost) -> SmlNode {
         var children: [SmlNode] = []
         
-        let paragraphs = item.data.components(separatedBy: "\t")
+        let paragraphs = [item.data]//item.data.components(separatedBy: "\t")
         for paragraph: String in paragraphs {
             children.append(newLine)
             children.append(tab)
@@ -97,6 +97,8 @@ class PostBuilder {
         var s = ""
         for markDownNode: MarkdownNode in markdownNodes {
             switch markDownNode {
+            case .linebreak:
+                s.append("</p>\n\t\t<p>")
             case .text(let text):
                 s.append(text)
             case .bold(let nodes):
