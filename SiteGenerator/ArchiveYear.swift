@@ -27,7 +27,7 @@ class ArchiveYear {
     }
     
     public func renderMonths() -> SmlNode {
-        if posts.count > 0 {
+        if _months.count > 0 {
             var ulChildren: [SmlNode] = []
             
             for month: ArchiveMonth in _months {

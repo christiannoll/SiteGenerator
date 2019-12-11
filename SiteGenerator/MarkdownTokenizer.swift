@@ -3,6 +3,7 @@ import Foundation
 enum MarkdownToken {
     case tab
     case text(String)
+    case listDelimiter(String)
     case leftDelimiter(UnicodeScalar)
     case rightDelimiter(UnicodeScalar)
 }
@@ -16,6 +17,8 @@ extension MarkdownToken: CustomStringConvertible {
             return "\n"
         case .text(let value):
             return value
+        case .listDelimiter(let value):
+            return value
         case .leftDelimiter(let value):
             return String(value)
         case .rightDelimiter(let value):
@@ -27,6 +30,7 @@ extension MarkdownToken: CustomStringConvertible {
 
 extension CharacterSet {
     static let delimiters = CharacterSet(charactersIn: "[]()*_")
+    static let listDelimiters = CharacterSet(charactersIn: "*-").union(CharacterSet.decimalDigits)
     static let whitespaceAndPunctuation = CharacterSet.whitespacesAndNewlines
         .union(CharacterSet.punctuationCharacters)
     
