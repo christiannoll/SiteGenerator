@@ -3,7 +3,7 @@ import Foundation
 enum MarkdownToken {
     case tab
     case text(String)
-    case listDelimiter(String)
+    case olistDelimiter(UnicodeScalar)
     case leftDelimiter(UnicodeScalar)
     case rightDelimiter(UnicodeScalar)
 }
@@ -17,8 +17,8 @@ extension MarkdownToken: CustomStringConvertible {
             return "\n"
         case .text(let value):
             return value
-        case .listDelimiter(let value):
-            return value
+        case .olistDelimiter(let value):
+            return String(value)
         case .leftDelimiter(let value):
             return String(value)
         case .rightDelimiter(let value):
@@ -30,7 +30,8 @@ extension MarkdownToken: CustomStringConvertible {
 
 extension CharacterSet {
     static let delimiters = CharacterSet(charactersIn: "[]()*_")
-    static let listDelimiters = CharacterSet(charactersIn: "*-").union(CharacterSet.decimalDigits)
+    static let digits = CharacterSet(charactersIn: "123456789")
+    static let listDelimiters = CharacterSet(charactersIn: "123456789")
     static let whitespaceAndPunctuation = CharacterSet.whitespacesAndNewlines
         .union(CharacterSet.punctuationCharacters)
     
@@ -57,6 +58,7 @@ extension CharacterSet {
 private extension UnicodeScalar {
     static let space: UnicodeScalar = " "
     static let tab: UnicodeScalar = "\t"
+    static let point: UnicodeScalar = "."
 }
 
 
@@ -80,6 +82,9 @@ class MarkdownTokenizer {
         
         if CharacterSet.delimiters.contains(c) {
             token = scan(delimiter: c)
+        }
+        else if CharacterSet.listDelimiters.contains(c) {
+            token = scanOrderedList(delimiter: c)
         }
         else if c == UnicodeScalar.tab {
             token = .tab
@@ -171,10 +176,28 @@ class MarkdownTokenizer {
         
         return .rightDelimiter(delimiter)
     }
+    
+    private func scanOrderedList(delimiter: UnicodeScalar) -> MarkdownToken? {
+        guard let p = previous else {
+            return nil
+        }
+        
+        let n = next ?? .space
+        
+        guard CharacterSet.digits.contains(delimiter) && CharacterSet.whitespaces.contains(p) && n == .point else {
+            return nil
+        }
+        
+        advance()
+        advance()
+        advance()
+        
+        return .olistDelimiter(delimiter)
+    }
 
     private func scanText() -> MarkdownToken? {
         let startIndex = currentIndex
-        scanUntil { CharacterSet.delimiters.contains($0) || UnicodeScalar.tab == $0}
+        scanUntil { CharacterSet.delimiters.contains($0) || UnicodeScalar.tab == $0 || CharacterSet.listDelimiters.contains($0)}
         
         guard currentIndex > startIndex else {
             return nil

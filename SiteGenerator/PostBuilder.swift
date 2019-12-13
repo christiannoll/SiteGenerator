@@ -102,8 +102,20 @@ class PostBuilder {
                 s.append("[")
                 s.append(parse(nodes))
                 s.append("]")
+            case .olistelement(let nodes):
+                s.append("<li>")
+                s.append(parse(nodes))
+                s.append("</li>")
             case .link(let nodes):
                 s.append(parseLink(nodes))
+            case .ulist(let nodes):
+                s.append("<ul>")
+                s.append(parse(nodes))
+                s.append("</ul>")
+            case .olist(let nodes):
+                s.append("<ol>")
+                s.append(parse(nodes))
+                s.append("</ol>")
             }
         }
         return s

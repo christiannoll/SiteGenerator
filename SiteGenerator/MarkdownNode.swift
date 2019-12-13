@@ -3,11 +3,14 @@ import Foundation
 public enum MarkdownNode {
     case linebreak
     case text(String)
+    case olistelement([MarkdownNode])
     case bold([MarkdownNode])
     case italic([MarkdownNode])
     case parenthesis([MarkdownNode])
     case brackets([MarkdownNode])
     case link([MarkdownNode])
+    case ulist([MarkdownNode])
+    case olist([MarkdownNode])
 }
 
 extension MarkdownNode: Equatable {}

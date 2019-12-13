@@ -4,11 +4,13 @@ public class MarkdownParser {
     
     public static func parse(text: String) -> [MarkdownNode] {
         let parser = MarkdownParser(text: text)
-        return parser.parseLinks(elements: parser.parse())
+        let parsedNodes = parser.parseLinks(elements: parser.parse())
+        return parser.parseLists(elements: parsedNodes)
     }
     
     private var tokenizer: MarkdownTokenizer
     private var openingDelimiters: [UnicodeScalar] = []
+    private var olistElement: [MarkdownNode] = []
     
     private init(text: String) {
         tokenizer = MarkdownTokenizer(string: text)
@@ -20,9 +22,19 @@ public class MarkdownParser {
         while let token = tokenizer.nextToken() {
             switch token {
             case .tab:
-                elements.append(.linebreak)
+                if olistElement.count == 0 {
+                    elements.append(.linebreak)
+                }
+                else {
+                    let le: MarkdownNode = .olistelement(elements)
+                    olistElement = []
+                    return [le]
+                }
             case .text(let text):
                 elements.append(.text(text))
+            case .olistDelimiter(let delimiter):
+                olistElement.append(.text(String(delimiter)))
+                elements.append(contentsOf: parse())
                 
             case .leftDelimiter(let delimiter):
                 // Recursively parse all the tokens following the delimiter
@@ -70,20 +82,8 @@ public class MarkdownParser {
         
         var bracketsNode: MarkdownNode?
         
-        for element: MarkdownNode in elements {
+        for element in elements {
             switch element {
-            case .linebreak:
-                fallthrough
-            case .text:
-                fallthrough
-            case .bold:
-                fallthrough
-            case .italic:
-                if bracketsNode != nil {
-                    nodes.append(bracketsNode!)
-                }
-                nodes.append(element)
-                bracketsNode = nil
             case .brackets:
                 if bracketsNode != nil {
                     nodes.append(bracketsNode!)
@@ -96,7 +96,11 @@ public class MarkdownParser {
                 }
                 bracketsNode = nil
             default:
-                break
+                if bracketsNode != nil {
+                    nodes.append(bracketsNode!)
+                }
+                nodes.append(element)
+                bracketsNode = nil
             }
         }
         
@@ -104,6 +108,32 @@ public class MarkdownParser {
             nodes.append(bracketsNode!)
         }
         
+        return nodes
+    }
+    
+    private func parseLists(elements: [MarkdownNode]) -> [MarkdownNode] {
+        var nodes: [MarkdownNode] = []
+        var oList: [MarkdownNode] = []
+        var uList: [MarkdownNode] = []
+        
+        for element in elements {
+            switch element {
+            case .olistelement:
+                oList.append(element)
+            case .text(let s) where s == " ":
+                break
+            default:
+                if oList.count > 0 {
+                    nodes.append(.olist(oList))
+                    oList.removeAll()
+                }
+                else if uList.count > 0 {
+                    nodes.append(.ulist(uList))
+                    uList.removeAll()
+                }
+                nodes.append(element)
+            }
+        }
         return nodes
     }
 }
