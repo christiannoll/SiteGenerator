@@ -33,7 +33,7 @@ extension MarkdownToken: CustomStringConvertible {
 
 extension CharacterSet {
     static let delimiters = CharacterSet(charactersIn: "[]()*_")
-    static let ulistDelimiters = CharacterSet(charactersIn: "*")
+    static let ulistDelimiters = CharacterSet(charactersIn: "*-+")
     static let olistDelimiters = CharacterSet(charactersIn: "123456789")
     static let whitespaceAndPunctuation = CharacterSet.whitespacesAndNewlines
         .union(CharacterSet.punctuationCharacters)
@@ -88,6 +88,9 @@ class MarkdownTokenizer {
             if token == nil && CharacterSet.ulistDelimiters.contains(c) {
                 token = scanUnorderedList(delimiter: c)
             }
+        }
+        else if CharacterSet.ulistDelimiters.contains(c) {
+            token = scanUnorderedList(delimiter: c)
         }
         else if CharacterSet.olistDelimiters.contains(c) {
             token = scanOrderedList(delimiter: c)
@@ -238,7 +241,7 @@ class MarkdownTokenizer {
 
     private func scanText() -> MarkdownToken? {
         let startIndex = currentIndex
-        scanUntil { CharacterSet.delimiters.contains($0) || UnicodeScalar.tab == $0 || CharacterSet.olistDelimiters.contains($0)}
+        scanUntil { CharacterSet.delimiters.contains($0) || UnicodeScalar.tab == $0 || CharacterSet.olistDelimiters.contains($0) || CharacterSet.ulistDelimiters.contains($0) }
         
         guard currentIndex > startIndex else {
             return nil
