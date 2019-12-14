@@ -11,6 +11,7 @@ public class MarkdownParser {
     private var tokenizer: MarkdownTokenizer
     private var openingDelimiters: [UnicodeScalar] = []
     private var olistElement: [MarkdownNode] = []
+    private var ulistElement: [MarkdownNode] = []
     
     private init(text: String) {
         tokenizer = MarkdownTokenizer(string: text)
@@ -22,18 +23,26 @@ public class MarkdownParser {
         while let token = tokenizer.nextToken() {
             switch token {
             case .tab:
-                if olistElement.count == 0 {
-                    elements.append(.linebreak)
-                }
-                else {
+                if olistElement.count > 0 {
                     let le: MarkdownNode = .olistelement(elements)
                     olistElement = []
                     return [le]
+                }
+                else if ulistElement.count > 0 {
+                    let le: MarkdownNode = .ulistelement(elements)
+                    ulistElement = []
+                    return [le]
+                }
+                else {
+                    elements.append(.linebreak)
                 }
             case .text(let text):
                 elements.append(.text(text))
             case .olistDelimiter(let delimiter):
                 olistElement.append(.text(String(delimiter)))
+                elements.append(contentsOf: parse())
+            case .ulistDelimiter(let delimiter):
+                ulistElement.append(.text(String(delimiter)))
                 elements.append(contentsOf: parse())
                 
             case .leftDelimiter(let delimiter):
@@ -120,6 +129,8 @@ public class MarkdownParser {
             switch element {
             case .olistelement:
                 oList.append(element)
+            case .ulistelement:
+                uList.append(element)
             case .text(let s) where s == " ":
                 break
             default:

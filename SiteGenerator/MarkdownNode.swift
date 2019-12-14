@@ -4,6 +4,7 @@ public enum MarkdownNode {
     case linebreak
     case text(String)
     case olistelement([MarkdownNode])
+    case ulistelement([MarkdownNode])
     case bold([MarkdownNode])
     case italic([MarkdownNode])
     case parenthesis([MarkdownNode])

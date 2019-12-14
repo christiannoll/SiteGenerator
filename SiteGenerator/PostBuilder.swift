@@ -106,6 +106,10 @@ class PostBuilder {
                 s.append("<li>")
                 s.append(parse(nodes))
                 s.append("</li>")
+            case .ulistelement(let nodes):
+                s.append("<li>")
+                s.append(parse(nodes))
+                s.append("</li>")
             case .link(let nodes):
                 s.append(parseLink(nodes))
             case .ulist(let nodes):
