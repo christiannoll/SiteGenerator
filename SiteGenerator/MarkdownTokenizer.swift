@@ -151,6 +151,24 @@ class MarkdownTokenizer {
         return input[nextIndex]
     }
     
+    private var atBeginOfLine: Bool {
+        guard currentIndex > input.startIndex else {
+            return true
+        }
+        var index = input.index(before: currentIndex)
+        while index > input.startIndex {
+            let c = input[index]
+            if c == .tab {
+                return true
+            }
+            if !CharacterSet.whitespaceAndPunctuation.contains(c) {
+                return false
+            }
+            index = input.index(before: index)
+        }
+        return true
+    }
+    
     private func scan(delimiter d: UnicodeScalar) -> MarkdownToken? {
         return scanRight(delimiter: d) ?? scanLeft(delimiter: d)
     }
@@ -202,15 +220,14 @@ class MarkdownTokenizer {
     }
     
     private func scanOrderedList(delimiter: UnicodeScalar) -> MarkdownToken? {
-        guard let p = previous else {
+        guard atBeginOfLine else {
             return nil
         }
         
         let n = next ?? .space
         let nn = nextnext ?? .space
         
-        guard CharacterSet.olistDelimiters.contains(delimiter) && CharacterSet.whitespaces.contains(p)
-            && n == .point && nn == .space else {
+        guard CharacterSet.olistDelimiters.contains(delimiter) && n == .point && nn == .space else {
             return nil
         }
         
@@ -222,14 +239,13 @@ class MarkdownTokenizer {
     }
     
     private func scanUnorderedList(delimiter: UnicodeScalar) -> MarkdownToken? {
-        guard let p = previous else {
+        guard atBeginOfLine else {
             return nil
         }
         
         let n = next ?? .space
         
-        guard CharacterSet.ulistDelimiters.contains(delimiter) && CharacterSet.whitespaces.contains(p)
-            && n == .space else {
+        guard CharacterSet.ulistDelimiters.contains(delimiter) && n == .space else {
                 return nil
         }
         
