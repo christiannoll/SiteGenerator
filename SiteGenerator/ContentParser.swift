@@ -2,6 +2,8 @@ import Foundation
 
 class ContentParser : NSObject, XMLParserDelegate {
     
+    private let CONTENT_FILE = "/Users/chn/Programmierung/Swift/SiteGenerator/SiteGenerator/content.xml"
+    
     private var items: [Item] = []
     private var item = Item()
     private var foundCharacters = ""
@@ -79,8 +81,7 @@ class ContentParser : NSObject, XMLParserDelegate {
         var xmlString = ""
         
         do {
-            let path = "/Users/chn/Programmierung/Swift/SiteGenerator/SiteGenerator/content.xml"
-            xmlString = try String(contentsOf: URL(fileURLWithPath: path))
+            xmlString = try String(contentsOf: URL(fileURLWithPath: CONTENT_FILE))
         }
         catch {
             print("Error: \(error)")
