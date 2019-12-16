@@ -31,6 +31,7 @@
 		D6ADD6542385DAF9005C0495 /* MarkdownNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6ADD6532385DAF9005C0495 /* MarkdownNode.swift */; };
 		D6CAB6FF2398488A00C4D2EF /* PageWriter.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6CAB6FE2398488A00C4D2EF /* PageWriter.swift */; };
 		D6D356D5238DBAC300A2F217 /* SmlPrinter.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6D356D4238DBAC300A2F217 /* SmlPrinter.swift */; };
+		D6E1929C23A77A82006A7A5C /* SiteGenerator.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6E1929B23A77A82006A7A5C /* SiteGenerator.swift */; };
 		D6F6FF7B238875BB0049F171 /* PostBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F6FF7A238875BB0049F171 /* PostBuilder.swift */; };
 		D6F92EC4238320D900FCAAC1 /* MarkdownParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F92EC3238320D900FCAAC1 /* MarkdownParser.swift */; };
 /* End PBXBuildFile section */
@@ -73,6 +74,7 @@
 		D6ADD6532385DAF9005C0495 /* MarkdownNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarkdownNode.swift; sourceTree = "<group>"; };
 		D6CAB6FE2398488A00C4D2EF /* PageWriter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageWriter.swift; sourceTree = "<group>"; };
 		D6D356D4238DBAC300A2F217 /* SmlPrinter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmlPrinter.swift; sourceTree = "<group>"; };
+		D6E1929B23A77A82006A7A5C /* SiteGenerator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SiteGenerator.swift; sourceTree = "<group>"; };
 		D6F6FF7A238875BB0049F171 /* PostBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostBuilder.swift; sourceTree = "<group>"; };
 		D6F92EC3238320D900FCAAC1 /* MarkdownParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarkdownParser.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -133,6 +135,7 @@
 				D699D53E239AE808006FE271 /* TagItemPage.swift */,
 				D699D540239AEBAE006FE271 /* TagItem.swift */,
 				D65AD6B9239D4BD800BFA862 /* ImpressumPage.swift */,
+				D6E1929B23A77A82006A7A5C /* SiteGenerator.swift */,
 			);
 			path = SiteGenerator;
 			sourceTree = "<group>";
@@ -202,6 +205,7 @@
 				D699D535239AA695006FE271 /* IndexPage.swift in Sources */,
 				D69221C6238196740007E774 /* ContentParser.swift in Sources */,
 				D65545B02389B37A00D18FD2 /* SmlNode.swift in Sources */,
+				D6E1929C23A77A82006A7A5C /* SiteGenerator.swift in Sources */,
 				D676120D237F43960042F55D /* main.swift in Sources */,
 				D6CAB6FF2398488A00C4D2EF /* PageWriter.swift in Sources */,
 				D650F34F23930CC000B2320E /* Page.swift in Sources */,
