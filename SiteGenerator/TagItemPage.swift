@@ -10,7 +10,8 @@ class TagItemPage : Page {
     
     override func renderContent() -> SmlNode {
         var mainChildren: [SmlNode] = [newLine, newLine]
-        let h_1 = h1([.text(tagItem.key)])
+        let key = tagItem.key == "Foto" ? "" : tagItem.key
+        let h_1 = h1([.text(key)])
         mainChildren.append(h_1)
         
         let posts = tagItem.renderTagItemPosts()

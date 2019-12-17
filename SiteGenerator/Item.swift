@@ -1,10 +1,6 @@
 import Foundation
 
-protocol PostItem {
-    func renderPost() -> SmlNode
-}
-
-class Item : PostItem {
+class Item  {
     var data = ""
     var name = ""
     var title = ""
@@ -15,6 +11,7 @@ class Item : PostItem {
     let smlBuilder = PostBuilder()
     
     func renderPost() -> SmlNode {return .text("")}
+    func renderPostInSingleMode() -> SmlNode { return renderPost() }
 }
 
 class TextPost: Item {
@@ -29,5 +26,18 @@ class ImagePost : Item {
     
     override func renderPost() -> SmlNode {
         return smlBuilder.createImageArticle(self)
+    }
+    
+    override func renderPostInSingleMode() -> SmlNode {
+        let origWidth = width
+        let origHeight = height
+        width = 300
+        height = 300
+        
+        let post = renderPost()
+        
+        width = origWidth
+        height = origHeight
+        return post
     }
 }

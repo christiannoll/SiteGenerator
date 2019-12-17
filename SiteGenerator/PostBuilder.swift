@@ -41,7 +41,8 @@ class PostBuilder {
                                     height => String(item.height),
                                     width => String(item.width),
                                     alt => String(item.title)])
-        let para = p([imgNode, newLine, tab, tab])
+        let link = a([href => createPostUrl(item)], [imgNode])
+        let para = p([link, newLine, tab, tab])
         let postBody = div_postBody([newLine, tab, tab, para, newLine, tab])
         return postBody
     }

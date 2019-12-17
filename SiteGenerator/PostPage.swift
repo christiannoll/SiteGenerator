@@ -11,7 +11,7 @@ class PostPage : Page {
     override func renderContent() -> SmlNode {
         var mainChildren: [SmlNode] = [newLine]
         
-        mainChildren.append(post.renderPost())
+        mainChildren.append(post.renderPostInSingleMode())
         
         mainChildren.append(newLine)
         mainChildren.append(renderArchiveLink())
