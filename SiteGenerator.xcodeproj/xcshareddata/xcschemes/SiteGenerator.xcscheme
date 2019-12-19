@@ -32,14 +32,14 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D65D75B323ABE06900490D17"
-               BuildableName = "Test.xctest"
-               BlueprintName = "Test"
+               BlueprintIdentifier = "D6F303A123AC30220012F659"
+               BuildableName = "UnitTest.xctest"
+               BlueprintName = "UnitTest"
                ReferencedContainer = "container:SiteGenerator.xcodeproj">
             </BuildableReference>
             <SkippedTests>
                <Test
-                  Identifier = "Test/testPerformanceExample()">
+                  Identifier = "UnitTest/testPerformanceExample()">
                </Test>
             </SkippedTests>
          </TestableReference>
