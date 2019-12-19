@@ -2,6 +2,8 @@ import Foundation
 
 class PostBuilder {
     
+    private let smlBuilder = SmlBuilder()
+    
     public static func createDatePath(_ item: Item) -> String {
         let dateFormatter = DateFormatter()
         dateFormatter.locale = Locale(identifier: "de_DE")
@@ -48,8 +50,8 @@ class PostBuilder {
     }
     
     private func createTextPostBody(_ markdownNodes: [MarkdownNode]) -> SmlNode {
-        let p: SmlNode = parse(markdownNodes)
-        let postBody = div_postBody([newLine, tab, tab, p, newLine, tab])
+        let para = p([smlBuilder.parse(markdownNodes)])
+        let postBody = div_postBody([newLine, tab, tab, para, newLine, tab])
         return postBody
     }
     
@@ -72,78 +74,6 @@ class PostBuilder {
         let link = a([href => createPostUrl(item)], [urlTitle])
         let h = h3([link])
         return h
-    }
-    
-    private func parse(_ markdownNodes: [MarkdownNode]) -> SmlNode {
-        let smlNode: SmlNode = .text(parse(markdownNodes))
-        return p([smlNode])
-    }
-    
-    private func parse(_ markdownNodes: [MarkdownNode]) -> String {
-        var s = ""
-        for markDownNode: MarkdownNode in markdownNodes {
-            switch markDownNode {
-            case .linebreak:
-                s.append("</p>\n\t\t<p>")
-            case .text(let text):
-                s.append(text)
-            case .bold(let nodes):
-                s.append("<strong>")
-                s.append(parse(nodes))
-                s.append("</strong>")
-            case .italic(let nodes):
-                s.append("<em>")
-                s.append(parse(nodes))
-                s.append("</em>")
-            case .parenthesis(let nodes):
-                s.append("(")
-                s.append(parse(nodes))
-                s.append(")")
-            case .brackets(let nodes):
-                s.append("[")
-                s.append(parse(nodes))
-                s.append("]")
-            case .olistelement(let nodes):
-                s.append("<li>")
-                s.append(parse(nodes))
-                s.append("</li>")
-            case .ulistelement(let nodes):
-                s.append("<li>")
-                s.append(parse(nodes))
-                s.append("</li>")
-            case .link(let nodes):
-                s.append(parseLink(nodes))
-            case .ulist(let nodes):
-                s.append("<ul>")
-                s.append(parse(nodes))
-                s.append("</ul>")
-            case .olist(let nodes):
-                s.append("<ol>")
-                s.append(parse(nodes))
-                s.append("</ol>")
-            }
-        }
-        return s
-    }
-    
-    private func parseLink(_ markdownNodes: [MarkdownNode]) -> String {
-        var s = ""
-        for markDownNode: MarkdownNode in markdownNodes {
-            switch markDownNode {
-            case .text(let text):
-                s.append(text)
-            case .parenthesis(let nodes):
-                s.append("<a href=\"")
-                s.append(parse(nodes))
-                s.append("\">")
-            case .brackets(let nodes):
-                s.append(parse(nodes))
-                s.append("</a>")
-            default:
-                break
-            }
-        }
-        return s
     }
     
     private func createPostUrl(_ item: Item) -> String {
