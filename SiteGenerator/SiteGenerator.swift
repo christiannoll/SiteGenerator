@@ -11,7 +11,7 @@ struct SiteGenerator {
         let homePage = HomePage(posts)
         writer.writeHomePage(homePage.render())
         
-        for post: Item in posts {
+        for post in posts {
             let page = PostPage(post)
             writer.writePostPage(post, page.render())
         }
@@ -22,8 +22,8 @@ struct SiteGenerator {
         writer.writeArchivePage(archivePage.render())
         
         let archiveYears = archive.years
-        for year: ArchiveYear in archiveYears {
-            for month: ArchiveMonth in year.months {
+        for year in archiveYears {
+            for month in year.months {
                 let page = ArchiveMonthPage(month)
                 writer.writeArchiveMonthPage(month, page.render())
             }
@@ -40,7 +40,7 @@ struct SiteGenerator {
         writer.writeTagsPage(tagsPage.render())
         
         let tagItems = tags.tagItems
-        for tagItem: TagItem in tagItems {
+        for tagItem in tagItems {
             let page = TagItemPage(tagItem)
             writer.writeTagItemPage(tagItem, page.render())
         }

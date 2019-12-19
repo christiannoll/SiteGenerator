@@ -12,6 +12,12 @@ class PageVerifier {
     func verify() {
         loadHomePage()
         loadPostPages()
+        loadArchivePage()
+        loadArchiveMonthPages()
+        loadIndexPage()
+        loadTagsPage()
+        loadTagItemPages()
+        loadImpressumPage()
     }
     
     private func loadHomePage() {
@@ -26,6 +32,48 @@ class PageVerifier {
             relPath.append("/index.html")
             loadPage(relPath: relPath)
         }
+    }
+    
+    private func loadArchivePage() {
+        loadPage(relPath: "archive/index.html")
+    }
+    
+    private func loadArchiveMonthPages() {
+        let archiveFactory = ArchiveFactory()
+        let archive = archiveFactory.createArchive(posts)
+        
+        let archiveYears = archive.years
+        for year in archiveYears {
+            for month in year.months {
+                var relPath = month.yearName + "/"
+                relPath.append(String(month.month))
+                relPath.append("/index.html")
+                loadPage(relPath: relPath)
+            }
+        }
+    }
+    
+    private func loadIndexPage() {
+        loadPage(relPath: "index/index.html")
+    }
+    
+    private func loadTagsPage() {
+        loadPage(relPath: "tags/index.html")
+    }
+    
+    private func loadTagItemPages() {
+        let tagsFactory = TagsFactory()
+        let tags = tagsFactory.createTags(posts)
+        
+        let tagItems = tags.tagItems
+        for tagItem in tagItems {
+            let relPath = "tags/" + tagItem.key + "/index.html"
+            loadPage(relPath: relPath)
+        }
+    }
+    
+    private func loadImpressumPage() {
+        loadPage(relPath: "impressum/index.html")
     }
     
     private func loadPage(relPath: String) {
