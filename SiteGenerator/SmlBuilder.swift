@@ -81,8 +81,4 @@ public class SmlBuilder {
         }
         return s
     }
-    
-    /*let s = "text1 [title](url) text2"
-    let smlBuilder = SmlBuilder()
-    let text = smlBuilder.render(s)*/
 }

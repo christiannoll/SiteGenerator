@@ -145,6 +145,13 @@ public class MarkdownParser {
                 nodes.append(element)
             }
         }
+        
+        if oList.count > 0 {
+            nodes.append(.olist(oList))
+        }
+        else if uList.count > 0 {
+            nodes.append(.ulist(uList))
+        }
         return nodes
     }
 }
