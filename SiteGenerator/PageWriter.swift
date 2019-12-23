@@ -2,7 +2,7 @@ import Foundation
 
 class PageWriter {
     
-    private let baseDir = "/Users/chn/Programmierung/Swift/SiteGenerator/vnzn/"
+    static let baseDir = "/Users/chn/Programmierung/Swift/SiteGenerator/vnzn/"
     
     public func writeHomePage(_ content: String) {
         writeHtmlFile(content, "", "index.html")
@@ -51,7 +51,7 @@ class PageWriter {
     private func writeHtmlFile(_ content: String, _ relPath: String, _ fileName: String) {
         do {
             let htmlContent = "<!DOCTYPE html>\n" + content 
-            let path = baseDir + relPath
+            let path = PageWriter.baseDir + relPath
             if relPath.count > 0 {
             try FileManager.default.createDirectory(atPath: path, withIntermediateDirectories: true, attributes: nil)
             }

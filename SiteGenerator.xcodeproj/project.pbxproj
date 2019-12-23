@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		D60667612396E2A100F7B79E /* PostPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D60667602396E2A100F7B79E /* PostPage.swift */; };
+		D60B488F23B160DC005E57EF /* CsvWriter.swift in Sources */ = {isa = PBXBuildFile; fileRef = D60B488E23B160DC005E57EF /* CsvWriter.swift */; };
 		D6112D2623A8187300140519 /* PageLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6112D2523A8187300140519 /* PageLoader.swift */; };
 		D63B510C23996704001E7E7B /* ArchiveMonth.swift in Sources */ = {isa = PBXBuildFile; fileRef = D63B510B23996704001E7E7B /* ArchiveMonth.swift */; };
 		D63B510E2399673E001E7E7B /* ArchiveYear.swift in Sources */ = {isa = PBXBuildFile; fileRef = D63B510D2399673E001E7E7B /* ArchiveYear.swift */; };
@@ -63,6 +64,7 @@
 
 /* Begin PBXFileReference section */
 		D60667602396E2A100F7B79E /* PostPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostPage.swift; sourceTree = "<group>"; };
+		D60B488E23B160DC005E57EF /* CsvWriter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CsvWriter.swift; sourceTree = "<group>"; };
 		D6112D2523A8187300140519 /* PageLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageLoader.swift; sourceTree = "<group>"; };
 		D63B510B23996704001E7E7B /* ArchiveMonth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArchiveMonth.swift; sourceTree = "<group>"; };
 		D63B510D2399673E001E7E7B /* ArchiveYear.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArchiveYear.swift; sourceTree = "<group>"; };
@@ -177,9 +179,10 @@
 		D6A9819F23B0AAC5007F3CBF /* Statistics */ = {
 			isa = PBXGroup;
 			children = (
+				D60B488E23B160DC005E57EF /* CsvWriter.swift */,
 				D6A981A223B0AFE7007F3CBF /* SiteStatistics.swift */,
-				D6A981A023B0AE1C007F3CBF /* StatisticPage.swift */,
 				D6A981A423B0B7A7007F3CBF /* StatisticData.swift */,
+				D6A981A023B0AE1C007F3CBF /* StatisticPage.swift */,
 			);
 			path = Statistics;
 			sourceTree = "<group>";
@@ -296,6 +299,7 @@
 				D699D53B239AAFCD006FE271 /* Tags.swift in Sources */,
 				D650F35123930EBB00B2320E /* HomePage.swift in Sources */,
 				D699D535239AA695006FE271 /* IndexPage.swift in Sources */,
+				D60B488F23B160DC005E57EF /* CsvWriter.swift in Sources */,
 				D69221C6238196740007E774 /* ContentParser.swift in Sources */,
 				D65545B02389B37A00D18FD2 /* SmlNode.swift in Sources */,
 				D6E1929C23A77A82006A7A5C /* SiteGenerator.swift in Sources */,
