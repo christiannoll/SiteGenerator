@@ -103,7 +103,7 @@ class UnitTest: XCTestCase {
     }
     
     func testMixedUnorderedList2() {
-        let s = "- One\t * Two\t - Three\t"
+        let s = "+ One\t * Two\t - Three\t"
         let text = smlBuilder.render(s)
         
         XCTAssertEqual(text, "<ul><li>One</li><li>Two</li><li>Three</li></ul>")
