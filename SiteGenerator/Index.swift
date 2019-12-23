@@ -8,16 +8,20 @@ class Index {
         _indexItems = []
     }
     
-    public func addPost(_ post: Item) {
-        for indexItem: IndexItem in getIndexItems(post) {
+    var numberOfIndexItems: Int {
+        get { return _indexItems.count }
+    }
+    
+    func addPost(_ post: Item) {
+        for indexItem in getIndexItems(post) {
             indexItem.addPost(post)
         }
     }
     
-    public func renderIndex() -> SmlNode {
+    func renderIndex() -> SmlNode {
         var divChildren: [SmlNode] = []
         
-        for indexItem: IndexItem in _indexItems {
+        for indexItem in _indexItems {
             divChildren.append(newLine)
             let h_4 = h4([.text(indexItem.key)])
             divChildren.append(h_4)

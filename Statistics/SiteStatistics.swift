@@ -26,5 +26,13 @@ class SiteStatistics {
                 data.numberOfPhotos += 1
             }
         }
+        
+        let indexFactory = IndexFactory()
+        let index = indexFactory.createIndex(posts)
+        data.numberOfIndexItems = index.numberOfIndexItems
+        
+        let tagsFactory = TagsFactory()
+        let tags = tagsFactory.createTags(posts)
+        data.numberOfTagItems = tags.numberOfTagItems
     }
 }

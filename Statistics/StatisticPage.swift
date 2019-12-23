@@ -23,7 +23,11 @@ class StatisticPage : Page {
         var pChildren: [SmlNode] = []
         pChildren.append(.text("Anzahl an Posts: " + String(data.numberOfPosts)))
         pChildren.append(br())
-        pChildren.append(.text("Anzahl davon Fotos : " + String(data.numberOfPhotos)))
+        pChildren.append(.text("Anzahl davon Fotos: " + String(data.numberOfPhotos)))
+        pChildren.append(br())
+        pChildren.append(.text("Anzahl an Indices: " + String(data.numberOfIndexItems)))
+        pChildren.append(br())
+        pChildren.append(.text("Anzahl an Kategorien: " + String(data.numberOfTagItems)))
         pChildren.append(br())
         
         return p(pChildren)

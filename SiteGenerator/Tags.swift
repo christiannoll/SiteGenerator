@@ -8,6 +8,10 @@ class Tags {
         get { return _tagItems }
     }
     
+    var numberOfTagItems: Int {
+        get { return _tagItems.count }
+    }
+    
     fileprivate init() {
         _tagItems = []
     }
