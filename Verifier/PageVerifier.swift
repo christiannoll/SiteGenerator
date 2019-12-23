@@ -4,9 +4,8 @@ class PageVerifier {
     
     private let posts: [Item]
     
-    init() {
-        let contentParser = ContentParser()
-        posts = contentParser.parse()
+    init(_ posts: [Item]) {
+        self.posts = posts
     }
     
     func verify() {

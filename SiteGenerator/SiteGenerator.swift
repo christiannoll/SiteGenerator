@@ -2,10 +2,13 @@ import Foundation
 
 struct SiteGenerator {
     
-    func generate() {        
-        let contentParser = ContentParser()
-        let posts = contentParser.parse()
-        
+    private let posts: [Item]
+    
+    init(_ posts: [Item]) {
+        self.posts = posts
+    }
+    
+    func generate() {
         let writer = PageWriter()
         
         let homePage = HomePage(posts)

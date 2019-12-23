@@ -1,15 +1,14 @@
 import Foundation
 
-let generator = SiteGenerator()
+let contentParser = ContentParser()
+let posts = contentParser.parse()
+
+let generator = SiteGenerator(posts)
 generator.generate()
 
-let verifier = PageVerifier()
+let verifier = PageVerifier(posts)
 verifier.verify()
 
-/*let s = "text1 [title](url) text2"
-let elements = MarkdownParser.parse(text: s)
-
-let smlBuilder = SmlBuilder()
-print(smlBuilder.parse(elements))*/
-
+let statistics = SiteStatistics(posts)
+statistics.writeStatisticPage()
 
