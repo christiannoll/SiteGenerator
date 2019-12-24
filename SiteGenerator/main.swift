@@ -11,4 +11,5 @@ verifier.verify()
 
 let statistics = SiteStatistics(posts)
 statistics.writeStatisticPage()
+statistics.writeCsvData()
 

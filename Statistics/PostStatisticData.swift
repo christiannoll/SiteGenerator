@@ -1,0 +1,8 @@
+import Foundation
+
+struct PostStatisticData {
+    
+    var publishDate: String = ""
+    var imagePost: Bool = false
+    var wordCount: Int = 0
+}
