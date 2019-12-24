@@ -20,7 +20,7 @@ class PageVerifier {
     }
     
     private func loadHomePage() {
-        loadPage(relPath: "/index.html")
+        loadPage(relPath: "index.html")
     }
     
     private func loadPostPages() {
