@@ -5,4 +5,5 @@ struct PostStatisticData {
     var publishDate: String = ""
     var imagePost: Bool = false
     var wordCount: Int = 0
+    var linkCount: Int = 0
 }
