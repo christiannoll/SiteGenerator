@@ -182,7 +182,7 @@ class MarkdownTokenizer {
         
         // Left delimiters must be predeced by whitespace or punctuation
         // and NOT followed by whitespaces or newlines
-        guard CharacterSet.whitespaceAndPunctuation.contains(p) &&
+        guard (CharacterSet.whitespaces.contains(p) || CharacterSet.delimiters.contains(p)) &&
             !CharacterSet.whitespacesAndNewlines.contains(n) &&
             !leftDelimiters.contains(delimiter) else {
                 return nil

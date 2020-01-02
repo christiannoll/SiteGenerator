@@ -10,6 +10,13 @@ class UnitTest: XCTestCase {
 
     override func tearDown() {
     }
+    
+    func testLinkWithUrlAndDelimiters() {
+        let s = "text1 [title](url_1._2) text2"
+        let text = smlBuilder.render(s)
+        
+        XCTAssertEqual(text, "text1<a href=\"url_1._2\">title</a> text2")
+    }
 
     func testLinkWithUrl() {
         let s = "text1 [title](url) text2"
