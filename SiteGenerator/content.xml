@@ -49,10 +49,10 @@
 </item>
 <item type="text">
 	<name>donald_knuth</name>
-	<title>Interview mit Donald Knuth</title>
-	<data>Informatiklegende [Donald Knuth](https://de.wikipedia.org/wiki/Donald_E._Knuth) im [Podcast-Interview](https://www.youtube.com/watch?v=2BdBfsXbST8) mit [Lex Fridman](https://lexfridman.com/).</data>
+	<title>Donald Knuth im Interview mit Lex Fridman</title>
+	<data>Informatik-Legende [Donald Knuth](https://de.wikipedia.org/wiki/Donald_E._Knuth) im [Podcast-Interview](https://www.youtube.com/watch?v=2BdBfsXbST8) mit [Lex Fridman](https://lexfridman.com/). Die beiden sprechen u.a. über [Alan Turing](https://de.wikipedia.org/wiki/Alan_Turing), [The Art of Computer Programming](https://de.wikipedia.org/wiki/The_Art_of_Computer_Programming), [TeX](https://de.wikipedia.org/wiki/TeX) und Typogaphie, [P=NP](https://de.wikipedia.org/wiki/P-NP-Problem), Gott und die [Bibel](https://de.wikipedia.org/wiki/Bibel) sowie das eigene Leben und Sterben.</data>
 	<date>04.01.2020</date>
-	<index><i>Donald Knuth</i><i>Artificial Intelligence</i><i>Lex Fridman</i></index>
+	<index><i>Donald Knuth</i><i>Artificial Intelligence</i><i>Lex Fridman</i><i>Alan Turing</i></index>
 	<tags><t>Technologie</t><t>Philosophie</t></tags>
 </item>
 </content>
