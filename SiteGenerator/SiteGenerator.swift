@@ -1,5 +1,14 @@
 import Foundation
 
+extension String {
+    
+    func convertToUrlPath() -> String {
+        var path = self.folding(options: .diacriticInsensitive, locale: .current)
+        path = path.replacingOccurrences(of: " ", with: "-")
+        return path.addingPercentEncoding(withAllowedCharacters: .urlPathAllowed)!
+    }    
+}
+
 struct SiteGenerator {
     
     private let posts: [Item]

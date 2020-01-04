@@ -36,7 +36,7 @@ class IndexItem {
     }
     
     private func createLinkUrl() -> String {
-        return Page.baseUrl + "index/" + key + "/"
+        return Page.baseUrl + "index/" + key.convertToUrlPath() + "/"
     }
     
     private func createLinkTitle() -> SmlNode {

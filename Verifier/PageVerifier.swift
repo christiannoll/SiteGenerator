@@ -14,6 +14,7 @@ class PageVerifier {
         loadArchivePage()
         loadArchiveMonthPages()
         loadIndexPage()
+        loadIndexItemPages()
         loadTagsPage()
         loadTagItemPages()
         loadImpressumPage()
@@ -56,6 +57,17 @@ class PageVerifier {
         loadPage(relPath: "index/index.html")
     }
     
+    private func loadIndexItemPages() {
+        let indexFactory = IndexFactory()
+        let index = indexFactory.createIndex(posts)
+        
+        let indexItems = index.indexItems
+        for indexItem in indexItems {
+            let relPath = "index/" + indexItem.key.convertToUrlPath() + "/index.html"
+            loadPage(relPath: relPath)
+        }
+    }
+    
     private func loadTagsPage() {
         loadPage(relPath: "tags/index.html")
     }
@@ -66,7 +78,7 @@ class PageVerifier {
         
         let tagItems = tags.tagItems
         for tagItem in tagItems {
-            let relPath = "tags/" + tagItem.key + "/index.html"
+            let relPath = "tags/" + tagItem.key.convertToUrlPath() + "/index.html"
             loadPage(relPath: relPath)
         }
     }

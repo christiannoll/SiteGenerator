@@ -32,7 +32,7 @@ class PageWriter {
     }
     
     public func writeIndexItemPage(_ indexItem: IndexItem, _ content: String) {
-        let relPath = "index/" + indexItem.key + "/"
+        let relPath = "index/" + indexItem.key.convertToUrlPath() + "/"
         writeHtmlFile(content, relPath, "index.html")
     }
     
@@ -41,7 +41,7 @@ class PageWriter {
     }
     
     public func writeTagItemPage(_ tagItem: TagItem, _ content: String) {
-        let relPath = "tags/" + tagItem.key + "/"
+        let relPath = "tags/" + tagItem.key.convertToUrlPath() + "/"
         writeHtmlFile(content, relPath, "index.html")
     }
     
