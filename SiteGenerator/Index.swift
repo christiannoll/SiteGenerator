@@ -4,6 +4,10 @@ class Index {
     
     private var _indexItems: [IndexItem]
     
+    var indexItems: [IndexItem] {
+        get { return _indexItems }
+    }
+    
     fileprivate init() {
         _indexItems = []
     }
@@ -24,15 +28,20 @@ class Index {
     
     func renderIndex() -> SmlNode {
         var divChildren: [SmlNode] = []
+        divChildren.append(newLine)
+        let h_4 = h4([.text("Index")])
+        divChildren.append(h_4)
+        divChildren.append(newLine)
+        
+        var ulChildren: [SmlNode] = []
         
         for indexItem in _indexItems {
-            divChildren.append(newLine)
-            let h_4 = h4([.text(indexItem.key)])
-            divChildren.append(h_4)
-            divChildren.append(newLine)
-            divChildren.append(indexItem.renderIndexItem())
+            ulChildren.append(indexItem.renderIndexItem())
+            ulChildren.append(newLine)
         }
         
+        let u_l = ul(ulChildren)
+        divChildren.append(u_l)
         divChildren.append(newLine)
         let div = div_blogArchiveIndex(divChildren)
         return div

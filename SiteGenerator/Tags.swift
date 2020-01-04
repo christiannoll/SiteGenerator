@@ -52,6 +52,7 @@ class Tags {
         
         for tagItem: TagItem in _tagItems {
             ulChildren.append(tagItem.renderTagItem())
+            ulChildren.append(newLine)
         }
         
         let u_l = ul(ulChildren)

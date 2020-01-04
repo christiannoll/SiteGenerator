@@ -37,6 +37,12 @@ struct SiteGenerator {
         let indexPage = IndexPage(index)
         writer.writeIndexPage(indexPage.render())
         
+        let indexItems = index.indexItems
+        for indexItem in indexItems {
+            let page = IndexItemPage(indexItem)
+            writer.writeIndexItemPage(indexItem, page.render())
+        }
+        
         let tagsFactory = TagsFactory()
         let tags = tagsFactory.createTags(posts)
         let tagsPage = TagsPage(tags)

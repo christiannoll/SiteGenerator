@@ -19,18 +19,27 @@ class IndexItem {
     }
     
     public func renderIndexItem() -> SmlNode {
-        var ulChildren: [SmlNode] = [newLine]
+        var liChildren: [SmlNode] = []
+        let link = a([href => createLinkUrl()], [createLinkTitle()])
+        liChildren.append(link)
+        let l = li(liChildren)
+        return l
+    }
+    
+    public func renderIndexItemPosts() -> [SmlNode] {
+        var indexItemPosts: [SmlNode] = [newLine]
         
         for post: Item in posts {
-            var liChildren: [SmlNode] = []
-            let link = postBuilder.createPostLink(post)
-            liChildren.append(link)
-            let l = li(liChildren)
-            ulChildren.append(l)
-            ulChildren.append(newLine)
+            indexItemPosts.append(post.renderPost())
         }
-        
-        let u = ul(ulChildren)
-        return u
+        return indexItemPosts
+    }
+    
+    private func createLinkUrl() -> String {
+        return Page.baseUrl + "index/" + key + "/"
+    }
+    
+    private func createLinkTitle() -> SmlNode {
+        return .text(key + " (" + String(posts.count) + ")")
     }
 }
