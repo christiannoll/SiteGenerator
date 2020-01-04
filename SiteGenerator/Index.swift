@@ -18,6 +18,10 @@ class Index {
         }
     }
     
+    func sort() {
+        _indexItems.sort { $0.key < $1.key }
+    }
+    
     func renderIndex() -> SmlNode {
         var divChildren: [SmlNode] = []
         
@@ -63,6 +67,7 @@ class IndexFactory {
             index.addPost(post)
         }
         
+        index.sort()
         return index
     }
 }
