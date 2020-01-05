@@ -22,7 +22,11 @@ class PageWriter {
     
     public func writeArchiveMonthPage(_ archiveMonth: ArchiveMonth, _ content: String) {
         var relPath = archiveMonth.yearName + "/"
-        relPath.append(String(archiveMonth.month))
+        var month = String(archiveMonth.month)
+        if month.count == 1 {
+            month = "0" + month
+        }
+        relPath.append(month)
         relPath.append("/")
         writeHtmlFile(content, relPath, "index.html")
     }

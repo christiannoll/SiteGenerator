@@ -32,11 +32,11 @@
 	<tags><t>Gesellschaft</t><t>Biologie</t></tags>
 </item>
 <item type="text">
-	<name>rhythmus</name>
-	<title>Rhythmus</title>
+	<name>variation</name>
+	<title>Variation</title>
 	<data>wiederholung, wiederholung, wiederholung, wiederholung, wiederholung, wiederholung, _ABWEICHUNG_, wiederholung, wiederholung, wiederholung, wiederholung, wiederholung, _ABWEICHUNG_, wiederholung, wiederholung</data>
 	<date>23.12.2019</date>
-	<index><i>Sprache</i></index>
+	<index><i>Semiotik</i><i>Rhythmus</i></index>
 	<tags><t>Allgemein</t></tags>
 </item>
 <item type="image" height="200" width="200">
@@ -50,9 +50,25 @@
 <item type="text">
 	<name>donald_knuth</name>
 	<title>Donald Knuth im Interview mit Lex Fridman</title>
-	<data>Informatik-Legende [Donald Knuth](https://de.wikipedia.org/wiki/Donald_E._Knuth) im [Podcast-Interview](https://www.youtube.com/watch?v=2BdBfsXbST8) mit [Lex Fridman](https://lexfridman.com/). Die beiden sprechen u.a. über [Alan Turing](https://de.wikipedia.org/wiki/Alan_Turing), [The Art of Computer Programming](https://de.wikipedia.org/wiki/The_Art_of_Computer_Programming), [TeX](https://de.wikipedia.org/wiki/TeX) und Typogaphie, [P=NP](https://de.wikipedia.org/wiki/P-NP-Problem), Gott und die [Bibel](https://de.wikipedia.org/wiki/Bibel) sowie das eigene Leben und Sterben.</data>
+	<data>Die Informatik-Legende [Donald Knuth](https://de.wikipedia.org/wiki/Donald_E._Knuth) im [Podcast-Interview](https://www.youtube.com/watch?v=2BdBfsXbST8) mit [Lex Fridman](https://lexfridman.com/). Die Beiden sprechen u.a. über [Alan Turing](https://de.wikipedia.org/wiki/Alan_Turing), [The Art of Computer Programming](https://de.wikipedia.org/wiki/The_Art_of_Computer_Programming), [TeX](https://de.wikipedia.org/wiki/TeX) und Typogaphie, [P=NP](https://de.wikipedia.org/wiki/P-NP-Problem), Gott und die [Bibel](https://de.wikipedia.org/wiki/Bibel) sowie das eigene Leben und Sterben.</data>
 	<date>04.01.2020</date>
 	<index><i>Donald Knuth</i><i>Artificial Intelligence</i><i>Lex Fridman</i><i>Alan Turing</i></index>
 	<tags><t>Technologie</t><t>Philosophie</t></tags>
+</item>
+<item type="text">
+	<name>villa_cavrois</name>
+	<title>Moderne Architektur: Villa Cavrois</title>
+	<data>Eine eindrucksvolle [Dokumentation](https://artsandculture.google.com/exhibit/explore-the-villa-cavrois/KgLiROJxNKdJLg) auf Google Arts &amp; Culture über die [Villa Cavrois](https://en.wikipedia.org/wiki/Villa_Cavrois) des französischen Architekten [Robert Mallet-Stevens](https://de.wikipedia.org/wiki/Robert_Mallet-Stevens) mit beeindruckenden Fotos und einem Video über die aufwendige Restaurierung der [Villa](http://www.villa-cavrois.fr/), die heute als Meilenstein der modernen Architektur gilt.</data>
+	<date>05.01.2020</date>
+	<index><i>Villa Cavrois</i><i>Robert Mallet-Stevens</i></index>
+	<tags><t>Architektur</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>dresses</name>
+	<title>Dresses</title>
+	<data>dresses_small.png</data>
+	<date>07.01.2020</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
 </item>
 </content>
