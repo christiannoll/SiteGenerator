@@ -25,9 +25,9 @@ class StatisticPage : Page {
         pChildren.append(br())
         pChildren.append(.text("Anzahl davon Fotos: " + String(data.numberOfPhotos)))
         pChildren.append(br())
-        pChildren.append(.text("Anzahl an Indices: " + String(data.numberOfIndexItems)))
+        pChildren.append(.text("Index: " + String(data.numberOfIndexItems)))
         pChildren.append(br())
-        pChildren.append(.text("Anzahl an Kategorien: " + String(data.numberOfTagItems)))
+        pChildren.append(.text("Kategorien: " + String(data.numberOfTagItems)))
         pChildren.append(br())
         
         return p(pChildren)

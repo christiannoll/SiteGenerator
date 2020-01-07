@@ -11,6 +11,7 @@ class PageVerifier {
     func verify() {
         loadHomePage()
         loadPostPages()
+        loadPostLinks()
         loadArchivePage()
         loadArchiveMonthPages()
         loadIndexPage()
@@ -31,6 +32,61 @@ class PageVerifier {
             relPath.append(post.name)
             relPath.append("/index.html")
             loadPage(relPath: relPath)
+        }
+    }
+    
+    private func loadPostLinks() {
+        for post in posts {
+            let markdownNodes = MarkdownParser.parse(text: post.data)
+            var links: [String: String] = [:]
+            parse(markdownNodes, &links)
+            links.forEach { loadUrl(($0,$1)) }
+        }
+    }
+    
+    private func parse(_ markdownNodes: [MarkdownNode], _ links: inout [String: String]) {
+        for markDownNode: MarkdownNode in markdownNodes {
+            switch markDownNode {
+            case .bold(let nodes):
+                parse(nodes, &links)
+            case .italic(let nodes):
+                parse(nodes, &links)
+            case .parenthesis(let nodes):
+                parse(nodes, &links)
+            case .brackets(let nodes):
+                parse(nodes, &links)
+            case .olistelement(let nodes):
+                parse(nodes, &links)
+            case .ulistelement(let nodes):
+                parse(nodes, &links)
+            case .link(let nodes):
+                var strings: [String] = []
+                parseLink(nodes, &strings)
+                if strings.count == 2 {
+                    links[strings[0]] = strings[1]
+                }
+            case .ulist(let nodes):
+                parse(nodes, &links)
+            case .olist(let nodes):
+                parse(nodes, &links)
+            default:
+                break
+            }
+        }
+    }
+    
+    private func parseLink(_ markdownNodes: [MarkdownNode], _ strings: inout [String]) {
+        for markDownNode: MarkdownNode in markdownNodes {
+            switch markDownNode {
+            case .text(let text):
+                strings.append(text)
+            case .parenthesis(let nodes):
+                parseLink(nodes, &strings)
+            case .brackets(let nodes):
+                parseLink(nodes, &strings)
+            default:
+                break
+            }
         }
     }
     
@@ -92,10 +148,22 @@ class PageVerifier {
         pageLoader.loadPage(from: Page.baseUrl + relPath) { (response, urlString) in
             
             guard let response = response as? HTTPURLResponse, (200...299).contains(response.statusCode) else {
-                print("Error- loading: " + urlString)
+                print("Error- loading page: " + urlString)
                 return
             }
-            print("OK- loading: " + urlString)
+            print("OK- loading page: " + urlString)
+        }
+    }
+    
+    private func loadUrl(_ link: (String,String)) {
+        let pageLoader = PageLoader()
+        pageLoader.loadPage(from: link.1) { (response, urlString) in
+            
+            guard let response = response as? HTTPURLResponse, (200...299).contains(response.statusCode) else {
+                print("Error- loading \(link.0): " + urlString)
+                return
+            }
+            print("OK- loading \(link.0): " + urlString)
         }
     }
 }
