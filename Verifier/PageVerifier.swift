@@ -102,7 +102,11 @@ class PageVerifier {
         for year in archiveYears {
             for month in year.months {
                 var relPath = month.yearName + "/"
-                relPath.append(String(month.month))
+                var monthStr = String(month.month)
+                if monthStr.count == 1 {
+                    monthStr = "0" + monthStr
+                }
+                relPath.append(monthStr)
                 relPath.append("/index.html")
                 loadPage(relPath: relPath)
             }
@@ -157,13 +161,13 @@ class PageVerifier {
     
     private func loadUrl(_ link: (String,String)) {
         let pageLoader = PageLoader()
-        pageLoader.loadPage(from: link.1) { (response, urlString) in
+        pageLoader.loadPage(from: link.0) { (response, urlString) in
             
             guard let response = response as? HTTPURLResponse, (200...299).contains(response.statusCode) else {
-                print("Error- loading \(link.0): " + urlString)
+                print("Error- loading \(link.1): " + urlString)
                 return
             }
-            print("OK- loading \(link.0): " + urlString)
+            print("OK- loading \(link.1): " + urlString)
         }
     }
 }

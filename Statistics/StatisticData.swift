@@ -6,6 +6,7 @@ struct StatisticData {
     var numberOfPhotos: Int = 0
     var numberOfIndexItems: Int = 0
     var numberOfTagItems: Int = 0
+    var numberOfAllLinks: Int = 0
     
     var postsData: [PostStatisticData] = []
 }

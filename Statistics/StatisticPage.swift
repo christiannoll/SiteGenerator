@@ -29,6 +29,8 @@ class StatisticPage : Page {
         pChildren.append(br())
         pChildren.append(.text("Kategorien: " + String(data.numberOfTagItems)))
         pChildren.append(br())
+        pChildren.append(.text("Links: " + String(data.numberOfAllLinks)))
+        pChildren.append(br())
         
         return p(pChildren)
     }
