@@ -108,6 +108,14 @@ class Page {
         navChildren.append(para)
         navChildren.append(newLine)
         
+        var pChildren2: [SmlNode] = []
+        let impressum = a([href => (Page.baseUrl + "impressum")], ["Impressum"])
+        pChildren2.append(impressum)
+        
+        let para2 = p(pChildren2)
+        navChildren.append(para2)
+        navChildren.append(newLine)
+        
         let n = nav(navChildren)
         return n
     }
@@ -116,8 +124,7 @@ class Page {
         var footerChildren: [SmlNode] = [newLine, tab]
         
         var pChildren: [SmlNode] = []
-        let tags = a([href => (Page.baseUrl + "impressum")], ["Impressum"])
-        pChildren.append(tags)
+        pChildren.append(.text("© 2019-2020 v.n.z.n"))
         
         let para = p(pChildren)
         footerChildren.append(para)
