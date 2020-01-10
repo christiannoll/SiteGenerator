@@ -205,6 +205,7 @@ class MarkdownTokenizer {
         // followed by whitespace or punctuation
         guard !CharacterSet.whitespacesAndNewlines.contains(p) &&
             CharacterSet.whitespaceAndPunctuation.contains(n) &&
+            delimiter != n &&
             (leftDelimiters.contains(delimiter) || leftDelimiters.contains(CharacterSet.getLeftDelimiter(rightDelimiter:delimiter))) else {
                 return nil
         }

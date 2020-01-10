@@ -71,4 +71,12 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text">
+	<name>typeset_future</name>
+	<title>Typeset in the future</title>
+	<data>[Alien](https://de.wikipedia.org/wiki/Alien_%E2%80%93_Das_unheimliche_Wesen_aus_einer_fremden_Welt), [Moon](https://de.wikipedia.org/wiki/Moon_(Film)), [WALL·E](https://de.wikipedia.org/wiki/WALL%C2%B7E_%E2%80%93_Der_Letzte_r%C3%A4umt_die_Erde_auf), [Blade Runner](https://de.wikipedia.org/wiki/Blade_Runner), [2001: Odyssee im Weltraum](https://de.wikipedia.org/wiki/2001:_Odyssee_im_Weltraum)</data>
+	<date>11.01.2020</date>
+	<index><i>Typographie</i><i>Dave Addey</i></index>
+	<tags><t>Film</t></tags>
+</item>
 </content>
