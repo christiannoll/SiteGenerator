@@ -86,16 +86,27 @@ class PageVerifier {
     private func parseLink(_ markdownNodes: [MarkdownNode], _ strings: inout [String]) {
         for markDownNode: MarkdownNode in markdownNodes {
             switch markDownNode {
-            case .text(let text):
-                strings.append(text)
             case .parenthesis(let nodes):
-                parseLink(nodes, &strings)
+                strings.append(parseLinkText(nodes))
             case .brackets(let nodes):
-                parseLink(nodes, &strings)
+                strings.append(parseLinkText(nodes))
             default:
                 break
             }
         }
+    }
+    
+    private func parseLinkText(_ markdownNodes: [MarkdownNode]) -> String {
+        var s = ""
+        for markDownNode: MarkdownNode in markdownNodes {
+            switch markDownNode {
+            case .text(let text):
+                s.append(text)
+            default:
+                break
+            }
+        }
+        return s
     }
     
     private func loadArchivePage() -> Bool {
