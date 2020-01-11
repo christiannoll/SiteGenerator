@@ -21,6 +21,14 @@ class ImpressumPage: Page {
         mainChildren.append(createDataProtectionText2())
         
         mainChildren.append(newLine)
+        
+        let h_C = h4([.text("© Copyright 2019-2020 – Urheberrechtshinweis")])
+        mainChildren.append(h_C)
+        mainChildren.append(newLine)
+        mainChildren.append(createCopyrightText())
+        
+        mainChildren.append(newLine)
+        
         return main(mainChildren)
     }
     
@@ -48,6 +56,11 @@ class ImpressumPage: Page {
     
     private func createDataProtectionText2() -> SmlNode {
         let s = "Abgesehen davon werden keine Daten erhoben, gespeichert oder ausgewertet."
+        return p([.text(s)])
+    }
+    
+    private func createCopyrightText() -> SmlNode {
+        let s = "Alle Inhalte dieses Internetangebotes, insbesondere Texte, Fotografien und Grafiken, sind urheberrechtlich geschützt. Das Urheberrecht liegt, soweit nicht ausdrücklich anders gekennzeichnet, bei Christian Noll. Bitte fragen Sie mich, falls Sie die Inhalte dieses Internetangebotes verwenden möchten."
         return p([.text(s)])
     }
 }
