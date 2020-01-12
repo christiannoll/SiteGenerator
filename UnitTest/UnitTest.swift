@@ -11,6 +11,20 @@ class UnitTest: XCTestCase {
     override func tearDown() {
     }
     
+    func testUnorderedListWithUrl() {
+        let s = "* One\t * [Two](url)\t"
+        let text = smlBuilder.render(s)
+        
+        XCTAssertEqual(text, "<ul><li>One</li><li><a href=\"url\">Two</a></li></ul>")
+    }
+    
+    func testOrderedListWithUrl() {
+        let s = "1. One\t 2. [Two](url)\t"
+        let text = smlBuilder.render(s)
+        
+        XCTAssertEqual(text, "<ol><li>One</li><li><a href=\"url\">Two</a></li></ol>")
+    }
+    
     func testLinkWithParenthesis() {
         let s = "text1 [title](url_(part)) text2"
         let text = smlBuilder.render(s)

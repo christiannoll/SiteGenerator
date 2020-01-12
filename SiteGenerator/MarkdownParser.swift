@@ -104,6 +104,10 @@ public class MarkdownParser {
                     nodes.append(MarkdownNode(delimiter: " ", children: newElements)!)
                 }
                 bracketsNode = nil
+            case .ulistelement(let listElements):
+                nodes.append(.ulistelement(parseLinks(elements: listElements)))
+            case .olistelement(let listElements):
+                nodes.append(.olistelement(parseLinks(elements: listElements)))
             default:
                 if bracketsNode != nil {
                     nodes.append(bracketsNode!)

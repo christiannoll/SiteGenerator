@@ -3,7 +3,7 @@ import Foundation
 class HomePage : Page {
     
     private var posts: [Item]
-    private let max_number_of_posts = 10
+    private let max_number_of_posts = 20
     
     init(_ posts: [Item]) {
         self.posts = posts
