@@ -54,14 +54,8 @@ class SiteStatistics {
     }
     
     private func calcWordCount(_ post: Item) -> Int {
-        var number = 0
-        let words = post.data.components(separatedBy: CharacterSet.whitespaceAndPunctuation)
-        for word in words {
-            if word.count > 1 {
-                number += 1
-            }
-        }
-        return number
+        let markdownNodes = MarkdownParser.parse(text: post.data)
+        return parseNumberOfWords(markdownNodes)
     }
     
     private func convertDateToString(_ post: Item) -> String {
@@ -105,5 +99,54 @@ class SiteStatistics {
             }
         }
         return numberOfLinks
+    }
+    
+    private func parseNumberOfWords(_ markdownNodes: [MarkdownNode]) -> Int {
+        var numberOfWords = 0
+        for markDownNode: MarkdownNode in markdownNodes {
+            switch markDownNode {
+            case .text(let text):
+                let words = text.components(separatedBy: CharacterSet.whitespaceAndPunctuation)
+                for word in words {
+                    if word.count > 1 {
+                        numberOfWords += 1
+                    }
+                }
+            case .bold(let nodes):
+                numberOfWords += parseNumberOfWords(nodes)
+            case .italic(let nodes):
+                numberOfWords += parseNumberOfWords(nodes)
+            case .parenthesis(let nodes):
+                numberOfWords += parseNumberOfWords(nodes)
+            case .brackets(let nodes):
+                numberOfWords += parseNumberOfWords(nodes)
+            case .olistelement(let nodes):
+                numberOfWords += parseNumberOfWords(nodes)
+            case .ulistelement(let nodes):
+                numberOfWords += parseNumberOfWords(nodes)
+            case .link(let nodes):
+                numberOfWords += parseNumberOfWordsInLink(nodes)
+            case .ulist(let nodes):
+                numberOfWords += parseNumberOfWords(nodes)
+            case .olist(let nodes):
+                numberOfWords += parseNumberOfWords(nodes)
+            default:
+                break
+            }
+        }
+        return numberOfWords
+    }
+    
+    private func parseNumberOfWordsInLink(_ markdownNodes: [MarkdownNode]) -> Int {
+        var numberOfWords = 0
+        for markDownNode: MarkdownNode in markdownNodes {
+            switch markDownNode {
+            case .brackets(let nodes):
+                numberOfWords += parseNumberOfWords(nodes)
+            default:
+                break
+            }
+        }
+        return numberOfWords
     }
 }
