@@ -2,7 +2,7 @@ import Foundation
 
 class HomePage : Page {
     
-    private let posts: [Item]
+    private var posts: [Item]
     private let max_number_of_posts = 10
     
     init(_ posts: [Item]) {
@@ -10,6 +10,7 @@ class HomePage : Page {
     }
     
     override func renderContent() -> SmlNode {
+        sortCurrentFirst()
         var mainChildren: [SmlNode] = [newLine]
         for post: Item in posts {
             mainChildren.append(post.renderPost())
@@ -23,5 +24,9 @@ class HomePage : Page {
         
         mainChildren.append(newLine)
         return main(mainChildren)
+    }
+    
+    private func sortCurrentFirst() {
+        posts.sort { $0.date! > $1.date! }
     }
 }
