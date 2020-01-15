@@ -15,7 +15,7 @@ class ArchiveMonthPage : Page {
         mainChildren.append(h_1)
         
         let posts = archiveMonth.renderMonthPosts()
-        for post: SmlNode in posts {
+        for post in posts {
             mainChildren.append(post)
         }
         

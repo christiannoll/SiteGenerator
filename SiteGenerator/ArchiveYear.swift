@@ -30,7 +30,7 @@ class ArchiveYear {
         if _months.count > 0 {
             var ulChildren: [SmlNode] = []
             
-            for month: ArchiveMonth in _months {
+            for month in _months {
                 ulChildren.append(month.renderMonth())
                 ulChildren.append(newLine)
             }
@@ -44,7 +44,7 @@ class ArchiveYear {
     }
     
     private func getMonth(_ post: Item) -> ArchiveMonth {
-        for month: ArchiveMonth in _months {
+        for month in _months {
             let comps = Calendar.current.dateComponents([.month], from: post.date!)
             if comps.month! == month.month {
                 return month

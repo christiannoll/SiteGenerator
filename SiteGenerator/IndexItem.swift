@@ -29,7 +29,7 @@ class IndexItem {
     public func renderIndexItemPosts() -> [SmlNode] {
         var indexItemPosts: [SmlNode] = [newLine]
         
-        for post: Item in posts {
+        for post in posts {
             indexItemPosts.append(post.renderPost())
         }
         return indexItemPosts

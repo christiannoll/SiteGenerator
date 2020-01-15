@@ -26,7 +26,7 @@ class TagItem {
     public func renderTagItemPosts() -> [SmlNode] {
         var tagItemPosts: [SmlNode] = [newLine]
         
-        for post: Item in posts {
+        for post in posts {
             tagItemPosts.append(post.renderPost())
         }
         return tagItemPosts

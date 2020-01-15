@@ -53,7 +53,7 @@ class PageVerifier {
     }
     
     private func parse(_ markdownNodes: [MarkdownNode], _ links: inout [String: String]) {
-        for markDownNode: MarkdownNode in markdownNodes {
+        for markDownNode in markdownNodes {
             switch markDownNode {
             case .bold(let nodes):
                 parse(nodes, &links)
@@ -84,7 +84,7 @@ class PageVerifier {
     }
     
     private func parseLink(_ markdownNodes: [MarkdownNode], _ strings: inout [String]) {
-        for markDownNode: MarkdownNode in markdownNodes {
+        for markDownNode in markdownNodes {
             switch markDownNode {
             case .parenthesis(let nodes):
                 strings.append(parseLinkText(nodes))
@@ -98,7 +98,7 @@ class PageVerifier {
     
     private func parseLinkText(_ markdownNodes: [MarkdownNode]) -> String {
         var s = ""
-        for markDownNode: MarkdownNode in markdownNodes {
+        for markDownNode in markdownNodes {
             switch markDownNode {
             case .text(let text):
                 s.append(text)

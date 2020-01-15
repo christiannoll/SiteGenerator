@@ -12,7 +12,7 @@ class HomePage : Page {
     override func renderContent() -> SmlNode {
         sortCurrentFirst()
         var mainChildren: [SmlNode] = [newLine]
-        for post: Item in posts {
+        for post in posts {
             mainChildren.append(post.renderPost())
             if mainChildren.count > max_number_of_posts {
                 break

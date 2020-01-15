@@ -49,9 +49,9 @@ class Index {
     
     private func getIndexItems(_ post: Item) -> [IndexItem] {
         var indexItems: [IndexItem] = []
-        for index: String in post.indices {
+        for index in post.indices {
             var found = false
-            for indexItem: IndexItem in _indexItems {
+            for indexItem in _indexItems {
                 if index == indexItem.key {
                     indexItems.append(indexItem)
                     found = true
@@ -72,7 +72,7 @@ class IndexFactory {
     public func createIndex(_ posts: [Item]) -> Index {
         let index = Index()
         
-        for post: Item in posts {
+        for post in posts {
             index.addPost(post)
         }
         

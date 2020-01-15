@@ -17,7 +17,7 @@ public class SmlBuilder {
     
     private func parse(_ markdownNodes: [MarkdownNode]) -> String {
         var s = ""
-        for markDownNode: MarkdownNode in markdownNodes {
+        for markDownNode in markdownNodes {
             switch markDownNode {
             case .linebreak:
                 s.append("</p>\n\t\t<p>")
@@ -64,7 +64,7 @@ public class SmlBuilder {
     
     private func parseLink(_ markdownNodes: [MarkdownNode]) -> String {
         var s = ""
-        for markDownNode: MarkdownNode in markdownNodes {
+        for markDownNode in markdownNodes {
             switch markDownNode {
             case .text(let text):
                 s.append(text)

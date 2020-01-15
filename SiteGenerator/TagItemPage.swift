@@ -15,7 +15,7 @@ class TagItemPage : Page {
         mainChildren.append(h_1)
         
         let posts = tagItem.renderTagItemPosts()
-        for post: SmlNode in posts {
+        for post in posts {
             mainChildren.append(post)
         }
         

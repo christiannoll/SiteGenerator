@@ -43,7 +43,7 @@ class ArchiveMonth {
     public func renderMonthPosts() -> [SmlNode] {
         var monthPosts: [SmlNode] = [newLine]
         
-        for post: Item in posts {
+        for post in posts {
             monthPosts.append(post.renderPost())
         }
         return monthPosts

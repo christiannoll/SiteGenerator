@@ -20,7 +20,7 @@ class Archive {
     public func renderArchiveIndex() -> SmlNode {
         var divChildren: [SmlNode] = []
         
-        for year: ArchiveYear in _years {
+        for year in _years {
             let h_4 = h4([.text(year.name)])
             divChildren.append(h_4)
             divChildren.append(newLine)
@@ -32,7 +32,7 @@ class Archive {
     }
     
     private func getYear(_ post: Item) -> ArchiveYear {
-        for year: ArchiveYear in _years {
+        for year in _years {
             let comps = Calendar.current.dateComponents([.year], from: post.date!)
             if comps.year! == year.year {
                 return year

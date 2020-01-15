@@ -15,7 +15,7 @@ class IndexItemPage : Page {
         mainChildren.append(h_1)
         
         let posts = indexItem.renderIndexItemPosts()
-        for post: SmlNode in posts {
+        for post in posts {
             mainChildren.append(post)
         }
         

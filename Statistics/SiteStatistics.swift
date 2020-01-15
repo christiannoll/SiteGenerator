@@ -73,7 +73,7 @@ class SiteStatistics {
     
     private func parse(_ markdownNodes: [MarkdownNode]) -> Int {
         var numberOfLinks = 0
-        for markDownNode: MarkdownNode in markdownNodes {
+        for markDownNode in markdownNodes {
             switch markDownNode {
             case .bold(let nodes):
                 numberOfLinks += parse(nodes)
@@ -103,7 +103,7 @@ class SiteStatistics {
     
     private func parseNumberOfWords(_ markdownNodes: [MarkdownNode]) -> Int {
         var numberOfWords = 0
-        for markDownNode: MarkdownNode in markdownNodes {
+        for markDownNode in markdownNodes {
             switch markDownNode {
             case .text(let text):
                 let words = text.components(separatedBy: CharacterSet.whitespaceAndPunctuation)
@@ -139,7 +139,7 @@ class SiteStatistics {
     
     private func parseNumberOfWordsInLink(_ markdownNodes: [MarkdownNode]) -> Int {
         var numberOfWords = 0
-        for markDownNode: MarkdownNode in markdownNodes {
+        for markDownNode in markdownNodes {
             switch markDownNode {
             case .brackets(let nodes):
                 numberOfWords += parseNumberOfWords(nodes)
