@@ -1,7 +1,8 @@
 import Foundation
 
 let contentParser = ContentParser()
-let posts = contentParser.parse()
+var posts = contentParser.parse()
+posts.sort { $0.date! > $1.date! }
 
 let generator = SiteGenerator(posts)
 generator.generate()

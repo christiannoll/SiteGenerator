@@ -10,7 +10,6 @@ class HomePage : Page {
     }
     
     override func renderContent() -> SmlNode {
-        sortCurrentFirst()
         var mainChildren: [SmlNode] = [newLine]
         for post in posts {
             mainChildren.append(post.renderPost())
@@ -24,9 +23,5 @@ class HomePage : Page {
         
         mainChildren.append(newLine)
         return main(mainChildren)
-    }
-    
-    private func sortCurrentFirst() {
-        posts.sort { $0.date! > $1.date! }
     }
 }

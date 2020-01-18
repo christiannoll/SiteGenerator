@@ -82,7 +82,7 @@
 <item type="text">
 	<name>kunst_rezept</name>
 	<title>Kunst nach Rezept</title>
-	<data>Für ein mittelgroßes Kunstwerk benötigt man folgende Zutaten:
+	<data>Für ein mittelgroßes Kunstwerk werden folgende Zutaten benötigt:
 		- 200g einer originellen [Idee](https://de.wikipedia.org/wiki/Idee)
 		- 1 Eßlöffel Inspiration
 		- 2 Messerspitzen Talent
@@ -99,5 +99,13 @@
 	<date>14.01.2020</date>
 	<index></index>
 	<tags><t>Foto</t></tags>
+</item>
+<item type="text">
+	<name>serie_part_1</name>
+	<title>Serie: Part 1</title>
+	<data>Die serielle Wortproduktion als [Assoziationskette](https://de.wikipedia.org/wiki/Assoziationskette) zur Bedeutungsschöpfung mit Satzvariationen, deren verschachtelte Muster den Rhythmus der Sprache und Gedanken formen.</data>
+	<date>17.01.2020</date>
+	<index><i>Serie</i></index>
+	<tags><t>Allgemein</t></tags>
 </item>
 </content>
