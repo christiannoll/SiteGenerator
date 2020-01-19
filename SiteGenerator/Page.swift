@@ -3,6 +3,7 @@ import Foundation
 class Page {
     
     public static let baseUrl = "http://localhost:8000/"
+    //public static let baseUrl = "https://www.vnzn.de/"
     
     public func render() -> String {
         var htmlChildren: [SmlNode] = []

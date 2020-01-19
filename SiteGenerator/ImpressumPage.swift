@@ -45,7 +45,7 @@ class ImpressumPage: Page {
     }
     
     private func createEmail() -> SmlNode {
-        let email = "Email: input (at) vnzn (punkt) de"
+        let email = "Email: webmaster (at) vnzn (punkt) de"
         return p([.text(email)])
     }
     
