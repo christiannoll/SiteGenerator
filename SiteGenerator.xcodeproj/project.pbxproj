@@ -21,6 +21,7 @@
 		D65AD6BA239D4BD800BFA862 /* ImpressumPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D65AD6B9239D4BD800BFA862 /* ImpressumPage.swift */; };
 		D65D75BD23ABED9F00490D17 /* SmlBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = D65D75BC23ABED9F00490D17 /* SmlBuilder.swift */; };
 		D676120D237F43960042F55D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D676120C237F43960042F55D /* main.swift */; };
+		D690C72423DA315C00975E72 /* FtpScriptWriter.swift in Sources */ = {isa = PBXBuildFile; fileRef = D690C72323DA315C00975E72 /* FtpScriptWriter.swift */; };
 		D69221C423818FEB0007E774 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = D69221C323818FEB0007E774 /* Item.swift */; };
 		D69221C6238196740007E774 /* ContentParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = D69221C5238196740007E774 /* ContentParser.swift */; };
 		D699D531239A4A01006FE271 /* ArchiveMonthPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D699D530239A4A01006FE271 /* ArchiveMonthPage.swift */; };
@@ -80,6 +81,7 @@
 		D65D75BC23ABED9F00490D17 /* SmlBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmlBuilder.swift; sourceTree = "<group>"; };
 		D6761209237F43960042F55D /* SiteGenerator */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SiteGenerator; sourceTree = BUILT_PRODUCTS_DIR; };
 		D676120C237F43960042F55D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		D690C72323DA315C00975E72 /* FtpScriptWriter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FtpScriptWriter.swift; sourceTree = "<group>"; };
 		D69221C323818FEB0007E774 /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		D69221C5238196740007E774 /* ContentParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentParser.swift; sourceTree = "<group>"; };
 		D699D530239A4A01006FE271 /* ArchiveMonthPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArchiveMonthPage.swift; sourceTree = "<group>"; };
@@ -154,6 +156,7 @@
 				D63B510F239997FA001E7E7B /* ArchivePage.swift */,
 				D63B510D2399673E001E7E7B /* ArchiveYear.swift */,
 				D69221C5238196740007E774 /* ContentParser.swift */,
+				D690C72323DA315C00975E72 /* FtpScriptWriter.swift */,
 				D650F35023930EBB00B2320E /* HomePage.swift */,
 				D65AD6B9239D4BD800BFA862 /* ImpressumPage.swift */,
 				D699D532239A8000006FE271 /* Index.swift */,
@@ -311,6 +314,7 @@
 				D65545B02389B37A00D18FD2 /* SmlNode.swift in Sources */,
 				D6E1929C23A77A82006A7A5C /* SiteGenerator.swift in Sources */,
 				D6C26E6D23C0AF1B0014634C /* IndexItemPage.swift in Sources */,
+				D690C72423DA315C00975E72 /* FtpScriptWriter.swift in Sources */,
 				D676120D237F43960042F55D /* main.swift in Sources */,
 				D6CAB6FF2398488A00C4D2EF /* PageWriter.swift in Sources */,
 				D650F34F23930CC000B2320E /* Page.swift in Sources */,

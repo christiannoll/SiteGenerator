@@ -4,6 +4,12 @@ class PageWriter {
     
     static let baseDir = "/Users/chn/Programmierung/Swift/SiteGenerator/vnzn/"
     
+    private var _generatedFileNames: [String] = []
+    
+    var generatedFileNames: [String] {
+        get { return _generatedFileNames }
+    }
+    
     public func writeHomePage(_ content: String) {
         writeHtmlFile(content, "", "index.html")
     }
@@ -65,6 +71,7 @@ class PageWriter {
             try FileManager.default.createDirectory(atPath: path, withIntermediateDirectories: true, attributes: nil)
             }
             try htmlContent.write(to: URL(fileURLWithPath: path + fileName), atomically: false, encoding: .utf8)
+            _generatedFileNames.append(relPath + fileName)
         }
         catch let error as NSError {
             print("Ooops! Something went wrong: \(error)")

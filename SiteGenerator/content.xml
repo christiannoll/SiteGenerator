@@ -101,11 +101,35 @@
 	<tags><t>Foto</t></tags>
 </item>
 <item type="text">
-	<name>serie_part_1</name>
+	<name>camus_sartre_lange_nacht</name>
 	<title>Zur Freiheit verurteilt</title>
 	<data>Eine [Lange Nacht](https://www.deutschlandfunkkultur.de/lange-nacht-ueber-jean-paul-sartre-und-albert-camus-fremd.1024.de.html?dram:article_id=415455) im Deutschlandfunk über [Albert Camus](https://de.wikipedia.org/wiki/Albert_Camus) und [Jean-Paul Sartre](https://de.wikipedia.org/wiki/Jean-Paul_Sartre) von Christoph David Piorkowski. In den drei Stunden geht es um einen aktuellen Blick auf die Philosophie des [Existentialismus](https://de.wikipedia.org/wiki/Existentialismus), die wechselvolle Beziehung der beiden Männer, ihre Biographien sowie ihre wichtigsten Werke und Ideen.</data>
-	<date>17.01.2020</date>
-	<index><i>Albert Camus</i><i>Jean-Paul Sartre</i></index>
+	<date>19.01.2020</date>
+	<index><i>Albert Camus</i><i>Jean-Paul Sartre</i><i>Existentialismus</i></index>
 	<tags><t>Philosophie</t></tags>
+</item>
+<item type="text">
+	<name>kunst_der_fuge</name>
+	<title>Komplexität: Part 1</title>
+	<data>[Die Kunst der Fuge](https://de.wikipedia.org/wiki/Die_Kunst_der_Fuge) von [Johann Sebastian Bach](https://de.wikipedia.org/wiki/Johann_Sebastian_Bach) ist ein eindrucksvolles Beispiel aus dem Bereich der Musik wie aus simplen Komponenten, in diesem Fall einem einzigen Fugenthema, ein hochkomplexes System entstehen kann. Dabei wendete Bach auf sehr kunstvolle Weise unterschiedlichste Regeln der Fugenkomosition auf das Thema an, so dass am Ende ein einmaliger Zyklus von vierzehn [Fugen](https://de.wikipedia.org/wiki/Fuge_(Musik)) und vier [Kanons](https://de.wikipedia.org/wiki/Kanon_(Musik)) entstand.</data>
+	<date>21.01.2020</date>
+	<index><i>Johann Sebastian Bach</i><i>Die Kunst der Fuge</i><i>Komplexität</i><i>Rhythmus</i></index>
+	<tags><t>Musik</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>space</name>
+	<title>Bridge</title>
+	<data>space_small.png</data>
+	<date>23.01.2020</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
+<item type="text">
+	<name>zeit_gedicht</name>
+	<title>Versuch</title>
+	<data>man kann Sie messen / aber nicht anhalten, man kann Sie nicht sehen / und doch ist Sie da, man kann Sie manchmal vergessen / und Ihr doch nicht entkommen.</data>
+	<date>25.01.2020</date>
+	<index><i>Zeit</i></index>
+	<tags><t>Allgemein</t></tags>
 </item>
 </content>

@@ -65,5 +65,8 @@ struct SiteGenerator {
         
         let impressumPage = ImpressumPage()
         writer.writeImpressumPage(impressumPage.render())
+        
+        let ftpWriter = FtpScriptWriter(writer.generatedFileNames)
+        ftpWriter.writeScript()
     }
 }
