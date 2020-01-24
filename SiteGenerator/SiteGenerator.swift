@@ -18,6 +18,8 @@ struct SiteGenerator {
     }
     
     func generate() {
+        let ftpWriter = FtpScriptWriter()
+        
         let writer = PageWriter()
         
         let homePage = HomePage(posts)
@@ -66,7 +68,6 @@ struct SiteGenerator {
         let impressumPage = ImpressumPage()
         writer.writeImpressumPage(impressumPage.render())
         
-        let ftpWriter = FtpScriptWriter(writer.generatedFileNames)
         ftpWriter.writeScript()
     }
 }

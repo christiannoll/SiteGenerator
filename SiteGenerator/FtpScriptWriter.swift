@@ -2,20 +2,34 @@ import Foundation
 
 class FtpScriptWriter {
     
-    let fileNames: [String]
-    
-    init(_ fileNames: [String]) {
-        self.fileNames = fileNames
-    }
+    private let folderNames = ["2019", "2020", "archive", "images", "impressum", "index", "statistic", "tags"]
     
     func writeScript() {
         var content = ""
-        for name in fileNames {
-            content.append(name)
-            content.append("\n")
+        for folderName in folderNames {
+            let items = getFolderContent(folderName)
+            items.forEach { content.append($0 + "\n") }
         }
-        
         writeScriptFile(content)
+    }
+    
+    private func getFolderContent(_ folderName: String) -> [String] {
+        let fm = FileManager.default
+        let path = PageWriter.baseDir + folderName
+        
+        var items = [String]()
+        
+        let resourceKeys = Set<URLResourceKey>([.nameKey, .isDirectoryKey])
+        let directoryURL = URL(string: path)
+        let directoryEnumerator = fm.enumerator(at: directoryURL!, includingPropertiesForKeys: Array(resourceKeys), options: .skipsHiddenFiles)!
+        let baseUrl = URL(fileURLWithPath: PageWriter.baseDir)
+        while case let fileUrl as URL = directoryEnumerator.nextObject() {
+            //if (!fileUrl.hasDirectoryPath) {
+                items.append(fileUrl.relativePath(from: baseUrl)!)
+            //}
+        }
+                
+        return items
     }
     
     private func writeScriptFile(_ content: String) {
@@ -31,5 +45,30 @@ class FtpScriptWriter {
         catch let error as NSError {
             print("Ooops! Something went wrong: \(error)")
         }
+    }
+}
+
+extension URL {
+    func relativePath(from base: URL) -> String? {
+        // Ensure that both URLs represent files:
+        guard self.isFileURL && base.isFileURL else {
+            return nil
+        }
+        
+        // Remove/replace "." and "..", make paths absolute:
+        let destComponents = self.standardized.pathComponents
+        let baseComponents = base.standardized.pathComponents
+        
+        // Find number of common path components:
+        var i = 0
+        while i < destComponents.count && i < baseComponents.count
+            && destComponents[i] == baseComponents[i] {
+                i += 1
+        }
+        
+        // Build relative path:
+        var relComponents = Array(repeating: "..", count: baseComponents.count - i)
+        relComponents.append(contentsOf: destComponents[i...])
+        return relComponents.joined(separator: "/")
     }
 }
