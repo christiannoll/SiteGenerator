@@ -22,6 +22,8 @@ public class MarkdownParser {
         
         while let token = tokenizer.nextToken() {
             switch token {
+            case .end:
+                fallthrough
             case .tab:
                 if olistElement.count > 0 {
                     let le: MarkdownNode = .olistelement(elements)
@@ -33,7 +35,7 @@ public class MarkdownParser {
                     ulistElement = []
                     return [le]
                 }
-                else {
+                else if token == .tab {
                     elements.append(.linebreak)
                 }
             case .text(let text):
@@ -58,6 +60,10 @@ public class MarkdownParser {
                 
             default:
                 elements.append(.text(token.description))
+            }
+            
+            if token == .end {
+                break
             }
         }
         
@@ -137,6 +143,10 @@ public class MarkdownParser {
                 uList.append(element)
             case .text(let s) where s == " ":
                 break
+            case .linebreak:
+                if oList.count == 0 && uList.count == 0 {
+                    nodes.append(element)
+                }
             default:
                 if oList.count > 0 {
                     nodes.append(.olist(oList))

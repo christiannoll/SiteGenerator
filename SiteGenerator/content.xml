@@ -152,12 +152,11 @@
 <item type="text">
 	<name>descartes_methode</name>
 	<title>René Descartes</title>
-	<data>Philosophische Methode nach René Descartes:
-		1. Skepsis: Nichts für wahr halten, was nicht so klar und deutlich erkannt ist, dass es nicht in Zweifel gezogen werden kann.
-		2. Analyse: Schwierige Probleme in Teilschritten erledigen.
-		3. Konstruktion: Vom Einfachen zum Schwierigen fortschreiten.
-		4. Rekursion: Stets prüfen, ob bei der Untersuchung Vollständigkeit erreicht ist.
-		 das is</data>
+	<data>Philosophische Methode nach [René Descartes](https://de.wikipedia.org/wiki/Ren%C3%A9_Descartes):
+	1. Skepsis: Nichts für wahr halten, was nicht so klar und deutlich erkannt ist, dass es nicht in Zweifel gezogen werden kann.
+	2. Analyse: Schwierige Probleme in Teilschritten erledigen.
+	3. Konstruktion: Vom Einfachen zum Schwierigen fortschreiten.
+	4. Rekursion: Stets prüfen, ob bei der Untersuchung Vollständigkeit erreicht ist.</data>
 	<date>31.01.2020</date>
 	<index><i>René Descartes</i></index>
 	<tags><t>Philosophie</t></tags>

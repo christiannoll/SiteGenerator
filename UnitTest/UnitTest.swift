@@ -25,6 +25,13 @@ class UnitTest: XCTestCase {
         XCTAssertEqual(text, "<ol><li>One</li><li><a href=\"url\">Two</a></li></ol>")
     }
     
+    func testOrderedListWithUrl2() {
+        let s = "1. One\t 2. [Two](url)"
+        let text = smlBuilder.render(s)
+        
+        XCTAssertEqual(text, "<ol><li>One</li><li><a href=\"url\">Two</a></li></ol>")
+    }
+    
     func testLinkWithParenthesis() {
         let s = "text1 [title](url_(part)) text2"
         let text = smlBuilder.render(s)

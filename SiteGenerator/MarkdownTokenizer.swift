@@ -1,6 +1,7 @@
 import Foundation
 
 enum MarkdownToken {
+    case end
     case tab
     case text(String)
     case olistDelimiter(UnicodeScalar)
@@ -14,6 +15,8 @@ extension MarkdownToken: Equatable {}
 extension MarkdownToken: CustomStringConvertible {
     var description: String {
         switch self {
+        case .end:
+            return ""
         case .tab:
             return "\n"
         case .text(let value):
@@ -78,7 +81,7 @@ class MarkdownTokenizer {
     
     func nextToken() -> MarkdownToken? {
         guard let c = current else {
-            return nil
+            return .end
         }
         
         var token: MarkdownToken?
