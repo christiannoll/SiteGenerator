@@ -111,25 +111,55 @@
 <item type="text">
 	<name>kunst_der_fuge</name>
 	<title>Komplexität: Part 1</title>
-	<data>[Die Kunst der Fuge](https://de.wikipedia.org/wiki/Die_Kunst_der_Fuge) von [Johann Sebastian Bach](https://de.wikipedia.org/wiki/Johann_Sebastian_Bach) ist ein eindrucksvolles Beispiel aus dem Bereich der Musik wie aus simplen Komponenten, in diesem Fall einem einzigen Fugenthema, ein hochkomplexes System entstehen kann. Dabei wendete Bach auf sehr kunstvolle Weise unterschiedlichste Regeln der Fugenkomosition auf das Thema an, so dass am Ende ein einmaliger Zyklus von vierzehn [Fugen](https://de.wikipedia.org/wiki/Fuge_(Musik)) und vier [Kanons](https://de.wikipedia.org/wiki/Kanon_(Musik)) entstand.</data>
+	<data>[Die Kunst der Fuge](https://de.wikipedia.org/wiki/Die_Kunst_der_Fuge) von [Johann Sebastian Bach](https://de.wikipedia.org/wiki/Johann_Sebastian_Bach) ist ein eindrucksvolles Beispiel aus dem Bereich der Musik wie aus simplen Komponenten, in diesem Fall einem einzigen Fugenthema, ein hochkomplexes System entstehen kann. Dabei wendete Bach auf sehr kunstvolle Weise unterschiedlichste Regeln der Fugenkomposition auf das Thema an, so dass am Ende ein einmaliger Zyklus von vierzehn [Fugen](https://de.wikipedia.org/wiki/Fuge_(Musik)) und vier [Kanons](https://de.wikipedia.org/wiki/Kanon_(Musik)) entstand.</data>
 	<date>21.01.2020</date>
 	<index><i>Johann Sebastian Bach</i><i>Die Kunst der Fuge</i><i>Komplexität</i><i>Rhythmus</i></index>
 	<tags><t>Musik</t></tags>
 </item>
 <item type="image" height="200" width="200">
 	<name>space</name>
-	<title>Bridge</title>
+	<title>Space</title>
 	<data>space_small.png</data>
 	<date>23.01.2020</date>
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
 <item type="text">
-	<name>zeit_gedicht</name>
+	<name>zeit_versuch</name>
 	<title>Versuch</title>
-	<data>man kann Sie messen / aber nicht anhalten, man kann Sie nicht sehen / und doch ist Sie da, man kann Sie manchmal vergessen / und Ihr doch nicht entkommen.</data>
+	<data>man kann Sie messen / aber nicht anhalten, man kann Sie nicht sehen / und doch ist Sie da, man kann Sie manchmal vergessen / und Ihr doch nicht entkommen</data>
 	<date>25.01.2020</date>
 	<index><i>Zeit</i></index>
 	<tags><t>Allgemein</t></tags>
+</item>
+<item type="text">
+	<name>2001_part1</name>
+	<title>2001: Odyssee im Weltraum: Part 1</title>
+	<data>Kann man einen Film wie [2001: Odyssee im Weltraum](https://de.wikipedia.org/wiki/2001:_Odyssee_im_Weltraum) adäquat in Sprache übersetzen, ohne lediglich den Inhalt oberflächlich wiederzugeben? 
+	Eine mögliche Perspektive wäre den Film, als einen grandiosen Versuch die [Zeit](https://de.wikipedia.org/wiki/Zeit) zu visualisieren, zu sehen. Exemplarisch dafür kann die oft zitierte Szene am Ende des ersten Teils des Films stehen, als von einem in die Luft geworfenen  Knochen, der soeben zum ersten Mal als Mordwerkzeug verwendet wurde, zu einem im Erdorbit kreisenden Satelliten, [überblendet](https://de.wikipedia.org/wiki/Match_Cut) wird. Hier wird von [Stanley Kubrick](https://de.wikipedia.org/wiki/Stanley_Kubrick) die technologische Entwicklung der Menschheit in einer einzigen Sequenz komprimiert visualisiert.</data>
+	<date>27.01.2020</date>
+	<index><i>Stanley Kubrick</i><i>Zeit</i></index>
+	<tags><t>Film</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>lens</name>
+	<title>Lens</title>
+	<data>lens_small.png</data>
+	<date>29.01.2020</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
+<item type="text">
+	<name>descartes_methode</name>
+	<title>René Descartes</title>
+	<data>Philosophische Methode nach René Descartes:
+		1. Skepsis: Nichts für wahr halten, was nicht so klar und deutlich erkannt ist, dass es nicht in Zweifel gezogen werden kann.
+		2. Analyse: Schwierige Probleme in Teilschritten erledigen.
+		3. Konstruktion: Vom Einfachen zum Schwierigen fortschreiten.
+		4. Rekursion: Stets prüfen, ob bei der Untersuchung Vollständigkeit erreicht ist.
+		 das is</data>
+	<date>31.01.2020</date>
+	<index><i>René Descartes</i></index>
+	<tags><t>Philosophie</t></tags>
 </item>
 </content>

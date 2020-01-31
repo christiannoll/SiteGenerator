@@ -70,7 +70,7 @@ public class SmlBuilder {
                 s.append(text)
             case .parenthesis(let nodes):
                 s.append("<a href=\"")
-                s.append(parse(nodes))
+                s.append(buildUrl(parse(nodes)))
                 s.append("\">")
             case .brackets(let nodes):
                 s.append(parse(nodes))
@@ -80,5 +80,9 @@ public class SmlBuilder {
             }
         }
         return s
+    }
+    
+    private func buildUrl(_ urlString: String) -> String {
+        return urlString
     }
 }
