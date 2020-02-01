@@ -16,6 +16,10 @@ class Tags {
         _tagItems = []
     }
     
+    func sort() {
+        _tagItems.sort { $0.key < $1.key }
+    }
+    
     public func addPost(_ post: Item) {
         for tagItem in getTagItems(post) {
             tagItem.addPost(post)
@@ -72,6 +76,7 @@ class TagsFactory {
             tags.addPost(post)
         }
         
+        tags.sort()
         return tags
     }
 }
