@@ -4,6 +4,13 @@ public class SmlBuilder {
     
     public init() {}
     
+    public static func buildUrl(_ urlString: String) -> String {
+        if urlString.starts(with: "#") {
+            return urlString.replacingOccurrences(of: "#", with: Page.baseUrl)
+        }
+        return urlString
+    }
+    
     public func render(_ text: String) -> String {
         let markdownNodes = MarkdownParser.parse(text: text)
         let smlNode: SmlNode  = parse(markdownNodes)
@@ -70,7 +77,7 @@ public class SmlBuilder {
                 s.append(text)
             case .parenthesis(let nodes):
                 s.append("<a href=\"")
-                s.append(buildUrl(parse(nodes)))
+                s.append(SmlBuilder.buildUrl(parse(nodes)))
                 s.append("\">")
             case .brackets(let nodes):
                 s.append(parse(nodes))
@@ -80,9 +87,5 @@ public class SmlBuilder {
             }
         }
         return s
-    }
-    
-    private func buildUrl(_ urlString: String) -> String {
-        return urlString
     }
 }

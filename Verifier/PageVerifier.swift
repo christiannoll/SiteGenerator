@@ -46,7 +46,7 @@ class PageVerifier {
             var links: [String: String] = [:]
             parse(markdownNodes, &links)
             links.forEach {
-                res = res && loadUrl(($0,$1))
+                res = res && loadUrl((SmlBuilder.buildUrl($0), $1))
             }
         }
         return res

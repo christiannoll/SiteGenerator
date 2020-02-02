@@ -5,6 +5,7 @@ extension String {
     func convertToUrlPath() -> String {
         var path = self.folding(options: .diacriticInsensitive, locale: .current)
         path = path.replacingOccurrences(of: " ", with: "-")
+        path = path.replacingOccurrences(of: ":", with: "-")
         return path.addingPercentEncoding(withAllowedCharacters: .urlPathAllowed)!
     }    
 }
