@@ -165,8 +165,33 @@
 	<name>2001_part2</name>
 	<title>2001: Odyssee im Weltraum: Part 2</title>
 	<data>Am Anfang der [Zeit](#2020/01/27/2001_part1): Dunkelheit - das kosmische Nichts, [atmosphärische Musik](https://de.wikipedia.org/wiki/Atmosph%C3%A8res) von [György Ligeti](https://de.wikipedia.org/wiki/Gy%C3%B6rgy_Ligeti), fiebrig, unheimlich, etwas ankündigend. So fängt der [Film](https://de.wikipedia.org/wiki/2001:_Odyssee_im_Weltraum) an, drei ewige Minuten lang, danach die Morgendämmerung, es wird Licht ... The Dawn of Man</data>
-	<date>01.02.2020</date>
+	<date>02.02.2020</date>
 	<index><i>2001: Odyssee im Weltraum</i><i>Zeit</i></index>
 	<tags><t>Film</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>space2</name>
+	<title>Space2</title>
+	<data>space2_small.png</data>
+	<date>04.02.2020</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
+<item type="text">
+	<name>alternativlos_42</name>
+	<title>42 - alternativlos</title>
+	<data>Ist das [Universum](https://de.wikipedia.org/wiki/Universum) ein Computer? Ist es diskret oder kontinuierlich? Ist jedes Teilchen im Universum ein [zellulärer Automat](https://de.wikipedia.org/wiki/Zellul%C3%A4rer_Automat)? Leben wir in einer Simulation? Kann man das Universum berechnen? Gibt es einen freien Willen? Was ist [Bewusstsein](https://de.wikipedia.org/wiki/Bewusstsein)? 
+	Diese Fragen und Fragen über [das Leben, das Universum und der ganze Rest](https://de.wikipedia.org/wiki/Das_Leben,_das_Universum_und_der_ganze_Rest) werden in der [42. Alternativlos- Folge](https://alternativlos.org/42/) von [Frank](http://frank.geekheim.de/) und [Fefe](http://blog.fefe.de/) zusammen mit ihrem Gast [Joscha Bach](https://twitter.com/plinz) erläutert.</data>
+	<date>06.02.2020</date>
+	<index><i>Joscha Bach</i><i>Frank Rieger</i><i>Fefe</i><i>Bewusstsein</i><i>Universum</i></index>
+	<tags><t>Technologie</t><t>Philosophie</t></tags>
+</item>
+<item type="text">
+	<name>dev_random</name>
+	<title>/dev/random</title>
+	<data>Alles reiner Zufall oder doch vorhersehbar? Eine Frage die nicht nur auf philosphischer Ebene interessant ist, sondern auch wichtig für den digitalen Alltag, z.B. für die kryptogrphisch abgesicherte Kommunikation. Doch wie erzeugt man _richtigen_ [Zufall](https://de.wikipedia.org/wiki/Zufall)? Für die Erzeugung von echten Zufallszahlen verwendet man sogenannte [Zufallsgeneratoren](https://de.wikipedia.org/wiki/Zufallszahlengenerator).</data>
+	<date>08.02.2020</date>
+	<index><i>Zufall</i><i>Linux</i></index>
+	<tags><t>Technologie</t></tags>
+</item> 
 </content>

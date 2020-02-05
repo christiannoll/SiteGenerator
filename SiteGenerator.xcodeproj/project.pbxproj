@@ -14,6 +14,7 @@
 		D63B510E2399673E001E7E7B /* ArchiveYear.swift in Sources */ = {isa = PBXBuildFile; fileRef = D63B510D2399673E001E7E7B /* ArchiveYear.swift */; };
 		D63B5110239997FA001E7E7B /* ArchivePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D63B510F239997FA001E7E7B /* ArchivePage.swift */; };
 		D63B71A32383261B00E989EE /* MarkdownTokenizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = D63B71A22383261B00E989EE /* MarkdownTokenizer.swift */; };
+		D63C253123EB5AF700545A18 /* Page.swift in Sources */ = {isa = PBXBuildFile; fileRef = D650F34E23930CC000B2320E /* Page.swift */; };
 		D63DFA2E23B1EF8A00E9602F /* PostStatisticData.swift in Sources */ = {isa = PBXBuildFile; fileRef = D63DFA2D23B1EF8A00E9602F /* PostStatisticData.swift */; };
 		D650F34F23930CC000B2320E /* Page.swift in Sources */ = {isa = PBXBuildFile; fileRef = D650F34E23930CC000B2320E /* Page.swift */; };
 		D650F35123930EBB00B2320E /* HomePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D650F35023930EBB00B2320E /* HomePage.swift */; };
@@ -349,6 +350,7 @@
 			files = (
 				D6F303B023AC31B10012F659 /* SmlPrinter.swift in Sources */,
 				D6F303AB23AC31170012F659 /* SmlBuilder.swift in Sources */,
+				D63C253123EB5AF700545A18 /* Page.swift in Sources */,
 				D6F303A523AC30220012F659 /* UnitTest.swift in Sources */,
 				D6F303AF23AC31AC0012F659 /* MarkdownTokenizer.swift in Sources */,
 				D6F303AE23AC31410012F659 /* MarkdownNode.swift in Sources */,

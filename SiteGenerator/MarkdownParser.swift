@@ -141,7 +141,7 @@ public class MarkdownParser {
                 oList.append(element)
             case .ulistelement:
                 uList.append(element)
-            case .text(let s) where s == " ":
+            case .text(let s) where s == " " && (oList.count > 0 || uList.count > 0):
                 break
             case .linebreak:
                 if oList.count == 0 && uList.count == 0 {
