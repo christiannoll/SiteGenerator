@@ -1,5 +1,5 @@
 <content>
-<item type="text">
+<item type="text" format="normal">
 	<name>kafka_bau</name>
 	<title>Über "Der Bau" von Franz Kafka</title>
 	<data>[Der Bau](https://de.wikipedia.org/wiki/Der_Bau) entwickelte sich gut, erfüllte seinen Zweck, bot Rückzugsraum und Geborgenheit, bis eines Tages ein Geräusch diese Ruhe zerstörte, ein Geräusch das sich nicht zuordnen ließ und dessen Verursacher nicht zu identifizieren war. Kommt das Geräusch näher, ist es Bedrohung oder nur Einbildung, bietet der Bau Schutz oder wird er zur Falle ...</data>
@@ -15,7 +15,7 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
-<item type="text">
+<item type="text" format="normal">
 	<name>paul_klee</name>
 	<title>Paul Klee über Fotografie</title>
 	<data>[Paul Klee](https://de.wikipedia.org/wiki/Paul_Klee) schreibt 1905 in seinem Tagebuch über das Verhältnis der Malerei zur Fotografie: "Das Foto wurde als Warnung der materialistischen Anschauung im rechten Moment erfunden. ..." [677]</data>
@@ -23,7 +23,7 @@
 	<index><i type="Person">Paul Klee</i></index>
 	<tags><t>Fotografie</t><t>Malerei</t></tags>
 </item>
-<item type="text">
+<item type="text" format="normal">
 	<name>genetische_repro</name>
 	<title>Der Mensch im Zeitalter seiner genetischen Reproduzierbarkeit</title>
 	<data>Der [Mensch](https://de.wikipedia.org/wiki/Mensch) im Zeitalter seiner genetischen Reproduzierbarkeit kann sich nicht mehr sicher sein, ob er das Original oder die Kopie ist, wie viele es noch von ihm gibt und wo, unter welchen Umständen er produziert wurde und für welchen Zweck.</data>
@@ -31,7 +31,7 @@
 	<index><i type="Person">Walter Benjamin</i><i>Zukunft</i></index>
 	<tags><t>Gesellschaft</t><t>Biologie</t></tags>
 </item>
-<item type="text">
+<item type="text" format="normal">
 	<name>variation</name>
 	<title>Variation</title>
 	<data>wiederholung, wiederholung, wiederholung, wiederholung, wiederholung, wiederholung, _ABWEICHUNG_, wiederholung, wiederholung, wiederholung, wiederholung, wiederholung, _ABWEICHUNG_, wiederholung, wiederholung</data>
@@ -47,7 +47,7 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
-<item type="text">
+<item type="text" format="normal">
 	<name>donald_knuth</name>
 	<title>Donald Knuth im Interview mit Lex Fridman</title>
 	<data>Die Informatik-Legende [Donald Knuth](https://de.wikipedia.org/wiki/Donald_E._Knuth) im [Podcast-Interview](https://www.youtube.com/watch?v=2BdBfsXbST8) mit [Lex Fridman](https://lexfridman.com/). Die Beiden sprechen u.a. über [Alan Turing](https://de.wikipedia.org/wiki/Alan_Turing), [The Art of Computer Programming](https://de.wikipedia.org/wiki/The_Art_of_Computer_Programming), [TeX](https://de.wikipedia.org/wiki/TeX) und Typographie, [P=NP](https://de.wikipedia.org/wiki/P-NP-Problem), Gott und die [Bibel](https://de.wikipedia.org/wiki/Bibel) sowie das eigene Leben und Sterben.</data>
@@ -55,7 +55,7 @@
 	<index><i type="Person">Donald Knuth</i><i>Artificial Intelligence</i><i type="Person">Lex Fridman</i><i type="Person">Alan Turing</i></index>
 	<tags><t>Technologie</t><t>Philosophie</t></tags>
 </item>
-<item type="text">
+<item type="text" format="normal">
 	<name>villa_cavrois</name>
 	<title>Moderne Architektur: Villa Cavrois</title>
 	<data>Eine eindrucksvolle [Dokumentation](https://artsandculture.google.com/exhibit/explore-the-villa-cavrois/KgLiROJxNKdJLg) auf Google Arts &amp; Culture über die [Villa Cavrois](https://en.wikipedia.org/wiki/Villa_Cavrois) des französischen Architekten [Robert Mallet-Stevens](https://de.wikipedia.org/wiki/Robert_Mallet-Stevens) mit beeindruckenden Fotos und einem Video über die aufwendige Restaurierung der [Villa](http://www.villa-cavrois.fr/), die heute als Meilenstein der modernen Architektur gilt.</data>
@@ -71,7 +71,7 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
-<item type="text">
+<item type="text" format="normal">
 	<name>typeset_future</name>
 	<title>Typeset in the future</title>
 	<data>In seinem Blog [Typeset in the future](https://typesetinthefuture.com/) analysiert Dave Addey extensiv wie Typographie in Scince-Fiction-Filmen wie [Alien](https://de.wikipedia.org/wiki/Alien_%E2%80%93_Das_unheimliche_Wesen_aus_einer_fremden_Welt), [Moon](https://de.wikipedia.org/wiki/Moon_(Film)), [WALL·E](https://de.wikipedia.org/wiki/WALL%C2%B7E_%E2%80%93_Der_Letzte_r%C3%A4umt_die_Erde_auf), [Blade Runner](https://de.wikipedia.org/wiki/Blade_Runner) und [2001: Odyssee im Weltraum](https://de.wikipedia.org/wiki/2001:_Odyssee_im_Weltraum) eingesetzt wird, um eine ganz bestimmte Bildsprache zu erzeugen. Zu den oft verwendeten Schriftarten gehören u.a. [Gill Sans](https://en.wikipedia.org/wiki/Gill_Sans), [Futura](https://en.wikipedia.org/wiki/Futura_(typeface)), [Bank Gothic](https://en.wikipedia.org/wiki/Bank_Gothic) and [Eurostile](https://en.wikipedia.org/wiki/Eurostile).</data>
@@ -79,7 +79,7 @@
 	<index><i>Typographie</i><i type="Person">Dave Addey</i></index>
 	<tags><t>Film</t></tags>
 </item>
-<item type="text">
+<item type="text" format="normal">
 	<name>kunst_rezept</name>
 	<title>Kunst nach Rezept</title>
 	<data>Für ein mittelgroßes Kunstwerk werden folgende Zutaten benötigt:
@@ -100,7 +100,7 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
-<item type="text">
+<item type="text" format="normal">
 	<name>camus_sartre_lange_nacht</name>
 	<title>Zur Freiheit verurteilt</title>
 	<data>Eine [Lange Nacht](https://www.deutschlandfunkkultur.de/lange-nacht-ueber-jean-paul-sartre-und-albert-camus-fremd.1024.de.html?dram:article_id=415455) im Deutschlandfunk über [Albert Camus](https://de.wikipedia.org/wiki/Albert_Camus) und [Jean-Paul Sartre](https://de.wikipedia.org/wiki/Jean-Paul_Sartre) von Christoph David Piorkowski. In den drei Stunden geht es um einen aktuellen Blick auf die Philosophie des [Existentialismus](https://de.wikipedia.org/wiki/Existentialismus), die wechselvolle Beziehung der beiden Männer, ihre Biographien sowie ihre wichtigsten Werke und Ideen.</data>
@@ -108,7 +108,7 @@
 	<index><i type="Person">Albert Camus</i><i type="Person">Jean-Paul Sartre</i><i>Existentialismus</i></index>
 	<tags><t>Philosophie</t></tags>
 </item>
-<item type="text">
+<item type="text" format="normal">
 	<name>kunst_der_fuge</name>
 	<title>Komplexität: Part 1</title>
 	<data>[Die Kunst der Fuge](https://de.wikipedia.org/wiki/Die_Kunst_der_Fuge) von [Johann Sebastian Bach](https://de.wikipedia.org/wiki/Johann_Sebastian_Bach) ist ein eindrucksvolles Beispiel aus dem Bereich der Musik wie aus simplen Komponenten, in diesem Fall einem einzigen Fugenthema, ein hochkomplexes System entstehen kann. Dabei wendete Bach auf sehr kunstvolle Weise unterschiedlichste Regeln der Fugenkomposition auf das Thema an, so dass am Ende ein einmaliger Zyklus von vierzehn [Fugen](https://de.wikipedia.org/wiki/Fuge_(Musik)) und vier [Kanons](https://de.wikipedia.org/wiki/Kanon_(Musik)) entstand.</data>
@@ -124,7 +124,7 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
-<item type="text">
+<item type="text" format="normal">
 	<name>zeit_versuch</name>
 	<title>Versuch</title>
 	<data>man kann Sie messen / aber nicht anhalten, man kann Sie nicht sehen / und doch ist Sie da, man kann Sie manchmal vergessen / und Ihr doch nicht entkommen</data>
@@ -132,7 +132,7 @@
 	<index><i>Zeit</i></index>
 	<tags><t>Allgemein</t></tags>
 </item>
-<item type="text">
+<item type="text" format="normal">
 	<name>2001_part1</name>
 	<title>2001: Odyssee im Weltraum: Part 1</title>
 	<data>Kann man einen Film wie [2001: Odyssee im Weltraum](https://de.wikipedia.org/wiki/2001:_Odyssee_im_Weltraum) adäquat in Sprache übersetzen, ohne lediglich den Inhalt oberflächlich wiederzugeben? 
@@ -149,7 +149,7 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
-<item type="text">
+<item type="text" format="normal">
 	<name>descartes_methode</name>
 	<title>René Descartes</title>
 	<data>Philosophische Methode nach [René Descartes](https://de.wikipedia.org/wiki/Ren%C3%A9_Descartes):
@@ -161,7 +161,7 @@
 	<index><i type="Person">René Descartes</i></index>
 	<tags><t>Philosophie</t></tags>
 </item>
-<item type="text">
+<item type="text" format="normal">
 	<name>2001_part2</name>
 	<title>2001: Odyssee im Weltraum: Part 2</title>
 	<data>Am Anfang der [Zeit](#2020/01/27/2001_part1): Dunkelheit - das kosmische Nichts, [atmosphärische Musik](https://de.wikipedia.org/wiki/Atmosph%C3%A8res) von [György Ligeti](https://de.wikipedia.org/wiki/Gy%C3%B6rgy_Ligeti), fiebrig, unheimlich, etwas ankündigend. So fängt der [Film](https://de.wikipedia.org/wiki/2001:_Odyssee_im_Weltraum) an, drei ewige Minuten lang, danach die Morgendämmerung, es wird Licht ... The Dawn of Man</data>
@@ -177,7 +177,7 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
-<item type="text">
+<item type="text" format="normal">
 	<name>alternativlos_42</name>
 	<title>42 - alternativlos</title>
 	<data>Ist das [Universum](https://de.wikipedia.org/wiki/Universum) ein Computer? Ist es diskret oder kontinuierlich? Ist jedes Teilchen im Universum ein [zellulärer Automat](https://de.wikipedia.org/wiki/Zellul%C3%A4rer_Automat)? Leben wir in einer Simulation? Kann man das Universum berechnen? Gibt es einen freien Willen? Was ist [Bewusstsein](https://de.wikipedia.org/wiki/Bewusstsein)? 
@@ -186,7 +186,7 @@
 	<index><i type="Person">Joscha Bach</i><i type="Person">Frank Rieger</i><i type="Person">Fefe</i><i>Bewusstsein</i><i>Universum</i></index>
 	<tags><t>Technologie</t><t>Philosophie</t></tags>
 </item>
-<item type="text">
+<item type="text" format="normal">
 	<name>dev_random</name>
 	<title>/dev/random</title>
 	<data>Alles reiner Zufall oder doch vorhersehbar? Eine Frage die nicht nur auf philosphischer Ebene interessant ist, sondern auch wichtig für den digitalen Alltag, z.B. für die kryptogrphisch abgesicherte Kommunikation. Doch wie erzeugt man _richtigen_ [Zufall](https://de.wikipedia.org/wiki/Zufall)? Für die Erzeugung von echten Zufallszahlen verwendet man sogenannte [Zufallsgeneratoren](https://de.wikipedia.org/wiki/Zufallszahlengenerator).
@@ -194,5 +194,21 @@
 	<date>08.02.2020</date>
 	<index><i>Zufall</i><i>Linux</i><i>Entropie</i></index>
 	<tags><t>Technologie</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>figures</name>
+	<title>Figures</title>
+	<data>figures_small.png</data>
+	<date>08.02.2020</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
+<item type="text" format="randomWordColor">
+	<name>kid_a</name>
+	<title>Kid A</title>
+	<data>Everything In Its Right Place / [Kid A](https://en.wikipedia.org/wiki/Kid_A) / The National Anthem / How To Disappear Completely / Treefingers / Optimistic / In Limbo / Idioteque / Morning Bell / Motion Picture Soundtrack</data>
+	<date>10.02.2020</date>
+	<index><i type="Musik">Kid A</i><i type="Musiker">Radiohead</i></index>
+	<tags><t>Musik</t></tags>
 </item> 
 </content>

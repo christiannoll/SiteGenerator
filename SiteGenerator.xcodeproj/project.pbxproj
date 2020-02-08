@@ -50,6 +50,7 @@
 		D6F303AE23AC31410012F659 /* MarkdownNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6ADD6532385DAF9005C0495 /* MarkdownNode.swift */; };
 		D6F303AF23AC31AC0012F659 /* MarkdownTokenizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = D63B71A22383261B00E989EE /* MarkdownTokenizer.swift */; };
 		D6F303B023AC31B10012F659 /* SmlPrinter.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6D356D4238DBAC300A2F217 /* SmlPrinter.swift */; };
+		D6F4BF9123EE02FA005D9402 /* FormatBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F4BF9023EE02FA005D9402 /* FormatBuilder.swift */; };
 		D6F6FF7B238875BB0049F171 /* PostBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F6FF7A238875BB0049F171 /* PostBuilder.swift */; };
 		D6F92EC4238320D900FCAAC1 /* MarkdownParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F92EC3238320D900FCAAC1 /* MarkdownParser.swift */; };
 /* End PBXBuildFile section */
@@ -106,6 +107,7 @@
 		D6F303A223AC30220012F659 /* UnitTest.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UnitTest.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D6F303A423AC30220012F659 /* UnitTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnitTest.swift; sourceTree = "<group>"; };
 		D6F303A623AC30220012F659 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D6F4BF9023EE02FA005D9402 /* FormatBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormatBuilder.swift; sourceTree = "<group>"; };
 		D6F6FF7A238875BB0049F171 /* PostBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostBuilder.swift; sourceTree = "<group>"; };
 		D6F92EC3238320D900FCAAC1 /* MarkdownParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarkdownParser.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -157,6 +159,7 @@
 				D63B510F239997FA001E7E7B /* ArchivePage.swift */,
 				D63B510D2399673E001E7E7B /* ArchiveYear.swift */,
 				D69221C5238196740007E774 /* ContentParser.swift */,
+				D6F4BF9023EE02FA005D9402 /* FormatBuilder.swift */,
 				D690C72323DA315C00975E72 /* FtpScriptWriter.swift */,
 				D650F35023930EBB00B2320E /* HomePage.swift */,
 				D65AD6B9239D4BD800BFA862 /* ImpressumPage.swift */,
@@ -320,6 +323,7 @@
 				D6CAB6FF2398488A00C4D2EF /* PageWriter.swift in Sources */,
 				D650F34F23930CC000B2320E /* Page.swift in Sources */,
 				D699D53D239AB88D006FE271 /* TagsPage.swift in Sources */,
+				D6F4BF9123EE02FA005D9402 /* FormatBuilder.swift in Sources */,
 				D6A981A123B0AE1C007F3CBF /* StatisticPage.swift in Sources */,
 				D65D75BD23ABED9F00490D17 /* SmlBuilder.swift in Sources */,
 				D699D539239AADCC006FE271 /* Archive.swift in Sources */,

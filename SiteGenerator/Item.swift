@@ -15,6 +15,8 @@ class Item  {
 }
 
 class TextPost: Item {
+    var format = "normal"
+    
     override func renderPost() -> SmlNode {
         return smlBuilder.createTextArticle(self)
     }

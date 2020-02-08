@@ -7,6 +7,7 @@ public enum MarkdownNode {
     case ulistelement([MarkdownNode])
     case bold([MarkdownNode])
     case italic([MarkdownNode])
+    case color(String, [MarkdownNode])
     case parenthesis([MarkdownNode])
     case brackets([MarkdownNode])
     case link([MarkdownNode])

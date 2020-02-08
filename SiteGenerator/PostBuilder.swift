@@ -3,6 +3,7 @@ import Foundation
 class PostBuilder {
     
     private let smlBuilder = SmlBuilder()
+    private let formatBuilder = FormatBuilder()
     
     public static func createDatePath(_ item: Item) -> String {
         let dateFormatter = DateFormatter()
@@ -14,7 +15,7 @@ class PostBuilder {
     public func createTextArticle(_ item: TextPost) -> SmlNode {
         let postTitle = createPostTitle(item)
         
-        let elements = MarkdownParser.parse(text: item.data)
+        let elements = formatBuilder.parse(MarkdownParser.parse(text: item.data), item)
         let postBody = createTextPostBody(elements)
         
         let postDateline = createTextPostDateline(item)

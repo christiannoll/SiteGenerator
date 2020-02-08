@@ -26,7 +26,11 @@ class ContentParser : NSObject, XMLParserDelegate {
         case "item":
             if let classAttrVal = attributeDict["type"] {
                 if classAttrVal == "text" {
-                    item = TextPost()
+                    let textItem = TextPost()
+                    if let classAttrVal = attributeDict["format"] {
+                        textItem.format = classAttrVal
+                    }
+                    item = textItem
                 }
                 else if classAttrVal == "image" {
                     let imageItem = ImagePost()
@@ -39,7 +43,6 @@ class ContentParser : NSObject, XMLParserDelegate {
                     
                     item = imageItem
                 }
-                //items.append(item)
             }
         default:
             break

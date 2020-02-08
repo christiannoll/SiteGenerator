@@ -38,6 +38,10 @@ public class SmlBuilder {
                 s.append("<em>")
                 s.append(parse(nodes))
                 s.append("</em>")
+            case .color(let color, let nodes):
+                s.append("<span style=\"color:" + color + "\">")
+                s.append(parse(nodes))
+                s.append("</span>")
             case .parenthesis(let nodes):
                 s.append("(")
                 s.append(parse(nodes))
