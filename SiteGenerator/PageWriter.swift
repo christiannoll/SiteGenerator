@@ -44,6 +44,10 @@ class PageWriter {
         writeHtmlFile(content, "tags/", "index.html")
     }
     
+    public func writeSerialsPage(_ content: String) {
+        writeHtmlFile(content, "serials/", "index.html")
+    }
+    
     public func writeTagItemPage(_ tagItem: TagItem, _ content: String) {
         let relPath = "tags/" + tagItem.key.convertToUrlPath() + "/"
         writeHtmlFile(content, relPath, "index.html")

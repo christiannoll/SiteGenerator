@@ -74,7 +74,7 @@
 <item type="text" format="normal">
 	<name>typeset_future</name>
 	<title>Typeset in the future</title>
-	<data>In seinem Blog [Typeset in the future](https://typesetinthefuture.com/) analysiert Dave Addey extensiv wie Typographie in Scince-Fiction-Filmen wie [Alien](https://de.wikipedia.org/wiki/Alien_%E2%80%93_Das_unheimliche_Wesen_aus_einer_fremden_Welt), [Moon](https://de.wikipedia.org/wiki/Moon_(Film)), [WALL·E](https://de.wikipedia.org/wiki/WALL%C2%B7E_%E2%80%93_Der_Letzte_r%C3%A4umt_die_Erde_auf), [Blade Runner](https://de.wikipedia.org/wiki/Blade_Runner) und [2001: Odyssee im Weltraum](https://de.wikipedia.org/wiki/2001:_Odyssee_im_Weltraum) eingesetzt wird, um eine ganz bestimmte Bildsprache zu erzeugen. Zu den oft verwendeten Schriftarten gehören u.a. [Gill Sans](https://en.wikipedia.org/wiki/Gill_Sans), [Futura](https://en.wikipedia.org/wiki/Futura_(typeface)), [Bank Gothic](https://en.wikipedia.org/wiki/Bank_Gothic) and [Eurostile](https://en.wikipedia.org/wiki/Eurostile).</data>
+	<data>In seinem Blog [Typeset in the future](https://typesetinthefuture.com) analysiert Dave Addey extensiv wie Typographie in Scince-Fiction-Filmen wie [Alien](https://de.wikipedia.org/wiki/Alien_%E2%80%93_Das_unheimliche_Wesen_aus_einer_fremden_Welt), [Moon](https://de.wikipedia.org/wiki/Moon_(Film)), [WALL·E](https://de.wikipedia.org/wiki/WALL%C2%B7E_%E2%80%93_Der_Letzte_r%C3%A4umt_die_Erde_auf), [Blade Runner](https://de.wikipedia.org/wiki/Blade_Runner) und [2001: Odyssee im Weltraum](https://de.wikipedia.org/wiki/2001:_Odyssee_im_Weltraum) eingesetzt wird, um eine ganz bestimmte Bildsprache zu erzeugen. Zu den oft verwendeten Schriftarten gehören u.a. [Gill Sans](https://en.wikipedia.org/wiki/Gill_Sans), [Futura](https://en.wikipedia.org/wiki/Futura_(typeface)), [Bank Gothic](https://en.wikipedia.org/wiki/Bank_Gothic) and [Eurostile](https://en.wikipedia.org/wiki/Eurostile).</data>
 	<date>11.01.2020</date>
 	<index><i>Typographie</i><i type="Person">Dave Addey</i></index>
 	<tags><t>Film</t></tags>
@@ -115,6 +115,7 @@
 	<date>21.01.2020</date>
 	<index><i type="Person">Johann Sebastian Bach</i><i type="Musik">Die Kunst der Fuge</i><i>Komplexität</i><i>Rhythmus</i></index>
 	<tags><t>Musik</t></tags>
+	<serial>Komplexität</serial>
 </item>
 <item type="image" height="200" width="200">
 	<name>space</name>
@@ -140,6 +141,7 @@
 	<date>27.01.2020</date>
 	<index><i type="Movie">2001: Odyssee im Weltraum</i><i type="Person">Stanley Kubrick</i><i>Zeit</i></index>
 	<tags><t>Film</t></tags>
+	<serial>2001: Odyssee im Weltraum</serial>
 </item>
 <item type="image" height="200" width="200">
 	<name>lens</name>
@@ -168,6 +170,7 @@
 	<date>02.02.2020</date>
 	<index><i type="Movie">2001: Odyssee im Weltraum</i><i>Zeit</i></index>
 	<tags><t>Film</t></tags>
+	<serial>2001: Odyssee im Weltraum</serial>
 </item>
 <item type="image" height="200" width="200">
 	<name>space2</name>
@@ -210,5 +213,24 @@
 	<date>10.02.2020</date>
 	<index><i type="Musik">Kid A</i><i type="Musiker">Radiohead</i></index>
 	<tags><t>Musik</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>bauhaus_gropius</name>
+	<title>bauhaus: walter gropius</title>
+	<data>*1919* gründete [walter gropius](https://de.wikipedia.org/wiki/Walter_Gropius) in weimar das [bauhaus](https://de.wikipedia.org/wiki/Bauhaus), eine schule für den bau der zukunft. die gründungsidee bestand in der zusammenführung von kunst und handwerk.
+	nach politischen schwierigkeiten in weimar zog das bauhaus 1925 nach dessau um. hier entstand *1926* nach den plänen von [gropius](https://www.bauhaus100.de/das-bauhaus/koepfe/direktoren/walter-gropius/) das [neue schulgebäude](https://de.wikipedia.org/wiki/Bauhaus_Dessau) - ein gesamtkunstwerk und eines der bedeutendsten bauwerke des 20. jahrhunderts.
+	zu einem wahrzeichen moderner architektur wurden auch die von gropius geplanten und *1926* in der nähe des bauhauses errichteten [meisterhäuser](https://de.wikipedia.org/wiki/Bauhaus_Dessau#Meisterh%C3%A4user). in den insgesamt drei doppelhäusern wohnten die am bauhaus lehrenden meister und ihre familien wie [paul klee](https://de.wikipedia.org/wiki/Paul_Klee) und [wassily kandinsky](https://de.wikipedia.org/wiki/Wassily_Kandinsky), [lászló moholy-nagy](https://de.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Moholy-Nagy) und [lyonel feininger](https://de.wikipedia.org/wiki/Lyonel_Feininger) sowie [georg muche](https://de.wikipedia.org/wiki/Georg_Muche) und [oskar schlemmer](https://de.wikipedia.org/wiki/Oskar_Schlemmer).</data>
+	<date>12.02.2020</date>
+	<index><i type="Person">Walter Gropius</i><i type="Person">Paul Klee</i><i>Bauhaus</i></index>
+	<tags><t>Architektur</t><t>Kunst</t></tags>
+	<serial>Bauhaus</serial>
+</item>
+<item type="image" height="200" width="200">
+	<name>facets</name>
+	<title>Facets</title>
+	<data>facets_small.png</data>
+	<date>14.02.2020</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
 </item> 
 </content>

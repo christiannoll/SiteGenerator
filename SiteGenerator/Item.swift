@@ -5,8 +5,9 @@ class Item  {
     var name = ""
     var title = ""
     var date: Date?
-    var tags : Set<String> = []
-    var indices : Set<String> = []
+    var tags: Set<String> = []
+    var indices: Set<String> = []
+    var serial = ""
     
     let smlBuilder = PostBuilder()
     

@@ -105,6 +105,13 @@ class Page {
         let tags = a([href => (Page.baseUrl + "tags")], ["Kategorien"])
         pChildren.append(tags)
         
+        pChildren.append(.text(" • "))
+        pChildren.append(newLine)
+        pChildren.append(tab)
+        
+        let serials = a([href => (Page.baseUrl + "serials")], ["Serien"])
+        pChildren.append(serials)
+        
         let para = p(pChildren)
         navChildren.append(para)
         navChildren.append(newLine)

@@ -67,6 +67,8 @@ class ContentParser : NSObject, XMLParserDelegate {
             item.tags.insert(trimmedText)
         case "i":
             item.indices.insert(trimmedText)
+        case "serial":
+            item.serial = trimmedText
         case "item":
             items.append(item)
         default:

@@ -1,14 +1,16 @@
 class TagItem {
     
     private let _key: String
+    private let folderName: String
     private var posts: [Item] = []
     
     var key: String {
         get { return _key }
     }
     
-    init(_ key: String) {
+    init(_ key: String, _ folderName: String) {
         self._key = key
+        self.folderName = folderName
     }
     
     public func addPost(_ post: Item) {
@@ -33,7 +35,7 @@ class TagItem {
     }
     
     private func createLinkUrl() -> String {
-        return Page.baseUrl + "tags/" + key.convertToUrlPath() + "/"
+        return Page.baseUrl + folderName + key.convertToUrlPath() + "/"
     }
     
     private func createLinkTitle() -> SmlNode {
