@@ -19,6 +19,9 @@ class PageVerifier {
         res = res && loadIndexItemPages()
         res = res && loadTagsPage()
         res = res && loadTagItemPages()
+        res = res && loadSerialsPage()
+        res = res && loadSerialItemPages()
+
         res = res && loadImpressumPage()
         print("\nVERIFIER RESULT: \(res ? "OK" : "ERROR")")
     }
@@ -163,6 +166,23 @@ class PageVerifier {
         let tagItems = tags.tagItems
         for tagItem in tagItems {
             let relPath = "tags/" + tagItem.key.convertToUrlPath() + "/index.html"
+            res = res && loadPage(relPath: relPath)
+        }
+        return res
+    }
+    
+    private func loadSerialsPage() -> Bool {
+        return loadPage(relPath: "serials/index.html")
+    }
+    
+    private func loadSerialItemPages() -> Bool {
+        var res = true
+        let serialsFactory = SerialsFactory()
+        let serials = serialsFactory.createSerials(posts)
+        
+        let serialItems = serials.tagItems
+        for serialItem in serialItems {
+            let relPath = "serials/" + serialItem.key.convertToUrlPath() + "/index.html"
             res = res && loadPage(relPath: relPath)
         }
         return res

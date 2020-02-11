@@ -71,6 +71,12 @@ struct SiteGenerator {
         let serialsPage = SerialsPage(serials)
         writer.writeSerialsPage(serialsPage.render())
         
+        let serialItems = serials.tagItems
+        for serialItem in serialItems {
+            let page = TagItemPage(serialItem)
+            writer.writeSerialItemPage(serialItem, page.render())
+        }
+        
         let impressumPage = ImpressumPage()
         writer.writeImpressumPage(impressumPage.render())
         

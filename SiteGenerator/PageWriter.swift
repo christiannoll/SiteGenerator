@@ -53,6 +53,11 @@ class PageWriter {
         writeHtmlFile(content, relPath, "index.html")
     }
     
+    public func writeSerialItemPage(_ tagItem: TagItem, _ content: String) {
+        let relPath = "serials/" + tagItem.key.convertToUrlPath() + "/"
+        writeHtmlFile(content, relPath, "index.html")
+    }
+    
     public func writeImpressumPage(_ content: String) {
         writeHtmlFile(content, "impressum/", "index.html")
     }
