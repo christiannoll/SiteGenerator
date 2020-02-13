@@ -3,7 +3,7 @@ import Foundation
 class CsvWriter {
     
     func writeData(_ data: StatisticData) {
-        var s = "Date,Words,Links,Image\n"
+        var s = "Date,Words,Links,Image, Serial\n"
         for postData in data.postsData {
             s.append(postData.publishDate)
             s.append(",")
@@ -12,6 +12,8 @@ class CsvWriter {
             s.append(String(postData.linkCount))
             s.append(",")
             s.append(postData.imagePost ? "true" : "false")
+            s.append(",")
+            s.append(postData.serialPost ? "true" : "false")
             s.append("\n")
         }
         

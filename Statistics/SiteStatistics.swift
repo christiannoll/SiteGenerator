@@ -40,6 +40,7 @@ class SiteStatistics {
                 numberOfAllLinks += postData.linkCount
             }
             postData.publishDate = convertDateToString(post)
+            postData.serialPost = post.serial.count > 0
             data.postsData.append(postData)
             data.numberOfAllLinks = numberOfAllLinks
         }
@@ -51,6 +52,10 @@ class SiteStatistics {
         let tagsFactory = TagsFactory()
         let tags = tagsFactory.createTags(posts)
         data.numberOfTagItems = tags.numberOfTagItems
+        
+        let serialsFactory = SerialsFactory()
+        let serials = serialsFactory.createSerials(posts)
+        data.numberOfSerialItems = serials.numberOfTagItems
     }
     
     private func calcWordCount(_ post: Item) -> Int {
