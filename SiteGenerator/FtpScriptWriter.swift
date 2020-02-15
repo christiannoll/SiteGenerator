@@ -3,7 +3,7 @@ import Foundation
 class FtpScriptWriter {
     
     private let baseUrl = URL(fileURLWithPath: PageWriter.baseDir)
-    private let folderNames = ["2019", "2020", "archive", "images", "impressum", "index", "statistic", "tags"]
+    private let folderNames = ["2019", "2020", "archive", "images", "impressum", "index", "statistic", "tags", "serials"]
     
     private var script = ""
     
