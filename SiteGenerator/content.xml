@@ -110,7 +110,7 @@
 </item>
 <item type="text" format="normal">
 	<name>kunst_der_fuge</name>
-	<title>Komplexität: Part 1</title>
+	<title>Komplexität: Kunst der Fuge</title>
 	<data>[Die Kunst der Fuge](https://de.wikipedia.org/wiki/Die_Kunst_der_Fuge) von [Johann Sebastian Bach](https://de.wikipedia.org/wiki/Johann_Sebastian_Bach) ist ein eindrucksvolles Beispiel aus dem Bereich der Musik wie aus simplen Komponenten, in diesem Fall einem einzigen Fugenthema, ein hochkomplexes System entstehen kann. Dabei wendete Bach auf sehr kunstvolle Weise unterschiedlichste Regeln der Fugenkomposition auf das Thema an, so dass am Ende ein einmaliger Zyklus von vierzehn [Fugen](https://de.wikipedia.org/wiki/Fuge_(Musik)) und vier [Kanons](https://de.wikipedia.org/wiki/Kanon_(Musik)) entstand.</data>
 	<date>21.01.2020</date>
 	<index><i type="Person">Johann Sebastian Bach</i><i type="Musik">Die Kunst der Fuge</i><i>Komplexität</i><i>Rhythmus</i></index>
@@ -134,8 +134,8 @@
 	<tags><t>Allgemein</t></tags>
 </item>
 <item type="text" format="normal">
-	<name>2001_part1</name>
-	<title>2001: Odyssee im Weltraum: Part 1</title>
+	<name>2001_zeit_visualisierung</name>
+	<title>2001: Odyssee im Weltraum: Zeit</title>
 	<data>Kann man einen Film wie [2001: Odyssee im Weltraum](https://de.wikipedia.org/wiki/2001:_Odyssee_im_Weltraum) adäquat in Sprache übersetzen, ohne lediglich den Inhalt oberflächlich wiederzugeben? 
 	Eine mögliche Perspektive wäre den Film, als einen grandiosen Versuch die [Zeit](https://de.wikipedia.org/wiki/Zeit) zu visualisieren, zu sehen. Exemplarisch dafür kann die oft zitierte Szene am Ende des ersten Teils des Films stehen, als von einem in die Luft geworfenen  Knochen, der soeben zum ersten Mal als Mordwerkzeug verwendet wurde, zu einem im Erdorbit kreisenden Satelliten, [überblendet](https://de.wikipedia.org/wiki/Match_Cut) wird. Hier wird von [Stanley Kubrick](https://de.wikipedia.org/wiki/Stanley_Kubrick) die technologische Entwicklung der Menschheit in einer einzigen Sequenz komprimiert visualisiert.</data>
 	<date>27.01.2020</date>
@@ -164,9 +164,9 @@
 	<tags><t>Philosophie</t></tags>
 </item>
 <item type="text" format="normal">
-	<name>2001_part2</name>
-	<title>2001: Odyssee im Weltraum: Part 2</title>
-	<data>Am Anfang der [Zeit](#2020/01/27/2001_part1): Dunkelheit - das kosmische Nichts, [atmosphärische Musik](https://de.wikipedia.org/wiki/Atmosph%C3%A8res) von [György Ligeti](https://de.wikipedia.org/wiki/Gy%C3%B6rgy_Ligeti), fiebrig, unheimlich, etwas ankündigend. So fängt der [Film](https://de.wikipedia.org/wiki/2001:_Odyssee_im_Weltraum) an, drei ewige Minuten lang, danach die Morgendämmerung, es wird Licht ... The Dawn of Man</data>
+	<name>2001_dawn_of_man</name>
+	<title>2001: Odyssee im Weltraum: The Dawn</title>
+	<data>Am Anfang der [Zeit](#2020/01/27/2001_zeit_visualisierung): Dunkelheit - das kosmische Nichts, [atmosphärische Musik](https://de.wikipedia.org/wiki/Atmosph%C3%A8res) von [György Ligeti](https://de.wikipedia.org/wiki/Gy%C3%B6rgy_Ligeti), fiebrig, unheimlich, etwas ankündigend. So fängt der [Film](https://de.wikipedia.org/wiki/2001:_Odyssee_im_Weltraum) an, drei ewige Minuten lang, danach die Morgendämmerung, es wird Licht ... The Dawn of Man</data>
 	<date>02.02.2020</date>
 	<index><i type="Movie">2001: Odyssee im Weltraum</i><i>Zeit</i></index>
 	<tags><t>Film</t></tags>
@@ -184,7 +184,7 @@
 	<name>alternativlos_42</name>
 	<title>42 - alternativlos</title>
 	<data>Ist das [Universum](https://de.wikipedia.org/wiki/Universum) ein Computer? Ist es diskret oder kontinuierlich? Ist jedes Teilchen im Universum ein [zellulärer Automat](https://de.wikipedia.org/wiki/Zellul%C3%A4rer_Automat)? Leben wir in einer Simulation? Kann man das Universum berechnen? Gibt es einen freien Willen? Was ist [Bewusstsein](https://de.wikipedia.org/wiki/Bewusstsein)? 
-	Diese Fragen und Fragen über [das Leben, das Universum und der ganze Rest](https://de.wikipedia.org/wiki/Das_Leben,_das_Universum_und_der_ganze_Rest) werden in der [42. Alternativlos- Folge](https://alternativlos.org/42/) von [Frank](http://frank.geekheim.de/) und [Fefe](http://blog.fefe.de/) zusammen mit ihrem Gast [Joscha Bach](https://twitter.com/plinz) erläutert.</data>
+	Diese Fragen und Fragen über [das Leben, das Universum und der ganze Rest](https://de.wikipedia.org/wiki/Das_Leben,_das_Universum_und_der_ganze_Rest) werden in der [42. Alternativlos- Folge](https://alternativlos.org/42/) von [Frank](https://frank.geekheim.de/) und [Fefe](http://blog.fefe.de/) zusammen mit ihrem Gast [Joscha Bach](https://twitter.com/plinz) erläutert.</data>
 	<date>06.02.2020</date>
 	<index><i type="Person">Joscha Bach</i><i type="Person">Frank Rieger</i><i type="Person">Fefe</i><i>Bewusstsein</i><i>Universum</i></index>
 	<tags><t>Technologie</t><t>Philosophie</t></tags>
@@ -232,5 +232,48 @@
 	<date>14.02.2020</date>
 	<index></index>
 	<tags><t>Foto</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>spiel_des_lebens</name>
+	<title>Komplexität: Spiel des Lebens</title>
+	<data>Nach welchen Regeln können komplexe Strukturen entstehen, sich verändern und vermehren? Mit dieser Problemstellung beschäftigte sich der Mathematiker [John Conway](https://de.wikipedia.org/wiki/John_Horton_Conway) als er 1970 sein [Spiel des Lebens](https://de.wikipedia.org/wiki/Conways_Spiel_des_Lebens) erfand. Das Spiel beruht auf einen zweidimensionalen Spielfeld, auf dem eine Bevölkerungssimulation durch einen [zellulären Automaten](https://de.wikipedia.org/wiki/Zellul%C3%A4rer_Automat) durchgeführt wird. Das Regelwerk besteht aus den folgenden vier Vorgaben, die je nach Anzahl der Nachbarn für jeder Zelle pro Zeitschritt angewandt werden:   
+	* Eine tote Zelle mit genau drei lebenden Nachbarn wird in der Folgegeneration neu geboren.
+	* Lebende Zellen mit weniger als zwei lebenden Nachbarn sterben in der Folgegeneration an Einsamkeit.
+	* Eine lebende Zelle mit zwei oder drei lebenden Nachbarn bleibt in der Folgegeneration am Leben.
+	* Lebende Zellen mit mehr als drei lebenden Nachbarn sterben in der Folgegeneration an Überbevölkerung.
+	Dieses Regelwerk stellt die Grundlage für das Erscheinen, den Ablauf und das Erlöschen von periodischen Strukturen dar, wobei schon kleine Änderungen der Ausgangswerte zu [chaotischem Verhalten](https://de.wikipedia.org/wiki/Chaosforschung) führen können.</data>	
+	<date>16.02.2020</date>
+	<index><i type="Person">John Conway</i><i>Komplexität</i></index>
+	<tags><t>Mathematik</t></tags>
+	<serial>Komplexität</serial>
+</item>
+<item type="text" format="randomWordColor">
+	<name>amnesiac</name>
+	<title>Amnesiac</title>
+	<data>Packt Like Sardines in a Crushd Tin Box / Pyramid Song / Pulk/Pull Revolving Doors / You And Whose Army? / I Might Be Wrong / Knives Out / [Morning Bell/Amnesiac](https://de.wikipedia.org/wiki/Amnesiac) / Dollars and Cents / Hunting Bears / Like Spinning Plates / Life in a Glasshouse</data>
+	<date>18.02.2020</date>
+	<index><i type="Musik">Amnesiac</i><i type="Musiker">Radiohead</i></index>
+	<tags><t>Musik</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>abstract_1</name>
+	<title>Abstract 1</title>
+	<data>abstract_1_small.png</data>
+	<date>20.02.2020</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>daten_hypochondrie</name>
+	<title>Datenhypochondrie</title>
+	<data>Selbsttest - Sind Sie ein [Datenhypochonder](https://de.wikipedia.org/wiki/Hypochondrie)?
+	* Machen Sie sich oft Sorgen, dass Ihre digitalen Daten ernsthaft beschädigt sind?
+	* Sind Sie sich häufig der verschiedenen Vorgänge bewusst, die in Ihrem Computer und Smartphone ablaufen?
+	* Misstrauen Sie Ihrem Computer, wenn das Diagnoseprogramm ausgibt, dass mit Ihren Daten alles in Ordnung ist?
+	* Machen Sie in regelmäßigen Abständen mehr als fünf verschiedene Backups?
+	* Vergleichen Sie oft die Vor- und Nachteile moderner Dateisysteme wie [ZFS](https://de.wikipedia.org/wiki/ZFS_(Dateisystem)) und [Btrfs](https://de.wikipedia.org/wiki/Btrfs)?</data>	
+	<date>22.02.2020</date>
+	<index></index>
+	<tags><t>Allgemein</t></tags>
 </item> 
 </content>
