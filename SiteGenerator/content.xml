@@ -268,12 +268,12 @@
 	<title>Datenhypochondrie</title>
 	<data>Selbsttest - Sind Sie ein [Datenhypochonder](https://de.wikipedia.org/wiki/Hypochondrie)?
 	* Machen Sie sich oft Sorgen, dass Ihre digitalen Daten ernsthaft beschädigt sind?
-	* Sind Sie sich häufig der verschiedenen Vorgänge bewusst, die in Ihrem Computer und Smartphone ablaufen?
+	* Sind Sie sich häufig der verschiedenen Vorgänge bewusst, die in Ihrem Computer oder Smartphone ablaufen?
 	* Misstrauen Sie Ihrem Computer, wenn das Diagnoseprogramm ausgibt, dass mit Ihren Daten alles in Ordnung ist?
 	* Machen Sie in regelmäßigen Abständen mehr als fünf verschiedene Backups?
 	* Vergleichen Sie oft die Vor- und Nachteile moderner Dateisysteme wie [ZFS](https://de.wikipedia.org/wiki/ZFS_(Dateisystem)) und [Btrfs](https://de.wikipedia.org/wiki/Btrfs)?</data>	
 	<date>22.02.2020</date>
 	<index></index>
-	<tags><t>Allgemein</t></tags>
+	<tags><t>Allgemein</t><t>Technologie</t></tags>
 </item> 
 </content>
