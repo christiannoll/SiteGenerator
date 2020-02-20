@@ -7,6 +7,7 @@ public enum MarkdownNode {
     case ulistelement([MarkdownNode])
     case bold([MarkdownNode])
     case italic([MarkdownNode])
+    case code([MarkdownNode])
     case color(String, [MarkdownNode])
     case parenthesis([MarkdownNode])
     case brackets([MarkdownNode])
@@ -24,6 +25,8 @@ extension MarkdownNode {
             self = .bold(children)
         case "_":
             self = .italic(children)
+        case "`":
+            self = .code(children)
         case ")":
             self = .parenthesis(children)
         case "]":

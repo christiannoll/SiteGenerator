@@ -84,6 +84,8 @@ class SiteStatistics {
                 numberOfLinks += parse(nodes)
             case .italic(let nodes):
                 numberOfLinks += parse(nodes)
+            case .code(let nodes):
+                numberOfLinks += parse(nodes)
             case .parenthesis(let nodes):
                 numberOfLinks += parse(nodes)
             case .brackets(let nodes):
@@ -120,6 +122,8 @@ class SiteStatistics {
             case .bold(let nodes):
                 numberOfWords += parseNumberOfWords(nodes)
             case .italic(let nodes):
+                numberOfWords += parseNumberOfWords(nodes)
+            case .code(let nodes):
                 numberOfWords += parseNumberOfWords(nodes)
             case .color(_, let nodes):
                 numberOfWords += parseNumberOfWords(nodes)

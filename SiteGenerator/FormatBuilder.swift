@@ -27,6 +27,8 @@ class FormatBuilder {
                 nodes.append(contentsOf: parseText(elements:mdNodes))
             case .italic(let mdNodes):
                 nodes.append(contentsOf: parseText(elements:mdNodes))
+            case .code(let mdNodes):
+                nodes.append(contentsOf: parseText(elements:mdNodes))
             case .ulist(let mdNodes):
                 nodes.append(contentsOf: parseText(elements:mdNodes))
             case .olist(let mdNodes):

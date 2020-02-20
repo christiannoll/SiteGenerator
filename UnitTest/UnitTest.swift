@@ -116,6 +116,13 @@ class UnitTest: XCTestCase {
         XCTAssertEqual(text, "Hello, _world!")
     }
     
+    func testCodeText() {
+        let s = "Das ist `source code` in python"
+        let text = smlBuilder.render(s)
+        
+        XCTAssertEqual(text, "Das ist <code>source code</code> in python")
+    }
+    
     func testOrderedList() {
         let s = "1. One\t 2. Two\t"
         let text = smlBuilder.render(s)

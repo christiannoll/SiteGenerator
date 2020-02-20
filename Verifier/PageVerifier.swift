@@ -62,6 +62,8 @@ class PageVerifier {
                 parse(nodes, &links)
             case .italic(let nodes):
                 parse(nodes, &links)
+            case .code(let nodes):
+                parse(nodes, &links)
             case .parenthesis(let nodes):
                 parse(nodes, &links)
             case .brackets(let nodes):
