@@ -8,6 +8,7 @@ class FtpScriptWriter {
     private var script = ""
     
     init() {
+        script.append("cd public_html\n")
         generateDeleteCommands()
     }
     
@@ -18,6 +19,8 @@ class FtpScriptWriter {
     }
     
     private func generateDeleteCommands() {
+        script.append("rm index.html\n")
+        
         for folderName in folderNames {
             let files = getFolderContent(folderName, false)
             files.forEach { script.append("rm " + $0 + "\n") }
@@ -27,7 +30,7 @@ class FtpScriptWriter {
             var dirs = getFolderContent(folderName, true)
             dirs.reverse()
             dirs.append(folderName)
-            dirs.forEach { script.append("rm " + $0 + "\n") }
+            dirs.forEach { script.append("rmdir " + $0 + "\n") }
         }
     }
     
@@ -40,6 +43,9 @@ class FtpScriptWriter {
     }
     
     private func generatePutCommands() {
+        script.append("put index.html\n")
+        script.append("put styles.css\n")
+        
         for folderName in folderNames {
             let files = getFolderContent(folderName, false)
             files.forEach { script.append("put " + $0 + " " + $0 + "\n") }
