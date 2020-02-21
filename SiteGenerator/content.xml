@@ -275,5 +275,14 @@
 	<date>22.02.2020</date>
 	<index></index>
 	<tags><t>Allgemein</t><t>Technologie</t></tags>
-</item> 
+</item>
+<!--<item type="text" format="normal">
+	<name>bauhaus_klee</name>
+	<title>bauhaus: paul klee</title>
+	<data>paul klee der buddha vom bauhaus.</data>
+	<date>24.02.2020</date>
+	<index><i type="Person">Paul Klee</i><i>Bauhaus</i></index>
+	<tags><t>Architektur</t><t>Kunst</t></tags>
+	<serial>Bauhaus</serial>
+</item>-->
 </content>

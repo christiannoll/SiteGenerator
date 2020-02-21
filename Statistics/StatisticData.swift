@@ -8,6 +8,8 @@ struct StatisticData {
     var numberOfTagItems: Int = 0
     var numberOfAllLinks: Int = 0
     var numberOfSerialItems: Int = 0
+    var meanNumberOfLinks: Int = 0
+    var meanNumberOfWords: Int = 0
     
     var postsData: [PostStatisticData] = []
 }

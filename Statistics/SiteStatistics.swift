@@ -27,6 +27,8 @@ class SiteStatistics {
     private func analyze() {
         data.numberOfPosts = posts.count
         var numberOfAllLinks = 0
+        var numberOfTextPosts = 0
+        var numberOfAllWords = 0
         
         for post in posts {
             var postData = PostStatisticData()
@@ -38,12 +40,17 @@ class SiteStatistics {
                 postData.wordCount = calcWordCount(post)
                 postData.linkCount = calcNumberOfLinks(post)
                 numberOfAllLinks += postData.linkCount
+                numberOfTextPosts += 1
+                numberOfAllWords += postData.wordCount
             }
             postData.publishDate = convertDateToString(post)
             postData.serialPost = post.serial.count > 0
             data.postsData.append(postData)
             data.numberOfAllLinks = numberOfAllLinks
         }
+        
+        data.meanNumberOfLinks = numberOfAllLinks / numberOfTextPosts
+        data.meanNumberOfWords = numberOfAllWords / numberOfTextPosts
         
         let indexFactory = IndexFactory()
         let index = indexFactory.createIndex(posts)

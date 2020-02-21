@@ -33,6 +33,11 @@ class StatisticPage : Page {
         pChildren.append(br())
         pChildren.append(.text("Links: " + String(data.numberOfAllLinks)))
         pChildren.append(br())
+        pChildren.append(br())
+        pChildren.append(.text("Durchschnittliche Anzahl an Links: " + String(data.meanNumberOfLinks)))
+        pChildren.append(br())
+        pChildren.append(.text("Durchschnittliche Anzahl an Wörtern: " + String(data.meanNumberOfWords)))
+        pChildren.append(br())
         
         return p(pChildren)
     }
