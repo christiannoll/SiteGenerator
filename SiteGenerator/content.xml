@@ -276,13 +276,15 @@
 	<index></index>
 	<tags><t>Allgemein</t><t>Technologie</t></tags>
 </item>
-<!--<item type="text" format="normal">
+<item type="text" format="normal">
 	<name>bauhaus_klee</name>
 	<title>bauhaus: paul klee</title>
-	<data>paul klee der buddha vom bauhaus.</data>
-	<date>24.02.2020</date>
+	<data>*1920* beruft [walter gropius](https://de.wikipedia.org/wiki/Walter_Gropius) den maler und grafiker [paul klee](https://de.wikipedia.org/wiki/Paul_Klee) als werkstattmeister für buchbinderei ans staatliche bauhaus in weimar.
+	nach dem umzug des bauhauses nach dessau bezieht [paul klee](https://www.bauhaus100.de/das-bauhaus/koepfe/meister-und-lehrende/paul-klee/) und seine familie *1926* eines der drei von gropius entworfenen [meisterhäuser](https://de.wikipedia.org/wiki/Bauhaus_Dessau#Meisterh%C3%A4user), dessen andere hälfte vom ehepaar [kandinsky](https://www.bauhaus100.de/das-bauhaus/koepfe/meister-und-lehrende/wassily-kandinsky/) bewohnt wird. das zentrale anliegen seiner lehre war die erfassung der beziehungen zwischen linie, form und farbe im bildraum oder innerhalb eines vorgegeben musters. parallel zu dieser rationalistischen herangehensweise betonte er aber auch immer die rolle des unbewussten beim schöpfungsakt.
+	*1931* reichte klee nach querelen und mehreren jahren erschöpfender lehrtätigkeit am bauhaus seine kündigung ein.</data>
+	<date>26.02.2020</date>
 	<index><i type="Person">Paul Klee</i><i>Bauhaus</i></index>
 	<tags><t>Architektur</t><t>Kunst</t></tags>
 	<serial>Bauhaus</serial>
-</item>-->
+</item>
 </content>

@@ -13,6 +13,8 @@ class Item  {
     
     func renderPost() -> SmlNode {return .text("")}
     func renderPostInSingleMode() -> SmlNode { return renderPost() }
+    
+    func renderRss() -> SmlNode { return .text("") }
 }
 
 class TextPost: Item {
