@@ -55,6 +55,10 @@ func node(_ name: String, _ children: [SmlNode]?) -> SmlNode {
     return node(name, [], children)
 }
 
+func element_node(_ name: String, _ content: String) -> SmlNode {
+    return .element(.init(name, [], [.text(content)]))
+}
+
 func p(_ attribs: [SmlAttribute], _ children: [SmlNode]) -> SmlNode {
     return node("p", attribs, children)
 }
@@ -133,6 +137,9 @@ func main(_ children: [SmlNode]) -> SmlNode {
     return node("main", children)
 }
 
+func title_node(_ content: String) -> SmlNode {
+    return element_node("title", content)
+}
 
 infix operator =>
 func => <A> (key: SmlAttributeKey<A>, value: A) -> SmlAttribute {

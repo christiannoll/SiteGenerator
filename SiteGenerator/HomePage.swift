@@ -3,7 +3,7 @@ import Foundation
 class HomePage : Page {
     
     private var posts: [Item]
-    private let max_number_of_posts = 32
+    static let max_number_of_posts = 32
     
     init(_ posts: [Item]) {
         self.posts = posts
@@ -13,7 +13,7 @@ class HomePage : Page {
         var mainChildren: [SmlNode] = [newLine]
         for post in posts {
             mainChildren.append(post.renderPost())
-            if mainChildren.count > max_number_of_posts {
+            if mainChildren.count > HomePage.max_number_of_posts {
                 break
             }
         }

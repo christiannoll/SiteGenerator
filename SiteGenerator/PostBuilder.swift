@@ -32,6 +32,11 @@ class PostBuilder {
         return post
     }
     
+    public func createRssArticle(_ item: TextPost) -> SmlNode {
+        let postTitle = title_node(item.title)
+        return postTitle
+    }
+    
     public func createPostLink(_ post: Item) -> SmlNode {
         let urlTitle: SmlNode = .text(post.title)
         let link = a([href => createPostUrl(post)], [urlTitle])

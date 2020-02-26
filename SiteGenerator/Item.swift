@@ -23,6 +23,10 @@ class TextPost: Item {
     override func renderPost() -> SmlNode {
         return smlBuilder.createTextArticle(self)
     }
+    
+    override func renderRss() -> SmlNode {
+        return smlBuilder.createRssArticle(self)
+    }
 }
 
 class ImagePost : Item {

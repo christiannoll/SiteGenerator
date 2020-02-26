@@ -21,6 +21,7 @@
 		D65545B02389B37A00D18FD2 /* SmlNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = D65545AF2389B37A00D18FD2 /* SmlNode.swift */; };
 		D65AD6BA239D4BD800BFA862 /* ImpressumPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D65AD6B9239D4BD800BFA862 /* ImpressumPage.swift */; };
 		D65D75BD23ABED9F00490D17 /* SmlBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = D65D75BC23ABED9F00490D17 /* SmlBuilder.swift */; };
+		D667BB1424070C6C00B8789F /* FeedWriter.swift in Sources */ = {isa = PBXBuildFile; fileRef = D667BB1324070C6C00B8789F /* FeedWriter.swift */; };
 		D676120D237F43960042F55D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D676120C237F43960042F55D /* main.swift */; };
 		D690C72423DA315C00975E72 /* FtpScriptWriter.swift in Sources */ = {isa = PBXBuildFile; fileRef = D690C72323DA315C00975E72 /* FtpScriptWriter.swift */; };
 		D69221C423818FEB0007E774 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = D69221C323818FEB0007E774 /* Item.swift */; };
@@ -83,6 +84,7 @@
 		D65545AF2389B37A00D18FD2 /* SmlNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmlNode.swift; sourceTree = "<group>"; };
 		D65AD6B9239D4BD800BFA862 /* ImpressumPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImpressumPage.swift; sourceTree = "<group>"; };
 		D65D75BC23ABED9F00490D17 /* SmlBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmlBuilder.swift; sourceTree = "<group>"; };
+		D667BB1324070C6C00B8789F /* FeedWriter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedWriter.swift; sourceTree = "<group>"; };
 		D6761209237F43960042F55D /* SiteGenerator */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SiteGenerator; sourceTree = BUILT_PRODUCTS_DIR; };
 		D676120C237F43960042F55D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		D690C72323DA315C00975E72 /* FtpScriptWriter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FtpScriptWriter.swift; sourceTree = "<group>"; };
@@ -163,6 +165,7 @@
 				D63B510F239997FA001E7E7B /* ArchivePage.swift */,
 				D63B510D2399673E001E7E7B /* ArchiveYear.swift */,
 				D69221C5238196740007E774 /* ContentParser.swift */,
+				D667BB1324070C6C00B8789F /* FeedWriter.swift */,
 				D6F4BF9023EE02FA005D9402 /* FormatBuilder.swift */,
 				D690C72323DA315C00975E72 /* FtpScriptWriter.swift */,
 				D650F35023930EBB00B2320E /* HomePage.swift */,
@@ -337,6 +340,7 @@
 				D6F92EC4238320D900FCAAC1 /* MarkdownParser.swift in Sources */,
 				D6E1929F23A77E4D006A7A5C /* PageVerifier.swift in Sources */,
 				D6A981A523B0B7A7007F3CBF /* StatisticData.swift in Sources */,
+				D667BB1424070C6C00B8789F /* FeedWriter.swift in Sources */,
 				D6D356D5238DBAC300A2F217 /* SmlPrinter.swift in Sources */,
 				D699D537239AACAF006FE271 /* IndexItem.swift in Sources */,
 				D6B1D68723F1F1AA00BE317E /* SerialsPage.swift in Sources */,
