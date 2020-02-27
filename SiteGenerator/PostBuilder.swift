@@ -34,7 +34,12 @@ class PostBuilder {
     
     public func createRssArticle(_ item: TextPost) -> SmlNode {
         let postTitle = title_node(item.title)
-        return postTitle
+        let postLink = link_node(createPostUrl(item))
+        let postGuid = guid_node(createPostUrl(item))
+        let postPubDate = pubDate_node(createPubDate(item))
+        let postDescription = description_node(createRssPostDescription(item))
+        let post = item_node([newLine, tab, postTitle, newLine, tab, postLink, newLine, tab, postGuid, newLine, tab, postPubDate, newLine, tab, postDescription, newLine])
+        return post
     }
     
     public func createPostLink(_ post: Item) -> SmlNode {
@@ -103,5 +108,22 @@ class PostBuilder {
         dateFormatter.locale = Locale(identifier: "de_DE")
         dateFormatter.dateFormat = "dd MMM yyyy"
         return dateFormatter.string(from: item.date!)
+    }
+    
+    private func createPubDate(_ item: Item) -> String {
+        let dateFormatter = DateFormatter()
+        dateFormatter.locale = Locale(identifier: "en_US")
+        dateFormatter.dateFormat = "E, d MMM yyyy HH:mm:ss Z"
+        return dateFormatter.string(from: item.date!)
+    }
+    
+    private func createRssPostDescription(_ item: TextPost) -> String {
+        let markdownNodes = formatBuilder.parse(MarkdownParser.parse(text: item.data), item)
+        let html = smlBuilder.parse(markdownNodes).render()
+        return html.replacingOccurrences(of: "&", with: "&amp;")
+            .replacingOccurrences(of: "<", with: "&lt;")
+            .replacingOccurrences(of: ">", with: "&gt;")
+            .replacingOccurrences(of: "\"", with: "&quot;")
+            .replacingOccurrences(of: "'", with: "&apos;")
     }
 }

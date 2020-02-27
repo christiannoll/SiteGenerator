@@ -5,6 +5,9 @@ class Page {
     public static let baseUrl = "http://localhost:8000/"
     //public static let baseUrl = "https://www.vnzn.de/"
     
+    static let homepageTitle = "v.n.z.n"
+    static let homepageTagline = "Memento Mori"
+    
     public func render() -> String {
         var htmlChildren: [SmlNode] = []
         htmlChildren.append(newLine)
@@ -41,7 +44,7 @@ class Page {
     private func renderHead() -> SmlNode {
         var headChildren: [SmlNode] = [newLine, tab]
         
-        headChildren.append(node("title", [.text("v.n.z.n")]))
+        headChildren.append(node("title", [.text(Page.homepageTitle)]))
         headChildren.append(newLine)
         headChildren.append(tab)
         
@@ -57,6 +60,11 @@ class Page {
         
         let l = link([rel => "stylesheet", type => "text/css", href => (Page.baseUrl + "styles.css")])
         headChildren.append(l)
+        headChildren.append(newLine)
+        headChildren.append(tab)
+        
+        let rss = link([rel => "alternate", type => "application/rss+xml", title_attr => "RSS", href => (Page.baseUrl + "xml/rss.xml")])
+        headChildren.append(rss)
         headChildren.append(newLine)
         
         let h = head(headChildren)
@@ -76,14 +84,14 @@ class Page {
     private func renderHeader() -> SmlNode {
         var headerChildren: [SmlNode] = [newLine, tab]
         
-        let urlTitle: SmlNode = .text("v.n.z.n")
+        let urlTitle: SmlNode = .text(Page.homepageTitle)
         let link = a([href => Page.baseUrl], [urlTitle])
         let spanBigLink = span([id => "biglink"], [link])
         headerChildren.append(spanBigLink)
         headerChildren.append(newLine)
         headerChildren.append(tab)
         
-        let title: SmlNode = .text("Memento Mori")
+        let title: SmlNode = .text(Page.homepageTagline)
         let spanBigByLine = span([id => "bigbyline"], [title])
         headerChildren.append(spanBigByLine)
         headerChildren.append(newLine)

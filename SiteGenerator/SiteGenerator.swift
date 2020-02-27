@@ -81,5 +81,9 @@ struct SiteGenerator {
         writer.writeImpressumPage(impressumPage.render())
         
         ftpWriter.writeScript()
+        
+        let rssFeed = RssFeed(posts)
+        let feedWriter = FeedWriter()
+        feedWriter.writeRssFeed(rssFeed.render())
     }
 }

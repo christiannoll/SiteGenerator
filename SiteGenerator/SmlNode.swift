@@ -141,6 +141,39 @@ func title_node(_ content: String) -> SmlNode {
     return element_node("title", content)
 }
 
+func link_node(_ content: String) -> SmlNode {
+    return element_node("link", content)
+}
+
+func guid_node(_ content: String) -> SmlNode {
+    return element_node("guid", content)
+}
+
+func pubDate_node(_ content: String) -> SmlNode {
+    return element_node("pubDate", content)
+}
+
+func description_node(_ content: String) -> SmlNode {
+    return element_node("description", content)
+}
+
+func language_node(_ content: String) -> SmlNode {
+    return element_node("language", content)
+}
+
+func item_node(_ children: [SmlNode]) -> SmlNode {
+    return node("item", children)
+}
+
+func channel_node(_ children: [SmlNode]) -> SmlNode {
+    return node("channel", children)
+}
+
+func rss_node(_ children: [SmlNode]) -> SmlNode {
+    return node("rss", [version => "2"], children)
+}
+
+
 infix operator =>
 func => <A> (key: SmlAttributeKey<A>, value: A) -> SmlAttribute {
     return .init(key.key, "\(value)")
@@ -153,5 +186,7 @@ let width = SmlAttributeKey<String>("width")
 let alt = SmlAttributeKey<String>("alt")
 let style = SmlAttributeKey<String>("style")
 let id = SmlAttributeKey<String>("id")
+let version = SmlAttributeKey<String>("version")
+let title_attr = SmlAttributeKey<String>("title")
 
 

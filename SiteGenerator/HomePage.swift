@@ -11,11 +11,14 @@ class HomePage : Page {
     
     override func renderContent() -> SmlNode {
         var mainChildren: [SmlNode] = [newLine]
+        var index = 1
         for post in posts {
             mainChildren.append(post.renderPost())
-            if mainChildren.count > HomePage.max_number_of_posts {
+            mainChildren.append(newLine)
+            if index >= HomePage.max_number_of_posts {
                 break
             }
+            index += 1
         }
         
         mainChildren.append(newLine)
