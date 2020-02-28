@@ -32,12 +32,20 @@ class PostBuilder {
         return post
     }
     
-    public func createRssArticle(_ item: TextPost) -> SmlNode {
+    func createRssTextArticle(_ item: TextPost) -> SmlNode {
+        return createRssArticle(item, createRssTextPostDescription)
+    }
+    
+    func createRssImageArticle(_ item: ImagePost) -> SmlNode {
+        return createRssArticle(item, createRssImagePostDescription)
+    }
+    
+    private func createRssArticle(_ item: Item, _ createDescription:(Item) -> String) -> SmlNode {
         let postTitle = title_node(item.title)
         let postLink = link_node(createPostUrl(item))
         let postGuid = guid_node(createPostUrl(item))
         let postPubDate = pubDate_node(createPubDate(item))
-        let postDescription = description_node(createRssPostDescription(item))
+        let postDescription = description_node(createDescription(item))
         let post = item_node([newLine, tab, postTitle, newLine, tab, postLink, newLine, tab, postGuid, newLine, tab, postPubDate, newLine, tab, postDescription, newLine])
         return post
     }
@@ -117,13 +125,27 @@ class PostBuilder {
         return dateFormatter.string(from: item.date!)
     }
     
-    private func createRssPostDescription(_ item: TextPost) -> String {
-        let markdownNodes = formatBuilder.parse(MarkdownParser.parse(text: item.data), item)
+    private func createRssTextPostDescription(_ item: Item) -> String {
+        let markdownNodes = formatBuilder.parse(MarkdownParser.parse(text: item.data), item as! TextPost)
         let html = smlBuilder.parse(markdownNodes).render()
         return html.replacingOccurrences(of: "&", with: "&amp;")
             .replacingOccurrences(of: "<", with: "&lt;")
             .replacingOccurrences(of: ">", with: "&gt;")
             .replacingOccurrences(of: "\"", with: "&quot;")
             .replacingOccurrences(of: "'", with: "&apos;")
+    }
+    
+    private func createRssImagePostDescription(_ item: Item) -> String {
+        let imgItem = item as! ImagePost
+        var content = "<![CDATA["
+        
+        let imgNode: SmlNode = img([css_class => "centeredImage",
+                                    src => createImageUrl(imgItem),
+                                    height => String(imgItem.height),
+                                    width => String(imgItem.width),
+                                    alt => String(imgItem.title)])
+        content += imgNode.render()
+        content += "]]>"
+        return content
     }
 }

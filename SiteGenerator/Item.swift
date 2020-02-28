@@ -25,7 +25,7 @@ class TextPost: Item {
     }
     
     override func renderRss() -> SmlNode {
-        return smlBuilder.createRssArticle(self)
+        return smlBuilder.createRssTextArticle(self)
     }
 }
 
@@ -35,6 +35,10 @@ class ImagePost : Item {
     
     override func renderPost() -> SmlNode {
         return smlBuilder.createImageArticle(self)
+    }
+    
+    override func renderRss() -> SmlNode {
+        return smlBuilder.createRssImageArticle(self)
     }
     
     override func renderPostInSingleMode() -> SmlNode {
