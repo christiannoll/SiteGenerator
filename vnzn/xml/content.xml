@@ -208,7 +208,7 @@
 </item>
 <item type="text" format="randomWordColor">
 	<name>kid_a</name>
-	<title>Kid A</title>
+	<title>Radiohead: Kid A</title>
 	<data>Everything In Its Right Place / [Kid A](https://en.wikipedia.org/wiki/Kid_A) / The National Anthem / How To Disappear Completely / Treefingers / Optimistic / In Limbo / Idioteque / Morning Bell / Motion Picture Soundtrack</data>
 	<date>10.02.2020</date>
 	<index><i type="Musik">Kid A</i><i type="Musiker">Radiohead</i></index>
@@ -249,7 +249,7 @@
 </item>
 <item type="text" format="randomWordColor">
 	<name>amnesiac</name>
-	<title>Amnesiac</title>
+	<title>Radiohead: Amnesiac</title>
 	<data>Packt Like Sardines in a Crushd Tin Box / Pyramid Song / Pulk/Pull Revolving Doors / You And Whose Army? / I Might Be Wrong / Knives Out / [Morning Bell/Amnesiac](https://de.wikipedia.org/wiki/Amnesiac) / Dollars and Cents / Hunting Bears / Like Spinning Plates / Life in a Glasshouse</data>
 	<date>18.02.2020</date>
 	<index><i type="Musik">Amnesiac</i><i type="Musiker">Radiohead</i></index>
@@ -294,5 +294,15 @@
 	<date>28.02.2020</date>
 	<index></index>
 	<tags><t>Foto</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>number_pi</name>
+	<title>Pi</title>
+	<data>Der Superstar unter den Zahlen, die [Kreiszahl](https://de.wikipedia.org/wiki/Kreiszahl) *π*: 
+	`3.1415926535 8979323846 2643383279 5028841971 6939937510 5820974944 5923078164 0628620899 8628034825 3421170679 ...`
+	Seit tausenden von Jahren beschäftigen sich Mathematiker mit der Berechnung der [irrationalen](https://de.wikipedia.org/wiki/Irrationale_Zahl) und [transzendenten](https://de.wikipedia.org/wiki/Transzendente_Zahl) Zahl [Pi](https://3.141592653589793238462643383279502884197169399375105820974944592.eu/). Angefangen mit dem griechischen Mathematiker [Archimedes](https://de.wikipedia.org/wiki/Archimedes),  über [Ludolph van Ceulen](https://de.wikipedia.org/wiki/Ludolph_van_Ceulen), [Gottfried Wilhelm Leibnitz](https://de.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz) und [Johann Heinrich Lambert](https://de.wikipedia.org/wiki/Johann_Heinrich_Lambert) bis heute. Zum aktuellen Zeitpunkt liegt der [Rekord](http://www.numberworld.org/y-cruncher/#Records) bei [50 Billionen](https://blog.timothymullican.com/calculating-pi-my-attempt-breaking-pi-record) Nachkommastellen.</data>	
+	<date>01.03.2020</date>
+	<index><i>Kreiszahl Pi</i></index>
+	<tags><t>Mathematik</t></tags>
 </item>
 </content>

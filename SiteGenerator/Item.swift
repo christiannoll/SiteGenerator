@@ -1,6 +1,6 @@
 import Foundation
 
-class Item  {
+public class Item  {
     var data = ""
     var name = ""
     var title = ""

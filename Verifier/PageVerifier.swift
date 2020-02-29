@@ -23,6 +23,7 @@ class PageVerifier {
         res = res && loadSerialItemPages()
 
         res = res && loadImpressumPage()
+        res = res && loadRssFile()
         print("\nVERIFIER RESULT: \(res ? "OK" : "ERROR")")
     }
     
@@ -222,5 +223,18 @@ class PageVerifier {
             res = true
         }
         return res
+    }
+    
+    private func loadRssFile() -> Bool {
+        let parser = RssParser()
+        let items = parser.parse()
+        let ok = items.count == HomePage.max_number_of_posts
+        if ok {
+            print("OK- parsing RSS file")
+        }
+        else {
+            print("ERROR- parsing RSS file")
+        }
+        return ok
     }
 }

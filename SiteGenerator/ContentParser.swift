@@ -9,7 +9,11 @@ class ContentParser : NSObject, XMLParserDelegate {
     private var foundCharacters = ""
     
     func parse() -> [Item] {
-        let xmlString = readXmlFile()
+        return parse(CONTENT_FILE)
+    }
+    
+    func parse(_ filePath: String) -> [Item] {
+        let xmlString = readXmlFile(filePath)
         let xmlData = xmlString.data(using: String.Encoding.utf8)!
         let parser = XMLParser(data: xmlData)
         parser.delegate = self;
@@ -82,11 +86,11 @@ class ContentParser : NSObject, XMLParserDelegate {
         self.foundCharacters += string.replacingOccurrences(of: "\n", with: "", options: NSString.CompareOptions.literal, range:nil)
     }
     
-    private func readXmlFile() -> String {
+    private func readXmlFile(_ filePath: String) -> String {
         var xmlString = ""
         
         do {
-            xmlString = try String(contentsOf: URL(fileURLWithPath: CONTENT_FILE))
+            xmlString = try String(contentsOf: URL(fileURLWithPath: filePath))
         }
         catch {
             print("Error: \(error)")
