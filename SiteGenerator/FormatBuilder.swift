@@ -9,6 +9,9 @@ class FormatBuilder {
         if textPost.format == "randomWordColor" {
             return parseText(elements: markdownNodes)
         }
+        else if textPost.format == "randomLinkColor" {
+            return parseLinks(elements: markdownNodes)
+        }
         return markdownNodes
     }
     
@@ -59,4 +62,34 @@ class FormatBuilder {
         
         return colorNodes
     }
+    
+    private func parseLinks(elements: [MarkdownNode]) -> [MarkdownNode] {
+        var nodes: [MarkdownNode] = []
+        
+        for element in elements {
+            switch element {
+            case .link(let mdNodes):
+                nodes.append(.link(parseLink(mdNodes)))
+            default:
+                nodes.append(element)
+            }
+        }
+        return nodes
+    }
+    
+    private func parseLink(_ markdownNodes: [MarkdownNode]) -> [MarkdownNode] {
+        var nodes: [MarkdownNode] = []
+        
+        for markDownNode in markdownNodes {
+            switch markDownNode {
+            case .brackets(let mdNodes):
+                nodes.append(.brackets(parseText(elements: mdNodes)))
+                break
+            default:
+                nodes.append(markDownNode)
+            }
+        }
+        return nodes
+    }
+    
 }

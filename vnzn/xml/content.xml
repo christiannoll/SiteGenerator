@@ -305,4 +305,13 @@
 	<index><i>Kreiszahl Pi</i></index>
 	<tags><t>Mathematik</t></tags>
 </item>
+<item type="text" format="randomLinkColor">
+	<name>st_pepper_cover</name>
+	<title>Sgt. Pepper's Lonely Hearts Club Band</title>
+	<data>Das *1967* erschienene Album [Sgt. Pepper's Lonely Hearts Club Band](https://de.wikipedia.org/wiki/Sgt._Pepper%E2%80%99s_Lonely_Hearts_Club_Band) der [Beatles](https://de.wikipedia.org/wiki/The_Beatles) ist eines der innovativsten Alben in der Geschichte der Popmusik und das [Cover](https://en.wikipedia.org/wiki/List_of_images_on_the_cover_of_Sgt._Pepper%27s_Lonely_Hearts_Club_Band) des Albums ist eines der bekanntesten Plattencover überhaupt. Es wurde von den Künstlern [Peter Blake](https://en.wikipedia.org/wiki/Peter_Blake_(artist)) und [Jann Haworth](https://en.wikipedia.org/wiki/Jann_Haworth) gestaltet und zeigt die Beatles, die vor einem Tableau von Berühmtheiten und historischen Figuren posieren. Darunter z.B.
+	Albert Einstein, Bette Davis, Marlene Dietrich, Mahatma Gandhi, Aldous Huxley, Dylan Thomas, Tony Curtis, Marilyn Monroe, William S. Burroughs, Karl Marx, H. G. Wells, James Joyce, Oscar Wilde, Lewis Carroll, George Bernard Shaw, Mae West, Karlheinz Stockhausen, Carl Jung, Edgar Allen Poe, Bob Dylan ...</data>	
+	<date>03.03.2020</date>
+	<index><i type="Musiker">The Beatles</i><i type="Physiker">Albert Einstein</i></index>
+	<tags><t>Musik</t></tags>
+</item>
 </content>
