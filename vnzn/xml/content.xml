@@ -314,4 +314,39 @@
 	<index><i type="Musiker">The Beatles</i><i type="Physiker">Albert Einstein</i></index>
 	<tags><t>Musik</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>poster1</name>
+	<title>Poster</title>
+	<data>poster1_small.png</data>
+	<date>05.03.2020</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>paul_klee_2</name>
+	<title>Paul Klee über Kunst</title>
+	<data>[Paul Klee](https://de.wikipedia.org/wiki/Paul_Klee) schreibt *1920* in seinem kunsttheoretischen [Buch](https://de.wikisource.org/wiki/Sch%C3%B6pferische_Konfession:_Paul_Klee) "Schöpferische Konfession":
+		"Kunst gibt nicht das Sichtbare wieder, sondern macht sichtbar."</data>
+	<date>07.03.2020</date>
+	<index><i type="Person">Paul Klee</i></index>
+	<tags><t>Kunst</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>artificial_intelligence_rebellion</name>
+	<title>Wenn Thermostate wetterfühlig werden</title>
+	<data>Was passiert wenn Maschinen und Algorithmen menschliches Verhalten zeigen, in einer Welt in der es keine Menschen mehr gibt? Dieser Frage geht das Hörspiel ["A.I.R. Artificial Intelligence Rebellion"](https://www.br.de/mediathek/podcast/hoerspiel-pool/a-i-r-artificial-intelligence-rebellion-von-theresa-schubert-und-mareike-maage/695628) von Theresa Schubert und Mareike Maage nach. 
+	Wie kann ein System noch funktionieren wenn ein Thermostat wetterfühlig wird, wenn eine Maschine Angst davor hat abgeschaltet zu werden oder wenn ein Algorithmus sich in eine Kabelschneidemaschine verliebt? 
+	*Diagnose:* _Liebe kann man nicht reparieren._</data>
+	<date>10.03.2020</date>
+	<index><i type="Titel">Artificial Intelligence Rebellion</i></index>
+	<tags><t>Gesellschaft</t><t>Technologie</t><t>Hörspiel</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>fence1</name>
+	<title>Fence</title>
+	<data>fence1_small.png</data>
+	<date>13.03.2020</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>

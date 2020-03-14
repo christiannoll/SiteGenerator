@@ -24,6 +24,7 @@ class PageVerifier {
 
         res = res && loadImpressumPage()
         res = res && loadRssFile()
+        res = res && validateNames()
         print("\nVERIFIER RESULT: \(res ? "OK" : "ERROR")")
     }
     
@@ -236,5 +237,18 @@ class PageVerifier {
             print("ERROR- parsing RSS file")
         }
         return ok
+    }
+    
+    private func validateNames() -> Bool {
+        var res = true
+        var names: Set<String> = []
+        for post in posts {
+            if names.insert(post.name).inserted == false {
+                res = false
+                print("ERROR- name: \(post.name) already exist")
+                break
+            }
+        }
+        return res
     }
 }
