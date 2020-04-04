@@ -349,4 +349,84 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>brain_noise_filter</name>
+	<title>Das Gehirn als Noisefilter</title>
+	<data>[Komplexität](https://de.wikipedia.org/wiki/Komplexit%C3%A4t) ist eine Eigenschaft vieler Systeme. Solche Systeme lassen sich oft nur durch eine umfassende Reduktion der Komplexität beherrschen. Mit dieser Aufgabe ist z.B. das menschlichen [Gehirn](https://de.wikipedia.org/wiki/Gehirn) ununterbrochen beschäftigt. Es wird permanent mit Daten, die wir über unsere Sinnesorgane aufnehmen, bombardiert und ohne effiziente [Noisefilter](https://de.wikipedia.org/wiki/Reizfilterung) könnten wir die für uns wichtigen Informationen weder extrahieren noch verarbeiten.
+	Wie würde es sich ohne einen funktionierenden Filter anfühlen, wenn unser Gehirn mit Daten der Außenwelt überflutet wird? Vermutlich wäre es eine sehr [unangenehme Erfahrung](https://de.wikipedia.org/wiki/St%C3%B6rung_der_Sinnesverarbeitung).</data>
+	<date>16.03.2020</date>
+	<index><i>Gehirn</i></index>
+	<tags><t>Biologie</t></tags>
+	<serial>Komplexität</serial>
+</item>
+<item type="text" format="normal">
+	<name>bauhaus_feininger</name>
+	<title>bauhaus: lyonel feininger</title>
+	<data>im mai *1919* beruft [walter gropius](https://de.wikipedia.org/wiki/Walter_Gropius), als einen der ersten meister, den deutsch-amerikanischen maler, grafiker und karikaturisten [lyonel feininger](https://de.wikipedia.org/wiki/Lyonel_Feininger) an das staatliche [bauhaus](https://de.wikipedia.org/wiki/Bauhaus) in weimar. 
+	*1924* gründet feininger zusammen mit [paul klee](https://de.wikipedia.org/wiki/Paul_Klee), [wassily kandinsky](https://de.wikipedia.org/wiki/Wassily_Kandinsky) und [alexej von jawlensky](https://de.wikipedia.org/wiki/Alexej_von_Jawlensky) die ausstellungsgemeinschaft [die blaue 4](https://de.wikipedia.org/wiki/Die_Blaue_Vier). *1926* zog er dann mit seiner familie in eines der neuen [meisterhäuser](https://de.wikipedia.org/wiki/Bauhaus_Dessau#Meisterh%C3%A4user) des bauhauses in dessau. nach diesem umzug ließ er sich allerdings auf eigenen wunsch von allen lehrtätigkeiten am bauhaus entbinden.
+	zu den bekanntesten bildern im werk des künstlers gehören sicherlich die elf expressionistischen stadtansichten von halle, die dort zwischen *1929* und *1931* entstanden. zwei bilder aus dieser serie: ["Marktkirche in Halle"](https://www.pinakothek.de/kunst/lyonel-feininger/marktkirche-halle) und ["Roter Turm I"](https://www.kulturstiftung.de/feininger-zurueck-in-halle/)</data>
+	<date>19.03.2020</date>
+	<index><i type="Person">Lyonel Feininger</i><i>Bauhaus</i></index>
+	<tags><t>Architektur</t><t>Kunst</t></tags>
+	<serial>Bauhaus</serial>
+</item>
+<item type="image" height="200" width="200">
+	<name>poster2</name>
+	<title>Poster</title>
+	<data>poster2_small.png</data>
+	<date>22.03.2020</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>2001_zeit_monolith</name>
+	<title>2001: Odyssee im Weltraum: Der Monolith -I-</title>
+	<data>Wie aus dem Nichts kommend steht er plötzlich da, der [Monolith](https://2001.fandom.com/wiki/Monolith), perfekt quaderförmig und schwarz gläuzend in der aufgehenden Sonne. Der Monolith erscheint im ersten Akt des [Films](https://de.wikipedia.org/wiki/2001:_Odyssee_im_Weltraum) genauso überraschend für die erwachende Vormenschensippe wie für die Zuschauer. Es ist wie eine Offenbarung.
+	Die Sippe umkreist aufgeregt den Monolithen, nähert sich ihm ängstlich, immer wieder zurückweichend, um am Ende über seine glatte Oberfläche ehrfurchtsvoll mit ihren Händen zu streichen. Diese Erfahrung wirkt transformativ für die weitere Entwicklung der Menschheit. Bleibt die Frage, [wer](https://de.wikipedia.org/wiki/Au%C3%9Ferirdisches_Leben) oder [was](https://de.wikipedia.org/wiki/Gott) hat den Monolithen dort aufgestellt?
+	</data>
+	<date>25.03.2020</date>
+	<index><i type="Movie">2001: Odyssee im Weltraum</i><i type="Person">Stanley Kubrick</i></index>
+	<tags><t>Film</t></tags>
+	<serial>2001: Odyssee im Weltraum</serial>
+</item>
+<item type="text" format="normal">
+	<name>ist_das_kunst</name>
+	<title>Ist das Kunst ...</title>
+	<data>oder kann das [weg](https://de.wikipedia.org/wiki/Fettecke)? So sollte man die Frage wahrscheinlich nicht formulieren.
+	*1926* hat [Pablo Picasso](https://de.wikipedia.org/wiki/Pablo_Picasso) auf die Frage was Kunst ist geantwortet: "Wenn ich es wüßte, würde ich es für mich behalten."</data>
+	<date>28.03.2020</date>
+	<index><i type="Person">Pablo Picasso</i></index>
+	<tags><t>Kunst</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>fence2</name>
+	<title>Fence</title>
+	<data>fence2_small.png</data>
+	<date>31.03.2020</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>everything_is_a_file</name>
+	<title>Unix: everything is a file</title>
+	<data>[Komplexität](https://de.wikipedia.org/wiki/Komplexit%C3%A4t) ist wahrscheinlich der größte Feind in der Softwareentwicklung und führt schon nach kurzer Zeit zu einer Codebasis die weder verstehbar noch erweiterbar ist und die Fehler magisch anzieht. Eine wirkungsvolle Methode um Komplexität zu vermeiden ist die [Abstraktion](https://de.wikipedia.org/wiki/Abstraktion). Dabei versucht man durch das Konzentrieren auf die elementaren Eigenschaften eines komplexen Systems, dieses in ein einfacheres System zu überführen.
+	Den Einsatz von Abstraktionen zur Komplexitätsverringerung kann man gut am Bespiel von geräteunabhängigen I/O- Zugriffen in Unix-artigen [Betriebssystemen](https://de.wikipedia.org/wiki/Betriebssystem) studieren. Vor [Unix](https://de.wikipedia.org/wiki/Unix) gab es im [Kernel](https://de.wikipedia.org/wiki/Kernel_(Betriebssystem)) der Betriebssysteme verschiedene Aufruffunktionen für den Zugriff auf Dateien und Geräte. Unix konzentrierte sich dagegen auf die geräteübergreifenden Gemeinsamkeiten:
+		* Geräte haben Namen im [Dateisystem](https://de.wikipedia.org/wiki/Dateisystem): spezielle Gerätedateien
+		* Alle Geräte haben die gleiche grundlegende Zugriffsstruktur: open, read, write, seek, close
+		* Für gerätespezifische Operationen gibt es einen zusätzlichen Kernel-Aufruf
+	</data>
+	<date>03.04.2020</date>
+	<index><i>Unix</i><i>Abstraktion</i></index>
+	<tags><t>Technologie</t></tags>
+	<serial>Komplexität</serial>
+</item>
+<item type="text" format="normal">
+	<name>goethe_in_hollywood</name>
+	<title>Goethe in Hollywood</title>
+	<data>Im Februar *1939* übersiedelt [Thomas Mann](https://de.wikipedia.org/wiki/Thomas_Mann) mit seiner Familie endgültig in die USA. In der amerikanischen Öffentlichkeit galt Thomas Mann seitdem als der Repräsentant und Sprechner der deutschsprachigen Emigranten. *1941* bezeichnete ihn die Zeitschrift [The New Yorker](https://www.newyorker.com) sogar als "Goethe in Hollywood".
+	</data>
+	<date>06.04.2020</date>
+	<index><i type="Person">Thomas Mann</i></index>
+	<tags><t>Literatur</t></tags>
+</item>
 </content>

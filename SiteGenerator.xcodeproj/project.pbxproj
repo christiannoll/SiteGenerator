@@ -186,6 +186,7 @@
 				D6F6FF7A238875BB0049F171 /* PostBuilder.swift */,
 				D60667602396E2A100F7B79E /* PostPage.swift */,
 				D6D736CD2404777500FE2FD4 /* RssFeed.swift */,
+				D63CB6FE240AFF4A00D1BA79 /* RssParser.swift */,
 				D6B1D68623F1F1AA00BE317E /* SerialsPage.swift */,
 				D6E1929B23A77A82006A7A5C /* SiteGenerator.swift */,
 				D65D75BC23ABED9F00490D17 /* SmlBuilder.swift */,
@@ -195,7 +196,6 @@
 				D699D53E239AE808006FE271 /* TagItemPage.swift */,
 				D699D53A239AAFCD006FE271 /* Tags.swift */,
 				D699D53C239AB88D006FE271 /* TagsPage.swift */,
-				D63CB6FE240AFF4A00D1BA79 /* RssParser.swift */,
 			);
 			path = SiteGenerator;
 			sourceTree = "<group>";
