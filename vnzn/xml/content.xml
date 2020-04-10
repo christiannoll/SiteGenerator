@@ -236,7 +236,7 @@
 <item type="text" format="normal">
 	<name>spiel_des_lebens</name>
 	<title>Komplexität: Spiel des Lebens</title>
-	<data>Nach welchen Regeln können komplexe Strukturen entstehen, sich verändern und vermehren? Mit dieser Problemstellung beschäftigte sich der Mathematiker [John Conway](https://de.wikipedia.org/wiki/John_Horton_Conway) als er 1970 sein [Spiel des Lebens](https://de.wikipedia.org/wiki/Conways_Spiel_des_Lebens) erfand. Das Spiel beruht auf einen zweidimensionalen Spielfeld, auf dem eine Bevölkerungssimulation durch einen [zellulären Automaten](https://de.wikipedia.org/wiki/Zellul%C3%A4rer_Automat) durchgeführt wird. Das Regelwerk besteht aus den folgenden vier Vorgaben, die je nach Anzahl der Nachbarn für jeder Zelle pro Zeitschritt angewandt werden:   
+	<data>Nach welchen Regeln können komplexe Strukturen entstehen, sich verändern und vermehren? Mit dieser Problemstellung beschäftigte sich der Mathematiker [John Conway](https://de.wikipedia.org/wiki/John_Horton_Conway) als er *1970* sein [Spiel des Lebens](https://de.wikipedia.org/wiki/Conways_Spiel_des_Lebens) erfand. Das Spiel beruht auf einen zweidimensionalen Spielfeld, auf dem eine Bevölkerungssimulation durch einen [zellulären Automaten](https://de.wikipedia.org/wiki/Zellul%C3%A4rer_Automat) durchgeführt wird. Das Regelwerk besteht aus den folgenden vier Vorgaben, die je nach Anzahl der Nachbarn für jeder Zelle pro Zeitschritt angewandt werden:   
 	* Eine tote Zelle mit genau drei lebenden Nachbarn wird in der Folgegeneration neu geboren.
 	* Lebende Zellen mit weniger als zwei lebenden Nachbarn sterben in der Folgegeneration an Einsamkeit.
 	* Eine lebende Zelle mit zwei oder drei lebenden Nachbarn bleibt in der Folgegeneration am Leben.
@@ -423,10 +423,35 @@
 <item type="text" format="normal">
 	<name>goethe_in_hollywood</name>
 	<title>Goethe in Hollywood</title>
-	<data>Im Februar *1939* übersiedelt [Thomas Mann](https://de.wikipedia.org/wiki/Thomas_Mann) mit seiner Familie endgültig in die USA. In der amerikanischen Öffentlichkeit galt Thomas Mann seitdem als der Repräsentant und Sprechner der deutschsprachigen Emigranten. *1941* bezeichnete ihn die Zeitschrift [The New Yorker](https://www.newyorker.com) sogar als "Goethe in Hollywood".
+	<data>Im Februar *1939* übersiedelt [Thomas Mann](https://de.wikipedia.org/wiki/Thomas_Mann) mit seiner Familie endgültig in die USA. In der amerikanischen Öffentlichkeit galt Thomas Mann seitdem als der Repräsentant und Sprecher der deutschsprachigen Emigranten. *1941* bezeichnete ihn die Zeitschrift [The New Yorker](https://www.newyorker.com) sogar als "Goethe in Hollywood".
+	Nach zwei Jahren in Princeton zogen die Manns nach Pacific Palisades, nördlich von Los Angeles. Hier ließ sich Thomas Mann *1942* eine [Villa](http://www.vatmh.org/) nach den Plänen des Berliner Architekten Julius Ralph Davidson erbauen und vom Innenarchitekten Paul Hudschinsky einrichten. Das Haus bot die nötige Ruhe und Stabilität die es dem Schriftsteller in dieser Zeit ermöglichten, den vierten und letzten Teil seines [Joseph-Zyklus](https://de.wikipedia.org/wiki/Joseph_und_seine_Br%C3%BCder) zu vollenden und den ["Doktor Faustus"](https://de.wikipedia.org/wiki/Doktor_Faustus) zu schreiben. Bei den musiktheoretischen Recherchen zu diesem Buch ließ Thomas Mann sich ausgiebig von [Theodor W. Adorno](https://de.wikipedia.org/wiki/Theodor_W._Adorno) beraten, der, wie auch [Bertolt Brecht](https://de.wikipedia.org/wiki/Bertolt_Brecht), [Hans Eisler](https://de.wikipedia.org/wiki/Hanns_Eisler), [Max Horkheimer](https://de.wikipedia.org/wiki/Max_Horkheimer), [Arnold Schönberg](https://de.wikipedia.org/wiki/Arnold_Sch%C3%B6nberg) sowie [Lion Feuchtwanger](https://de.wikipedia.org/wiki/Lion_Feuchtwanger), ebenfalls in diesem Viertel lebte. 
 	</data>
 	<date>06.04.2020</date>
 	<index><i type="Person">Thomas Mann</i></index>
 	<tags><t>Literatur</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>poster3</name>
+	<title>Poster</title>
+	<data>poster3_small.png</data>
+	<date>09.04.2020</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>stanley_kubrick</name>
+	<title>Stanley Kubrick</title>
+	<data>Viele der von [Stanley Kubrick](https://de.wikipedia.org/wiki/Stanley_Kubrick) gedrehten Filme beruhen auf einer literarischen Vorlage.
+	* [Lolita](https://de.wikipedia.org/wiki/Lolita_(1962)) (1962) - "Lolita" von Vladimir Nabokov 
+	* [Dr. Seltsam, oder wie ich lernte, die Bombe zu lieben](https://de.wikipedia.org/wiki/Dr._Seltsam_oder:_Wie_ich_lernte,_die_Bombe_zu_lieben) (1964) - "Bei Rot: Alarm!" von Peter George
+	* [2001: Odyssee im Weltraum](https://de.wikipedia.org/wiki/2001:_Odyssee_im_Weltraum) (1968) - "The Sentinel" von Arthur C. Clarke
+	* [Uhrwerk Orange](https://de.wikipedia.org/wiki/Uhrwerk_Orange_(Film)) (1971) - "A Clockwork Orange" von Anthony Burgess
+	* [Barry Lyndon](https://de.wikipedia.org/wiki/Barry_Lyndon) (1975) - "Die Memoiren des Junkers Barry Lyndon" von William Makepeace Thackeray
+	* [Shining](https://de.wikipedia.org/wiki/Shining_(1980)) (1980) - "Shining" von Steven King
+	* [Full Metal Jacket](https://de.wikipedia.org/wiki/Full_Metal_Jacket) 1987 - "The Short-Timers" und "Dispatches"
+	* [Eyes Wide Shut](https://de.wikipedia.org/wiki/Eyes_Wide_Shut) (1999) - "Traumnovelle" von  Arthur Schnitzlers</data>
+	<date>12.04.2020</date>
+	<index><i type="Person">Stanley Kubrick</i></index>
+	<tags><t>Film</t></tags>
 </item>
 </content>

@@ -60,6 +60,13 @@ class UnitTest: XCTestCase {
         XCTAssertEqual(text, "text1 <a href=\"url\">title</a> text2")
     }
     
+    func testParenthesis() {
+        let s = "text1 (text2)"
+        let text = smlBuilder.render(s)
+        
+        XCTAssertEqual(text, "text1 (text2)")
+    }
+    
     func testUnterminatedLink() {
         let s = "[hello] world"
         let text = smlBuilder.render(s)
