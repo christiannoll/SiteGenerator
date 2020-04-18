@@ -69,7 +69,7 @@ class Index {
 
 class IndexFactory {
     
-    public func createIndex(_ posts: [Item]) -> Index {
+    func createIndex(_ posts: [Item]) -> Index {
         let index = Index()
         
         for post in posts {

@@ -85,5 +85,10 @@ struct SiteGenerator {
         let rssFeed = RssFeed(posts)
         let feedWriter = FeedWriter()
         feedWriter.writeRssFeed(rssFeed.render())
+        
+        let searchItemsFactory = SearchItemsFactory()
+        let searchItems = searchItemsFactory.createSearchItems(posts)
+        let searchPage = SearchPage(searchItems)
+        writer.writeSearchPage(searchPage.render())
     }
 }

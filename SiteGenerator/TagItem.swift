@@ -13,11 +13,11 @@ class TagItem {
         self.folderName = folderName
     }
     
-    public func addPost(_ post: Item) {
+    func addPost(_ post: Item) {
         posts.append(post)
     }
     
-    public func renderTagItem() -> SmlNode {
+    func renderTagItem() -> SmlNode {
         var liChildren: [SmlNode] = []
         let link = a([href => createLinkUrl()], [createLinkTitle()])
         liChildren.append(link)
@@ -25,7 +25,7 @@ class TagItem {
         return l
     }
     
-    public func renderTagItemPosts() -> [SmlNode] {
+    func renderTagItemPosts() -> [SmlNode] {
         var tagItemPosts: [SmlNode] = [newLine]
         
         for post in posts {

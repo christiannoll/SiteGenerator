@@ -14,11 +14,11 @@ class IndexItem {
         self._key = key
     }
     
-    public func addPost(_ post: Item) {
+    func addPost(_ post: Item) {
         posts.append(post)
     }
     
-    public func renderIndexItem() -> SmlNode {
+    func renderIndexItem() -> SmlNode {
         var liChildren: [SmlNode] = []
         let link = a([href => createLinkUrl()], [createLinkTitle()])
         liChildren.append(link)
@@ -26,7 +26,7 @@ class IndexItem {
         return l
     }
     
-    public func renderIndexItemPosts() -> [SmlNode] {
+    func renderIndexItemPosts() -> [SmlNode] {
         var indexItemPosts: [SmlNode] = [newLine]
         
         for post in posts {

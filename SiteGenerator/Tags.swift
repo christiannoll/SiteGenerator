@@ -21,7 +21,7 @@ class Tags {
         _tagItems.sort { $0.key < $1.key }
     }
     
-    public func addPost(_ post: Item) {
+    func addPost(_ post: Item) {
         for tagItem in getTagItems(post) {
             tagItem.addPost(post)
         }
@@ -46,7 +46,7 @@ class Tags {
         return tagItems
     }
     
-    public func renderTags() -> SmlNode {
+    func renderTags() -> SmlNode {
         var divChildren: [SmlNode] = []
         divChildren.append(newLine)
         let h_4 = h4([.text(headerText)])
@@ -70,7 +70,7 @@ class Tags {
 
 class TagsFactory {
     
-    public func createTags(_ posts: [Item]) -> Tags {
+    func createTags(_ posts: [Item]) -> Tags {
         let tags = Tags()
         
         for post in posts {
@@ -107,7 +107,7 @@ class Serials : Tags {
 
 class SerialsFactory {
     
-    public func createSerials(_ posts: [Item]) -> Serials {
+    func createSerials(_ posts: [Item]) -> Serials {
         let serials = Serials()
         serials.headerText = "Serien"
         

@@ -129,6 +129,10 @@ func li(_ children: [SmlNode]) -> SmlNode {
     return node("li", [], children)
 }
 
+func li(_ index: Int, _ children: [SmlNode]) -> SmlNode {
+    return node("li", [id => String(index)], children)
+}
+
 func ul(_ children: [SmlNode]) -> SmlNode {
     return node("ul", [], children)
 }
