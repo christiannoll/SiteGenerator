@@ -463,4 +463,12 @@
 	<index><i type="Person">Thomas Mann</i><i type="Person">Franz Kafka</i></index>
 	<tags><t>Literatur</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>ice_structure</name>
+	<title>Ice Structure</title>
+	<data>ice_structure_small.png</data>
+	<date>19.04.2020</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
