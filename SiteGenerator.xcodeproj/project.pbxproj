@@ -36,6 +36,8 @@
 		D699D53D239AB88D006FE271 /* TagsPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D699D53C239AB88D006FE271 /* TagsPage.swift */; };
 		D699D53F239AE808006FE271 /* TagItemPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D699D53E239AE808006FE271 /* TagItemPage.swift */; };
 		D699D541239AEBAE006FE271 /* TagItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = D699D540239AEBAE006FE271 /* TagItem.swift */; };
+		D69D533C24533AAC005F618E /* SearchIndexBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = D69D533B24533AAC005F618E /* SearchIndexBuilder.swift */; };
+		D69D533E24535669005F618E /* LinkParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = D69D533D24535669005F618E /* LinkParser.swift */; };
 		D6A981A123B0AE1C007F3CBF /* StatisticPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6A981A023B0AE1C007F3CBF /* StatisticPage.swift */; };
 		D6A981A323B0AFE7007F3CBF /* SiteStatistics.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6A981A223B0AFE7007F3CBF /* SiteStatistics.swift */; };
 		D6A981A523B0B7A7007F3CBF /* StatisticData.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6A981A423B0B7A7007F3CBF /* StatisticData.swift */; };
@@ -104,6 +106,8 @@
 		D699D53C239AB88D006FE271 /* TagsPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TagsPage.swift; sourceTree = "<group>"; };
 		D699D53E239AE808006FE271 /* TagItemPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TagItemPage.swift; sourceTree = "<group>"; };
 		D699D540239AEBAE006FE271 /* TagItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TagItem.swift; sourceTree = "<group>"; };
+		D69D533B24533AAC005F618E /* SearchIndexBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchIndexBuilder.swift; sourceTree = "<group>"; };
+		D69D533D24535669005F618E /* LinkParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkParser.swift; sourceTree = "<group>"; };
 		D6A981A023B0AE1C007F3CBF /* StatisticPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatisticPage.swift; sourceTree = "<group>"; };
 		D6A981A223B0AFE7007F3CBF /* SiteStatistics.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SiteStatistics.swift; sourceTree = "<group>"; };
 		D6A981A423B0B7A7007F3CBF /* StatisticData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatisticData.swift; sourceTree = "<group>"; };
@@ -183,6 +187,7 @@
 				D6C26E6C23C0AF1B0014634C /* IndexItemPage.swift */,
 				D699D534239AA695006FE271 /* IndexPage.swift */,
 				D69221C323818FEB0007E774 /* Item.swift */,
+				D69D533D24535669005F618E /* LinkParser.swift */,
 				D676120C237F43960042F55D /* main.swift */,
 				D6ADD6532385DAF9005C0495 /* MarkdownNode.swift */,
 				D6F92EC3238320D900FCAAC1 /* MarkdownParser.swift */,
@@ -193,6 +198,7 @@
 				D60667602396E2A100F7B79E /* PostPage.swift */,
 				D6D736CD2404777500FE2FD4 /* RssFeed.swift */,
 				D63CB6FE240AFF4A00D1BA79 /* RssParser.swift */,
+				D69D533B24533AAC005F618E /* SearchIndexBuilder.swift */,
 				D6E8D2A1244B3A1500605EEF /* SearchItem.swift */,
 				D6E8D29F244B38FA00605EEF /* SearchItems.swift */,
 				D6E8D29D244B384C00605EEF /* SearchPage.swift */,
@@ -344,6 +350,7 @@
 				D690C72423DA315C00975E72 /* FtpScriptWriter.swift in Sources */,
 				D676120D237F43960042F55D /* main.swift in Sources */,
 				D6CAB6FF2398488A00C4D2EF /* PageWriter.swift in Sources */,
+				D69D533C24533AAC005F618E /* SearchIndexBuilder.swift in Sources */,
 				D650F34F23930CC000B2320E /* Page.swift in Sources */,
 				D699D53D239AB88D006FE271 /* TagsPage.swift in Sources */,
 				D6F4BF9123EE02FA005D9402 /* FormatBuilder.swift in Sources */,
@@ -357,6 +364,7 @@
 				D667BB1424070C6C00B8789F /* FeedWriter.swift in Sources */,
 				D6D356D5238DBAC300A2F217 /* SmlPrinter.swift in Sources */,
 				D699D537239AACAF006FE271 /* IndexItem.swift in Sources */,
+				D69D533E24535669005F618E /* LinkParser.swift in Sources */,
 				D6B1D68723F1F1AA00BE317E /* SerialsPage.swift in Sources */,
 				D60667612396E2A100F7B79E /* PostPage.swift in Sources */,
 				D6112D2623A8187300140519 /* PageLoader.swift in Sources */,

@@ -471,4 +471,14 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>immunsystem</name>
+	<title>Das Immunsystem als komplexes System</title>
+	<data>Das [Immunsystem](https://de.wikipedia.org/wiki/Immunsystem) des Menschen ist über den ganzen Körper verteilt und stellt ein komplexes Netzwerk da, das viele Organe beinhaltet. Billionen von Zellen zirkulieren permanent in den Blut- und [Lymphgefäßen](https://de.wikipedia.org/wiki/Lymphatisches_System), um den Körper vor Gefahren zu schützen und Krankheiten zu heilen. 
+	Die Immunsystemzellen kommunizieren miteinander über chemische Signale und arbeiten dabei ohne zentrale Kontrolle zusammen, um koordiniert gegen wahrgenommene Bedrohungen für den Körper vorzugehen. Durch diese Art der [Selbstorganisation](https://de.wikipedia.org/wiki/Selbstorganisation) ist das Immunsystem als Ganzes in der Lage, auf erkannte Veränderungen in ihrer Umgebung zu reagieren und sich anzupassen.</data>
+	<date>23.04.2020</date>
+	<index><i>Immunsystem</i></index>
+	<tags><t>Biologie</t></tags>
+	<serial>Komplexität</serial>
+</item>
 </content>
