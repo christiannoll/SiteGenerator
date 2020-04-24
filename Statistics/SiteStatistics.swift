@@ -38,7 +38,7 @@ class SiteStatistics {
             }
             else {
                 postData.wordCount = calcWordCount(post)
-                postData.linkCount = calcNumberOfLinks(post)
+                postData.linkCount = post.links.count
                 numberOfAllLinks += postData.linkCount
                 numberOfTextPosts += 1
                 numberOfAllWords += postData.wordCount
@@ -76,43 +76,6 @@ class SiteStatistics {
         dateFormatter.locale = Locale.init(identifier: "de_DE")
         
         return dateFormatter.string(from: post.date!)
-    }
-    
-    private func calcNumberOfLinks(_ post: Item) -> Int {
-        let markdownNodes = MarkdownParser.parse(text: post.data)
-        return parse(markdownNodes)
-    }
-    
-    private func parse(_ markdownNodes: [MarkdownNode]) -> Int {
-        var numberOfLinks = 0
-        for markDownNode in markdownNodes {
-            switch markDownNode {
-            case .bold(let nodes):
-                numberOfLinks += parse(nodes)
-            case .italic(let nodes):
-                numberOfLinks += parse(nodes)
-            case .code(let nodes):
-                numberOfLinks += parse(nodes)
-            case .parenthesis(let nodes):
-                numberOfLinks += parse(nodes)
-            case .brackets(let nodes):
-                numberOfLinks += parse(nodes)
-            case .olistelement(let nodes):
-                numberOfLinks += parse(nodes)
-            case .ulistelement(let nodes):
-                numberOfLinks += parse(nodes)
-            case .link(let nodes):
-                numberOfLinks += 1
-                numberOfLinks += parse(nodes)
-            case .ulist(let nodes):
-                numberOfLinks += parse(nodes)
-            case .olist(let nodes):
-                numberOfLinks += parse(nodes)
-            default:
-                break
-            }
-        }
-        return numberOfLinks
     }
     
     private func parseNumberOfWords(_ markdownNodes: [MarkdownNode]) -> Int {

@@ -16,6 +16,8 @@ class PostBuilder {
         let postTitle = createPostTitle(item)
         
         let elements = formatBuilder.parse(MarkdownParser.parse(text: item.data), item)
+        parseLinks(item, elements)
+        
         let postBody = createTextPostBody(elements)
         
         let postDateline = createTextPostDateline(item)
@@ -147,5 +149,12 @@ class PostBuilder {
         content += imgNode.render()
         content += "]]>"
         return content
+    }
+    
+    private func parseLinks(_ item: Item, _ markdownNodes: [MarkdownNode]) {
+        let linkParser = LinkParser()
+        var links: [String: String] = [:]
+        linkParser.parse(markdownNodes, &links)
+        item.links = links
     }
 }

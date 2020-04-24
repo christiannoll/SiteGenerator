@@ -8,6 +8,7 @@ public class Item  {
     var tags: Set<String> = []
     var indices: Set<String> = []
     var serial = ""
+    var links: [String: String] = [:]
     
     let smlBuilder = PostBuilder()
     

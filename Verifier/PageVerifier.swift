@@ -46,12 +46,8 @@ class PageVerifier {
     
     private func loadPostLinks() -> Bool {
         var res = true
-        let linkParser = LinkParser()
         for post in posts {
-            let markdownNodes = MarkdownParser.parse(text: post.data)
-            var links: [String: String] = [:]
-            linkParser.parse(markdownNodes, &links)
-            links.forEach {
+            post.links.forEach {
                 res = res && loadUrl((SmlBuilder.buildUrl($0), $1))
             }
         }
