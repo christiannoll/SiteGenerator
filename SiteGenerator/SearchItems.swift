@@ -13,10 +13,10 @@ class SearchItems {
     }
     
     func addPost(_ post: Item) {
-        _searchItems.append(SearchItem(post, _searchItems.count))
+        _searchItems.append(SearchItem(post))
     }
     
-    public func renderSearchItems() -> SmlNode {
+    func renderSearchItems() -> SmlNode {
         var divChildren: [SmlNode] = []
         divChildren.append(newLine)
         let h_4 = h4([.text("Suche")])
@@ -38,7 +38,7 @@ class SearchItems {
     }
 }
 
-class SearchItemsFactory {
+struct SearchItemsFactory {
     public func createSearchItems(_ posts: [Item]) -> SearchItems {
         let searchItems = SearchItems()
         

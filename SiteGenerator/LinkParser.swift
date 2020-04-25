@@ -1,6 +1,6 @@
 import Foundation
 
-class LinkParser {
+struct LinkParser {
     
     func parse(_ markdownNodes: [MarkdownNode], _ links: inout [String: String]) {
         for markDownNode in markdownNodes {

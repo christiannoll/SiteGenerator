@@ -5,7 +5,7 @@ class ContentParser : NSObject, XMLParserDelegate {
     private let CONTENT_FILE = "/Users/chn/Programmierung/Swift/SiteGenerator/vnzn/xml/content.xml"
     
     private var items: [Item] = []
-    private var item = Item()
+    private var item = Item(-1)
     private var foundCharacters = ""
     
     func parse() -> [Item] {
@@ -30,14 +30,14 @@ class ContentParser : NSObject, XMLParserDelegate {
         case "item":
             if let classAttrVal = attributeDict["type"] {
                 if classAttrVal == "text" {
-                    let textItem = TextPost()
+                    let textItem = TextPost(items.count + 1)
                     if let classAttrVal = attributeDict["format"] {
                         textItem.format = classAttrVal
                     }
                     item = textItem
                 }
                 else if classAttrVal == "image" {
-                    let imageItem = ImagePost()
+                    let imageItem = ImagePost(items.count + 1)
                     if let classAttrVal = attributeDict["width"] {
                         imageItem.width = Int(classAttrVal)!
                     }

@@ -1,16 +1,23 @@
 import Foundation
 
-class SearchIndexBuilder {
+struct SearchIndexBuilder {
     
     func buildIndex(_ posts: [Item]) {
         var words: [String] = []
         for post in posts {
             words.append(contentsOf: split(post.title))
-            for index in post.indices {
-                words.append(contentsOf: split(index))
-            }
-            for link in post.links {
-                words.append(contentsOf: split(link.1))
+            words.append(contentsOf: post.indices.map { split($0) }.joined())
+            words.append(contentsOf: post.tags.map { split($0) }.joined())
+            words.append(contentsOf: post.links.map { split($0.1) }.joined())
+        }
+        
+        for word in words {
+            let upperBound = word.count-2
+            for index in 0..<upperBound {
+                let start = word.index(word.startIndex, offsetBy: index)
+                let end = word.index(start, offsetBy: +3)
+                let range = start..<end
+                let part = word[range]
             }
         }
     }
@@ -20,7 +27,9 @@ class SearchIndexBuilder {
         let words = text.components(separatedBy: .whitespaces)
         for word in words {
             let trimmedWord = word.trimmingCharacters(in: .punctuationCharacters)
-            trimmedWords.append(trimmedWord)
+            if trimmedWord.count > 2 {
+                trimmedWords.append(trimmedWord)
+            }
         }
         return trimmedWords
     }

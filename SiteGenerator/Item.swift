@@ -1,6 +1,7 @@
 import Foundation
 
 public class Item  {
+    let id: Int
     var data = ""
     var name = ""
     var title = ""
@@ -11,6 +12,10 @@ public class Item  {
     var links: [String: String] = [:]
     
     let smlBuilder = PostBuilder()
+    
+    init(_ id: Int) {
+        self.id = id
+    }
     
     func renderPost() -> SmlNode {return .text("")}
     func renderPostInSingleMode() -> SmlNode { return renderPost() }
