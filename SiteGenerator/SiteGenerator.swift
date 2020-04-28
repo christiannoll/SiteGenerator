@@ -91,7 +91,8 @@ struct SiteGenerator {
         let searchPage = SearchPage(searchItems)
         writer.writeSearchPage(searchPage.render())
         
-        let searchIndexBuilder = SearchIndexBuilder()
+        var searchIndexBuilder = SearchIndexBuilder()
         searchIndexBuilder.buildIndex(posts)
+        searchIndexBuilder.writeJsFile()
     }
 }

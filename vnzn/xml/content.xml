@@ -493,4 +493,12 @@
 	<tags><t>Architektur</t><t>Kunst</t></tags>
 	<serial>Bauhaus</serial>
 </item>
+<item type="image" height="200" width="200">
+	<name>skyscrapers</name>
+	<title>Skyscrapers</title>
+	<data>skyscrapers_small.png</data>
+	<date>29.04.2020</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
