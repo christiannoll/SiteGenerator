@@ -7,7 +7,15 @@ extension String {
         path = path.replacingOccurrences(of: " ", with: "-")
         path = path.replacingOccurrences(of: ":", with: "-")
         return path.addingPercentEncoding(withAllowedCharacters: .urlPathAllowed)!
-    }    
+    }
+    
+    func htmlEncodedString() -> String {
+        return self.replacingOccurrences(of: "&", with: "&amp;")
+            .replacingOccurrences(of: "<", with: "&lt;")
+            .replacingOccurrences(of: ">", with: "&gt;")
+            .replacingOccurrences(of: "\"", with: "&quot;")
+            .replacingOccurrences(of: "'", with: "&apos;")
+    }
 }
 
 struct SiteGenerator {

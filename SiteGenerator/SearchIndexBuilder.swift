@@ -9,8 +9,8 @@ struct SearchIndexBuilder {
             var words: [String] = []
             
             words.append(contentsOf: split(post.title))
-            words.append(contentsOf: post.indices.map { split($0) }.joined())
-            words.append(contentsOf: post.tags.map { split($0) }.joined())
+            words.append(contentsOf: post.indices.map(split).joined())
+            words.append(contentsOf: post.tags.map(split).joined())
             words.append(contentsOf: post.links.map { split($0.1) }.joined())
             
             for word in words {
@@ -55,7 +55,7 @@ struct SearchIndexBuilder {
         
         for (part, indices) in searchIndex {
             if !first {
-                jsCode += ",\n"
+                jsCode += ","//\n"
             }
             
             jsCode += "[\""

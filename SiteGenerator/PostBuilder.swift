@@ -43,7 +43,7 @@ class PostBuilder {
     }
     
     private func createRssArticle(_ item: Item, _ createDescription:(Item) -> String) -> SmlNode {
-        let postTitle = title_node(item.title)
+        let postTitle = title_node(item.title.htmlEncodedString())
         let postLink = link_node(createPostUrl(item))
         let postGuid = guid_node(createPostUrl(item))
         let postPubDate = pubDate_node(createPubDate(item))
@@ -130,11 +130,7 @@ class PostBuilder {
     private func createRssTextPostDescription(_ item: Item) -> String {
         let markdownNodes = formatBuilder.parse(MarkdownParser.parse(text: item.data), item as! TextPost)
         let html = smlBuilder.parse(markdownNodes).render()
-        return html.replacingOccurrences(of: "&", with: "&amp;")
-            .replacingOccurrences(of: "<", with: "&lt;")
-            .replacingOccurrences(of: ">", with: "&gt;")
-            .replacingOccurrences(of: "\"", with: "&quot;")
-            .replacingOccurrences(of: "'", with: "&apos;")
+        return html.htmlEncodedString()
     }
     
     private func createRssImagePostDescription(_ item: Item) -> String {
