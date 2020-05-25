@@ -10,9 +10,23 @@ class SearchPage : Page {
     
     override func renderContent() -> SmlNode {
         var mainChildren: [SmlNode] = [newLine]
+        
+        mainChildren.append(input([type => "text", size => "10", name => "search", onkeyup => "search(this.value)"]))
+        mainChildren.append(newLine)
+        
         mainChildren.append(searchItems.renderSearchItems())
         
         mainChildren.append(newLine)
         return main(mainChildren)
+    }
+    
+    override func createJavascriptInclude() -> SmlNode? {
+        let javascript = script([src => "search.js", type => "text/javascript"])
+        return javascript
+    }
+    
+    override func body(_ children: [SmlNode]) -> SmlNode {
+        let attributes = [onLoad => "startSearchWorker()"]
+        return node("body", attributes, children)
     }
 }

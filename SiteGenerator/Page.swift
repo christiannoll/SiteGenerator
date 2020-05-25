@@ -67,8 +67,19 @@ class Page {
         headChildren.append(rss)
         headChildren.append(newLine)
         
+        let jsInclude = createJavascriptInclude()
+        if jsInclude != nil {
+            headChildren.append(tab)
+            headChildren.append(jsInclude!)
+            headChildren.append(newLine)
+        }
+        
         let h = head(headChildren)
         return h
+    }
+    
+    func createJavascriptInclude() -> SmlNode? {
+        return nil
     }
     
     func renderContent() -> SmlNode {
@@ -158,7 +169,7 @@ class Page {
         return node("head", children)
     }
 
-    private func body(_ children: [SmlNode]) -> SmlNode {
+    func body(_ children: [SmlNode]) -> SmlNode {
         return node("body", children)
     }
     
@@ -186,9 +197,23 @@ class Page {
         return node("link", attribs, nil)
     }
     
+    func script(_ attribs: [SmlAttribute]) -> SmlNode {
+        var dummyChildren: [SmlNode] = []
+        dummyChildren.append(.text(""))
+        return node("script", attribs, dummyChildren)
+    }
+    
+    func input(_ attribs: [SmlAttribute]) -> SmlNode {
+        return node("input", attribs, nil)
+    }
+    
     let content = SmlAttributeKey<String>("content")
     let name = SmlAttributeKey<String>("name")
     let http_equiv = SmlAttributeKey<String>("http-equiv")
     let rel = SmlAttributeKey<String>("rel")
     let type = SmlAttributeKey<String>("type")
+    let src = SmlAttributeKey<String>("src")
+    let onLoad = SmlAttributeKey<String>("onLoad")
+    let size = SmlAttributeKey<String>("size")
+    let onkeyup = SmlAttributeKey<String>("onkeyup")
 }

@@ -48,7 +48,7 @@ struct SearchIndexBuilder {
     }
     
     private func generateJsCode() -> String {
-        var jsCode = "getSearchIndex() {\n"
+        var jsCode = "function getSearchIndex() {\n"
         jsCode += "var map = new Map(["
         
         var first = true
@@ -77,7 +77,7 @@ struct SearchIndexBuilder {
         }
         
         jsCode += "]);\n"
-        jsCode += "return var}"
+        jsCode += "return map}"
         
         return jsCode
     }

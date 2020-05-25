@@ -509,4 +509,52 @@
 	<index><i type="Musik">The Velvet Underground &amp; Nico</i></index>
 	<tags><t>Musik</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>linux_development</name>
+	<title>Der Linux-Kernel</title>
+	<data>Der *1991* von [Linus Torvalds](https://de.wikipedia.org/wiki/Linus_Torvalds) als Hobbyprojekt gestartete [Linux-Kernel](https://de.wikipedia.org/wiki/Linux_(Kernel)) ist wahrscheinlich das erfolgreichste Open Source Softwareprojekt überhaupt. Was mit einem Entwickler in Finnland begann, ist heute ein Projekt an dem weltweit mehrere Tausend Entwickler mitarbeiten.
+	Wie ist es möglich eine so komplexe Software, wie ein [Betriebssystem](https://de.wikipedia.org/wiki/Betriebssystem), mit tausenden Entwicklern verteilt auf der ganzen Welt, erfolgreich zu entwickeln? 
+	Ein Grund ist absolute Transparenz, denn der Quellcode steht unter der Open Source Lizenz [GPL-v2](https://de.wikipedia.org/wiki/GNU_General_Public_License) und der größte Teil der Kommunikation läuft über öffentliche Mailinglisten. 
+	Bei der Entwicklung des [Kernel](https://de.wikipedia.org/wiki/Kernel_(Betriebssystem)) gibt es keine formale Hierarchie. Niemand gibt von außen vor, wer was zu programmieren hat. Jeder arbeitet nur an dem, was für ihn wichtig ist. 
+	Die per Mail eingereichten Änderungen werden von einem Maintainer des entsprechenden Subsystems des Kernel begutachtet. Nur wenn sie den sehr hohen Qualitätsansprüchen der Kernel-Entwickler genügen, werden sie an Linus Torvalds weitergeleitet, der dann das letzte Wort darüber hat, ob ein Patch in den Kernel aufgenommen wird.</data>
+	<date>07.05.2020</date>
+	<index><i>Linux</i><i type="Person">Linus Torvalds</i></index>
+	<tags><t>Technologie</t></tags>
+	<serial>Komplexität</serial>
+</item>
+<item type="image" height="200" width="200">
+	<name>lights2</name>
+	<title>Spots</title>
+	<data>lights2_small.png</data>
+	<date>11.05.2020</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>rhythmus</name>
+	<title>Rhythmus</title>
+	<data>Die serielle Wortproduktion als Assoziationskette zur Bedeutungsschöpfung mit Satzvariationen, deren verschachtelte Muster den Rhythmus der Sprache und Gedanken formen.</data>
+	<date>15.05.2020</date>
+	<index><i>Rhythmus</i></index>
+	<tags><t>Allgemein</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>bauhaus_moholy_nagy</name>
+	<title>bauhaus: lászló moholy-nagy</title>
+	<data>der in ungarn geborene [lászló moholy-nagy](https://de.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Moholy-Nagy) wurde *1923* durch [walter gropius](https://de.wikipedia.org/wiki/Walter_Gropius) als meister an das staatliche bauhaus in weimar berufen. hier beschäftigte er sich mit typographie, fotografie, experimentellem film und leitete ab *1925* die metallwerkstatt am [bauhaus](https://de.wikipedia.org/wiki/Bauhaus) in dessau.
+	zusammen mit walter gropius war er mitherausgeber der [bauhausbücher](https://de.wikipedia.org/wiki/Bauhausb%C3%BCcher) und veröffentlicht selbst die gestaltungstheoretischen werke "Malerei Photographie Film" und "vom material zu architektur".
+	*1928* verläßt [lászló moholy-nagy](https://www.bauhaus100.de/das-bauhaus/koepfe/meister-und-lehrende/laszlo-moholy-nagy/) das bauhaus und unterhält bis *1934* in berlin ein atelier für grafik-design. in dieser zeit entwirft er auch den "Licht-Raum-Modulators" die erste lichtkinetische plastik. *1937* gründet er in chicago die  designschule "new bauhaus". </data>
+	<date>19.05.2020</date>
+	<index><i type="Person">László Moholy-Nagy</i><i>Bauhaus</i><i>Typographie</i></index>
+	<tags><t>Architektur</t><t>Kunst</t><t>Fotografie</t></tags>
+	<serial>Bauhaus</serial>
+</item>
+<item type="image" height="200" width="200">
+	<name>stripes</name>
+	<title>Stripes</title>
+	<data>stripes_small.png</data>
+	<date>23.05.2020</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
