@@ -13,7 +13,7 @@ struct SearchItem {
         var liChildren: [SmlNode] = []
         let link = postBuilder.createPostLink(post)
         liChildren.append(link)
-        let l = li(post.id, liChildren)
+        let l = li_style(post.id, liChildren)
         return l
     }
 }

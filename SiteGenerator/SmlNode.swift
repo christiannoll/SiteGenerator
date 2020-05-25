@@ -133,6 +133,10 @@ func li(_ index: Int, _ children: [SmlNode]) -> SmlNode {
     return node("li", [id => String(index)], children)
 }
 
+func li_style(_ index: Int, _ children: [SmlNode]) -> SmlNode {
+    return node("li", [id => String(index), style => "display:list-item;"], children)
+}
+
 func ul(_ children: [SmlNode]) -> SmlNode {
     return node("ul", [], children)
 }
