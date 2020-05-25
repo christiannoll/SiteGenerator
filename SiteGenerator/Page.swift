@@ -18,12 +18,6 @@ class Page {
         htmlChildren.append(renderBody())
         htmlChildren.append(newLine)
         
-        htmlChildren.append(renderNav())
-        htmlChildren.append(newLine)
-        
-        htmlChildren.append(renderFooter())
-        htmlChildren.append(newLine)
-        
         let root = html(htmlChildren)
         return root.render()
     }
@@ -35,6 +29,12 @@ class Page {
         bodyChildren.append(newLine)
         
         bodyChildren.append(renderContent())
+        bodyChildren.append(newLine)
+        
+        bodyChildren.append(renderNav())
+        bodyChildren.append(newLine)
+        
+        bodyChildren.append(renderFooter())
         bodyChildren.append(newLine)
         
         let b = body(bodyChildren)
