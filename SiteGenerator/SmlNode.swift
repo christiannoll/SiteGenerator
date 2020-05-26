@@ -196,5 +196,5 @@ let style = SmlAttributeKey<String>("style")
 let id = SmlAttributeKey<String>("id")
 let version = SmlAttributeKey<String>("version")
 let title_attr = SmlAttributeKey<String>("title")
-
+let placeholder = SmlAttributeKey<String>("placeholder")
 

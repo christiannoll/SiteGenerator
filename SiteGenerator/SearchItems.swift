@@ -19,7 +19,7 @@ class SearchItems {
     func renderSearchItems() -> SmlNode {
         var divChildren: [SmlNode] = []
         divChildren.append(newLine)
-        let h_4 = h4([.text("Suche")])
+        let h_4 = h4([.text("Einträge")])
         divChildren.append(h_4)
         divChildren.append(newLine)
         

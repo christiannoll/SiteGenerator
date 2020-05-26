@@ -5,18 +5,18 @@ function startSearchWorker(){
 }
 
 function search(searchStr){
-	worker.postMessage(["search", searchStr]);
-}
-
-worker.onmessage = function(e){
-	var indices = e.data;
-	if (indices.length > 0) {	
-		applySearchResult(indices);
+	if (searchStr.length > 2) {
+		worker.postMessage(["search", searchStr]);
 	}
 	else {
 		showAll();
 	}
-	console.log(indices);
+}
+
+worker.onmessage = function(e){
+	var indices = e.data;	
+	applySearchResult(indices);
+	//console.log(indices);
 }
 
 function applySearchResult(indices) {
