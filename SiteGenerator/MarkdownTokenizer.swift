@@ -214,7 +214,8 @@ class MarkdownTokenizer {
         }
         
         while !leftDelimiters.isEmpty {
-            if leftDelimiters.popLast() == delimiter {
+            let lastLeftDelimiter = leftDelimiters.popLast()
+            if lastLeftDelimiter == delimiter || lastLeftDelimiter == CharacterSet.getLeftDelimiter(rightDelimiter:delimiter) {
                 break
             }
         }

@@ -40,7 +40,7 @@ public class SmlBuilder {
                 s.append("</em>")
             case .code(let nodes):
                 s.append("<code>")
-                s.append(parse(nodes))
+                s.append(parseCode(nodes))
                 s.append("</code>")
             case .color(let color, let nodes):
                 s.append("<span style=\"color:" + color + "\">")
@@ -92,6 +92,21 @@ public class SmlBuilder {
                 s.append("</a>")
             default:
                 break
+            }
+        }
+        return s
+    }
+    
+    private func parseCode(_ markdownNodes: [MarkdownNode]) -> String {
+        var s = ""
+        for markDownNode in markdownNodes {
+            switch markDownNode {
+            case .linebreak:
+                s.append("<br>")
+            case .text(let text):
+                s.append(text)
+            default:
+                s.append(parse([markDownNode]))
             }
         }
         return s
