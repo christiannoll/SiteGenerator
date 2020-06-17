@@ -4,4 +4,4 @@ https://www.fewbutripe.com/swift/html/dsl/2017/06/22/type-safe-html-in-swift.htm
 
 sftp vnznad@188.40.218.37 < /Users/chn/Programmierung/Swift/SiteGenerator/vnzn/ftp/sftpScript.txt
 
-04.06 14:40
+sudo youtube-dl --no-check-certificate --update

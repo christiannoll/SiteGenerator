@@ -543,7 +543,7 @@
 	<title>bauhaus: lászló moholy-nagy</title>
 	<data>der in ungarn geborene [lászló moholy-nagy](https://de.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Moholy-Nagy) wurde *1923* durch [walter gropius](https://de.wikipedia.org/wiki/Walter_Gropius) als meister an das staatliche bauhaus in weimar berufen. hier beschäftigte er sich mit typographie, fotografie, experimentellem film und leitete ab *1925* die metallwerkstatt am [bauhaus](https://de.wikipedia.org/wiki/Bauhaus) in dessau.
 	zusammen mit walter gropius war er mitherausgeber der [bauhausbücher](https://de.wikipedia.org/wiki/Bauhausb%C3%BCcher) und veröffentlicht selbst die gestaltungstheoretischen werke "Malerei Photographie Film" und "vom material zu architektur".
-	*1928* verläßt [lászló moholy-nagy](https://www.bauhaus100.de/das-bauhaus/koepfe/meister-und-lehrende/laszlo-moholy-nagy/) das bauhaus und unterhält bis *1934* in berlin ein atelier für grafik-design. in dieser zeit entwirft er auch den "Licht-Raum-Modulators" die erste lichtkinetische plastik. *1937* gründet er in chicago die  designschule "new bauhaus". </data>
+	*1928* verläßt [lászló moholy-nagy](https://www.bauhaus100.de/das-bauhaus/koepfe/meister-und-lehrende/laszlo-moholy-nagy/) das bauhaus und unterhält bis *1934* in berlin ein atelier für grafik-design. in dieser zeit entwirft er auch den "Licht-Raum-Modulators" die erste lichtkinetische plastik. *1937* gründet er in chicago die  designschule "new bauhaus".</data>
 	<date>19.05.2020</date>
 	<index><i type="Person">László Moholy-Nagy</i><i>Bauhaus</i><i>Typographie</i></index>
 	<tags><t>Architektur</t><t>Kunst</t><t>Fotografie</t></tags>
@@ -556,5 +556,75 @@
 	<date>23.05.2020</date>
 	<index></index>
 	<tags><t>Foto</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>schmettlings_traum</name>
+	<title>Der Traum</title>
+	<data>Gestern Nacht träumte ich, ich wär ein Schmetterling und flog von Blume zu Blume. Da erwachte ich und siehe:
+	Alles war nur ein Traum. Jetzt weiß ich nicht:
+	Bin ich ein Mensch der träumte, er sei ein Schmetterling, oder bin ich ein Schmetterling, der träumt, er sei ein Mensch?
+	Nach [Zhuangzi](https://de.wikipedia.org/wiki/Zhuangzi)</data>
+	<date>27.05.2020</date>
+	<index><i type="Person">Zhuangzi</i></index>
+	<tags><t>Philosophie</t><t>Allgemein</t></tags>
+	<serial></serial>
+</item>
+<item type="text" format="normal">
+	<name>free_energy_principle</name>
+	<title>Free Energy Principle</title>
+	<data>Das [Free Energy Principle](https://en.wikipedia.org/wiki/Free_energy_principle) versucht zu erklären, wie biologische Systeme in einem [Nichtgleichgewichtszustand](https://de.wikipedia.org/wiki/Nichtgleichgewichtssystem) bleiben, in dem sie die Anzahl ihre internen Zustände und die angenommenen versteckten Zustände ihrer Umwelt begrenzen. 
+	Dieses Prinzip wurde ursprünglich von [Karl Friston](https://de.wikipedia.org/wiki/Karl_J._Friston) eingeführt und sagt aus, dass biologische Systeme versuchen, den Unterschied zwischen ihrem [Modell von der Welt](https://en.wikipedia.org/wiki/Physical_cosmology) und ihren Sinneswahrnehmungen zu minimieren. Dieser Unterschied wird auch als "Überraschung" beschrieben und kann durch eine kontinuierliche Korrektur des Weltmodells reduziert werden.
+	Ein zweite Methode zur Reduzierung der freien Energie eines Systems, ist der Versuch, die Welt in den erwarteten Zustand durch aktive Einflussnahme zu bringen. Friston geht davon aus, dass das Free Energy Principle auch auf [psychische Störungen](https://de.wikipedia.org/wiki/Psychische_St%C3%B6rung) und [künstliche Intelligenz](https://de.wikipedia.org/wiki/K%C3%BCnstliche_Intelligenz) anwendbar ist.
+	Quelle: [Wikipedia](https://en.wikipedia.org/wiki/Free_energy_principle)</data>
+	<date>01.06.2020</date>
+	<index><i type="Person">Karl Friston</i><i>Gehirn</i></index>
+	<tags><t>Philosophie</t><t>Biologie</t></tags>
+	<serial></serial>
+</item>
+<item type="image" height="200" width="200">
+	<name>fence3</name>
+	<title>Fence</title>
+	<data>fence3_small.png</data>
+	<date>04.06.2020</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
+<item type="text" format="randomWordColor">
+	<name>trans_europa_express</name>
+	<title>Kraftwerk: Trans Europa Express</title>
+	<data>Europa Endlos / Spiegelsaal / Schaufensterpuppen / [Trans Europa Express](https://de.wikipedia.org/wiki/Trans_Europa_Express) / Metall auf Metall / Abzug / Franz Schubert / Endlos Endlos</data>
+	<date>07.06.2020</date>
+	<index><i type="Musik">Trans Europa Express</i><i type="Musiker">Kraftwerk</i></index>
+	<tags><t>Musik</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>paul_klee_zeichnen</name>
+	<title>Paul Klee über Zeichnen</title>
+	<data>[Paul Klee](https://de.wikipedia.org/wiki/Paul_Klee): "Zeichnen ist die Kunst, Striche spazieren zu führen."</data>
+	<date>11.06.2020</date>
+	<index><i type="Person">Paul Klee</i></index>
+	<tags><t>Malerei</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>sign</name>
+	<title>Sign</title>
+	<data>sign_small.png</data>
+	<date>15.06.2020</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>halteproblem</name>
+	<title>Halteproblem</title>
+	<data>Beim [Halteproblem](https://de.wikipedia.org/wiki/Halteproblem) geht es um die Frage, ob die Ausführung eines Algorithmus zu einem Ende kommt, oder für immer weiter läuft. Mit diesem Problem hat sich auch [Alan Turing](https://de.wikipedia.org/wiki/Alan_Turing) beschäftigt und er konnte beweisen, dass es keinen Algorithmus gibt, der dies für alle möglichen Algorithmen und beliebige Eingaben beantwortet.
+	`wiederhole 
+	     falls n gerade:  n := n / 2
+	     sonst:           n := (3 * n) + 1
+	bis n = 1`
+	Das obige Programm hält für jede Eingabe n (bei n > 0  und n ∈ N), wenn die bisher unbewiesene [Collatz-Vermutung](https://de.wikipedia.org/wiki/Collatz-Vermutung) richtig ist. Die Collatz-Vermutung sagt nämlich aus, dass eine solche Schleife früher oder später immer die Zahlenfolge 4, 2, 1 hervorbringen würde, was bei der hier gegebenen Abbruchbedingung "bis n = 1" zum Halten des Programms führen würde.
+	Quelle: [Wikipedia](https://de.wikipedia.org/wiki/Halteproblem)</data>	
+	<date>19.06.2020</date>
+	<index><i>Halteproblem</i></index>
+	<tags><t>Mathematik</t><t>Informatik</t></tags>
 </item>
 </content>

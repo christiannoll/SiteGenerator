@@ -164,4 +164,18 @@ class UnitTest: XCTestCase {
         
         XCTAssertEqual(text, "<ul><li>One</li><li>Two</li><li>Three</li></ul>")
     }
+    
+    func testCodeElement() {
+        let s = "`11 22 33 haha`"
+        let text = smlBuilder.render(s)
+        
+        XCTAssertEqual(text, "<code>11 22 33 haha</code>")
+    }
+    
+    func testMultilineCodeElement() {
+        let s = "`wiederhole\t     falls n gerade:  n := n / 2\t    sonst:           n := (3 * n) + 1\tbis n = 1`"
+        let text = smlBuilder.render(s)
+        
+        XCTAssertEqual(text, "<code>wiederhole<br>     falls n gerade:  n := n / 2<br>    sonst:           n := (3 * n) + 1<br>bis n = 1</code>")
+    }
 }
