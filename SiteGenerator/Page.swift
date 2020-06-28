@@ -2,11 +2,11 @@ import Foundation
 
 class Page {
     
-    public static let baseUrl = "http://localhost:8000/"
-    //public static let baseUrl = "https://www.vnzn.de/"
+    //public static let baseUrl = "http://localhost:8000/"
+    public static let baseUrl = "https://www.vnzn.de/"
     
     static let homepageTitle = "v.n.z.n"
-    static let homepageTagline = "Memento Mori"
+    static let homepageTagline = "Christian Noll"
     
     public func render() -> String {
         var htmlChildren: [SmlNode] = []

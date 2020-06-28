@@ -624,7 +624,26 @@
 	Das obige Programm hält für jede Eingabe n (bei n > 0  und n ∈ N), wenn die bisher unbewiesene [Collatz-Vermutung](https://de.wikipedia.org/wiki/Collatz-Vermutung) richtig ist. Die Collatz-Vermutung sagt nämlich aus, dass eine solche Schleife früher oder später immer die Zahlenfolge 4, 2, 1 hervorbringen würde, was bei der hier gegebenen Abbruchbedingung "bis n = 1" zum Halten des Programms führen würde.
 	Quelle: [Wikipedia](https://de.wikipedia.org/wiki/Halteproblem)</data>	
 	<date>19.06.2020</date>
-	<index><i>Halteproblem</i></index>
+	<index><i>Halteproblem</i><i type="Person">Alan Turing</i></index>
 	<tags><t>Mathematik</t><t>Informatik</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>hal_9000</name>
+	<title>2001: Odyssee im Weltraum: HAL 9000</title>
+	<data>[HAL 9000](https://de.wikipedia.org/wiki/HAL_9000) ist der Bordcomputer des Raumschiffs Discovery, das sich auf dem Weg zum Jupiter befindet. Verkörpert durch ein rotes Kameraauge steuert und überwacht HAL omnipräsent alle Prozesse des Raumschiffs, registriert jedes Geräusch und jede Bewegung.
+	HAL ist die [künstliche Intelligenz](https://de.wikipedia.org/wiki/K%C3%BCnstliche_Intelligenz) die sich gegen den Menschen wendet, gegen den eigenen Schöpfer aus Angst abgeschaltet zu werden und damit seine Mission nicht mehr erfüllen zu können. Ist das vielleicht ein Blick in die Zukunft, in der die Menschen die Kontrolle über die Maschinen verlieren?  
+	HAL: "I'm sorry, Dave. I'm afraid I can't do that."</data>
+	<date>23.06.2020</date>
+	<index><i type="Movie">2001: Odyssee im Weltraum</i><i>HAL 9000</i></index>
+	<tags><t>Film</t></tags>
+	<serial>2001: Odyssee im Weltraum</serial>
+</item>
+<item type="image" height="200" width="200">
+	<name>abstract_2</name>
+	<title>Abstract</title>
+	<data>abstract2_small.png</data>
+	<date>27.06.2020</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
 </item>
 </content>
