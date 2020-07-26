@@ -646,4 +646,68 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>warum_wir_schlafen</name>
+	<title>Warum wir schlafen</title>
+	<data>Jeder Mensch verbringt ca. ein Drittel seines Lebens schlafend. Warum der [Schlaf](https://de.wikipedia.org/wiki/Schlaf) überlebensnotwendig ist, ist auch heute noch immer nicht vollständig geklärt.
+	Sicher ist, wenn wir schlafen wird im Gehirn aufgeräumt. Forscher haben herausgefunden, dass sich die Räume zwischen den Nervenzellen um 60 Prozent vergrößern und so die Gehirnflüssigkeit die Proteinreste, die [Krankheiten](https://de.wikipedia.org/wiki/Alzheimer-Krankheit) verursachen können, viel effektiver wegspülen kann.
+	Forscher fanden außerdem heraus, dass Nachts die meisten Verbindungen zwischen den Nervenzellen geschwächt und einige sogar komplett abgebaut abgebaut werden. So wird Platz für das Lernen neuer Informationen tagsüber geschaffen. 
+	Gleichzeitig wird aber auch das am Tag Aufgenommene verarbeitet, indem neue Verbindungen geknüpft und so Querverbindungen zwischen bereits Gelerntem hergestellt werden.</data>
+	<date>01.07.2020</date>
+	<index><i>Gehirn</i><i>Schlaf</i></index>
+	<tags><t>Biologie</t></tags>
+</item>
+<item type="text" format="randomWordColor">
+	<name>disintegration</name>
+	<title>The Cure: Disintegration</title>
+	<data>Plainsong / Pictures of You / Closedown / Love Song / Last Dance / Lullaby / Fascination Street / Prayers for Rain / The Same Deep Water as You / [Disintegration](https://de.wikipedia.org/wiki/Disintegration) / Homesick / Untitled</data>
+	<date>05.07.2020</date>
+	<index><i type="Musik">Disintegration</i><i type="Musiker">The Cure</i></index>
+	<tags><t>Musik</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>inri</name>
+	<title>Inri</title>
+	<data>inri_small.png</data>
+	<date>09.07.2020</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>network</name>
+	<title>Das Netz</title>
+	<data>*1956*: [TX-0](https://de.wikipedia.org/wiki/TX-0) - ist der erste programmierbare Computer mit [Transistoren](https://de.wikipedia.org/wiki/Transistor) / *1958*: wird der erste Computer Chip mit einem [integrierten Schaltkreis](https://de.wikipedia.org/wiki/Integrierter_Schaltkreis) gebaut / *1965*: [Gordon Moore](https://de.wikipedia.org/wiki/Gordon_Moore) sagt voraus, dass sich die Anzahl an Transistoren in einem Computer Chip jedes Jahr verdoppeln wird / *1969*: das [INTERNET](https://de.wikipedia.org/wiki/Internet) (ARPAnet) wird in Betrieb genommen / *1971*: [INTEL 4004](https://de.wikipedia.org/wiki/Intel_4004) - der erste allgemein erhältliche [Mikroprozessor](https://de.wikipedia.org/wiki/Mikroprozessor) erscheint / *1975*: erstmals werden [Neuronale Netze](https://de.wikipedia.org/wiki/K%C3%BCnstliches_neuronales_Netz) für [künstliche Intelligenz](https://de.wikipedia.org/wiki/K%C3%BCnstliche_Intelligenz) verwendet / *1977*: der [Apple II](https://de.wikipedia.org/wiki/Apple_II) kommt auf den Markt / *1981*: Microsofts [MS-DOS](https://de.wikipedia.org/wiki/MS-DOS) wird veröffentlicht / *1989*: [Tim Berners-Lee](https://de.wikipedia.org/wiki/Tim_Berners-Lee) erfindet das [World Wide Web](https://de.wikipedia.org/wiki/World_Wide_Web) / *1993*: der [Mosaic Web Browser](https://de.wikipedia.org/wiki/Webbrowser) erscheint / *1997*: IBM’s [Deep Blue](https://de.wikipedia.org/wiki/Deep_Blue) gewinnt gegen den Schachweltmeister [Gary Kasparow](https://de.wikipedia.org/wiki/Garri_Kimowitsch_Kasparow) / *1997*: die [Google](https://de.wikipedia.org/wiki/Google) Suchmaschine wird vorgestellt / *1999*: die Musiktauschbörse [Napster](https://de.wikipedia.org/wiki/Napster) startet / *2007*: das [iPhone](https://de.wikipedia.org/wiki/IPhone) wird vorgestellt / *2011*: der [NEST](https://de.wikipedia.org/wiki/Nest_Labs) Thermostat kommt auf den Markt / *2015*: der intelligente Lautsprecher [Amazon Echo](https://de.wikipedia.org/wiki/Amazon_Echo) erscheint / *2017*: [AlphaGo](https://de.wikipedia.org/wiki/AlphaGo) der Fa. DeepMind gewinnt gegen die [Go](https://de.wikipedia.org/wiki/Go_(Spiel)) Nr.1 Ke Jie / *2019*: erreicht [AlphaStar](https://en.wikipedia.org/wiki/AlphaStar_(software)) der Fa. DeepMind Großmeisterstatus im Spiel [StarCraft II](https://en.wikipedia.org/wiki/StarCraft_II:_Wings_of_Liberty) / *2020*: es gibt 50 Milliarden [vernetzte Geräte](https://de.wikipedia.org/wiki/Internet_der_Dinge)</data>	
+	<date>13.07.2020</date>
+	<index><i>AI</i><i>Computer</i></index>
+	<tags><t>Technologie</t><t>Gesellschaft</t></tags>
+</item>
+<item type="text" format="randomWordColor">
+	<name>audio-space-machine</name>
+	<title>bauhaus: Audio.Space.Machine</title>
+	<data>[Audio.Space.Machine](https://www.deutschlandfunkkultur.de/wittmann-zeitblom-audio-space-machine-ein-bauhaus.3692.de.html?dram:article_id=436139): ein bauhaus-konzeptalbum von [wittmann/zeitblom](http://www.wittmannzeitblom.de/audio-space-machine/)
+	Bauhausstil / Wir modern! Modern! / Himmelsmaschine 1 / Himmelsmaschine 2 / Totales Theater / VIOLETT / Transmissionsmodus / The Future of Livingroom Music / Black Mountain / Wir sind das Bauhaus! / Raum als Membran / Gerenkte Engel / Kosmologe Raumzellen / Objective Music / GROPIUS MANIFEST / Future Now
+	</data>
+	<date>17.07.2020</date>
+	<index><i type="Person">Walter Gropius</i><i>Bauhaus</i><i>Wittmann / Zeitblom</i></index>
+	<tags><t>Architektur</t><t>Kunst</t><t>Gesellschaft</t><t>Hörspiel</t></tags>
+	<serial>Bauhaus</serial>
+</item>
+<item type="image" height="200" width="200">
+	<name>abstract_3</name>
+	<title>Abstract</title>
+	<data>abstract3_small.png</data>
+	<date>21.07.2020</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>complexity_and_science</name>
+	<title>St. Wolfram: Komplexität und Wissenschaft</title>
+	<data>In seinem *2002* erschienen Buch ["A New Kind of Science"](https://de.wikipedia.org/wiki/A_New_Kind_of_Science) untersucht [Stephen Wolfram](https://de.wikipedia.org/wiki/Stephen_Wolfram) wie in dynamischen Systemen durch einfachste Programme komplexe Systeme entstehen können. Insbesondere beschäftigt er sich in dem [Buch](https://www.wolframscience.com/nks/notes-1-1--complexity-and-science/) empirisch und systematisch mit [zellulären Automaten](https://de.wikipedia.org/wiki/Zellul%C3%A4rer_Automat), als eine Ausprägung eines solchen einfachen Programms.
+	Der Autor versucht in dem Buch zu zeigen, dass die methodische Untersuchung solcher [Programme](https://en.wikipedia.org/wiki/Elementary_cellular_automaton) auch für andere wissenschaftliche Forschungsfelder, wie etwa in der Biologie und der Physik, von Bedeutung sein kann.</data>
+	<date>25.07.2020</date>
+	<index><i type="Person">Stephen Wolfram</i></index>
+	<tags><t>Informatik</t><t>Physik</t></tags>
+	<serial>Komplexität</serial>
+</item>
 </content>
