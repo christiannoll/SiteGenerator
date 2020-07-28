@@ -710,4 +710,14 @@
 	<tags><t>Informatik</t><t>Physik</t></tags>
 	<serial>Komplexität</serial>
 </item>
+<item type="text" format="normal">
+	<name>thinking_as_simulation_of_mental_models</name>
+	<title>Denken als Simulation von mentalen Modellen</title>
+	<data>Wie [denkt](https://de.wikipedia.org/wiki/Denken) der [Mensch](https://www.vnzn.de/2019/12/07/genetische_repro/)? Eine mögliche Antwort auf diese Frage ist, den Denkprozess als Simulation von mentalen Modellen zu beschreiben. 
+	Das heißt, wenn ein Kind lernt was ein Auto ist, dann baut es in seinem [Gehirn](https://de.wikipedia.org/wiki/Gehirn) ein [mentales Modell](https://de.wikipedia.org/wiki/Mentales_Modell) von einem Auto auf. Es lernt mit der Zeit die Eigenschaften eines Autos und fügt sie dem Modell hinzu. Dadurch ist es dann in der Lage, vor dem Überqueren einer Straße eine [Simulation](https://de.wikipedia.org/wiki/Simulation) seines Automodells zu berechnen, um einschätzen zu können, ob es möglich ist, die andere Straßenseite zu erreichen, ohne mit einem vorbeifahrenden Auto zusammenzustoßen.
+	Vielleicht ist das [Bewusstsein](https://de.wikipedia.org/wiki/Bewusstsein) seines Selbst auch nur ein mentales Modell, das der [Mensch](https://de.wikipedia.org/wiki/Mensch) von sich selbst in Abgrenzung von anderen hat. Zu diesem Modell könnten angenommene Eigenschaften, Erinnerungen und Beziehungen zu anderen Menschen gehören. Daneben zählt wahrscheinlich auch die Körperlichkeit zu dem Modell unseres Selbst. So simuliert z.B. ein Weitspringer bevor er überhaupt losläuft, den kompletten Akt des Anlaufens und des Sprungs in seinem Kopf.</data>
+	<date>29.07.2020</date>
+	<index><i>Mentales Modell</i><i>Gehirn</i></index>
+	<tags><t>Biologie</t><t>Philosophie</t></tags>
+</item>
 </content>
