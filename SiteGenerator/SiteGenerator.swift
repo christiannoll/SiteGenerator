@@ -20,6 +20,7 @@ extension String {
 
 struct SiteGenerator {
     
+    //static let baseDir = "/Users/chn/Programmierung/Swift/SiteGenerator/vnzn/en/"
     static let baseDir = "/Users/chn/Programmierung/Swift/SiteGenerator/vnzn/"
     
     private let posts: [Item]

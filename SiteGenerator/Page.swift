@@ -2,8 +2,10 @@ import Foundation
 
 class Page {
     
-    public static let baseUrl = "http://localhost:8000/"
+    public static let baseUrl = "http://localhost:8000/en/"
+    public static let baseRootUrl = "http://localhost:8000/"
     //public static let baseUrl = "https://www.vnzn.de/"
+    //public static let baseRootUrl = "https://www.vnzn.de/"
     
     static let homepageTitle = "v.n.z.n"
     static let homepageTagline = "Christian Noll"
@@ -58,7 +60,7 @@ class Page {
         headChildren.append(newLine)
         headChildren.append(tab)
         
-        let l = link([rel => "stylesheet", type => "text/css", href => (Page.baseUrl + "styles.css")])
+        let l = link([rel => "stylesheet", type => "text/css", href => (Page.baseRootUrl + "styles.css")])
         headChildren.append(l)
         headChildren.append(newLine)
         headChildren.append(tab)

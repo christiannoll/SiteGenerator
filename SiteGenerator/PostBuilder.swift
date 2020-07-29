@@ -107,7 +107,7 @@ class PostBuilder {
     }
     
     private func createImageUrl(_ item: Item) -> String {
-        var url = Page.baseUrl
+        var url = Page.baseRootUrl
         url.append("images/")
         url.append(item.data)
         return url
