@@ -720,4 +720,12 @@
 	<index><i>Mentales Modell</i><i>Gehirn</i></index>
 	<tags><t>Biologie</t><t>Philosophie</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>spray_can</name>
+	<title>Spray can</title>
+	<data>spray_can_small.png</data>
+	<date>02.08.2020</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
