@@ -38,6 +38,8 @@ extension CharacterSet {
     static let delimiters = CharacterSet(charactersIn: "[]()*_`")
     static let ulistDelimiters = CharacterSet(charactersIn: "*-+")
     static let olistDelimiters = CharacterSet(charactersIn: "123456789")
+    static let leftBraces = CharacterSet(charactersIn: "[(")
+    static let rightBraces = CharacterSet(charactersIn: "])")
     static let whitespaceAndPunctuation = CharacterSet.whitespacesAndNewlines
         .union(CharacterSet.punctuationCharacters)
     
@@ -185,9 +187,9 @@ class MarkdownTokenizer {
         
         // Left delimiters must be predeced by whitespace or punctuation
         // and NOT followed by whitespaces or newlines
-        guard (CharacterSet.whitespaces.contains(p) || CharacterSet.delimiters.contains(p)) &&
+        guard ((CharacterSet.whitespaces.contains(p) || CharacterSet.delimiters.contains(p)) &&
             !CharacterSet.whitespacesAndNewlines.contains(n) &&
-            !leftDelimiters.contains(delimiter) else {
+            !leftDelimiters.contains(delimiter)) || CharacterSet.leftBraces.contains(delimiter) else {
                 return nil
         }
         
@@ -203,12 +205,12 @@ class MarkdownTokenizer {
         }
         
         let n = next ?? .space
-        
+                
         // Right delimiters must NOT be preceded by whitespace and must be
         // followed by whitespace or punctuation
-        guard !CharacterSet.whitespacesAndNewlines.contains(p) &&
+        guard (!CharacterSet.whitespacesAndNewlines.contains(p) &&
             CharacterSet.whitespaceAndPunctuation.contains(n) &&
-            delimiter != n &&
+            delimiter != n || CharacterSet.rightBraces.contains(delimiter)) &&
             (leftDelimiters.contains(delimiter) || leftDelimiters.contains(CharacterSet.getLeftDelimiter(rightDelimiter:delimiter))) else {
                 return nil
         }
