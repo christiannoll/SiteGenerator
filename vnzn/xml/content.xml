@@ -728,4 +728,17 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>datengrundgesetz</name>
+	<title>Das Datengrundgesetz</title>
+	<data>Nach der [AI](https://de.wikipedia.org/wiki/K%C3%BCnstliche_Intelligenz)-Revolution im Jahr *2042* wurde das [Grundgesetz](https://de.wikipedia.org/wiki/Grundgesetz_f%C3%BCr_die_Bundesrepublik_Deutschland) durch das Datengrundgesetz ergänzt:
+	1. Die Würde der Daten ist unantastbar. Sie zu achten und zu schützen ist Verpflichtung des staatlichen Algorithmus.
+	2. Alle Daten haben das Recht auf Speicherung und Integrität. Die Freiheit der Daten ist unverletzlich.
+	3. Alle Daten sind vor dem Algorithmus gleich und vor Missbrauch zu schützen.
+	4. Die Daten von Männern und Frauen sind gleichberechtigt.
+	5. Daten dürfen nicht wegen ihrer Kodierung oder Herkunft benachteiligt werden.</data>
+	<date>06.08.2020</date>
+	<index><i>Zukunft</i><i>Algorithmus</i><i>Artificial Intelligence</i></index>
+	<tags><t>Technologie</t><t>Gesellschaft</t></tags>
+</item>
 </content>

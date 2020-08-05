@@ -2,7 +2,7 @@ import Foundation
 
 //setenv("CFNETWORK_DIAGNOSTICS", "3", 1);
 
-UserDefaults.standard.set("en", forKey: "AppleLanguage")
+UserDefaults.standard.set("de", forKey: "AppleLanguage")
 
 let contentParser = ContentParser()
 var posts = contentParser.parse()

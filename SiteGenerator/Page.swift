@@ -2,7 +2,7 @@ import Foundation
 
 class Page {
     
-    public static let baseUrl = "http://localhost:8000/en/"
+    public static let baseUrl = "http://localhost:8000/"
     public static let baseRootUrl = "http://localhost:8000/"
     //public static let baseUrl = "https://www.vnzn.de/"
     //public static let baseRootUrl = "https://www.vnzn.de/"

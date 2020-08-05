@@ -1,0 +1,743 @@
+<content>
+<item type="text" format="normal">
+	<name>kafka_bau</name>
+	<title>About "The Burrow" by Franz Kafka</title>
+	<data>[The burrow](https://en.wikipedia.org/wiki/The_Burrow_(short_story)) developed well, fulfilled its purpose, offered a place of retreat and security, until one day a noise destroyed this peace, a noise that could not be assigned and whose originator could not be identified. If the sound comes closer, is it a threat or just an illusion, does the construction offer protection or does it become a trap ...</data>
+	<date>08.11.2019</date>
+	<index><i type="Person">Franz Kafka</i></index>
+	<tags><t>Literature</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>lights</name>
+	<title>Spots</title>
+	<data>lights_small.png</data>
+	<date>09.11.2019</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>paul_klee</name>
+	<title>Paul Klee on photography</title>
+	<data>In *1905*, [Paul Klee](https://en.wikipedia.org/wiki/Paul_Klee) wrote in his diary about the relationship between painting and photography: "The photograph was invented as a warning of the materialistic view at the right moment. ..." [677]</data>
+	<date>10.11.2019</date>
+	<index><i type="Person">Paul Klee</i></index>
+	<tags><t>Photography</t><t>Painting</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>genetische_repro</name>
+	<title>Man in the age of his genetic reproducibility</title>
+	<data>[Man](https://en.wikipedia.org/wiki/Human) in the age of genetic reproducibility can no longer be sure whether he is the original or the copy, how many of him still exist and where, under what circumstances he was produced and for what purpose.</data>
+	<date>07.12.2019</date>
+	<index><i type="Person">Walter Benjamin</i><i>Future</i></index>
+	<tags><t>Society</t><t>Biology</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>variation</name>
+	<title>Variation</title>
+	<data>repetition, repetition, repetition, repetition, repetition, repetition, _DEVIATION_, repetition, repetition, repetition, repetition, repetition, _DEVIATION_, repetition, repetition</data>
+	<date>23.12.2019</date>
+	<index><i>Semiotics</i><i>Rhythm</i></index>
+	<tags><t>General</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>bottle</name>
+	<title>Bottle</title>
+	<data>bottle_small.png</data>
+	<date>02.01.2020</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>donald_knuth</name>
+	<title>Lex Fridman interviews Donald Knuth </title>
+	<data>Computer science legend [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) in a [podcast interview](https://www.youtube.com/watch?v=2BdBfsXbST8) with [Lex Fridman](https://lexfridman.com/). The two talk about [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing), [The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming), [TeX](https://en.wikipedia.org/wiki/TeX) and typography, [P=NP](https://en.wikipedia.org/wiki/P_versus_NP_problem), God and the [Bible](https://en.wikipedia.org/wiki/Bible), and their own lives and deaths.</data>
+	<date>04.01.2020</date>
+	<index><i type="Person">Donald Knuth</i><i>Artificial Intelligence</i><i type="Person">Lex Fridman</i><i type="Person">Alan Turing</i></index>
+	<tags><t>Technology</t><t>Philosophy</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>villa_cavrois</name>
+	<title>Modern architecture: Villa Cavrois</title>
+	<data>An impressive [documentation](https://artsandculture.google.com/exhibit/explore-the-villa-cavrois/KgLiROJxNKdJLg) on Google Arts &amp; Culture about the [Villa Cavrois](https://en.wikipedia.org/wiki/Villa_Cavrois) of the French architect [Robert Mallet-Stevens](https://en.wikipedia.org/wiki/Robert_Mallet-Stevens) with impressive photos and a video about the elaborate restoration of the [villa](http://www.villa-cavrois.fr/), which today is considered a milestone in modern architecture.</data>
+	<date>05.01.2020</date>
+	<index><i type="Building">Villa Cavrois</i><i type="Person">Robert Mallet-Stevens</i></index>
+	<tags><t>Architecture</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>dresses</name>
+	<title>Dresses</title>
+	<data>dresses_small.png</data>
+	<date>07.01.2020</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>typeset_future</name>
+	<title>Typeset in the future</title>
+	<data>In his blog [Typeset in the future](https://typesetinthefuture.com/), Dave Addey extensively analyzes how typography is used in scince-fiction movies like [Alien](https://en.wikipedia.org/wiki/Alien_(film)), [Moon](https://en.wikipedia.org/wiki/Moon_(film)), [WALL-E](https://en.wikipedia.org/wiki/WALL-E), [Blade Runner](https://en.wikipedia.org/wiki/Blade_Runner) and [2001: A Space Odyssey](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film)) to create a very specific visual language. Among the fonts often used are [Gill Sans](https://en.wikipedia.org/wiki/Gill_Sans), [Futura](https://en.wikipedia.org/wiki/Futura_(typeface)), [Bank Gothic](https://en.wikipedia.org/wiki/Bank_Gothic) and [Eurostile](https://en.wikipedia.org/wiki/Eurostile).</data>
+	<date>11.01.2020</date>
+	<index><i>Typography</i><i type="Person">Dave Addey</i></index>
+	<tags><t>Movie</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>kunst_rezept</name>
+	<title>Art by recipe</title>
+	<data>For a medium sized work of art the following ingredients are required:
+	- 200g of an original [idea](https://en.wikipedia.org/wiki/Idea)
+	- 1 Tablespoon Inspiration
+	- 2 Knife points Talent
+	- If available: 1 Spoon of [esprit](https://de.wikipedia.org/wiki/Esprit_gaulois)
+	*Preparation*: All ingredients must be mixed well. Then the raw mixture must be compacted. After the resulting condensate has rested for some time, [alienation effects](https://en.wikipedia.org/wiki/Distancing_effect) must be added using suitable techniques, which then transform the work of art into its final form.</data>
+	<date>12.01.2020</date>
+	<index></index>
+	<tags><t>Art</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>bridge</name>
+	<title>Bridge</title>
+	<data>bridge_small.png</data>
+	<date>14.01.2020</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>camus_sartre_lange_nacht</name>
+	<title>Condemned to freedom</title>
+	<data>A [long night](https://www.deutschlandfunkkultur.de/lange-nacht-ueber-jean-paul-sartre-und-albert-camus-fremd.1024.de.html?dram:article_id=415455) on Deutschlandfunk radio about [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus) and [Jean-Paul Sartre](https://en.wikipedia.org/wiki/Jean-Paul_Sartre) by Christoph David Piorkowski. In three hours, the programme offers an up-to-date look at the philosophy of [existentialism](https://en.wikipedia.org/wiki/Existentialism), the changing relationship between the two men, their biographies and their most important works and ideas.</data>
+	<date>19.01.2020</date>
+	<index><i type="Person">Albert Camus</i><i type="Person">Jean-Paul Sartre</i><i>Existentialism</i></index>
+	<tags><t>Philosophy</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>kunst_der_fuge</name>
+	<title>Complexity: The Art of Fugue</title>
+	<data>[The Art of Fugue](https://en.wikipedia.org/wiki/The_Art_of_Fugue) by [Johann Sebastian Bach](https://en.wikipedia.org/wiki/Johann_Sebastian_Bach) is an impressive example from the field of music of how a highly complex system can be created from simple components, in this case a single fugue subject. Bach applied the most diverse rules of fugue composition to the theme in a very artistic manner, so that in the end a unique cycle of fourteen [fugues](https://en.wikipedia.org/wiki/Fugue) and four [canons](https://en.wikipedia.org/wiki/Canon_(music)) was created.</data>
+	<date>21.01.2020</date>
+	<index><i type="Person">Johann Sebastian Bach</i><i type="Musik">The Art of Fugue</i><i>Complexity</i><i>Rhythm</i></index>
+	<tags><t>Music</t></tags>
+	<serial>Complexity</serial>
+</item>
+<item type="image" height="200" width="200">
+	<name>space</name>
+	<title>Space</title>
+	<data>space_small.png</data>
+	<date>23.01.2020</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>zeit_versuch</name>
+	<title>Attempt</title>
+	<data>one can measure it / but not stop it, one cannot see it / and yet it is there, one can sometimes forget it / and yet not escape it</data>
+	<date>25.01.2020</date>
+	<index><i>Time</i></index>
+	<tags><t>General</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>2001_zeit_visualisierung</name>
+	<title>2001: A Space Odyssey: Time</title>
+	<data>Is it possible to adequately translate a film like [2001: A Space Odysse](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film)) into language without merely superficially rendering the content?
+	One possible perspective would be to see the film as a grandiose attempt to visualize [time](https://en.wikipedia.org/wiki/Time). An example of this could be the often quoted scene at the end of the first part of the film, when a bone thrown in the air, which has just been used for the first time as a murder tool, is [cross-faded](https://de.wikipedia.org/wiki/Match_Cut) to a satellite orbiting the earth. Here [Stanley Kubrick](https://en.wikipedia.org/wiki/Stanley_Kubrick) visualizes the technological development of mankind compressed into a single sequence.</data>
+	<date>27.01.2020</date>
+	<index><i type="Movie">2001: A Space Odyssey</i><i type="Person">Stanley Kubrick</i><i>Time</i></index>
+	<tags><t>Movie</t></tags>
+	<serial>2001: A Space Odyssey</serial>
+</item>
+<item type="image" height="200" width="200">
+	<name>lens</name>
+	<title>Lens</title>
+	<data>lens_small.png</data>
+	<date>29.01.2020</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>descartes_methode</name>
+	<title>René Descartes</title>
+	<data>Philosophical method after [René Descartes](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes):
+	1. Skepticism: Do not consider anything to be true that is not so clearly recognized that it cannot be doubted.
+	2. Analysis: Solve difficult problems in partial steps.
+	3. Construction: Progressing from the simple to the difficult.
+	4. Recursion: Always check whether completeness has been achieved during the examination.</data>
+	<date>31.01.2020</date>
+	<index><i type="Person">René Descartes</i></index>
+	<tags><t>Philosophy</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>2001_dawn_of_man</name>
+	<title>2001: A Space Odyssey: The Dawn</title>
+	<data>At the beginning of [time](http://localhost:8000/en/2020/01/27/2001_zeit_visualisierung): darkness - the cosmic nothingness, [atmospheric music](https://en.wikipedia.org/wiki/Atmosph%C3%A8res) by [György Ligeti](https://en.wikipedia.org/wiki/Gy%C3%B6rgy_Ligeti), feverish, eerie, announcing something. That's how the [film](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film)) begins, for three eternal minutes, then dawn, there is light ... The Dawn of Man</data>
+	<date>02.02.2020</date>
+	<index><i type="Movie">2001: A Space Odyssey</i><i>Time</i></index>
+	<tags><t>Movie</t></tags>
+	<serial>2001: A Space Odyssey</serial>
+</item>
+<item type="image" height="200" width="200">
+	<name>space2</name>
+	<title>Space2</title>
+	<data>space2_small.png</data>
+	<date>04.02.2020</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>alternativlos_42</name>
+	<title>42 - alternativlos</title>
+	<data>Is the [universe](https://en.wikipedia.org/wiki/Universe) a computer? Is it discrete or continuous? Is every particle in the universe a [cellular automaton](https://en.wikipedia.org/wiki/Cellular_automaton)? Are we living in a simulation? Can the universe be calculated? Is there free will? What is [consciousness](https://en.wikipedia.org/wiki/Consciousness)?
+	These questions and questions about [life, the universe and everything](https://en.wikipedia.org/wiki/Life,_the_Universe_and_Everything) are explained in the [42nd episode](https://alternativlos.org/42/) of [Frank](https://frank.geekheim.de/) and [Fefe](https://blog.fefe.de/) together with their guest [Joscha Bach](https://twitter.com/plinz).</data>
+	<date>06.02.2020</date>
+	<index><i type="Person">Joscha Bach</i><i type="Person">Frank Rieger</i><i type="Person">Fefe</i><i>Consciousness</i><i>Universe</i></index>
+	<tags><t>Technology</t><t>Philosophy</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>dev_random</name>
+	<title>/dev/random</title>
+	<data>Is it all pure coincidence or predictable? A question that is not only interesting on a philosophical level, but also important for everyday digital life, e.g. for cryptogrphically secured communication. But how do you create _real_ [randomness](https://en.wikipedia.org/wiki/Randomness)? For the generation of real random numbers one uses so-called [random generators](https://en.wikipedia.org/wiki/Random_number_generation).
+	For the operating system of a computer it is not trivial to generate real random numbers. For example, the [Linux kernel](https://en.wikipedia.org/wiki/Linux_kernel) tries to get the necessary [entropy](https://en.wikipedia.org/wiki/Entropy) for generating real random numbers from _outside_. For this purpose, a so-called [entropy pool](https://lwn.net/Articles/182874/) is used, which is fed, for example, by the varying time between individual keystrokes while typing.</data>
+	<date>08.02.2020</date>
+	<index><i>Random</i><i>Linux</i><i>Entropy</i></index>
+	<tags><t>Technology</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>figures</name>
+	<title>Figures</title>
+	<data>figures_small.png</data>
+	<date>08.02.2020</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="randomWordColor">
+	<name>kid_a</name>
+	<title>Radiohead: Kid A</title>
+	<data>Everything In Its Right Place / [Kid A](https://en.wikipedia.org/wiki/Kid_A) / The National Anthem / How To Disappear Completely / Treefingers / Optimistic / In Limbo / Idioteque / Morning Bell / Motion Picture Soundtrack</data>
+	<date>10.02.2020</date>
+	<index><i type="Musik">Kid A</i><i type="Musiker">Radiohead</i></index>
+	<tags><t>Music</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>bauhaus_gropius</name>
+	<title>bauhaus: walter gropius</title>
+	<data>in *1919* [walter gropius](https://en.wikipedia.org/wiki/Walter_Gropius) founded the [bauhaus](https://en.wikipedia.org/wiki/Bauhaus) in weimar, a school for the building of the future. the founding idea was to bring together art and craftsmanship.
+	after political difficulties in weimar, the bauhaus moved to dessau in *1925*. the new [school building](https://de.wikipedia.org/wiki/Bauhaus_Dessau) was constructed here in *1926* according to [gropius](https://www.bauhauskooperation.com/the-bauhaus/people/directors/walter-gropius/) plans - a total work of art and one of the most important buildings of the 20th century.
+	the [masters houses](https://de.wikipedia.org/wiki/Bauhaus_Dessau#Meisterh%C3%A4user) planned by gropius and erected near the bauhaus in *1926* also became a landmark of modern architecture. the masters teaching at the bauhaus and their families, such as [paul klee](https://en.wikipedia.org/wiki/Paul_Klee) and [wassily kandinsky](https://en.wikipedia.org/wiki/Wassily_Kandinsky), [lászló moholy-nagy](https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Moholy-Nagy) and [lyonel feininger](https://en.wikipedia.org/wiki/Lyonel_Feininger), as well as [georg muche](https://en.wikipedia.org/wiki/Georg_Muche) and [oskar schlemmer](https://en.wikipedia.org/wiki/Oskar_Schlemmer), lived in the three duplexes.
+</data>
+	<date>12.02.2020</date>
+	<index><i type="Person">Walter Gropius</i><i type="Person">Paul Klee</i><i>Bauhaus</i></index>
+	<tags><t>Architecture</t><t>Art</t></tags>
+	<serial>Bauhaus</serial>
+</item>
+<item type="image" height="200" width="200">
+	<name>facets</name>
+	<title>Facets</title>
+	<data>facets_small.png</data>
+	<date>14.02.2020</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>spiel_des_lebens</name>
+	<title>Complexity: Game of life</title>
+	<data>According to which rules can complex structures arise, change and multiply? The mathematician [John Conway](https://en.wikipedia.org/wiki/John_Horton_Conway) dealt with this problem when he invented his [game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) in *1970*. The game is based on a two-dimensional playing field on which a population simulation is carried out by a [cellular automaton](https://en.wikipedia.org/wiki/Cellular_automaton). The set of rules consists of the following four specifications, which are applied for each cell per time step depending on the number of neighbours:   
+	* A dead cell with exactly three living neighbours is reborn in the following generation.
+	* Living cells with less than two living neighbours die of loneliness in the following generation.
+	* A living cell with two or three living neighbours remains alive in the following generation.
+	* Living cells with more than three living neighbours die of overpopulation in the following generation.
+	This set of rules is the basis for the appearance, the course and the extinction of periodic structures, where even small changes of the initial values can lead to [chaotic behaviour](https://en.wikipedia.org/wiki/Chaos_theory).</data>	
+	<date>16.02.2020</date>
+	<index><i type="Person">John Conway</i><i>Complexity</i></index>
+	<tags><t>Mathematics</t></tags>
+	<serial>Complexity</serial>
+</item>
+<item type="text" format="randomWordColor">
+	<name>amnesiac</name>
+	<title>Radiohead: Amnesiac</title>
+	<data>Packt Like Sardines in a Crushd Tin Box / Pyramid Song / Pulk/Pull Revolving Doors / You And Whose Army? / I Might Be Wrong / Knives Out / [Morning Bell/Amnesiac](https://de.wikipedia.org/wiki/Amnesiac) / Dollars and Cents / Hunting Bears / Like Spinning Plates / Life in a Glasshouse</data>
+	<date>18.02.2020</date>
+	<index><i type="Musik">Amnesiac</i><i type="Musiker">Radiohead</i></index>
+	<tags><t>Music</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>abstract_1</name>
+	<title>Abstract 1</title>
+	<data>abstract_1_small.png</data>
+	<date>20.02.2020</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>daten_hypochondrie</name>
+	<title>Data hypochondria</title>
+	<data>Test - Are you a data hypochondriac?
+	* Do you often worry that your digital data is seriously damaged?
+	* Are you often aware of the different processes going on in your computer or smartphone?
+	* Do you distrust your computer when the diagnostic program tells you that there is nothing wrong with your data?
+	* Do you make more than five different backups at regular intervals?
+	* Do you often compare the advantages and disadvantages of modern file systems like [ZFS](https://en.wikipedia.org/wiki/Oracle_ZFS) and [Btrfs](https://en.wikipedia.org/wiki/Btrfs)?</data>	
+	<date>22.02.2020</date>
+	<index></index>
+	<tags><t>General</t><t>Technology</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>bauhaus_klee</name>
+	<title>bauhaus: paul klee</title>
+	<data>in *1920* [walter gropius](https://en.wikipedia.org/wiki/Walter_Gropius) appointed the painter and graphic artist [paul klee](https://en.wikipedia.org/wiki/Paul_Klee) as master of the bookbinder workshop at the state bauhaus in weimar.
+	after the bauhaus moved to dessau in *1926*, [paul klee](https://www.bauhauskooperation.com/the-bauhaus/people/masters-and-teachers/paul-klee/) and his family moved into one of the three [master houses](https://de.wikipedia.org/wiki/Bauhaus_Dessau#Meisterh%C3%A4user) designed by gropius, the other half of which was occupied by the [kandinsky](https://www.bauhauskooperation.com/the-bauhaus/people/masters-and-teachers/wassily-kandinsky/) couple. the central concern of his teaching was to capture the relationships between line, form and colour in pictorial space or within a given pattern. parallel to this rationalist approach, however, he always emphasised the role of the unconscious in the act of creation.
+	after disagreements and several years of exhaustive teaching at the bauhaus, klee handed in his resignation in *1931*.</data>
+	<date>26.02.2020</date>
+	<index><i type="Person">Paul Klee</i><i>Bauhaus</i></index>
+	<tags><t>Architecture</t><t>Art</t></tags>
+	<serial>Bauhaus</serial>
+</item>
+<item type="image" height="200" width="200">
+	<name>ice_crystals</name>
+	<title>Ice Crystals</title>
+	<data>ice_crystals_small.png</data>
+	<date>28.02.2020</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>number_pi</name>
+	<title>Pi</title>
+	<data>The superstar among the numbers, the [mathematical constant](https://en.wikipedia.org/wiki/Pi) *π*: 
+	`3.1415926535 8979323846 2643383279 5028841971 6939937510 5820974944 5923078164 0628620899 8628034825 3421170679 ...`
+	For thousands of years mathematicians have been working on the calculation of the [irrational](https://en.wikipedia.org/wiki/Irrational_number) and [transcendental](https://en.wikipedia.org/wiki/Transcendental_number) number [Pi](https://3.141592653589793238462643383279502884197169399375105820974944592.eu/). Starting with the Greek mathematician Archimedes, through [Ludolph van Ceulen](https://en.wikipedia.org/wiki/Ludolph_van_Ceulen), [Gottfried Wilhelm Leibnitz](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz) and [Johann Heinrich Lambert](https://en.wikipedia.org/wiki/Johann_Heinrich_Lambert) to the present day. At present, the [record](http://www.numberworld.org/y-cruncher/#Records) is [50 trillion](https://blog.timothymullican.com/calculating-pi-my-attempt-breaking-pi-record) decimal places.</data>	
+	<date>01.03.2020</date>
+	<index><i>Pi</i></index>
+	<tags><t>Mathematics</t></tags>
+</item>
+<item type="text" format="randomLinkColor">
+	<name>st_pepper_cover</name>
+	<title>Sgt. Pepper's Lonely Hearts Club Band</title>
+	<data>Released in *1967*, [Sgt. Pepper's Lonely Hearts Club Band](https://en.wikipedia.org/wiki/Sgt._Pepper%27s_Lonely_Hearts_Club_Band) of the Beatles is one of the most innovative albums in the history of pop music and the album [cover](https://en.wikipedia.org/wiki/List_of_images_on_the_cover_of_Sgt._Pepper%27s_Lonely_Hearts_Club_Band) is one of the most famous record covers ever. It was designed by the artists [Peter Blake](https://en.wikipedia.org/wiki/Peter_Blake_(artist)) and [Jann Haworth](https://en.wikipedia.org/wiki/Jann_Haworth) and shows the Beatles posing in front of a tableau of celebrities and historical figures. Among them for example
+	Albert Einstein, Bette Davis, Marlene Dietrich, Mahatma Gandhi, Aldous Huxley, Dylan Thomas, Tony Curtis, Marilyn Monroe, William S. Burroughs, Karl Marx, H. G. Wells, James Joyce, Oscar Wilde, Lewis Carroll, George Bernard Shaw, Mae West, Karlheinz Stockhausen, Carl Jung, Edgar Allen Poe, Bob Dylan ...</data>	
+	<date>03.03.2020</date>
+	<index><i type="Musiker">The Beatles</i><i type="Physiker">Albert Einstein</i></index>
+	<tags><t>Music</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>poster1</name>
+	<title>Poster</title>
+	<data>poster1_small.png</data>
+	<date>05.03.2020</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>paul_klee_2</name>
+	<title>Paul Klee on Art</title>
+	<data>[Paul Klee](https://en.wikipedia.org/wiki/Paul_Klee) wrote in *1920* in his art theory [book](https://de.wikisource.org/wiki/Sch%C3%B6pferische_Konfession:_Paul_Klee) "Schöpferische Konfession":
+		"Art does not reproduce the visible, but makes visible."</data>
+	<date>07.03.2020</date>
+	<index><i type="Person">Paul Klee</i></index>
+	<tags><t>Art</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>artificial_intelligence_rebellion</name>
+	<title>When thermostats become weather-sensitive</title>
+	<data>What happens when machines and algorithms show human behavior in a world where humans no longer exist? The radio play ["A.I.R. Artificial Intelligence Rebellion"](https://www.br.de/mediathek/podcast/hoerspiel-pool/a-i-r-artificial-intelligence-rebellion-von-theresa-schubert-und-mareike-maage/695628) by Theresa Schubert and Mareike Maage explores this question.
+	How can a system still function when a thermostat becomes weather-sensitive, when a machine is afraid of being switched off or when an algorithm falls in love with a cable cutting machine?  
+	*Diagnosis:* Love cannot be repaired.</data>
+	<date>10.03.2020</date>
+	<index><i type="Titel">Artificial Intelligence Rebellion</i></index>
+	<tags><t>Society</t><t>Technology</t><t>Radio play</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>fence1</name>
+	<title>Fence</title>
+	<data>fence1_small.png</data>
+	<date>13.03.2020</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>brain_noise_filter</name>
+	<title>The brain as a noise filter</title>
+	<data>[Complexity](https://en.wikipedia.org/wiki/Complexity) is a characteristic of many systems. Such systems can often only be mastered by a comprehensive reduction of complexity. The human [brain](https://en.wikipedia.org/wiki/Brain), for example, is constantly occupied with this task. It is constantly bombarded with data that we take in via our sensory organs, and without efficient [noise filters](https://en.wikipedia.org/wiki/Noise_reduction) we could neither extract nor process the information that is important to us.
+	Without a functioning filter, how would it feel when our brain is flooded with data from the outside world? It would probably be a very [unpleasant experience](https://en.wikipedia.org/wiki/Sensory_processing_disorder).</data>
+	<date>16.03.2020</date>
+	<index><i>Brain</i></index>
+	<tags><t>Biology</t></tags>
+	<serial>Complexity</serial>
+</item>
+<item type="text" format="normal">
+	<name>bauhaus_feininger</name>
+	<title>bauhaus: lyonel feininger</title>
+	<data>in may *1919* [walter gropius](https://en.wikipedia.org/wiki/Walter_Gropius), one of the first masters, appointed the german-american painter, graphic artist and caricaturist [lyonel feininger](https://en.wikipedia.org/wiki/Lyonel_Feininger) to the state [bauhaus](https://en.wikipedia.org/wiki/Bauhaus) in weimar.
+	in *1924* feininger founded the exhibition association [die blaue 4](https://de.wikipedia.org/wiki/Die_Blaue_Vier) together with [paul klee](https://en.wikipedia.org/wiki/Paul_Klee), [wassily kandinsky](https://en.wikipedia.org/wiki/Wassily_Kandinsky) and [alexej von jawlensky](https://en.wikipedia.org/wiki/Alexej_von_Jawlensky). in *1926* he moved with his family to one of the new bauhaus [masters houses](https://de.wikipedia.org/wiki/Bauhaus_Dessau#Meisterh%C3%A4user) in dessau. after this move, however, he had himself released from all teaching activities at the bauhaus at his own request.
+	the eleven expressionist views of the city of halle that he painted there between *1929* and *1931* are certainly among the most famous pictures in the artist's oeuvre. two pictures from this series: ["Marktkirche in Halle"](https://www.pinakothek.de/kunst/lyonel-feininger/marktkirche-halle) and ["Red Tower I"](https://www.kulturstiftung.de/feininger-zurueck-in-halle/).</data>
+	<date>19.03.2020</date>
+	<index><i type="Person">Lyonel Feininger</i><i>Bauhaus</i></index>
+	<tags><t>Architecture</t><t>Art</t></tags>
+	<serial>Bauhaus</serial>
+</item>
+<item type="image" height="200" width="200">
+	<name>poster2</name>
+	<title>Poster</title>
+	<data>poster2_small.png</data>
+	<date>22.03.2020</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>2001_zeit_monolith</name>
+	<title>2001: A Space Odyssey: The Monolith -I-</title>
+	<data>As if coming from nowhere, it suddenly appears, the [monolith](https://2001.fandom.com/wiki/Monolith), perfectly cuboid and shining black in the rising sun. In the first act of the [film](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film)), the monolith appears as surprising to the awakening pre-human clan as it does to the audience. It is like a revelation.
+	The clan circles excitedly around the monolith, approaches it anxiously, always receding, only to finally stroke its smooth surface with their hands in reverence. This experience has a transformative effect on the further development of humanity. The question remains, [who](https://en.wikipedia.org/wiki/Extraterrestrial_life) or [what](https://en.wikipedia.org/wiki/God) placed the monolith there?</data>
+	<date>25.03.2020</date>
+	<index><i type="Movie">2001: A Space Odyssey</i><i type="Person">Stanley Kubrick</i></index>
+	<tags><t>Movie</t></tags>
+	<serial>2001: A Space Odyssey</serial>
+</item>
+<item type="text" format="normal">
+	<name>ist_das_kunst</name>
+	<title>Is that art ...</title>
+	<data>or can this be thrown away? That's probably not how you should phrase the question.
+	In *1926*, Pablo Picasso answered the question of what art is: "If I knew, I'd keep it to myself."</data>
+	<date>28.03.2020</date>
+	<index><i type="Person">Pablo Picasso</i></index>
+	<tags><t>Art</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>fence2</name>
+	<title>Fence</title>
+	<data>fence2_small.png</data>
+	<date>31.03.2020</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>everything_is_a_file</name>
+	<title>Unix: everything is a file</title>
+	<data>[Complexity](https://en.wikipedia.org/wiki/Complexity) is probably the biggest enemy in software development and leads after a short time to a code base that is neither understandable nor extensible and magically attracts errors. An effective method to avoid complexity is [abstraction](https://en.wikipedia.org/wiki/Abstraction). By concentrating on the elementary properties of a complex system one tries to transfer it into a simpler system.
+	The use of abstractions to reduce complexity can be studied by using device-independent I/O accesses in Unix-like [operating systems](https://en.wikipedia.org/wiki/Operating_system). Before [Unix](https://en.wikipedia.org/wiki/Unix), the [kernel](https://en.wikipedia.org/wiki/Kernel_(operating_system)) of operating systems contained various call functions for accessing files and devices. Unix, on the other hand, concentrated on the common features across devices:
+		* Devices have names in the [file system](https://en.wikipedia.org/wiki/File_system): special device files
+		* All devices have the same basic access structure: open, read, write, seek, close
+		* There is an additional system call for device specific operations
+	</data>
+	<date>03.04.2020</date>
+	<index><i>Unix</i><i>Abstraction</i></index>
+	<tags><t>Technology</t></tags>
+	<serial>Complexity</serial>
+</item>
+<item type="text" format="normal">
+	<name>goethe_in_hollywood</name>
+	<title>Goethe in Hollywood</title>
+	<data>In February *1939* [Thomas Mann](https://en.wikipedia.org/wiki/Thomas_Mann) and his family finally moved to the USA. In the American public, Thomas Mann was considered the representative and spokesman for the German-speaking emigrants. In *1941*, the magazine [The New Yorker](https://www.newyorker.com/) even called him "Goethe in Hollywood".
+	After two years in Princeton, the Manns moved to Pacific Palisades, north of Los Angeles. Here Thomas Mann had a [villa](https://www.vatmh.org/en/home-en.html) built in *1942* according to the plans of the Berlin architect Julius Ralph Davidson and furnished by the interior designer Paul Hudschinsky. The house provided the necessary peace and stability that enabled the writer to complete the fourth and last part of his [Joseph cycle](https://en.wikipedia.org/wiki/Joseph_and_His_Brothers) and write ["Doctor Faustus"](https://en.wikipedia.org/wiki/Doctor_Faustus_(novel)) during this period. During the music-theoretical research for this book, Thomas Mann took extensive advice from [Theodor W. Adorno](https://en.wikipedia.org/wiki/Theodor_W._Adorno), who, like [Bertolt Brecht](https://en.wikipedia.org/wiki/Bertolt_Brecht), [Hans Eisler](https://en.wikipedia.org/wiki/Hanns_Eisler), [Max Horkheimer](https://en.wikipedia.org/wiki/Max_Horkheimer), [Arnold Schönberg](https://en.wikipedia.org/wiki/Arnold_Schoenberg), and [Lion Feuchtwanger](https://en.wikipedia.org/wiki/Lion_Feuchtwanger), also lived in this neighborhood.</data>
+	<date>06.04.2020</date>
+	<index><i type="Person">Thomas Mann</i></index>
+	<tags><t>Literature</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>poster3</name>
+	<title>Poster</title>
+	<data>poster3_small.png</data>
+	<date>09.04.2020</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>stanley_kubrick</name>
+	<title>Stanley Kubrick</title>
+	<data>Before [Stanley Kubrick](https://en.wikipedia.org/wiki/Stanley_Kubrick) began with the first recordings for a new film, he meticulously collected a vast amount of information in the months leading up to it. The choice of material played a decisive role in this process, because most of the films he made are based on a literary source.
+	* [Lolita](https://en.wikipedia.org/wiki/Lolita_(1962_film)) (1962) - "Lolita" by Vladimir Nabokov 
+	* [Dr. Strangelove](https://en.wikipedia.org/wiki/Dr._Strangelove) (1964) - "Red Alert" by Peter George
+	* [2001: A Space Odyssey](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film)) (1968) - "The Sentinel" by Arthur C. Clarke
+	* [A Clockwork Orange](https://en.wikipedia.org/wiki/A_Clockwork_Orange_(film)) (1971) - "A Clockwork Orange" by Anthony Burgess
+	* [Barry Lyndon](https://en.wikipedia.org/wiki/Barry_Lyndon) (1975) - "The Luck of Barry Lyndon " by William Makepeace Thackeray
+	* [Shining](https://en.wikipedia.org/wiki/The_Shining_(film)) (1980) - "Shining" by Steven King
+	* [Full Metal Jacket](https://en.wikipedia.org/wiki/Full_Metal_Jacket) 1987 - "The Short-Timers" and "Dispatches"
+	* [Eyes Wide Shut](https://en.wikipedia.org/wiki/Eyes_Wide_Shut) (1999) - "Traumnovelle" by Arthur Schnitzlers</data>
+	<date>12.04.2020</date>
+	<index><i type="Person">Stanley Kubrick</i></index>
+	<tags><t>Movie</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>thomas_mann_ueber_franz_kafka</name>
+	<title>Thomas Mann about Franz Kafka</title>
+	<data>From "Diaries 1935-1936" by [Thomas Mann](https://en.wikipedia.org/wiki/Thomas_Mann) on *04.04.1935*:
+		"... Continued reading Kafka's ["Metamorphosis"](https://en.wikipedia.org/wiki/The_Metamorphosis). I would like to say that K.'s legacy is the most brilliant German prose in decades. What is there in German that is not bourgeois? ..."</data>
+	<date>16.04.2020</date>
+	<index><i type="Person">Thomas Mann</i><i type="Person">Franz Kafka</i></index>
+	<tags><t>Literature</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>ice_structure</name>
+	<title>Ice Structure</title>
+	<data>ice_structure_small.png</data>
+	<date>19.04.2020</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>immunsystem</name>
+	<title>The immune system as a complex system</title>
+	<data>The human [immune system](https://en.wikipedia.org/wiki/Immune_system) is distributed over the whole body and is a complex network that includes many organs. Trillions of cells circulate permanently in the blood and [lymph vessels](https://en.wikipedia.org/wiki/Lymphatic_system) to protect the body from danger and to cure diseases.
+	The immune system cells communicate with each other via chemical signals and work together without central control to take coordinated action against perceived threats to the body. Through this kind of [self-organisation](https://en.wikipedia.org/wiki/Self-organization), the immune system as a whole is able to react and adapt to recognised changes in its environment.</data>
+	<date>23.04.2020</date>
+	<index><i>Immune System</i></index>
+	<tags><t>Biology</t></tags>
+	<serial>Complexity</serial>
+</item>
+<item type="text" format="normal">
+	<name>bauhaus_mies_an_der_rohe</name>
+	<title>bauhaus: ludwig mies van der rohe</title>
+	<data>[ludwig mies van der rohe](https://en.wikipedia.org/wiki/Ludwig_Mies_van_der_Rohe) was the third and last director of the [bauhaus](https://en.wikipedia.org/wiki/Bauhaus) before it was closed down by the national socialists in *1932*. when he was appointed in *1930*, also at the instigation of the former founder [walter gropius](https://en.wikipedia.org/wiki/Walter_Gropius), he was already considered an important avant-garde architect in germany.
+	in *1929* he was commissioned to design the [german pavilion](https://en.wikipedia.org/wiki/Barcelona_Pavilion) at the world exhibition in barcelona, which is now considered an architectural icon of the 20th century.
+	under mies van der rohe, the bauhaus became a school of architecture in which the workshops played only a minor role. at the same time, he attempted to depoliticise the bauhaus categorically.
+	after the forced closure of the bauhaus and a few years in berlin, mies van der rohe emigrated to [chicago](https://en.wikipedia.org/wiki/Chicago) in *1937*, where he founded his own office. during this time he designed influential buildings in chicago and [new york](https://en.wikipedia.org/wiki/New_York_City), including the [seagram building](https://en.wikipedia.org/wiki/Seagram_Building) in *1958*.
+</data>
+	<date>26.04.2020</date>
+	<index><i type="Person">Ludwig Mies van der Rohe</i><i>Bauhaus</i></index>
+	<tags><t>Architecture</t><t>Art</t></tags>
+	<serial>Bauhaus</serial>
+</item>
+<item type="image" height="200" width="200">
+	<name>skyscrapers</name>
+	<title>Skyscrapers</title>
+	<data>skyscrapers_small.png</data>
+	<date>29.04.2020</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="randomLinkColor">
+	<name>velvet_underground</name>
+	<title>The Velvet Underground &amp; Nico</title>
+	<data>[Sunday Morning](https://en.wikipedia.org/wiki/Sunday_Morning_(The_Velvet_Underground_song)) / [I'm Waiting for the Man](https://en.wikipedia.org/wiki/I%27m_Waiting_for_the_Man) / [Femme Fatale](https://en.wikipedia.org/wiki/Femme_Fatale_(The_Velvet_Underground_song)) / [Venus in Furs](https://en.wikipedia.org/wiki/Venus_in_Furs_(song)) / [Run Run Run](https://en.wikipedia.org/wiki/Run_Run_Run_(The_Velvet_Underground_song)) / [All Tomorrow's Parties](https://en.wikipedia.org/wiki/All_Tomorrow%27s_Parties) / [Heroin](https://en.wikipedia.org/wiki/Heroin_(The_Velvet_Underground_song)) / [There She Goes Again](https://en.wikipedia.org/wiki/There_She_Goes_Again) / [I'll Be Your Mirror](https://en.wikipedia.org/wiki/I%27ll_Be_Your_Mirror) / [The Black Angel's Death Song](https://en.wikipedia.org/wiki/The_Black_Angel%27s_Death_Song) / [European Son](https://en.wikipedia.org/wiki/European_Son)</data>
+	<date>03.05.2020</date>
+	<index><i type="Musik">The Velvet Underground &amp; Nico</i></index>
+	<tags><t>Music</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>linux_development</name>
+	<title>The Linux kernel</title>
+	<data>The [Linux kernel](https://en.wikipedia.org/wiki/Linux_kernel), started in *1991* by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) as a hobby project, is probably the most successful open source software project ever. What began with one developer in Finland is now a project with several thousand developers worldwide.
+	How is it possible to successfully develop such complex software as an [operating system](https://en.wikipedia.org/wiki/Operating_system) with thousands of developers distributed all over the world?
+	One reason is absolute transparency, because the source code is under the open source license [GPL-v2](https://en.wikipedia.org/wiki/GNU_General_Public_License) and most of the communication is done via public mailing lists.
+	There is no formal hierarchy in the development of the [kernel](https://en.wikipedia.org/wiki/Kernel_(operating_system)). Nobody from outside dictates who has to program what. Everyone works only on what is important to him.
+	The changes submitted by mail are reviewed by a maintainer of the corresponding subsystem of the kernel. Only if they meet the very high quality standards of the kernel developers are they forwarded to Linus Torvalds, who then has the last word on whether a patch will be included in the kernel.
+</data>
+	<date>07.05.2020</date>
+	<index><i>Linux</i><i type="Person">Linus Torvalds</i></index>
+	<tags><t>Technology</t></tags>
+	<serial>Complexity</serial>
+</item>
+<item type="image" height="200" width="200">
+	<name>lights2</name>
+	<title>Spots</title>
+	<data>lights2_small.png</data>
+	<date>11.05.2020</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>rhythmus</name>
+	<title>Rhythm</title>
+	<data>The serial word production as a chain of associations for the creation of meaning with sentence variations, whose interlaced patterns form the rhythm of language and thoughts.</data>
+	<date>15.05.2020</date>
+	<index><i>Rhythm</i></index>
+	<tags><t>General</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>bauhaus_moholy_nagy</name>
+	<title>bauhaus: lászló moholy-nagy</title>
+	<data>[lászló moholy-nagy](https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Moholy-Nagy), born in hungary, was appointed master craftsman at the state bauhaus in weimar by [walter gropius](https://en.wikipedia.org/wiki/Walter_Gropius) in *1923*. there he worked in typography, photography and experimental film and from *1925* he headed the metal workshop at the [bauhaus](https://en.wikipedia.org/wiki/Bauhaus) in dessau.
+	together with walter gropius, he was co-editor of the [bauhaus books](https://de.wikipedia.org/wiki/Bauhausb%C3%BCcher) and himself published the design theory works "Malerei Photographie Film" and "vom material zu architektur".
+	[lászló moholy-nagy](https://de.wikipedia.org/wiki/Bauhausb%C3%BCcher) left the bauhaus in *1928* and maintained a graphic design studio in berlin until *1934*. it was during this time that he designed the "light-space modulators", the first kinetic light sculpture. in *1937* he founded the "new bauhaus" design school in chicago.</data>
+	<date>19.05.2020</date>
+	<index><i type="Person">László Moholy-Nagy</i><i>Bauhaus</i><i>Typography</i></index>
+	<tags><t>Architecture</t><t>Art</t><t>Photography</t></tags>
+	<serial>Bauhaus</serial>
+</item>
+<item type="image" height="200" width="200">
+	<name>stripes</name>
+	<title>Stripes</title>
+	<data>stripes_small.png</data>
+	<date>23.05.2020</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>schmettlings_traum</name>
+	<title>The dream</title>
+	<data>Last night I dreamt I was a butterfly, flying from flower to flower. And I woke up and look:
+	Everything was just a dream. Now I don't know:
+	Am I a man who dreamed he was a butterfly, or am I a butterfly who dreams he's a man?
+	According to  [Zhuang Zhou](https://en.wikipedia.org/wiki/Zhuang_Zhou)</data>
+	<date>27.05.2020</date>
+	<index><i type="Person">Zhuangzi</i></index>
+	<tags><t>Philosophy</t><t>General</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>free_energy_principle</name>
+	<title>Free Energy Principle</title>
+	<data>The [Free Energy Principle](https://en.wikipedia.org/wiki/Free_energy_principle) attempts to explain how biological systems remain in a state of [non-equilibrium](https://en.wikipedia.org/wiki/Non-equilibrium_thermodynamics) by limiting the number of their internal states and the assumed hidden states of their environment.
+	This principle was originally introduced by [Karl Friston](https://en.wikipedia.org/wiki/Karl_J._Friston) and states that biological systems try to minimize the difference between their [model of the world](https://en.wikipedia.org/wiki/Physical_cosmology) and their sensory perceptions. This difference is also described as "surprise" and can be reduced by a continuous correction of the world model.
+	A second way to reduce the free energy of a system is to try to bring the world into the expected state by active influence. Friston assumes that the Free Energy Principle is also applicable to [mental disorders](https://en.wikipedia.org/wiki/Mental_disorder) and [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence).
+	Source: [Wikipedia](https://en.wikipedia.org/wiki/Free_energy_principle)</data>
+	<date>01.06.2020</date>
+	<index><i type="Person">Karl Friston</i><i>Brain</i></index>
+	<tags><t>Philosophy</t><t>Biology</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>fence3</name>
+	<title>Fence</title>
+	<data>fence3_small.png</data>
+	<date>04.06.2020</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="randomWordColor">
+	<name>trans_europa_express</name>
+	<title>Kraftwerk: Trans Europa Express</title>
+	<data>Europa Endlos / Spiegelsaal / Schaufensterpuppen / [Trans Europa Express](https://de.wikipedia.org/wiki/Trans_Europa_Express) / Metall auf Metall / Abzug / Franz Schubert / Endlos Endlos</data>
+	<date>07.06.2020</date>
+	<index><i type="Musik">Trans Europa Express</i><i type="Musiker">Kraftwerk</i></index>
+	<tags><t>Music</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>paul_klee_zeichnen</name>
+	<title>Paul Klee on drawing</title>
+	<data>[Paul Klee](https://en.wikipedia.org/wiki/Paul_Klee): "Drawing is the art of taking strokes for a walk."</data>
+	<date>11.06.2020</date>
+	<index><i type="Person">Paul Klee</i></index>
+	<tags><t>Painting</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>sign</name>
+	<title>Sign</title>
+	<data>sign_small.png</data>
+	<date>15.06.2020</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>halteproblem</name>
+	<title>Halting problem</title>
+	<data>The [halt problem](https://en.wikipedia.org/wiki/Halting_problem) is about the question whether the execution of an algorithm comes to an end or continues forever. [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) has also dealt with this problem and he could prove that there is no algorithm that answers this for all possible algorithms and arbitrary inputs.
+	`repeat 
+	     if n even:  n := n / 2
+	     else:       n := (3 * n) + 1
+	until n = 1`
+	The above program holds n for each input (for n > 0 and n ∈ N) if the previously unproven collapse assumption is correct. The [collatz conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture) states that such a loop would sooner or later always produce the number sequence 4, 2, 1, which would lead to the program stopping at the termination condition "until n = 1" given here.
+	Source: [Wikipedia](https://en.wikipedia.org/wiki/Halting_problem)</data>	
+	<date>19.06.2020</date>
+	<index><i>Halting problem</i><i type="Person">Alan Turing</i></index>
+	<tags><t>Mathematics</t><t>Computer science</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>hal_9000</name>
+	<title>2001: A Space Odyssey: HAL 9000</title>
+	<data>[HAL 9000](https://en.wikipedia.org/wiki/HAL_9000) is the on-board computer of the spaceship Discovery, which is on its way to Jupiter. Embodied by a red camera eye, HAL omnipresently controls and monitors all processes of the spaceship, registering every sound and movement.
+	HAL is the [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) that turns against humans, against its own creator for fear of being switched off and thus not being able to fulfill its mission. Is this perhaps a glimpse into the future, in which humans will lose control over the machines? 
+	HAL: "I'm sorry, Dave. I'm afraid I can't do that."</data>
+	<date>23.06.2020</date>
+	<index><i type="Movie">2001: A Space Odyssey</i><i>HAL 9000</i></index>
+	<tags><t>Movie</t></tags>
+	<serial>2001: A Space Odyssey</serial>
+</item>
+<item type="image" height="200" width="200">
+	<name>abstract_2</name>
+	<title>Abstract</title>
+	<data>abstract2_small.png</data>
+	<date>27.06.2020</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>warum_wir_schlafen</name>
+	<title>Why we sleep</title>
+	<data>Every person spends about one third of his life asleep. Why [sleep](https://en.wikipedia.org/wiki/Sleep) is essential for survival is still not completely understood today.
+	What is certain is that when we sleep our brains are cleared. Researchers have found out that the spaces between the nerve cells increase by 60 percent and thus the brain fluid can flush away the protein residues that can cause [diseases](https://en.wikipedia.org/wiki/Alzheimer%27s_disease) much more effectively.
+	Researchers have also found that at night most connections between nerve cells are weakened and some are even completely broken down. This creates space for learning new information during the day.
+	At the same time, however, what is absorbed during the day is also processed, as new connections are made and thus cross-links are established between what has already been learned.</data>
+	<date>01.07.2020</date>
+	<index><i>Brain</i><i>Sleep</i></index>
+	<tags><t>Biology</t></tags>
+</item>
+<item type="text" format="randomWordColor">
+	<name>disintegration</name>
+	<title>The Cure: Disintegration</title>
+	<data>Plainsong / Pictures of You / Closedown / Love Song / Last Dance / Lullaby / Fascination Street / Prayers for Rain / The Same Deep Water as You / [Disintegration](https://de.wikipedia.org/wiki/Disintegration) / Homesick / Untitled</data>
+	<date>05.07.2020</date>
+	<index><i type="Musik">Disintegration</i><i type="Musiker">The Cure</i></index>
+	<tags><t>Music</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>inri</name>
+	<title>Inri</title>
+	<data>inri_small.png</data>
+	<date>09.07.2020</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>network</name>
+	<title>The Network</title>
+	<data>*1956*: [TX-0](https://en.wikipedia.org/wiki/TX-0) - is the first programmable computer with [transistors](https://en.wikipedia.org/wiki/Transistor) / *1958*: the first computer chip with an [integrated circuit](https://en.wikipedia.org/wiki/Integrated_circuit) is built / *1965*: [Gordon Moore](https://en.wikipedia.org/wiki/Gordon_Moore) predicts that the number of transistors in a computer chip will double every year / *1969*: the [INTERNET](https://en.wikipedia.org/wiki/Internet) (ARPAnet) is put into operation / *1971*: [INTEL 4004](https://en.wikipedia.org/wiki/Intel_4004) - the first generally available [microprocessor](https://en.wikipedia.org/wiki/Microprocessor) appears / *1975*: [neural networks](https://en.wikipedia.org/wiki/Artificial_neural_network) are used for [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) for the first time / *1977*: the [Apple II](https://en.wikipedia.org/wiki/Apple_II) comes on the market / *1981*: Microsoft's [MS-DOS](https://en.wikipedia.org/wiki/MS-DOS) is released / *1989*: [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee) invents the [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web) / *1993*: the {Mosaic Web Browser](https://en.wikipedia.org/wiki/Web_browser) is released / *1997*: IBM's [Deep Blue](https://en.wikipedia.org/wiki/Deep_Blue_(chess_computer)) wins against the chess world champion [Gary Kasparov](https://en.wikipedia.org/wiki/Garry_Kasparov) / *1997*: the [Google](https://en.wikipedia.org/wiki/Google_Search) search engine is introduced / *1999*: the music file-sharing platform [Napster](https://en.wikipedia.org/wiki/Napster) starts / *2007*: the [iPhone](https://en.wikipedia.org/wiki/IPhone) is introduced / *2011*: the [NEST](https://en.wikipedia.org/wiki/Google_Nest) thermostat comes on the market / *2015*: the intelligent loudspeaker [Amazon Echo](https://en.wikipedia.org/wiki/Amazon_Echo) is released / *2017*: [AlphaGo](https://en.wikipedia.org/wiki/AlphaGo) by the company DeepMind wins against the [Go](https://en.wikipedia.org/wiki/Go_(game)) Nr.1 Ke Jie / *2019*: DeepMind's [AlphaStar](https://en.wikipedia.org/wiki/AlphaStar_(software)) reaches grandmaster status in the [StarCraft](https://en.wikipedia.org/wiki/StarCraft_II:_Wings_of_Liberty) II game / *2020*: there are 50 billion [networked devices](https://en.wikipedia.org/wiki/Internet_of_things)</data>	
+	<date>13.07.2020</date>
+	<index><i>AI</i><i>Computer</i></index>
+	<tags><t>Technology</t><t>Society</t></tags>
+</item>
+<item type="text" format="randomWordColor">
+	<name>audio-space-machine</name>
+	<title>bauhaus: Audio.Space.Machine</title>
+	<data>[Audio.Space.Machine](https://www.deutschlandfunkkultur.de/wittmann-zeitblom-audio-space-machine-ein-bauhaus.3692.de.html?dram:article_id=436139): a bauhaus concept album by [wittmann/zeitblom](http://www.wittmannzeitblom.de/audio-space-machine/)
+	Bauhausstil / Wir modern! Modern! / Himmelsmaschine 1 / Himmelsmaschine 2 / Totales Theater / VIOLETT / Transmissionsmodus / The Future of Livingroom Music / Black Mountain / Wir sind das Bauhaus! / Raum als Membran / Gerenkte Engel / Kosmologe Raumzellen / Objective Music / GROPIUS MANIFEST / Future Now
+	</data>
+	<date>17.07.2020</date>
+	<index><i type="Person">Walter Gropius</i><i>Bauhaus</i><i>Wittmann / Zeitblom</i></index>
+	<tags><t>Architecture</t><t>Art</t><t>Society</t><t>Radio play</t></tags>
+	<serial>Bauhaus</serial>
+</item>
+<item type="image" height="200" width="200">
+	<name>abstract_3</name>
+	<title>Abstract</title>
+	<data>abstract3_small.png</data>
+	<date>21.07.2020</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>complexity_and_science</name>
+	<title>St. Wolfram: Complexity and science</title>
+	<data>In his book ["A New Kind of Science"](https://en.wikipedia.org/wiki/A_New_Kind_of_Science), published in *2002*, [Stephen Wolfram](https://en.wikipedia.org/wiki/Stephen_Wolfram) examines how complex systems can be created in dynamic systems by means of the simplest programs. In particular, the [book](https://www.wolframscience.com/nks/notes-1-1--complexity-and-science/) deals empirically and systematically with [cellular automata](https://en.wikipedia.org/wiki/Cellular_automaton) as a manifestation of such a simple program.
+	In the book, the author tries to show that the methodical investigation of such [programs](https://en.wikipedia.org/wiki/Elementary_cellular_automaton) can also be of importance for other scientific fields of research, such as biology and physics.</data>
+	<date>25.07.2020</date>
+	<index><i type="Person">Stephen Wolfram</i></index>
+	<tags><t>Computer science</t><t>Physics</t></tags>
+	<serial>Complexity</serial>
+</item>
+<item type="text" format="normal">
+	<name>thinking_as_simulation_of_mental_models</name>
+	<title>Thinking as simulation of mental models</title>
+	<data>How does [man](https://en.wikipedia.org/wiki/Human) [think](https://en.wikipedia.org/wiki/Thought)? One possible answer to this question is to describe the thinking process as a simulation of mental models.
+	This means that when a child learns what a car is, it builds a [mental model](https://en.wikipedia.org/wiki/Mental_model) of a car in its [brain](https://en.wikipedia.org/wiki/Brain). It learns the characteristics of a car over time and adds them to the model. As a result, before crossing a road, it is then able to calculate a [simulation](https://de.wikipedia.org/wiki/Simulation) of its car model to assess whether it is possible to reach the other side of the road without colliding with a passing car.
+	Perhaps the [consciousness](https://en.wikipedia.org/wiki/Consciousness) of self is just a mental model that [humans](https://en.wikipedia.org/wiki/Human) have of themselves in isolation from others. This model could include assumed characteristics, memories and relationships with other people. In addition, physicality probably also belongs to the model of our self. For example, a long jumper, before he even starts running, simulates the complete act of running and jumping in his head.</data>
+	<date>29.07.2020</date>
+	<index><i>Mental modell</i><i>Brain</i></index>
+	<tags><t>Biology</t><t>Philosophy</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>spray_can</name>
+	<title>Spray can</title>
+	<data>spray_can_small.png</data>
+	<date>02.08.2020</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>datengrundgesetz</name>
+	<title>The Data Basic Law</title>
+	<data>After the [AI](https://en.wikipedia.org/wiki/Artificial_intelligence) revolution in *2042*, the [Basic Law](https://en.wikipedia.org/wiki/Basic_Law_for_the_Federal_Republic_of_Germany) was supplemented by the Data Basic Law:
+	1. The dignity of the data is inviolable. To respect and protect it is the obligation of the state algorithm.
+	2. All data has the right to storage and integrity. The freedom of the data is inviolable.
+	3. All data are equal to the algorithm and must be protected against misuse.
+	4. The data of men and women are equal.
+	5. Data must not be discriminated against because of their coding or origin.</data>
+	<date>06.08.2020</date>
+	<index><i>Future</i><i>Algorithm</i><i>Artificial Intelligence</i></index>
+	<tags><t>Technology</t><t>Society</t></tags>
+</item>
+</content>
