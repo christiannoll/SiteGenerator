@@ -64,7 +64,12 @@ class ArchiveMonth {
     private func getMonthName() -> String {
         let post = posts[0]
         let dateFormatter = DateFormatter()
-        dateFormatter.locale = Locale(identifier: "de_DE")
+        if (SiteGenerator.forGerman()) {
+            dateFormatter.locale = Locale(identifier: "de_DE")
+        }
+        else {
+            dateFormatter.locale = Locale(identifier: "en_US")
+        }
         dateFormatter.dateFormat = "MMMM"
         return dateFormatter.string(from: post.date!)
     }

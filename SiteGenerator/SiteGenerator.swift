@@ -20,13 +20,18 @@ extension String {
 
 struct SiteGenerator {
     
-    //static let baseDir = "/Users/chn/Programmierung/Swift/SiteGenerator/vnzn/en/"
-    static let baseDir = "/Users/chn/Programmierung/Swift/SiteGenerator/vnzn/"
+    static let baseDir = "/Users/chn/Programmierung/Swift/SiteGenerator/vnzn/en/"
+    //static let baseDir = "/Users/chn/Programmierung/Swift/SiteGenerator/vnzn/"
     
     private let posts: [Item]
     
     init(_ posts: [Item]) {
         self.posts = posts
+    }
+    
+    static func forGerman() -> Bool {
+        let lang = UserDefaults.standard.string(forKey: "AppleLanguage")
+        return lang == "de"
     }
     
     func generate() {
@@ -88,8 +93,14 @@ struct SiteGenerator {
             writer.writeSerialItemPage(serialItem, page.render())
         }
         
-        let impressumPage = ImpressumPage()
-        writer.writeImpressumPage(impressumPage.render())
+        if (SiteGenerator.forGerman()) {
+            let impressumPage = ImpressumPage()
+            writer.writeImpressumPage(impressumPage.render())
+        }
+        else {
+            let contactPage = ContactPage()
+            writer.writeImpressumPage(contactPage.render())
+        }
         
         ftpWriter.writeScript()
         

@@ -89,7 +89,7 @@ class Page {
     }
     
     func renderArchiveLink() -> SmlNode {
-        let link = a([href => (Page.baseUrl + "archive")], ["Archiv"])
+        let link = a([href => (Page.baseUrl + "archive")], [SiteGenerator.forGerman() ? "Archiv": "Archive"])
         let para = p([link])
         return para
     }
@@ -123,14 +123,14 @@ class Page {
         pChildren.append(newLine)
         pChildren.append(tab)
         
-        let tags = a([href => (Page.baseUrl + "tags")], ["Kategorien"])
+        let tags = a([href => (Page.baseUrl + "tags")], [SiteGenerator.forGerman() ? "Kategorien" : "Tags"])
         pChildren.append(tags)
         
         pChildren.append(.text(" • "))
         pChildren.append(newLine)
         pChildren.append(tab)
         
-        let serials = a([href => (Page.baseUrl + "serials")], ["Serien"])
+        let serials = a([href => (Page.baseUrl + "serials")], [SiteGenerator.forGerman() ? "Serien" : "Serials"])
         pChildren.append(serials)
         
         let para = p(pChildren)
@@ -138,7 +138,7 @@ class Page {
         navChildren.append(newLine)
         
         var pChildren2: [SmlNode] = []
-        let impressum = a([href => (Page.baseUrl + "impressum")], ["Impressum"])
+        let impressum = a([href => (Page.baseUrl + "impressum")], [SiteGenerator.forGerman() ? "Impressum" : "Contact"])
         pChildren2.append(impressum)
         
         let para2 = p(pChildren2)

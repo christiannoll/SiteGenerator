@@ -24,7 +24,7 @@ class RssFeed {
         channelChildren.append(description_node(Page.homepageTagline))
         channelChildren.append(newLine)
         
-        channelChildren.append(language_node("de"))
+        channelChildren.append(language_node(SiteGenerator.forGerman() ? "de" : "en"))
         channelChildren.append(newLine)
         
         var index = 1
