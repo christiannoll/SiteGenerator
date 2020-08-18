@@ -639,7 +639,7 @@
 </item>
 <item type="image" height="200" width="200">
 	<name>abstract_2</name>
-	<title>Abstract</title>
+	<title>Abstract 2</title>
 	<data>abstract2_small.png</data>
 	<date>27.06.2020</date>
 	<index></index>
@@ -647,7 +647,7 @@
 </item>
 <item type="text" format="normal">
 	<name>warum_wir_schlafen</name>
-	<title>Why we sleep</title>
+	<title>Why do we sleep</title>
 	<data>Every person spends about one third of his life asleep. Why [sleep](https://en.wikipedia.org/wiki/Sleep) is essential for survival is still not completely understood today.
 	What is certain is that when we sleep our brains are cleared. Researchers have found out that the spaces between the nerve cells increase by 60 percent and thus the brain fluid can flush away the protein residues that can cause [diseases](https://en.wikipedia.org/wiki/Alzheimer%27s_disease) much more effectively.
 	Researchers have also found that at night most connections between nerve cells are weakened and some are even completely broken down. This creates space for learning new information during the day.
@@ -677,7 +677,7 @@
 	<title>The Network</title>
 	<data>*1956*: [TX-0](https://en.wikipedia.org/wiki/TX-0) - is the first programmable computer with [transistors](https://en.wikipedia.org/wiki/Transistor) / *1958*: the first computer chip with an [integrated circuit](https://en.wikipedia.org/wiki/Integrated_circuit) is built / *1965*: [Gordon Moore](https://en.wikipedia.org/wiki/Gordon_Moore) predicts that the number of transistors in a computer chip will double every year / *1969*: the [INTERNET](https://en.wikipedia.org/wiki/Internet) (ARPAnet) is put into operation / *1971*: [INTEL 4004](https://en.wikipedia.org/wiki/Intel_4004) - the first generally available [microprocessor](https://en.wikipedia.org/wiki/Microprocessor) appears / *1975*: [neural networks](https://en.wikipedia.org/wiki/Artificial_neural_network) are used for [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) for the first time / *1977*: the [Apple II](https://en.wikipedia.org/wiki/Apple_II) comes on the market / *1981*: Microsoft's [MS-DOS](https://en.wikipedia.org/wiki/MS-DOS) is released / *1989*: [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee) invents the [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web) / *1993*: the {Mosaic Web Browser](https://en.wikipedia.org/wiki/Web_browser) is released / *1997*: IBM's [Deep Blue](https://en.wikipedia.org/wiki/Deep_Blue_(chess_computer)) wins against the chess world champion [Gary Kasparov](https://en.wikipedia.org/wiki/Garry_Kasparov) / *1997*: the [Google](https://en.wikipedia.org/wiki/Google_Search) search engine is introduced / *1999*: the music file-sharing platform [Napster](https://en.wikipedia.org/wiki/Napster) starts / *2007*: the [iPhone](https://en.wikipedia.org/wiki/IPhone) is introduced / *2011*: the [NEST](https://en.wikipedia.org/wiki/Google_Nest) thermostat comes on the market / *2015*: the intelligent loudspeaker [Amazon Echo](https://en.wikipedia.org/wiki/Amazon_Echo) is released / *2017*: [AlphaGo](https://en.wikipedia.org/wiki/AlphaGo) by the company DeepMind wins against the [Go](https://en.wikipedia.org/wiki/Go_(game)) Nr.1 Ke Jie / *2019*: DeepMind's [AlphaStar](https://en.wikipedia.org/wiki/AlphaStar_(software)) reaches grandmaster status in the [StarCraft](https://en.wikipedia.org/wiki/StarCraft_II:_Wings_of_Liberty) II game / *2020*: there are 50 billion [networked devices](https://en.wikipedia.org/wiki/Internet_of_things)</data>	
 	<date>13.07.2020</date>
-	<index><i>AI</i><i>Computer</i></index>
+	<index><i>Artificial Intelligence</i><i>Computer</i></index>
 	<tags><t>Technology</t><t>Society</t></tags>
 </item>
 <item type="text" format="randomWordColor">
@@ -693,7 +693,7 @@
 </item>
 <item type="image" height="200" width="200">
 	<name>abstract_3</name>
-	<title>Abstract</title>
+	<title>Abstract 3</title>
 	<data>abstract3_small.png</data>
 	<date>21.07.2020</date>
 	<index></index>
@@ -739,5 +739,32 @@
 	<date>06.08.2020</date>
 	<index><i>Future</i><i>Algorithm</i><i>Artificial Intelligence</i></index>
 	<tags><t>Technology</t><t>Society</t></tags>
+</item>
+<item type="text" format="randomWordColor">
+	<name>I_Care_Because_You_Do</name>
+	<title>Aphex Twin: ... I Care Because You Do</title>
+	<data>[Acrid Avid Jam Shred](https://en.wikipedia.org/wiki/...I_Care_Because_You_Do) / Wax the nip. / Icct Hedral (edit) / VENTOLIN (Video Version.) / COME ON, YOU SLAGS! / Start as you Mean to go on / Wet tip hen ax / mookid. / Alberto Balsam / cow cud is a twin. / next heap with.</data>
+	<date>10.08.2020</date>
+	<index><i type="Musiker">Aphex Twin</i></index>
+	<tags><t>Music</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>abstract_4</name>
+	<title>Abstract 4</title>
+	<data>abstract4_small.png</data>
+	<date>14.08.2020</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>bauhaus_hannes_meyer</name>
+	<title>bauhaus: hannes meyer</title>
+	<data>the swiss architect [hannes meyer](https://en.wikipedia.org/wiki/Hannes_Meyer) joined the bauhaus in dessau in *1927* as head of the construction department. he was considered a leading exponent of functionalism in architecture. at the beginning of april *1928*, [walter gropius](https://en.wikipedia.org/wiki/Walter_Gropius) appointed him as his successor as director of the bauhaus.
+	[meyer](https://www.bauhauskooperation.com/the-bauhaus/people/directors/hannes-meyer/) shifted the focus of teaching at the bauhaus towards technology and science. under his leadership, the work in the workshops was oriented towards industrial specifications and the products of the bauhaus were to be affordable for the people. for this reason, his new slogan was "People's needs instead of luxury needs!".
+	this reorientation led to tensions with the founder of the bauhaus, [walter gropius](https://www.bauhauskooperation.com/the-bauhaus/people/directors/walter-gropius/). when hannes meyer failed to contain the increasing influence of communist tendencies at the bauhaus, [walter gropius](#2020/02/12/bauhaus_gropius/) pleaded for his dismissal, with the result that meyer was summarily dismissed by the city of [dessau](https://en.wikipedia.org/wiki/Dessau) on the first of august *1930* for "communist machinations".</data>
+	<date>18.08.2020</date>
+	<index><i type="Person">Hannes Meyer</i><i>Bauhaus</i></index>
+	<tags><t>Architecture</t></tags>
+	<serial>Bauhaus</serial>
 </item>
 </content>

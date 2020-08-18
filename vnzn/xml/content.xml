@@ -640,7 +640,7 @@
 </item>
 <item type="image" height="200" width="200">
 	<name>abstract_2</name>
-	<title>Abstract</title>
+	<title>Abstract 2</title>
 	<data>abstract2_small.png</data>
 	<date>27.06.2020</date>
 	<index></index>
@@ -678,7 +678,7 @@
 	<title>Das Netz</title>
 	<data>*1956*: [TX-0](https://de.wikipedia.org/wiki/TX-0) - ist der erste programmierbare Computer mit [Transistoren](https://de.wikipedia.org/wiki/Transistor) / *1958*: wird der erste Computer Chip mit einem [integrierten Schaltkreis](https://de.wikipedia.org/wiki/Integrierter_Schaltkreis) gebaut / *1965*: [Gordon Moore](https://de.wikipedia.org/wiki/Gordon_Moore) sagt voraus, dass sich die Anzahl an Transistoren in einem Computer Chip jedes Jahr verdoppeln wird / *1969*: das [INTERNET](https://de.wikipedia.org/wiki/Internet) (ARPAnet) wird in Betrieb genommen / *1971*: [INTEL 4004](https://de.wikipedia.org/wiki/Intel_4004) - der erste allgemein erhältliche [Mikroprozessor](https://de.wikipedia.org/wiki/Mikroprozessor) erscheint / *1975*: erstmals werden [Neuronale Netze](https://de.wikipedia.org/wiki/K%C3%BCnstliches_neuronales_Netz) für [künstliche Intelligenz](https://de.wikipedia.org/wiki/K%C3%BCnstliche_Intelligenz) verwendet / *1977*: der [Apple II](https://de.wikipedia.org/wiki/Apple_II) kommt auf den Markt / *1981*: Microsofts [MS-DOS](https://de.wikipedia.org/wiki/MS-DOS) wird veröffentlicht / *1989*: [Tim Berners-Lee](https://de.wikipedia.org/wiki/Tim_Berners-Lee) erfindet das [World Wide Web](https://de.wikipedia.org/wiki/World_Wide_Web) / *1993*: der [Mosaic Web Browser](https://de.wikipedia.org/wiki/Webbrowser) erscheint / *1997*: IBM’s [Deep Blue](https://de.wikipedia.org/wiki/Deep_Blue) gewinnt gegen den Schachweltmeister [Gary Kasparow](https://de.wikipedia.org/wiki/Garri_Kimowitsch_Kasparow) / *1997*: die [Google](https://de.wikipedia.org/wiki/Google) Suchmaschine wird vorgestellt / *1999*: die Musiktauschbörse [Napster](https://de.wikipedia.org/wiki/Napster) startet / *2007*: das [iPhone](https://de.wikipedia.org/wiki/IPhone) wird vorgestellt / *2011*: der [NEST](https://de.wikipedia.org/wiki/Nest_Labs) Thermostat kommt auf den Markt / *2015*: der intelligente Lautsprecher [Amazon Echo](https://de.wikipedia.org/wiki/Amazon_Echo) erscheint / *2017*: [AlphaGo](https://de.wikipedia.org/wiki/AlphaGo) der Fa. DeepMind gewinnt gegen die [Go](https://de.wikipedia.org/wiki/Go_(Spiel)) Nr.1 Ke Jie / *2019*: erreicht [AlphaStar](https://en.wikipedia.org/wiki/AlphaStar_(software)) der Fa. DeepMind Großmeisterstatus im Spiel [StarCraft II](https://en.wikipedia.org/wiki/StarCraft_II:_Wings_of_Liberty) / *2020*: es gibt 50 Milliarden [vernetzte Geräte](https://de.wikipedia.org/wiki/Internet_der_Dinge)</data>	
 	<date>13.07.2020</date>
-	<index><i>AI</i><i>Computer</i></index>
+	<index><i>Artificial Intelligence</i><i>Computer</i></index>
 	<tags><t>Technologie</t><t>Gesellschaft</t></tags>
 </item>
 <item type="text" format="randomWordColor">
@@ -694,7 +694,7 @@
 </item>
 <item type="image" height="200" width="200">
 	<name>abstract_3</name>
-	<title>Abstract</title>
+	<title>Abstract 3</title>
 	<data>abstract3_small.png</data>
 	<date>21.07.2020</date>
 	<index></index>
@@ -740,5 +740,32 @@
 	<date>06.08.2020</date>
 	<index><i>Zukunft</i><i>Algorithmus</i><i>Artificial Intelligence</i></index>
 	<tags><t>Technologie</t><t>Gesellschaft</t></tags>
+</item>
+<item type="text" format="randomWordColor">
+	<name>I_Care_Because_You_Do</name>
+	<title>Aphex Twin: ... I Care Because You Do</title>
+	<data>[Acrid Avid Jam Shred](https://de.wikipedia.org/wiki/%E2%80%A6_I_Care_Because_You_Do) / Wax the nip. / Icct Hedral (edit) / VENTOLIN (Video Version.) / COME ON, YOU SLAGS! / Start as you Mean to go on / Wet tip hen ax / mookid. / Alberto Balsam / cow cud is a twin. / next heap with.</data>
+	<date>10.08.2020</date>
+	<index><i type="Musiker">Aphex Twin</i></index>
+	<tags><t>Musik</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>abstract_4</name>
+	<title>Abstract 4</title>
+	<data>abstract4_small.png</data>
+	<date>14.08.2020</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>bauhaus_hannes_meyer</name>
+	<title>bauhaus: hannes meyer</title>
+	<data>der schweizer architekt [hannes meyer](https://de.wikipedia.org/wiki/Hannes_Meyer) kam *1927* als leiter der bauabteilung ans bauhaus in dessau. er galt als ein führender vertreter des funktionalismus in der architektur. anfang april *1928* wurde er dann von [walter gropius](https://de.wikipedia.org/wiki/Walter_Gropius) zu dessen nachfolger als direktor des bauhauses berufen.
+	[meyer](https://www.bauhauskooperation.de/das-bauhaus/koepfe/direktoren/hannes-meyer/) verschob den schwerpunkt der lehre am [bauhaus](https://de.wikipedia.org/wiki/Bauhaus) in richtung technik und wissenschaft. unter seiner führung wurde die arbeit in den werkstätten an instustrievorgaben orientiert und die produkte des bauhauses sollten auch für das volk erschwinglich sein. deshalb lautete seine neue parole "Volksbedarf statt Luxusbedarf!".
+	durch diese umorientierung kam es zu spannungen mit dem gründer des bauhauses [walter gropius](https://www.bauhauskooperation.de/das-bauhaus/koepfe/direktoren/walter-gropius/). als es hannes meyer nicht gelang den zunehmenden einfluss von kommunistischen strömungen am bauhaus einzudämmen, plädierte [walter gropius](#2020/02/12/bauhaus_gropius/) für dessen absetzung, so dass meyer am ersten august *1930* von der stadt [dessau](https://de.wikipedia.org/wiki/Dessau) wegen "kommunistischer Machenschaften" fristlos entlassen wurde.</data>
+	<date>18.08.2020</date>
+	<index><i type="Person">Hannes Meyer</i><i>Bauhaus</i></index>
+	<tags><t>Architektur</t></tags>
+	<serial>Bauhaus</serial>
 </item>
 </content>

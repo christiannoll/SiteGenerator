@@ -53,7 +53,7 @@ class PostBuilder {
     }
     
     public func createPostLink(_ post: Item) -> SmlNode {
-        let urlTitle: SmlNode = .text(post.title)
+        let urlTitle = post.renderUrlTitle()
         let link = a([href => createPostUrl(post)], [urlTitle])
         return link
     }

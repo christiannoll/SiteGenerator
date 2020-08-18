@@ -17,6 +17,8 @@ public class Item  {
         self.id = id
     }
     
+    func renderUrlTitle() -> SmlNode {return .text(title)}
+    
     func renderPost() -> SmlNode {return .text("")}
     func renderPostInSingleMode() -> SmlNode { return renderPost() }
     
@@ -38,6 +40,11 @@ class TextPost: Item {
 class ImagePost : Item {
     var width = 250
     var height = 250
+    
+    override func renderUrlTitle() -> SmlNode {
+        let prefix = SiteGenerator.forGerman() ? "Foto: " : "Photo: "
+        return .text(prefix + title)
+    }
     
     override func renderPost() -> SmlNode {
         return smlBuilder.createImageArticle(self)
