@@ -767,4 +767,21 @@
 	<tags><t>Architecture</t></tags>
 	<serial>Bauhaus</serial>
 </item>
+<item type="text" format="normal">
+	<name>ludwig_wittgenstein_and_mental_models</name>
+	<title>Ludwig Wittgenstein</title>
+	<data>In *1918* [Ludwig Wittgenstein](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein) writes about [mental models](#2020/07/29/thinking_as_simulation_of_mental_models) in section 2.1 of his [Tractatus Logico-Philosophicus](https://en.wikipedia.org/wiki/Tractatus_Logico-Philosophicus):
+		"We make pictures of the facts. The picture is a model of reality. The elements of the picture correspond to the objects in the picture."</data>
+	<date>22.08.2020</date>
+	<index><i>Mentales Modell</i><i type="Philosoph">Ludwig Wittgenstein</i></index>
+	<tags><t>Biology</t><t>Philosophy</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>shells</name>
+	<title>two_shells</title>
+	<data>shells_small.png</data>
+	<date>26.08.2020</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
 </content>

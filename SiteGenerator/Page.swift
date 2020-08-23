@@ -138,11 +138,26 @@ class Page {
         navChildren.append(newLine)
         
         var pChildren2: [SmlNode] = []
+        let rss = a([href => (Page.baseUrl + (SiteGenerator.forGerman() ? "xml/rss.xml" : "en/xml/rss.xml"))], ["RSS"])
+        pChildren2.append(rss)
+
+        pChildren2.append(.text(" • "))
+        pChildren2.append(newLine)
+        pChildren2.append(tab)
+        
         let impressum = a([href => (Page.baseUrl + "impressum")], [SiteGenerator.forGerman() ? "Impressum" : "Contact"])
         pChildren2.append(impressum)
         
         let para2 = p(pChildren2)
         navChildren.append(para2)
+        navChildren.append(newLine)
+        
+        var pChildren3: [SmlNode] = []
+        let lang = a([href => (Page.baseUrl + (SiteGenerator.forGerman() ? "en" : ""))], [SiteGenerator.forGerman() ? "English" : "Deutsch"])
+        pChildren3.append(lang)
+        
+        let para3 = p(pChildren3)
+        navChildren.append(para3)
         navChildren.append(newLine)
         
         let n = nav(navChildren)
