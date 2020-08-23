@@ -138,7 +138,7 @@ class Page {
         navChildren.append(newLine)
         
         var pChildren2: [SmlNode] = []
-        let rss = a([href => (Page.baseUrl + (SiteGenerator.forGerman() ? "xml/rss.xml" : "en/xml/rss.xml"))], ["RSS"])
+        let rss = a([href => (Page.baseUrl + "xml/rss.xml")], ["RSS"])
         pChildren2.append(rss)
 
         pChildren2.append(.text(" • "))
@@ -153,7 +153,9 @@ class Page {
         navChildren.append(newLine)
         
         var pChildren3: [SmlNode] = []
-        let lang = a([href => (Page.baseUrl + (SiteGenerator.forGerman() ? "en" : ""))], [SiteGenerator.forGerman() ? "English" : "Deutsch"])
+        let germanLang = a([href => (Page.baseRootUrl)], ["German"])
+        let englishLang = a([href => (Page.baseUrl + "en")], ["English"])
+        let lang = SiteGenerator.forGerman() ? englishLang : germanLang
         pChildren3.append(lang)
         
         let para3 = p(pChildren3)
