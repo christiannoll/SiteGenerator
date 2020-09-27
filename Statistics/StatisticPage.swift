@@ -21,22 +21,22 @@ class StatisticPage : Page {
     
     private func createData() -> SmlNode {
         var pChildren: [SmlNode] = []
-        pChildren.append(.text(SiteGenerator.forGerman() ? "Anzahl an Posts: " : "Number of posts: " + String(data.numberOfPosts)))
+        pChildren.append(.text((SiteGenerator.forGerman() ? "Anzahl an Posts: " : "Number of posts: ") + String(data.numberOfPosts)))
         pChildren.append(br())
-        pChildren.append(.text(SiteGenerator.forGerman() ? "Anzahl davon Fotos: " : "Including number of photos: " + String(data.numberOfPhotos)))
+        pChildren.append(.text((SiteGenerator.forGerman() ? "Anzahl davon Fotos: " : "Including number of photos: ") + String(data.numberOfPhotos)))
         pChildren.append(br())
         pChildren.append(.text("Index: " + String(data.numberOfIndexItems)))
         pChildren.append(br())
-        pChildren.append(.text(SiteGenerator.forGerman() ? "Kategorien: " : "Tags: " + String(data.numberOfTagItems)))
+        pChildren.append(.text((SiteGenerator.forGerman() ? "Kategorien: " : "Tags: ") + String(data.numberOfTagItems)))
         pChildren.append(br())
-        pChildren.append(.text(SiteGenerator.forGerman() ? "Serien: " : "Serials: " + String(data.numberOfSerialItems)))
+        pChildren.append(.text((SiteGenerator.forGerman() ? "Serien: " : "Serials: ") + String(data.numberOfSerialItems)))
         pChildren.append(br())
         pChildren.append(.text("Links: " + String(data.numberOfAllLinks)))
         pChildren.append(br())
         pChildren.append(br())
-        pChildren.append(.text(SiteGenerator.forGerman() ? "Durchschnittliche Anzahl an Links: " : "Average number of links: " + String(data.meanNumberOfLinks)))
+        pChildren.append(.text((SiteGenerator.forGerman() ? "Durchschnittliche Anzahl an Links: " : "Average number of links: ") + String(data.meanNumberOfLinks)))
         pChildren.append(br())
-        pChildren.append(.text(SiteGenerator.forGerman() ? "Durchschnittliche Anzahl an Wörtern: " : "Average number of words: " + String(data.meanNumberOfWords)))
+        pChildren.append(.text((SiteGenerator.forGerman() ? "Durchschnittliche Anzahl an Wörtern: " : "Average number of words: ") + String(data.meanNumberOfWords)))
         pChildren.append(br())
         
         return p(pChildren)

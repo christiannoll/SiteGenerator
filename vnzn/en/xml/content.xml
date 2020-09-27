@@ -784,4 +784,78 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>memento_mori</name>
+	<title>Memento Mori</title>
+	<data>[Confucius](https://en.wikipedia.org/wiki/Confucius): "We have two lives, and the second begins when we realize we only have one."</data>
+	<date>30.08.2020</date>
+	<index><i>Memento Mori</i></index>
+	<tags><t>General</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>hannah_arendt_on_eichmann</name>
+	<title>Hannah Arendt on Eichmann</title>
+	<data>In a radio broadcast with [Joachim Fest](https://en.wikipedia.org/wiki/Joachim_Fest) on November 9, *1964*, [Hannah Arendt](https://en.wikipedia.org/wiki/Hannah_Arendt) answered the question of whether [Eichmann](https://en.wikipedia.org/wiki/Adolf_Eichmann) had really made the [Kant](https://en.wikipedia.org/wiki/Immanuel_Kant) concept of duty his guiding principle, as Eichmann claimed several times:
+	"According to Kant, no man has the right to obey."</data>
+	<date>03.09.2020</date>
+	<index><i type="Philosoph">Hannah Ahrendt</i></index>
+	<tags><t>Philosophy</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>striped_face</name>
+	<title>striped face</title>
+	<data>striped_face_small.png</data>
+	<date>07.09.2020</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>beetoven_nr_29_hammerklavier</name>
+	<title>Beethovens "Hammerklaviersonate"</title>
+	<data>The [Piano Sonata No. 29 in B flat major op. 106](https://en.wikipedia.org/wiki/Piano_Sonata_No._29_(Beethoven)), also known as the "Hammerklavier Sonata", finished in *1818*, is a central element in [Ludwig van Beethoven's](https://en.wikipedia.org/wiki/Ludwig_van_Beethoven) late work.
+	The composition was created during a very difficult period in Beethoven's life. In addition to his advanced deafness, he was plagued by personal and financial problems.
+	During this time Beethoven was musically occupied with the baroque [fugue](https://en.wikipedia.org/wiki/Fugue), which is also reflected in the [contrapuntal](https://en.wikipedia.org/wiki/Counterpoint) style of the piano sonata. The fortepiano sonata is still considered technically and intellectually challenging today, both for the performer and the listener.</data>
+	<date>11.09.2020</date>
+	<index><i type="Komponist">Ludwig van Beethoven</i></index>
+	<tags><t>Music</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>thomas_mann_ueber_proust</name>
+	<title>Thomas Mann about Marcel Proust</title>
+	<data>From "Diaries 1937-1939" by [Thomas Mann](https://en.wikipedia.org/wiki/Thomas_Mann) on  am *18.01.1938*:
+		"... In the evening before going to sleep [Proust](https://en.wikipedia.org/wiki/Marcel_Proust) reading. Admiration for his wealth of words and knowledge, art-historical, biological, botanical. Compare Homeric on a modern level. The winged beetle, which, in order to create fresh flesh for its young for the time after its death, pierces spiders and other insects exactly in the motor center, so that they are alife but immobile. The naive, self-evident, calm and silent cruelty and baseness of nature. At the same time occult in the accuracy of knowledge and skill in the service of species preservation."</data>
+	<date>15.09.2020</date>
+	<index><i type="Person">Thomas Mann</i><i type="Person">Marcel Proust</i></index>
+	<tags><t>Literature</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>horse</name>
+	<title>Horse</title>
+	<data>horse_small.png</data>
+	<date>19.09.2020</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="randomWordColor">
+	<name>are_you_experienced</name>
+	<title>Jimi Hendrix Experience: Are You Experienced</title>
+	<data>Purple Haze / Manic Depression / Hey Joe (Billy Roberts) / Love or Confusion / May This Be Love / I Don’t Live Today / The Wind Cries Mary / Fire / Third Stone from the Sun / Foxey Lady  / [Are You Experienced](https://en.wikipedia.org/wiki/Are_You_Experienced)</data>
+	<date>23.09.2020</date>
+	<index><i type="Musiker">Jimi Hendrix</i></index>
+	<tags><t>Music</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>comlexity_in_swift</name>
+	<title>Complexity in the  Swift programming language</title>
+	<data>[Chris Lattner](https://en.wikipedia.org/wiki/Chris_Lattner), the chief architect of the [Swift](https://en.wikipedia.org/wiki/Swift_(programming_language)) programming language, which was introduced in *2014*, repeatedly points out that Swift was intentionally designed to allow a [progressive disclosure](https://en.wikipedia.org/wiki/Progressive_disclosure) of complexity.
+	Swift is a multiparadigmatic language that supports many features of a modern programming language, such as [classes](https://en.wikipedia.org/wiki/Class_(computer_programming)), [inheritance](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming)), [closures](https://en.wikipedia.org/wiki/Closure_(computer_programming)), [type inference](https://en.wikipedia.org/wiki/Type_inference), [higher order functions](https://en.wikipedia.org/wiki/Higher-order_function), [generic types](https://en.wikipedia.org/wiki/Generic_programming) and [namespaces](https://en.wikipedia.org/wiki/Namespace), and multiple return types and values.
+	But to write a program in Swift as a beginner, it is not necessary to know all concepts and mechanisms of the language. Rather, the programmer can use simple language concepts in the beginning and only when these are no longer sufficient to realize his ideas, he starts to learn more complex language features.
+	That the progressive disclosure of complexity is an essential design goal of the language can be seen very well in the following executable program.
+	`print("hello Swift")`
+	</data>
+	<date>27.09.2020</date>
+	<index><i type="Person">Chris Lattner</i><i>Complexity</i></index>
+	<tags><t>Computer science</t></tags>
+	<serial>Complexity</serial>
+</item>
 </content>

@@ -785,4 +785,78 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>memento_mori</name>
+	<title>Memento Mori</title>
+	<data>[Konfuzius](https://de.wikipedia.org/wiki/Konfuzius): "Wir alle haben zwei Leben. Das Zweite startet, wenn Du realisierst, dass Du nur eines hast."</data>
+	<date>30.08.2020</date>
+	<index><i>Memento Mori</i></index>
+	<tags><t>Allgemein</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>hannah_arendt_on_eichmann</name>
+	<title>Hannah Arendt über Eichmann</title>
+	<data>In einer Rundfunksendung mit [Joachim Fest](https://de.wikipedia.org/wiki/Joachim_Fest) vom 9. November *1964* antwortete [Hannah Arendt](https://de.wikipedia.org/wiki/Hannah_Arendt) auf die Frage, ob [Eichmann](https://de.wikipedia.org/wiki/Adolf_Eichmann) wirklich den Kantischen Pflichtbegriff zu seiner Richtschnur gemacht habe, wie Eichmann mehrfach von sich behauptete:
+	"Kein Mensch hat bei [Kant](https://de.wikipedia.org/wiki/Immanuel_Kant) das Recht zu gehorchen."</data>
+	<date>03.09.2020</date>
+	<index><i type="Philosoph">Hannah Ahrendt</i></index>
+	<tags><t>Philosophie</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>striped_face</name>
+	<title>striped face</title>
+	<data>striped_face_small.png</data>
+	<date>07.09.2020</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>beetoven_nr_29_hammerklavier</name>
+	<title>Beethovens "Hammerklaviersonate"</title>
+	<data>Die *1818* entstandene [Klaviersonate Nr. 29 B-Dur op. 106](https://de.wikipedia.org/wiki/Klaviersonate_Nr._29_(Beethoven)), auch „Hammerklaviersonate“ genannt, ist ein zentrales Element in [Ludwig van Beethovens](https://de.wikipedia.org/wiki/Ludwig_van_Beethoven) Spätwerk.
+	Das Werk entstand in einer sehr schwierigen Lebensperiode für Beethoven. Zusätzlich zu seiner weit fortgeschrittenen Ertaubung wurde er von persönlichen und finanziellen Nöten geplagt.
+	Musikalisch beschäftigte sich Beethoven in dieser Zeit intensiv mit der barocken [Fuge](https://de.wikipedia.org/wiki/Fuge_(Musik)) was sich auch im [kontrapunktischen](https://de.wikipedia.org/wiki/Kontrapunkt) Stil der Klaviersonate widerspiegelt. Die Hammerklaviersonate gilt auch heute noch als technisch und geistig herausfordernd, sowohl für den Interpreten als auch den Zuhörer.</data>
+	<date>11.09.2020</date>
+	<index><i type="Komponist">Ludwig van Beethoven</i></index>
+	<tags><t>Musik</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>thomas_mann_ueber_proust</name>
+	<title>Thomas Mann über Marcel Proust</title>
+	<data>Aus "Tagebücher 1937-1939" von [Thomas Mann](https://de.wikipedia.org/wiki/Thomas_Mann) am *18.01.1938*:
+		"... Abends vor Einschlafen [Proust](https://de.wikipedia.org/wiki/Marcel_Proust)-Lektüre. Bewunderung für seinen Reichtum an Worten und Kenntnissen, kunsthistorisch, biologisch, botanisch. Vergleiche homerisch auf moderner Stufe. Der Flügelkäfer, der, um seinen Jungen für die Zeit nach seinem Tode frisches Fleisch zu schaffen, Spinnen und anderen Insekten genau das motorische Zentrum durchbohrt, sodaß sie lebend-unbeweglich sind. Die naive, selbstverständliche, ruhige und stumme Grausamkeit und Niedertracht der Natur. Dabei okkult in der Genauigkeit des Wissens und Könnens im Dienst der Art-Erhaltung."</data>
+	<date>15.09.2020</date>
+	<index><i type="Person">Thomas Mann</i><i type="Person">Marcel Proust</i></index>
+	<tags><t>Literatur</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>horse</name>
+	<title>Horse</title>
+	<data>horse_small.png</data>
+	<date>19.09.2020</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
+<item type="text" format="randomWordColor">
+	<name>are_you_experienced</name>
+	<title>Jimi Hendrix Experience: Are You Experienced</title>
+	<data>Purple Haze / Manic Depression / Hey Joe (Billy Roberts) / Love or Confusion / May This Be Love / I Don’t Live Today / The Wind Cries Mary / Fire / Third Stone from the Sun / Foxey Lady  / [Are You Experienced](https://de.wikipedia.org/wiki/Are_You_Experienced)</data>
+	<date>23.09.2020</date>
+	<index><i type="Musiker">Jimi Hendrix</i></index>
+	<tags><t>Musik</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>comlexity_in_swift</name>
+	<title>Komplexität in der Programmiersprache Swift</title>
+	<data>Der Chefarchitekt der *2014* vorgestellten Programmiersprache Swift, [Chris Lattner](https://de.wikipedia.org/wiki/Chris_Lattner), weist immer wieder darauf hin, dass [Swift](https://de.wikipedia.org/wiki/Swift_(Programmiersprache)) absichtlich so konzipiert wurde, dass eine schrittweise Offenlegung der Komplexität (progressive disclosure of complexity) möglich ist.
+	Swift ist eine multiparadigmatische Sprache, die sehr viele Features einer modernen Programmiersprache, wie [Klassen](https://de.wikipedia.org/wiki/Klasse_(Objektorientierung)), [Vererbung](https://de.wikipedia.org/wiki/Vererbung_(Programmierung)), [Closures](https://de.wikipedia.org/wiki/Closure_(Funktion)), [Typinferenz](https://de.wikipedia.org/wiki/Typinferenz), [Funktionen höherer Ordnung](https://de.wikipedia.org/wiki/Funktion_h%C3%B6herer_Ordnung), [generische Typen](https://de.wikipedia.org/wiki/Generischer_Typ) und [Namensräume](https://de.wikipedia.org/wiki/Namensraum) sowie multiple Rückgabetypen und -werte, unterstützt.
+	Um als Anfänger ein Programm in Swift zu schreiben, ist es aber gar nicht notwendig alle Konzepte und Mechanismen der Sprache zu beherrschen. Vielmehr kann der Programmierer am Anfang einfache Sprachkonzepte verwenden und erst wenn diese nicht mehr genügen, um seine Ideen umzusetzen, beginnen sich in komplexere Sprachfeatures einzuarbeiten.
+	Das die schrittweise Offenlegung der Komplexität ein wesentliches Designziel der Sprache ist, kann man sehr gut an dem folgenden lauffähigen Programm sehen.
+	`print("hello Swift")`
+	</data>
+	<date>27.09.2020</date>
+	<index><i type="Person">Chris Lattner</i><i>Komplexität</i></index>
+	<tags><t>Informatik</t></tags>
+	<serial>Komplexität</serial>
+</item>
 </content>
