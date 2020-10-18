@@ -859,4 +859,61 @@
 	<tags><t>Informatik</t></tags>
 	<serial>Komplexität</serial>
 </item>
+<item type="image" height="200" width="200">
+	<name>two_faces</name>
+	<title>Two Faces</title>
+	<data>two_faces_small.png</data>
+	<date>01.10.2020</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>2001_rhythmus</name>
+	<title>2001: Odyssee im Weltraum: Rhythmus</title>
+	<data>Raumschiffe die sich scheinbar zu Walzerklängen im Weltall bewegen, Menschenaffen die aufgeregt kreischend um einen Monolithen hüpfen, die zeitlupenartigen Bewegungen der Besatzung im Raumschiff, Monitore die rhythmisch Signale visualisieren, das laute Atmen der Astronauten beim Außeneinsatz, HALs langsames und verzögertes Verstummen, Farbexplosionen und vorbeifliegende imaginierte Landschaften, das alles ist eine ausgefeilte Choreographie aus Musik, Klängen, Stille, Bewegungen und Bildern, die den Rhythmus des Films bestimmen, dem man sich als Zuschauer hingeben muss, um den [Film](https://de.wikipedia.org/wiki/2001:_Odyssee_im_Weltraum) genießen zu können.</data>
+	<date>05.10.2020</date>
+	<index><i type="Movie">2001: Odyssee im Weltraum</i><i type="Person">Stanley Kubrick</i><i>Rhythmus</i></index>
+	<tags><t>Film</t></tags>
+	<serial>2001: Odyssee im Weltraum</serial>
+</item>
+<item type="text" format="normal">
+	<name>kolmogorov_complexity</name>
+	<title>Kolmogorow-Komplexität</title>
+	<data>Der Begriff der Komplexität wird je nach Wissenschaftsgebiet oft unterschiedlich definiert. *1965* schlug der russische Mathematiker [Andrei Kolmogorow](https://de.wikipedia.org/wiki/Andrei_Nikolajewitsch_Kolmogorow) vor, die [Komplexität](https://de.wikipedia.org/wiki/Kolmogorow-Komplexit%C3%A4t) einer Kette von Symbolen, durch die Länge des kürzesten [Algorithmus](https://de.wikipedia.org/wiki/Algorithmus), der zu ihrer Erzeugung notwendig ist, anzugeben.
+	Das kann man sich gut an der Aufgabe, sich ein zwölfstelliges Passwort zu merken, verdeutlichen. Es ist für einen Menschen viel einfacher sich die Zeichenfolge `111111111111` als die Zeichenfolge `5x1bfz42rq7s` einzuprägen. Während das erste zu "zwölf Einsen" komprimiert werden kann, ist die einzige Möglichkeit, das zweite zu beschreiben, dies Zeichen für Zeichen zu tun.
+	</data>
+	<date>09.10.2020</date>
+	<index><i type="Person">Andrei Kolmogorow</i><i>Komplexität</i></index>
+	<tags><t>Informatik</t><t>Mathematik</t></tags>
+	<serial>Komplexität</serial>
+</item>
+<item type="image" height="200" width="200">
+	<name>dwarf</name>
+	<title>Dwarf</title>
+	<data>dwarf_small.png</data>
+	<date>13.10.2020</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>bauhaus_anni_albers</name>
+	<title>bauhaus: anni albers</title>
+	<data>[anni albers](https://de.wikipedia.org/wiki/Anni_Albers), die als annelise fleischmann *1899* in eine großbürgerliche berliner familie geboren wurde, wollte eigentlich malerin werden. nach einer dreijährigen akademischen ausbildung an der [kunstgewerbeschule](https://de.wikipedia.org/wiki/Hochschule_f%C3%BCr_bildende_K%C3%BCnste_Hamburg) in hamburg, nahm sie *1922* ein studium am staatlichen [bauhaus](https://de.wikipedia.org/wiki/Bauhaus) in weimar auf. dort begann sie *1923*, nach einem einjährigen vorkurs, der unter anderen von ihrem späteren mann [josef albers](https://de.wikipedia.org/wiki/Josef_Albers) geleitet wurde, eine ausbildung in der werkstatt der weberei.
+	hier am webstuhl fand anni albers die freiheit ihre künstlerischen ideen zu entwickeln. ihre textilkunst changiert, den idealen des bauhaus verpflichtet, zwischen kunst und handwerk, zwischen vollwertigem künstlerischem ausdruck und nützlichen aspekten der stoffproduktion und des designs. als die leiterin der webereiwerkstatt, [gunta stölzl](https://de.wikipedia.org/wiki/Gunta_St%C3%B6lzl), *1931* das bauhaus verließ, übernahm anni albers die leitung der werkstatt und wurde eine der wenigen weiblichen werkstattleiter am bauhaus.
+	nach der machtergreifung der nazis *1933* emigrierte anni albers zusammen mit ihrem mann in die usa, wo sie ab *1939* an der berühmten kunsthochschule [black mountain college](https://de.wikipedia.org/wiki/Black_Mountain_College) in north carolina lehrte. 
+	*1949* zogen die albers nach connecticut und im gleichen jahr wurde anni albers die erste textilkünstlerin, der das new yorker [museum of modern art](https://de.wikipedia.org/wiki/Museum_of_Modern_Art) eine einzelausstellung widmete. bis zu ihrem tod *1994* setzte sie sich mit den möglichkeiten und grenzen des mediums textil und der abstraktion auseinander.</data>
+	<date>17.10.2020</date>
+	<index><i type="Person">Anni Albers</i><i>Bauhaus</i></index>
+	<tags><t>Kunst</t></tags>
+	<serial>Bauhaus</serial>
+</item>
+<item type="text" format="randomLinkColor">
+	<name>rohe_buildings</name>
+	<title>Bauten von Ludwig Mies van der Rohe</title>
+	<data>*1927* [Weißenhofsiedlung](https://de.wikipedia.org/wiki/Wei%C3%9Fenhofsiedlung) in Stuttgart / *1928* [Haus Lange und Haus Esters](https://de.wikipedia.org/wiki/Krefeld#Haus_Lange/Haus_Esters) in Krefeld / *1929* [Barcelona-Pavillon](https://de.wikipedia.org/wiki/Barcelona-Pavillon) auf der Weltausstellung in Barcelona / *1930* [Villa Tugendhat](https://de.wikipedia.org/wiki/Villa_Tugendhat) in Brünn (Brno) / *1939* - *1958* [Illinois Institute of Technology](https://de.wikipedia.org/wiki/Illinois_Institute_of_Technology) in Chicago (Illinois) / *1951* [Farnsworth House](https://de.wikipedia.org/wiki/Farnsworth_House) in Plano (Illinois) / *1951* [Lake Shore Drive Apartments](https://de.wikipedia.org/wiki/860%E2%80%93880_Lake_Shore_Drive_Apartments) in Chicago (Illinois) / *1958* [Seagram Building](https://de.wikipedia.org/wiki/Seagram_Building) in New York City / *1967* [Neue Nationalgalerie](https://de.wikipedia.org/wiki/Neue_Nationalgalerie) in Berlin / *1969* [Toronto-Dominion Centre](https://de.wikipedia.org/wiki/Toronto-Dominion_Centre) in Toronto / *1972* [Martin Luther King Jr. Memorial Library](https://de.wikipedia.org/wiki/Martin_Luther_King_Jr._Memorial_Library) in Washington, D.C.</data>
+	<date>21.10.2020</date>
+	<index><i type="Person">Ludwig Mies van der Rohe</i></index>
+	<tags><t>Architektur</t></tags>
+	<serial>Komplexität</serial>
+</item>
 </content>

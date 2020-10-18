@@ -15,8 +15,10 @@ class PostBuilder {
     public func createTextArticle(_ item: TextPost) -> SmlNode {
         let postTitle = createPostTitle(item)
         
-        let elements = formatBuilder.parse(MarkdownParser.parse(text: item.data), item)
-        parseLinks(item, elements)
+        let nodes = MarkdownParser.parse(text: item.data)
+        parseLinks(item, nodes)
+        
+        let elements = formatBuilder.parse(nodes, item)
         
         let postBody = createTextPostBody(elements)
         

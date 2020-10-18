@@ -858,4 +858,51 @@
 	<tags><t>Computer science</t></tags>
 	<serial>Complexity</serial>
 </item>
+<item type="image" height="200" width="200">
+	<name>two_faces</name>
+	<title>Two Faces</title>
+	<data>two_faces_small.png</data>
+	<date>01.10.2020</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>2001_rhythmus</name>
+	<title>2001: A Space Odyssey: Rhythm</title>
+	<data>Spaceships that seemingly move to waltz sounds in space, apes that jump excitedly screeching around a monolith, the slow-motion-like movements of the crew in the spaceship, monitors that visualize rhythmic signals, the loud breathing of the astronauts during their outdoor missions, HAL's slow and delayed silence, color explosions and passing imaginary landscapes, all this is a sophisticated choreography of music, sounds, silence, movements and images that determine the rhythm of the [film](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film)), to which the viewer must surrender in order to enjoy the film.</data>
+	<date>05.10.2020</date>
+	<index><i type="Movie">2001: A Space Odyssey</i><i type="Person">Stanley Kubrick</i><i>Rhythm</i></index>
+	<tags><t>Movie</t></tags>
+	<serial>2001: A Space Odyssey</serial>
+</item>
+<item type="text" format="normal">
+	<name>kolmogorov_complexity</name>
+	<title>Kolmogorov complexity</title>
+	<data>The concept of complexity is often defined differently depending on the scientific field. In *1965*, the Russian mathematician [Andrei Kolmogorov](https://en.wikipedia.org/wiki/Andrey_Kolmogorov) proposed to indicate the [complexity](https://en.wikipedia.org/wiki/Kolmogorov_complexity) of a chain of symbols by the length of the shortest [algorithm](https://en.wikipedia.org/wiki/Algorithm) necessary to generate it.
+	This is well illustrated by the task of remembering a twelve-digit password. It is much easier for a human being to remember the string `111111111111` than the string `5x1bfz42rq7s`. While the first can be compressed to "twelve ones", the only way to describe the second is to do this character by character.</data>
+	<date>09.10.2020</date>
+	<index><i type="Person">Andrei Kolmogorov</i><i>Complexity</i></index>
+	<tags><t>Computer science</t><t>Mathematics</t></tags>
+	<serial>Complexity</serial>
+</item>
+<item type="image" height="200" width="200">
+	<name>dwarf</name>
+	<title>Dwarf</title>
+	<data>dwarf_small.png</data>
+	<date>13.10.2020</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>bauhaus_anni_albers</name>
+	<title>bauhaus: anni albers</title>
+	<data>[anni albers](https://en.wikipedia.org/wiki/Anni_Albers), who was born as annelise fleischmann in 1899 into an upper middle-class berlin family, actually wanted to become a painter. after a three-year academic education at the [school of arts and crafts](https://en.wikipedia.org/wiki/University_of_Fine_Arts_of_Hamburg) in hamburg, she began studying at the state [bauhaus](https://en.wikipedia.org/wiki/Bauhaus) in weimar in 1922. there, in 1923, after a one-year preliminary course led among others by her later husband [josef albers](https://en.wikipedia.org/wiki/Josef_Albers), she began training in the weaving workshop.
+	it was here at the loom that anni albers found the freedom to develop her artistic ideas. her textile art, committed to the ideals of the bauhaus, oscillates between art and craft, between fully-fledged artistic expression and useful aspects of fabric production and design. when the head of the weaving workshop, [gunta stölzl](https://en.wikipedia.org/wiki/Gunta_St%C3%B6lzl), left the bauhaus in 1931, anni albers took over as head of the workshop and became one of the few female workshop heads at the bauhaus.
+	after the nazis seized power in 1933, anni albers emigrated with her husband to the usa, where she taught at the famous [black mountain college of art](https://en.wikipedia.org/wiki/Black_Mountain_College) in north carolina from 1939.
+	in 1949 the albers moved to connecticut and in the same year anni albers became the first textile artist to whom the new york [museum of modern art](https://en.wikipedia.org/wiki/Museum_of_Modern_Art) dedicated a solo exhibition. until her death in 1994 she explored the possibilities and limits of the medium textile and abstraction.</data>
+	<date>17.10.2020</date>
+	<index><i type="Person">Anni Albers</i><i>Bauhaus</i></index>
+	<tags><t>Art</t></tags>
+	<serial>Bauhaus</serial>
+</item>
 </content>
