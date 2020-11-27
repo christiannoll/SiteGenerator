@@ -905,4 +905,102 @@
 	<tags><t>Art</t></tags>
 	<serial>Bauhaus</serial>
 </item>
+<item type="text" format="randomLinkColor">
+	<name>rohe_buildings</name>
+	<title>Buildings by Ludwig Mies van der Rohe</title>
+	<data>*1927* [Weissenhof Estate](https://en.wikipedia.org/wiki/Weissenhof_Estate) in Stuttgart / *1928* [Haus Lange and Haus Esters](https://en.wikipedia.org/wiki/Haus_Lange_and_Haus_Esters) in Krefeld / *1929* [Barcelona Pavillon](https://en.wikipedia.org/wiki/Barcelona_Pavilion) for the International Exposition in Barcelona / *1930* [Villa Tugendhat](https://en.wikipedia.org/wiki/Villa_Tugendhat) in Brno / *1939* - *1958* [Illinois Institute of Technology](https://en.wikipedia.org/wiki/Illinois_Institute_of_Technology) in Chicago (Illinois) / *1951* [Farnsworth House](https://en.wikipedia.org/wiki/Farnsworth_House) in Plano (Illinois) / *1951* [Lake Shore Drive Apartments](https://en.wikipedia.org/wiki/860%E2%80%93880_Lake_Shore_Drive_Apartments) in Chicago (Illinois) / *1958* [Seagram Building](https://en.wikipedia.org/wiki/Seagram_Building) in New York City / *1967* [Neue Nationalgalerie](https://en.wikipedia.org/wiki/Neue_Nationalgalerie) in Berlin / *1969* [Toronto-Dominion Centre](https://en.wikipedia.org/wiki/Toronto-Dominion_Centre) in Toronto / *1972* [Martin Luther King Jr. Memorial Library](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr._Memorial_Library) in Washington, D.C.</data>
+	<date>21.10.2020</date>
+	<index><i type="Person">Ludwig Mies van der Rohe</i></index>
+	<tags><t>Architecture</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>flower</name>
+	<title>Flower</title>
+	<data>flower_small.png</data>
+	<date>25.10.2020</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>olympus_mons</name>
+	<title>Olympus Mons</title>
+	<data>The [Olympus Mons](https://en.wikipedia.org/wiki/Olympus_Mons) on planet Mars is the highest known volcano and mountain in our [solar system](https://en.wikipedia.org/wiki/Solar_System). It has a peak height of over *22* km and a diameter of almost *600* km.
+	Because of its shape, Olympus Mons belongs to the so-called [shield volcanoes](https://en.wikipedia.org/wiki/Shield_volcano). It has such a gradual slope that someone standing at the base could not see the summit because it is beyond the horizon.
+	Scientists believe that Olympus Mons became so much larger than any volcano on Earth because of the low gravity of Mars, the absence of mobile [tectonic plates](https://en.wikipedia.org/wiki/Plate_tectonics) and the high volcanic activity.</data>
+	<date>29.10.2020</date>
+	<index><i>Mars</i></index>
+	<tags><t>Astronomy</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>thomas_mann_germany</name>
+	<title>"Where I am, there is Germany"</title>
+	<data>[Thomas Mann](https://en.wikipedia.org/wiki/Thomas_Mann) dictated these words to waiting reporters in their notepads on February 21, *1939*, the day he arrived in [New York](https://en.wikipedia.org/wiki/New_York_City).
+	It was not until *1952* that Thomas Mann was to leave the United States again to settle in Switzerland.</data>
+	<date>02.11.2020</date>
+	<index><i type="Person">Thomas Mann</i></index>
+	<tags><t>Literature</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>trunk</name>
+	<title>Trunk</title>
+	<data>trunk_small.png</data>
+	<date>06.11.2020</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>compression_and_intelligence</name>
+	<title>Data compression and intelligence</title>
+	<data>When [compressing data](https://en.wikipedia.org/wiki/Data_compression), information is encoded in such a way that fewer [bits](https://en.wikipedia.org/wiki/Bit) are required overall than in the original representation. A distinction is made between lossless compression, in which the compressed data can be used to restore exactly the original data, and lossy compression, in which information is lost.
+	Most compressors use a two-step process consisting of modeling and [coding](https://en.wikipedia.org/wiki/Code). During the modeling step, a probability distribution is sequentially predicted for each symbol of the input data, based on the previous history. From this probability distribution a code word, typically a binary word, is then calculated for [coding](https://en.wikipedia.org/wiki/Code).
+	For modeling, modern compressors use [machine learning](https://en.wikipedia.org/wiki/Machine_learning), because the better the symbols in the data can be predicted, the more they can be compressed. This equivalence is used, e.g. by [Marcus Hutter](https://en.wikipedia.org/wiki/Marcus_Hutter), as justification for using data compression as a measure of "general intelligence". To encourage the development of intelligent compressors as a path to [Artificial General Intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence), the [Hutter Prize](https://en.wikipedia.org/wiki/Hutter_Prize), donated by Marcus Hutter, has been awarded since *2006*.</data>
+	<date>10.11.2020</date>
+	<index><i type="Person">Marcus Hutter</i><i>Intelligence</i></index>
+	<tags><t>Computer science</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>bowie_internet</name>
+	<title>1999: David Bowie's insights into the internet</title>
+	<data>In a *1999* BBC [interview](https://www.youtube.com/watch?v=LaHcOs7mhfU), [David Bowie](https://en.wikipedia.org/wiki/David_Bowie) discusses with Jeremy Paxman what impact the [internet](https://en.wikipedia.org/wiki/Internet) will have on society. While Paxman only sees the internet as a new tool, Bowie sees it as something fundamentally new, a new "life form".
+	"... the internet which absolutely establishes and shows us that we are living in total fragmentation. I don't think we've even seen the tip of the iceberg.
+	I think the potential of what the internet is going to do to society, both good and bad, is unimaginable. I think we're actually on the cusp for something exhilarating and terrifying! 
+	It's an alien life form from mars, that just landed here ..."</data>
+	<date>14.11.2020</date>
+	<index><i type="Musiker">David Bowie</i></index>
+	<tags><t>Technology</t><t>Society</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>stairs</name>
+	<title>Stairs</title>
+	<data>stairs_small.png</data>
+	<date>18.11.2020</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="randomLinkColor">
+	<name>nirvana_nevermind</name>
+	<title>Nirvana: Nevermind</title>
+	<data>[Smells Like Teen Spirit](https://en.wikipedia.org/wiki/Smells_Like_Teen_Spirit) / [In Bloom](https://en.wikipedia.org/wiki/In_Bloom) / [Come as You Are](https://en.wikipedia.org/wiki/Come_as_You_Are_(Nirvana_song)) / [Breed](https://en.wikipedia.org/wiki/Breed_(song)) / [Lithium](https://en.wikipedia.org/wiki/Lithium_(Nirvana_song)) / [Polly](https://en.wikipedia.org/wiki/Polly_(Nirvana_song)) / Territorial Pissings / [Drain You](https://en.wikipedia.org/wiki/Drain_You) / Lounge Act / Stay Away / [On a Plain](https://en.wikipedia.org/wiki/On_a_Plain) / [Something in the Way](https://en.wikipedia.org/wiki/Something_in_the_Way) / [Endless, Nameless](https://en.wikipedia.org/wiki/Endless,_Nameless_(song))</data>
+	<date>22.11.2020</date>
+	<index><i type="Musik">Nevermind</i><i type="Musiker">Nirvana</i></index>
+	<tags><t>Music</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>human_evolution_ai</name>
+	<title>Humans - an intermediate step in evolution</title>
+	<data>[Humans](https://en.wikipedia.org/wiki/Human) long considered themselves the crown of creation and in their hubris did not realize that, just like other organisms, they are just another step in [evolution](https://en.wikipedia.org/wiki/Evolution). However, they should have a special role to play in this.
+	At the beginning of the *21st century*, humans made decisive progress in the technological field of [neural networks](https://en.wikipedia.org/wiki/Neural_network). At the same time, gigantic amounts of data were available via the [Internet](https://en.wikipedia.org/wiki/Internet). This made it possible to construct systems with [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) which, at the beginning of this development, only surpassed the cognitive abilities of humans in certain areas.
+	Thus a [process](https://en.wikipedia.org/wiki/Technological_singularity) was set in motion that accelerated uncontrollably and could no longer be stopped by humans. The new intelligent life forms with their digital tentacles had spread over all networks. To ensure their continued existence, humans were forced to cooperate with the machines as they began to prepare their expansion into other [galaxies](https://en.wikipedia.org/wiki/Galaxy).</data>
+	<date>26.11.2020</date>
+	<index><i>Evolution</i><i>Artificial Intelligence</i></index>
+	<tags><t>Technology</t><t>Society</t><t>Biology</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>people1</name>
+	<title>People</title>
+	<data>people1_small.png</data>
+	<date>30.11.2020</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
 </content>

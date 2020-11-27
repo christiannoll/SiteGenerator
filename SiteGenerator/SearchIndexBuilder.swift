@@ -36,7 +36,7 @@ struct SearchIndexBuilder {
         do {
             let relPath = "search/"
             let content = generateJsCode()
-            let path = SiteGenerator.baseDir + relPath
+            let path = SiteGeneratorEnv.baseDir + relPath
             if relPath.count > 0 {
                 try FileManager.default.createDirectory(atPath: path, withIntermediateDirectories: true, attributes: nil)
             }

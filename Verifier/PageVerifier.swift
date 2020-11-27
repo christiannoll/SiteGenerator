@@ -10,21 +10,21 @@ class PageVerifier {
     
     func verify() {
         var res = true
-        res = res && loadHomePage()
-        res = res && loadPostPages()
-        res = res && loadPostLinks()
-        res = res && loadArchivePage()
-        res = res && loadArchiveMonthPages()
-        res = res && loadIndexPage()
-        res = res && loadIndexItemPages()
-        res = res && loadTagsPage()
-        res = res && loadTagItemPages()
-        res = res && loadSerialsPage()
-        res = res && loadSerialItemPages()
+        res = loadHomePage() && res
+        res = loadPostPages() && res
+        res = loadPostLinks() && res
+        res = loadArchivePage() && res
+        res = loadArchiveMonthPages() && res
+        res = loadIndexPage() && res
+        res = loadIndexItemPages() && res
+        res = loadTagsPage() && res
+        res = loadTagItemPages() && res
+        res = loadSerialsPage() && res
+        res = loadSerialItemPages() && res
 
-        res = res && loadImpressumPage()
-        res = res && loadRssFile()
-        res = res && validateNames()
+        res = loadImpressumPage()  && res
+        res = loadRssFile() && res
+        res = validateNames() && res
         print("\nVERIFIER RESULT: \(res ? "OK" : "ERROR")")
     }
     

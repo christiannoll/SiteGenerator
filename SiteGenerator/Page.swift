@@ -89,7 +89,7 @@ class Page {
     }
     
     func renderArchiveLink() -> SmlNode {
-        let link = a([href => (Page.baseUrl + "archive")], [SiteGenerator.forGerman() ? "Archiv": "Archive"])
+        let link = a([href => (Page.baseUrl + "archive")], [SiteGeneratorEnv.forGerman() ? "Archiv": "Archive"])
         let para = p([link])
         return para
     }
@@ -123,14 +123,14 @@ class Page {
         pChildren.append(newLine)
         pChildren.append(tab)
         
-        let tags = a([href => (Page.baseUrl + "tags")], [SiteGenerator.forGerman() ? "Kategorien" : "Tags"])
+        let tags = a([href => (Page.baseUrl + "tags")], [SiteGeneratorEnv.forGerman() ? "Kategorien" : "Tags"])
         pChildren.append(tags)
         
         pChildren.append(.text(" • "))
         pChildren.append(newLine)
         pChildren.append(tab)
         
-        let serials = a([href => (Page.baseUrl + "serials")], [SiteGenerator.forGerman() ? "Serien" : "Serials"])
+        let serials = a([href => (Page.baseUrl + "serials")], [SiteGeneratorEnv.forGerman() ? "Serien" : "Serials"])
         pChildren.append(serials)
         
         let para = p(pChildren)
@@ -145,7 +145,7 @@ class Page {
         pChildren2.append(newLine)
         pChildren2.append(tab)
         
-        let impressum = a([href => (Page.baseUrl + "impressum")], [SiteGenerator.forGerman() ? "Impressum" : "Contact"])
+        let impressum = a([href => (Page.baseUrl + "impressum")], [SiteGeneratorEnv.forGerman() ? "Impressum" : "Contact"])
         pChildren2.append(impressum)
         
         let para2 = p(pChildren2)
@@ -155,7 +155,7 @@ class Page {
         var pChildren3: [SmlNode] = []
         let germanLang = a([href => (Page.baseRootUrl)], ["German"])
         let englishLang = a([href => (Page.baseUrl + "en")], ["English"])
-        let lang = SiteGenerator.forGerman() ? englishLang : germanLang
+        let lang = SiteGeneratorEnv.forGerman() ? englishLang : germanLang
         pChildren3.append(lang)
         
         let para3 = p(pChildren3)

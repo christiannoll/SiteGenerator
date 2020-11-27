@@ -24,7 +24,7 @@ class CsvWriter {
         do {
             let fileName = "site_statistics.csv"
             let relPath = "csv/"
-            let path = SiteGenerator.baseDir + relPath
+            let path = SiteGeneratorEnv.baseDir + relPath
             if relPath.count > 0 {
                 try FileManager.default.createDirectory(atPath: path, withIntermediateDirectories: true, attributes: nil)
             }

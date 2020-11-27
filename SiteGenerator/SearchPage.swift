@@ -11,7 +11,7 @@ class SearchPage : Page {
     override func renderContent() -> SmlNode {
         var mainChildren: [SmlNode] = [newLine]
         
-        let searchTip = SiteGenerator.forGerman() ? "Suche ..." : "Search ..."
+        let searchTip = SiteGeneratorEnv.forGerman() ? "Suche ..." : "Search ..."
         mainChildren.append(input([type => "text", id => "search-bar", placeholder => searchTip, name => "search", onkeyup => "search(this.value)"]))
         mainChildren.append(newLine)
         

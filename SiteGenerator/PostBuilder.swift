@@ -117,7 +117,7 @@ class PostBuilder {
     
     private func createPostDate(_ item: Item) -> String {
         let dateFormatter = DateFormatter()
-        if (SiteGenerator.forGerman()) {
+        if (SiteGeneratorEnv.forGerman()) {
             dateFormatter.locale = Locale(identifier: "de_DE")
         }
         else {

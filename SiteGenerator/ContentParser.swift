@@ -2,7 +2,7 @@ import Foundation
 
 class ContentParser : NSObject, XMLParserDelegate {
     
-    private let CONTENT_FILE =  SiteGenerator.baseDir + "xml/content.xml"
+    private let CONTENT_FILE =  SiteGeneratorEnv.baseDir + "xml/content.xml"
     
     private var items: [Item] = []
     private var item = Item(-1)

@@ -2,7 +2,7 @@ import Foundation
 
 class FtpScriptWriter {
     
-    private let baseUrl = URL(fileURLWithPath: SiteGenerator.baseDir)
+    private let baseUrl = URL(fileURLWithPath: SiteGeneratorEnv.baseDir)
     private let folderNames = ["2019", "2020", "archive", "images", "impressum", "index", "statistic", "tags", "serials", "xml"]
     
     private var script = ""
@@ -55,7 +55,7 @@ class FtpScriptWriter {
     
     private func getFolderContent(_ folderName: String, _ onlyFolder: Bool) -> [String] {
         let fm = FileManager.default
-        let path = SiteGenerator.baseDir + folderName
+        let path = SiteGeneratorEnv.baseDir + folderName
         
         var items = [String]()
         
@@ -79,7 +79,7 @@ class FtpScriptWriter {
         do {
             let fileName = "sftpScript.txt"
             let relPath = "ftp/"
-            let path = SiteGenerator.baseDir + relPath
+            let path = SiteGeneratorEnv.baseDir + relPath
             if relPath.count > 0 {
                 try FileManager.default.createDirectory(atPath: path, withIntermediateDirectories: true, attributes: nil)
             }

@@ -1,9 +1,12 @@
-//
-//  SiteGeneratorEnv.swift
-//  SiteGenerator
-//
-//  Created by Christian on 27.11.20.
-//  Copyright © 2020 Christian. All rights reserved.
-//
-
 import Foundation
+
+struct SiteGeneratorEnv {
+    
+    //static let baseDir = "/Users/chn/Programmierung/Swift/SiteGenerator/vnzn/en/"
+    static let baseDir = "/Users/chn/Programmierung/Swift/SiteGenerator/vnzn/"
+    
+    static func forGerman() -> Bool {
+        let lang = UserDefaults.standard.string(forKey: "AppleLanguage")
+        return lang == "de"
+    }
+}

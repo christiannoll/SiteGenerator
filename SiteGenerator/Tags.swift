@@ -3,7 +3,7 @@ import Foundation
 class Tags {
     
     fileprivate var _tagItems: [TagItem]
-    fileprivate var headerText = SiteGenerator.forGerman() ? "Kategorien" : "Tags"
+    fileprivate var headerText = SiteGeneratorEnv.forGerman() ? "Kategorien" : "Tags"
     
     var tagItems: [TagItem] {
         get { return _tagItems }
@@ -109,7 +109,7 @@ class SerialsFactory {
     
     func createSerials(_ posts: [Item]) -> Serials {
         let serials = Serials()
-        serials.headerText = SiteGenerator.forGerman() ? "Serien" : "Serials"
+        serials.headerText = SiteGeneratorEnv.forGerman() ? "Serien" : "Serials"
         
         for post in posts {
             serials.addPost(post)

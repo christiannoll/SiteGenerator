@@ -42,7 +42,7 @@ class ImagePost : Item {
     var height = 250
     
     override func renderUrlTitle() -> SmlNode {
-        let prefix = SiteGenerator.forGerman() ? "Foto: " : "Photo: "
+        let prefix = SiteGeneratorEnv.forGerman() ? "Foto: " : "Photo: "
         return .text(prefix + title)
     }
     
