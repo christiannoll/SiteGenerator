@@ -18,6 +18,13 @@ class UnitTest: XCTestCase {
         XCTAssertEqual(text, "<ul><li>One</li><li><a href=\"url\">Two</a></li></ul>")
     }
     
+    func testNotUnorderedListWithThreeAsterisks() {
+        let s = "* * *"
+        let text = smlBuilder.render(s)
+        
+        XCTAssertEqual(text, "* * *")
+    }
+    
     func testOrderedListWithUrl() {
         let s = "1. One\t 2. [Two](url)\t"
         let text = smlBuilder.render(s)

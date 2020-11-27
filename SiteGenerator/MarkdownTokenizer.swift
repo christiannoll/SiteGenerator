@@ -251,8 +251,9 @@ class MarkdownTokenizer {
         }
         
         let n = next ?? .space
+        let nn = nextnext ?? .space
         
-        guard CharacterSet.ulistDelimiters.contains(delimiter) && n == .space else {
+        guard CharacterSet.ulistDelimiters.contains(delimiter) && n == .space && !CharacterSet.ulistDelimiters.contains(nn) && nn != .space else {
                 return nil
         }
         
