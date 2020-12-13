@@ -1032,4 +1032,14 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>gonna_rain</name>
+	<title>Steve Reich: It's Gonna Rain</title>
+	<data>["It's Gonna Rain"](https://en.wikipedia.org/wiki/It%27s_Gonna_Rain) ist ein Musikstück von [Steve Reich](https://de.wikipedia.org/wiki/Steve_Reich) aus dem Jahr *1965* für dessen Komposition er Tonbandaufnahmen eines Straßenpredigers in San Francisco verwendete, wobei er durch die Wiederholung verschiedener kurzer Phrasen der Predigt und deren [phasenverschobener Überlagerung](https://en.wikipedia.org/wiki/Phase_music) einen eigenen immersiven Rhythmus erzeugt. 
+	`It’s gonna rain / It’s gon' / It’s / Rain`
+	`Glory to God / God / Had been sealed / Couldn’t open the door / Oh Noah! / They cried / Just open the door / Couldn’t open the door / But sure enough / Hallelujah!`</data>
+	<date>16.12.2020</date>
+	<index><i type="Musiker">Steve Reich</i></index>
+	<tags><t>Musik</t></tags>
+</item>
 </content>
