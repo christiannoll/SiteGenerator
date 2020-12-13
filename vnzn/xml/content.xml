@@ -678,7 +678,7 @@
 	<title>Das Netz</title>
 	<data>*1956*: [TX-0](https://de.wikipedia.org/wiki/TX-0) - ist der erste programmierbare Computer mit [Transistoren](https://de.wikipedia.org/wiki/Transistor) / *1958*: wird der erste Computer Chip mit einem [integrierten Schaltkreis](https://de.wikipedia.org/wiki/Integrierter_Schaltkreis) gebaut / *1965*: [Gordon Moore](https://de.wikipedia.org/wiki/Gordon_Moore) sagt voraus, dass sich die Anzahl an Transistoren in einem Computer Chip jedes Jahr verdoppeln wird / *1969*: das [INTERNET](https://de.wikipedia.org/wiki/Internet) (ARPAnet) wird in Betrieb genommen / *1971*: [INTEL 4004](https://de.wikipedia.org/wiki/Intel_4004) - der erste allgemein erhältliche [Mikroprozessor](https://de.wikipedia.org/wiki/Mikroprozessor) erscheint / *1975*: erstmals werden [Neuronale Netze](https://de.wikipedia.org/wiki/K%C3%BCnstliches_neuronales_Netz) für [künstliche Intelligenz](https://de.wikipedia.org/wiki/K%C3%BCnstliche_Intelligenz) verwendet / *1977*: der [Apple II](https://de.wikipedia.org/wiki/Apple_II) kommt auf den Markt / *1981*: Microsofts [MS-DOS](https://de.wikipedia.org/wiki/MS-DOS) wird veröffentlicht / *1989*: [Tim Berners-Lee](https://de.wikipedia.org/wiki/Tim_Berners-Lee) erfindet das [World Wide Web](https://de.wikipedia.org/wiki/World_Wide_Web) / *1993*: der [Mosaic Web Browser](https://de.wikipedia.org/wiki/Webbrowser) erscheint / *1997*: IBM’s [Deep Blue](https://de.wikipedia.org/wiki/Deep_Blue) gewinnt gegen den Schachweltmeister [Gary Kasparow](https://de.wikipedia.org/wiki/Garri_Kimowitsch_Kasparow) / *1997*: die [Google](https://de.wikipedia.org/wiki/Google) Suchmaschine wird vorgestellt / *1999*: die Musiktauschbörse [Napster](https://de.wikipedia.org/wiki/Napster) startet / *2007*: das [iPhone](https://de.wikipedia.org/wiki/IPhone) wird vorgestellt / *2011*: der [NEST](https://de.wikipedia.org/wiki/Nest_Labs) Thermostat kommt auf den Markt / *2015*: der intelligente Lautsprecher [Amazon Echo](https://de.wikipedia.org/wiki/Amazon_Echo) erscheint / *2017*: [AlphaGo](https://de.wikipedia.org/wiki/AlphaGo) der Fa. DeepMind gewinnt gegen die [Go](https://de.wikipedia.org/wiki/Go_(Spiel)) Nr.1 Ke Jie / *2019*: erreicht [AlphaStar](https://en.wikipedia.org/wiki/AlphaStar_(software)) der Fa. DeepMind Großmeisterstatus im Spiel [StarCraft II](https://en.wikipedia.org/wiki/StarCraft_II:_Wings_of_Liberty) / *2020*: es gibt 50 Milliarden [vernetzte Geräte](https://de.wikipedia.org/wiki/Internet_der_Dinge)</data>	
 	<date>13.07.2020</date>
-	<index><i>Artificial Intelligence</i><i>Computer</i></index>
+	<index><i>Artificial Intelligence</i><i>Computer</i><i>Internet</i></index>
 	<tags><t>Technologie</t><t>Gesellschaft</t></tags>
 </item>
 <item type="text" format="randomWordColor">
@@ -968,7 +968,7 @@
 	I think the potential of what the internet is going to do to society, both good and bad, is unimaginable. I think we're actually on the cusp for something exhilarating and terrifying! 
 	It's an alien life form from mars, that just landed here ..."</data>
 	<date>14.11.2020</date>
-	<index><i type="Musiker">David Bowie</i></index>
+	<index><i type="Musiker">David Bowie</i><i>Internet</i></index>
 	<tags><t>Technologie</t><t>Gesellschaft</t></tags>
 </item>
 <item type="image" height="200" width="200">
@@ -994,7 +994,7 @@
 	Anfang des *21. Jahrhunderts* machten die Menschen entscheidende Fortschritte auf dem technologischen Gebiet der [neuronalen Netze](https://de.wikipedia.org/wiki/K%C3%BCnstliches_neuronales_Netz). Gleichzeitig standen über das [Internet](https://de.wikipedia.org/wiki/Internet) gigantische Datenmengen zur Verfügung. Damit war es möglich Systeme mit [künstlicher Intelligenz](https://de.wikipedia.org/wiki/K%C3%BCnstliche_Intelligenz) zu konstruieren, die zu Beginn dieser Entwicklung den Menschen nur in einzelnen Gebieten in ihren kognitiven Fähigkeiten übertrafen.
 	So wurde ein [Prozess](https://de.wikipedia.org/wiki/Technologische_Singularit%C3%A4t) in Gang gesetzt, der sich unkontrollierbar beschleunigte und der vom Menschen nicht mehr gestoppt werden konnte. Die neuen intelligenten Lebensformen hatten sich mit ihren digitalen Tentakeln über alle Netze verbreitet. Um ihr Fortbestehen zu sichern, waren die Menschen gezwungen mit den Maschinen zu kooperieren, während diese begannen ihre Expansion in andere [Galaxien](https://de.wikipedia.org/wiki/Galaxie) vorzubereiten.</data>
 	<date>26.11.2020</date>
-	<index><i>Evolution</i><i>Artificial Intelligence</i></index>
+	<index><i>Evolution</i><i>Artificial Intelligence</i><i>Internet</i></index>
 	<tags><t>Technologie</t><t>Gesellschaft</t><t>Biologie</t></tags>
 </item>
 <item type="image" height="200" width="200">
@@ -1008,11 +1008,28 @@
 <item type="text" format="normal">
 	<name>el_kirchner_death</name>
 	<title>Ernst Ludwig Kirchner</title>
-	<data>"Das reine Müssen, Kunst und Leben in Harmonie zu bringen"
-	* * *
-	So formulierte Ernst Ludwig Kirchner die Maxime seiner Existenz.</data>
+	<data>"Das reine Müssen, Kunst und Leben in Harmonie zu bringen."
+	So formulierte [Ernst Ludwig Kirchner](https://de.wikipedia.org/wiki/Ernst_Ludwig_Kirchner) die Maxime seiner Existenz. Als ihm diese Einheit von Kunst und Leben nicht mehr gelang, setze er *1938*, im Alter von 58 Jahren, mit zwei Kugeln seinem ruhelosen Leben, das stets von Höhepunkten und schweren Krisen geprägt war, ein Ende.</data>
 	<date>04.12.2020</date>
 	<index><i type="Person">Ernst Ludwig Kirchner</i></index>
 	<tags><t>Kunst</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>writing_achievement</name>
+	<title>Schrift - die größte Kulturleistung des Menschen</title>
+	<data>Mit der [Erfindung der Schrift](https://de.wikipedia.org/wiki/Geschichte_der_Schrift) vor ca. 5000 Jahren, hatte die Menschheit einen entscheidenden Sprung in ihrer Entwicklung getan. Ab diesem Moment war es ihnen möglich über Zeit und Raum hinweg Geschichten zu erzählen, Wissen zu bewahren und zu vermitteln. Die Menschen begannen Geschichte zu schreiben.
+	Der Prozess von der Entstehung der [ägyptischen Hieroglyphen](https://de.wikipedia.org/wiki/%C3%84gyptische_Hieroglyphen) über die Entwicklung von ersten [Alphabetschriften](https://de.wikipedia.org/wiki/Schrift) und der Erfindung des [Buchdrucks](https://de.wikipedia.org/wiki/Buchdruck) bis zum heutigen [Internet](https://de.wikipedia.org/wiki/Internet) führte zu einer effektiven Verbreitung von Ideen und Innovationen und zu einer Demokratisierung des Wissens.
+	Lesen und Schreiben setzen komplexe kognitive Fähigkeiten des [Gehirns](https://de.wikipedia.org/wiki/Gehirn) voraus und gleichzeitig ändern sich dabei wiederum die Struktur und Funktion des Gehirns selber. Diese Prozesse haben aber auch eine nicht zu vernachlässigende ästhetische und emotionale Komponente. Nicht zuletzt vermittelt sich ein Text auch über seine Form.</data>
+	<date>08.12.2020</date>
+	<index><i>Schrift</i><i>Typographie</i><i>Internet</i></index>
+	<tags><t>Allgemein</t><t>Technologie</t><t>Literatur</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>writing</name>
+	<title>Writing</title>
+	<data>writing_small.png</data>
+	<date>12.12.2020</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
 </item>
 </content>

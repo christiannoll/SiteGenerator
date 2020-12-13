@@ -48,7 +48,9 @@ class FtpScriptWriter {
         
         for folderName in folderNames {
             let files = getFolderContent(folderName, false)
-            files.forEach { script.append("put " + $0 + " " + $0 + "\n") }
+            for file in files {
+                script.append("put " + file + " " + file + "\n")
+            }
         }
         script.append("bye")
     }
