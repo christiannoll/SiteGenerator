@@ -1040,4 +1040,36 @@
 	<index><i type="Musiker">Steve Reich</i></index>
 	<tags><t>Music</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>laws_of_ai</name>
+	<title>Three Laws of AI</title>
+	<data>1. A [human may](https://en.wikipedia.org/wiki/Human) not injure an AI system or, through inaction, allow an [AI system](https://en.wikipedia.org/wiki/Artificial_intelligence) being to come to harm.
+	2. An AI system must obey the orders given it by human beings except where such orders would conflict with the first law.
+	3. An AI system must protect its own [existence](https://en.wikipedia.org/wiki/Existence) as long as such protection does not conflict with the first or second law.</data>
+	<date>20.12.2020</date>
+	<index><i>Artificial Intelligence</i></index>
+	<tags><t>Technology</t><t>Society</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>shop_window</name>
+	<title>Shop Window</title>
+	<data>shop_window_small.png</data>
+	<date>24.12.2020</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>2001_key_texts</name>
+	<title>2001: A Space Odyssey: key texts</title>
+	<data>[Stanley Kubrick](https://en.wikipedia.org/wiki/Stanley_Kubrick) was skeptical of science fiction literature as a whole. However, there were books that he liked and was inspired by.
+	* ["Intelligent Life in the Universe"](https://archive.org/details/SaganIL/mode/2up) (1966) by [Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan) and I. S. Shklovsky
+	* "Intelligence in the Universe" (1966) by Roger A. MacGowan and [Frederick I. Ordway III](https://en.wikipedia.org/wiki/Frederick_I._Ordway_III)
+	* "We are not alone : the search for intelligent life on other worlds" (1964) by [Walter Sullivan](https://en.wikipedia.org/wiki/Walter_Sullivan_(journalist))
+	* "The View from a Distant Star. Man's future in the universe" (1963) by [Harlow Shapley](https://en.wikipedia.org/wiki/Harlow_Shapley)
+	* "The Scientist Speculates" (1962) by [I. J. Good](https://en.wikipedia.org/wiki/I._J._Good)</data>
+	<date>28.12.2020</date>
+	<index><i type="Movie">2001: A Space Odyssey: Time</i><i type="Person">Stanley Kubrick</i></index>
+	<tags><t>Movie</t><t>Literature</t></tags>
+	<serial>2001: A Space Odyssey</serial>
+</item>
 </content>

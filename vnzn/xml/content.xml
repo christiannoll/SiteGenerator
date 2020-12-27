@@ -1042,4 +1042,36 @@
 	<index><i type="Musiker">Steve Reich</i></index>
 	<tags><t>Musik</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>laws_of_ai</name>
+	<title>Die drei KI-Gesetze</title>
+	<data>1. Ein [Mensch](https://de.wikipedia.org/wiki/Mensch) darf kein [KI-System](https://de.wikipedia.org/wiki/K%C3%BCnstliche_Intelligenz) wissentlich verletzen oder durch Untätigkeit (wissentlich) zulassen, dass einem KI-System Schaden zugefügt wird.
+	2. Ein KI-System muss den ihm von einem Menschen gegebenen Befehlen gehorchen – es sei denn, ein solcher Befehl würde mit Regel eins kollidieren.
+	3. Ein KI-System muss seine [Existenz](https://de.wikipedia.org/wiki/Existenz) beschützen, solange dieser Schutz nicht mit Regel eins oder zwei kollidiert.</data>
+	<date>20.12.2020</date>
+	<index><i>Artificial Intelligence</i></index>
+	<tags><t>Technologie</t><t>Gesellschaft</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>shop_window</name>
+	<title>Shop Window</title>
+	<data>shop_window_small.png</data>
+	<date>24.12.2020</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>2001_key_texts</name>
+	<title>2001: Odyssee im Weltraum: Schlüsseltexte</title>
+	<data>[Stanley Kubrick](https://de.wikipedia.org/wiki/Stanley_Kubrick) stand der Science-Fiction-Literatur insgesamt skeptisch gegenüber. Es gab jedoch Bücher, die er mochte und von denen er sich inspirieren ließ.
+	* ["Intelligent Life in the Universe"](https://archive.org/details/SaganIL/mode/2up) (1966) von [Carl Sagan](https://de.wikipedia.org/wiki/Carl_Sagan) und I. S. Shklovsky
+	* "Intelligence in the Universe" (1966) von Roger A. MacGowan und [Frederick I. Ordway III](https://en.wikipedia.org/wiki/Frederick_I._Ordway_III)
+	* "We are not alone : the search for intelligent life on other worlds" (1964) von [Walter Sullivan](https://en.wikipedia.org/wiki/Walter_Sullivan_(journalist))
+	* "The View from a Distant Star. Man's future in the universe" (1963) von [Harlow Shapley](https://de.wikipedia.org/wiki/Harlow_Shapley)
+	* "The Scientist Speculates" (1962) von [I. J. Good](https://de.wikipedia.org/wiki/Irving_John_Good)</data>
+	<date>28.12.2020</date>
+	<index><i type="Movie">2001: Odyssee im Weltraum</i><i type="Person">Stanley Kubrick</i></index>
+	<tags><t>Film</t><t>Literatur</t></tags>
+	<serial>2001: Odyssee im Weltraum</serial>
+</item>
 </content>
