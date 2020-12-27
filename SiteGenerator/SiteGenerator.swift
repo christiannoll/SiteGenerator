@@ -108,5 +108,8 @@ struct SiteGenerator {
         var searchIndexBuilder = SearchIndexBuilder()
         searchIndexBuilder.buildIndex(posts)
         searchIndexBuilder.writeJsFile()
+        
+        let randomEntriesBuilder = RandomEntriesBuilder()
+        randomEntriesBuilder.writeJsFile(posts)
     }
 }

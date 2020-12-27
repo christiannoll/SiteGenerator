@@ -12,6 +12,15 @@ class PostBuilder {
         return dateFormatter.string(from: item.date!)
     }
     
+    static func createPostUrl(_ item: Item) -> String {
+        var url = Page.baseUrl
+        
+        url.append(PostBuilder.createDatePath(item))
+        url.append(item.name)
+        
+        return url
+    }
+    
     public func createTextArticle(_ item: TextPost) -> SmlNode {
         let postTitle = createPostTitle(item)
         
@@ -46,8 +55,8 @@ class PostBuilder {
     
     private func createRssArticle(_ item: Item, _ createDescription:(Item) -> String) -> SmlNode {
         let postTitle = title_node(item.title.htmlEncodedString())
-        let postLink = link_node(createPostUrl(item))
-        let postGuid = guid_node(createPostUrl(item))
+        let postLink = link_node(PostBuilder.createPostUrl(item))
+        let postGuid = guid_node(PostBuilder.createPostUrl(item))
         let postPubDate = pubDate_node(createPubDate(item))
         let postDescription = description_node(createDescription(item))
         let post = item_node([newLine, tab, postTitle, newLine, tab, postLink, newLine, tab, postGuid, newLine, tab, postPubDate, newLine, tab, postDescription, newLine])
@@ -56,7 +65,7 @@ class PostBuilder {
     
     public func createPostLink(_ post: Item) -> SmlNode {
         let urlTitle = post.renderUrlTitle()
-        let link = a([href => createPostUrl(post)], [urlTitle])
+        let link = a([href => PostBuilder.createPostUrl(post)], [urlTitle])
         return link
     }
 
@@ -66,7 +75,7 @@ class PostBuilder {
                                     height => String(item.height),
                                     width => String(item.width),
                                     alt => String(item.title)])
-        let link = a([href => createPostUrl(item)], [imgNode])
+        let link = a([href => PostBuilder.createPostUrl(item)], [imgNode])
         let para = p([link, newLine, tab, tab])
         let postBody = div_postBody([newLine, tab, tab, para, newLine, tab])
         return postBody
@@ -80,32 +89,23 @@ class PostBuilder {
     
     private func createTextPostDateline(_ item: Item) -> SmlNode {
         let urlTitle: SmlNode = .text(createPostDate(item))
-        let link = a([href => createPostUrl(item)], [urlTitle])
+        let link = a([href => PostBuilder.createPostUrl(item)], [urlTitle])
         let div = div_postDateline([link, newLine, tab])
         return div
     }
     
     private func createImagePostDateline(_ item: Item) -> SmlNode {
         let urlTitle: SmlNode = .text(createPostDate(item))
-        let link = a([href => createPostUrl(item)], [urlTitle])
+        let link = a([href => PostBuilder.createPostUrl(item)], [urlTitle])
         let div = div_postStyledDateline([link, newLine, tab])
         return div
     }
     
     private func createPostTitle(_ item: Item) -> SmlNode {
         let urlTitle: SmlNode = .text(item.title)
-        let link = a([href => createPostUrl(item)], [urlTitle])
+        let link = a([href => PostBuilder.createPostUrl(item)], [urlTitle])
         let h = h3([link])
         return h
-    }
-    
-    private func createPostUrl(_ item: Item) -> String {
-        var url = Page.baseUrl
-        
-        url.append(PostBuilder.createDatePath(item))
-        url.append(item.name)
-        
-        return url
     }
     
     private func createImageUrl(_ item: Item) -> String {
