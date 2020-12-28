@@ -117,6 +117,12 @@ class Page {
         var navChildren: [SmlNode] = [newLine, tab]
         
         var pChildren: [SmlNode] = []
+        let search = a([href => (Page.baseUrl + "search")], [SiteGeneratorEnv.forGerman() ? "Suche" : "Search"])
+        pChildren.append(search)
+        pChildren.append(.text(" • "))
+        pChildren.append(newLine)
+        pChildren.append(tab)
+        
         let index = a([href => (Page.baseUrl + "index")], ["Index"])
         pChildren.append(index)
         pChildren.append(.text(" • "))
@@ -138,6 +144,13 @@ class Page {
         navChildren.append(newLine)
         
         var pChildren2: [SmlNode] = []
+        let random = a([href => (Page.baseUrl + "random")], [SiteGeneratorEnv.forGerman() ? "Zufall" : "Random"])
+        pChildren2.append(random)
+
+        pChildren2.append(.text(" • "))
+        pChildren2.append(newLine)
+        pChildren2.append(tab)
+        
         let rss = a([href => (Page.baseUrl + "xml/rss.xml")], ["RSS"])
         pChildren2.append(rss)
 
