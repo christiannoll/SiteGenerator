@@ -22,8 +22,7 @@ class SearchPage : Page {
     }
     
     override func createJavascriptInclude() -> SmlNode? {
-        let filename = SiteGeneratorEnv.forGerman() ? "search.js" : "../../search/search.js"
-        let javascript = script([src => filename, type => "text/javascript"])
+        let javascript = script([src => "search.js", type => "text/javascript"])
         return javascript
     }
     
