@@ -14,13 +14,12 @@ function search(searchStr){
 }
 
 worker.onmessage = function(e){
-	var indices = e.data;	
+	let indices = e.data;	
 	applySearchResult(indices);
-	//console.log(indices);
 }
 
 function applySearchResult(indices) {
-	var elements = document.getElementsByTagName("li");
+	let elements = document.getElementsByTagName("li");
 	for (var element of elements) {
 		element.style.display = 'none';
 	}
@@ -34,7 +33,7 @@ function applySearchResult(indices) {
 }
 
 function showAll() {
-	var elements = document.getElementsByTagName("li");
+	let elements = document.getElementsByTagName("li");
 	for (let element of elements) {
 		element.style.display = 'list-item';
 	}
