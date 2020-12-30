@@ -1074,4 +1074,15 @@
 	<tags><t>Film</t><t>Literatur</t></tags>
 	<serial>2001: Odyssee im Weltraum</serial>
 </item>
+<item type="text" format="normal">
+	<name>occams_razor</name>
+	<title>Ockhams Rasiermesser</title>
+	<data>Das Sparsamkeitsprinzip, auch [Ockhams Rasiermesser](https://de.wikipedia.org/wiki/Ockhams_Rasiermesser) nach [Wilhelm von Ockham](https://de.wikipedia.org/wiki/Wilhelm_von_Ockham) genannt, sagt Folgendes aus:
+		1. Von mehreren hinreichenden möglichen Erklärungen für ein und denselben Sachverhalt ist die einfachste Theorie allen anderen vorzuziehen.
+		2. Eine Theorie ist einfach, wenn sie möglichst wenige Variablen und Hypothesen enthält und wenn diese in klaren logischen Beziehungen zueinander stehen, aus denen der zu erklärende Sachverhalt logisch folgt.</data>
+	<date>01.01.2021</date>
+	<index><i type="Person">Wilhelm von Ockham</i><i>Komplexität</i></index>
+	<tags><t>Physik</t><t>Mathematik</t><t>Biologie</t></tags>
+	<serial>Komplexität</serial>
+</item>
 </content>

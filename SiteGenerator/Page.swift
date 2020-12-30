@@ -183,7 +183,7 @@ class Page {
         var footerChildren: [SmlNode] = [newLine, tab]
         
         var pChildren: [SmlNode] = []
-        pChildren.append(.text("© 2019-2020 Christian Noll"))
+        pChildren.append(.text("© 2019-2021 Christian Noll"))
         
         let para = p(pChildren)
         footerChildren.append(para)

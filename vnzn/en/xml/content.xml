@@ -1072,4 +1072,15 @@
 	<tags><t>Movie</t><t>Literature</t></tags>
 	<serial>2001: A Space Odyssey</serial>
 </item>
+<item type="text" format="normal">
+	<name>occams_razor</name>
+	<title>Occam's razor</title>
+	<data>The law of parsimony, also called [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor) after [William of Ockham](https://en.wikipedia.org/wiki/William_of_Ockham), states the following:
+		1. Of several sufficient possible explanations for one and the same facts, the simplest theory is preferable to all others.
+		2. A theory is simple if it contains as few variables and hypotheses as possible and if these variables and hypotheses are related to each other in clear logical relationships from which the facts to be explained follow logically.</data>
+	<date>01.01.2021</date>
+	<index><i type="Person">William of Ockham</i><i>Complexity</i></index>
+	<tags><t>Physics</t><t>Mathematics</t><t>Biology</t></tags>
+	<serial>Complexity</serial>
+</item>
 </content>
