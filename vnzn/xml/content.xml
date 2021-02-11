@@ -1085,4 +1085,115 @@
 	<tags><t>Physik</t><t>Mathematik</t><t>Biologie</t></tags>
 	<serial>Komplexität</serial>
 </item>
+<item type="image" height="200" width="200">
+	<name>abstract_5</name>
+	<title>Abstract 5</title>
+	<data>abstract5_small.png</data>
+	<date>05.01.2021</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
+<item type="text" format="randomWordColor">
+	<name>blue_lines</name>
+	<title>Massive Attack: Blue Lines</title>
+	<data>Safe from Harm / One Love / [Blue Lines](https://de.wikipedia.org/wiki/Blue_Lines) / Be Thankful for What You Got / Five Man Army / Unfinished Sympathy / Daydreaming / Lately / Hymn of the Big Wheel</data>
+	<date>09.01.2021</date>
+	<index><i type="Musiker">Massive Attack</i></index>
+	<tags><t>Musik</t></tags>
+</item>
+<item type="text" format="randomLinkColor">
+	<name>zero_and_one</name>
+	<title>Null und Eins</title>
+	<data>am anfang war die [Null](https://de.wikipedia.org/wiki/Null) / und die Null war [gott](https://de.wikipedia.org/wiki/Gott) / und gott schuf die [Eins](https://de.wikipedia.org/wiki/Eins) / aus der Eins und der Null wurde das licht der menschen / und das licht leuchtete hell / gespeist durch ihr begehren</data>
+	<date>13.01.2021</date>
+	<index><i>Evolution</i></index>
+	<tags><t>Allgemein</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>ring</name>
+	<title>Ring</title>
+	<data>ring_small.png</data>
+	<date>17.01.2021</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>map_and_territory</name>
+	<title>Karte und Gebiet</title>
+	<data>"Die Landkarte ist nicht die Landschaft, aber wenn die Landkarte der Struktur der Landschaft ähnlich ist, ist sie brauchbar."
+	Dieser Satz stammt aus dem Hauptwerk "Science and Sanity" des Sprachphilosophen [Alfred Korzybski](https://de.wikipedia.org/wiki/Alfred_Korzybski). Gemeint ist damit, dass unser [Gehirn](https://de.wikipedia.org/wiki/Gehirn) aus den Sinneswahrnehmungen und den Erfahrungen der Vergangenheit mit Hilfe von [mentalen Modellen](#2020/07/29/thinking_as_simulation_of_mental_models/) und Sprache, eine Abstraktion der Realität konstruiert, die letztlich eben nur eine Repräsentation der Wirklichkeit sein kann. 
+	Um die Abbildung (Karte) nicht mit der Realität (Landschaft) zu verwechseln ist es wichtig, sich diese Unterscheidung immer wieder bewusst zu machen.</data>
+	<date>21.01.2021</date>
+	<index><i>Mentales Modell</i><i>Gehirn</i></index>
+	<tags><t>Biologie</t><t>Philosophie</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>bauhaus_breuer</name>
+	<title>bauhaus: marcel breuer</title>
+	<data>der *1902* in ungarn geborene [marcel breuer](https://de.wikipedia.org/wiki/Marcel_Breuer) beginnt *1920* eine ausbildung zum tischler in der möbelwerkstatt am [bauhaus](https://de.wikipedia.org/wiki/Bauhaus) in weimar.
+	in dieser zeit entwirft er zahlreiche avantgardistische holzmöbel und beschäftigt sich intensiv mit der verwendung von stahlrohr als ausgangsmaterial für ein innovatives möbeldesign. gleichzeitig ist er aber auch im architekturbüro von [walter gropius](https://de.wikipedia.org/wiki/Walter_Gropius) tätig.
+	*1925* wird [marcel breuer](https://www.bauhauskooperation.de/wissen/das-bauhaus/koepfe/meister-und-lehrende/marcel-breuer/) als jungmeister und leiter der möbelwerkstatt am [bauhaus](https://de.wikipedia.org/wiki/Bauhaus_Dessau) in dessau berufen. im gleichen jahr entwirft er den heute als designklassiker geltenden [clubsessel b3](https://de.wikipedia.org/wiki/Clubsessel_B_3), auch bekannt als "wassily chair". hergestellt wurde der stuhl aus gebogenem stahlrohr und eisengarn, was in der damaligen zeit revolutionär war.
+	*1933* musste marcel breuer deutschland verlassen und nach stationen in ungarn und london, emigririerte er *1937* in die [usa](https://de.wikipedia.org/wiki/Vereinigte_Staaten). hier erhielt er eine professur für architektur an der school of design der [harvard university](https://de.wikipedia.org/wiki/Harvard_University) und eröffnete zusammen mit walter gropius ein gemeinsames architekturbüro. nach dessen auflösung gründete er *1941* sein eignenes architekturbüro. 
+	in den folgenden jahren führte er zahlreiche großprojekte in den vereinigten staaten und europa, wie z.B. das [whitney museum of american art](https://en.wikipedia.org/wiki/Met_Breuer) in new york und das unesco-gebäude in paris, aus.</data>
+	<date>25.01.2021</date>
+	<index><i type="Person">Walter Gropius</i><i type="Person">Marcel Breuer</i><i>Bauhaus</i></index>
+	<tags><t>Architektur</t><t>Kunst</t><t>Design</t></tags>
+	<serial>Bauhaus</serial>
+</item>
+<item type="image" height="200" width="200">
+	<name>mirror</name>
+	<title>Mirror</title>
+	<data>mirror_small.png</data>
+	<date>29.01.2021</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>ebpf_rev</name>
+	<title>eBPF - Revolution im Kernel</title>
+	<data>eBPF steht für extended [Berkeley Packet Filter](https://de.wikipedia.org/wiki/Berkeley_Packet_Filter) und ist seit der Version 3.18 Bestandteil des [Linux-Kernels](https://de.wikipedia.org/wiki/Linux_(Kernel)). Es ist eine Technologie, die es erlaubt sogenannte sandboxed Programme im Linux-Kernel auszuführen, ohne den Kernel-Quellcode zu verändern oder Kernel-Module laden zu müssen.
+	Als *1991* die ersten Versionen des Linux-Kernels von [Linus Torvalds](https://de.wikipedia.org/wiki/Linus_Torvalds) veröffentlicht wurden, gab es eine kontrovers geführte Debatte darüber wie die grundsätzliche Architektur eines [Betriebssystem-Kernels](https://de.wikipedia.org/wiki/Kernel_(Betriebssystem)) aussehen sollte. In dieser Auseinandersetzung gab es zwei verschiedene Lager. Auf der einen Seite die Vertreter eines [Mikrokernels](https://de.wikipedia.org/wiki/Mikrokernel) und auf der anderen die Befürworter eines [monolithischen Kernels](https://de.wikipedia.org/wiki/Monolithischer_Kernel), wie der Linux-Kernel einer ist.
+	Dadurch das [eBPF](https://ebpf.io/) es möglich macht Programme dynamisch zu laden und diese sicher und mit der nötigen Effizienz im Kernel laufen zu lassen, ist jeder Linux-Benutzer in der Lage, den Kernel nach seinen Vorstellungen auf sichere Art anzupassen und zu erweitern. So wird der Linux-Kernel immer mehr zu einem Mikrokernel.</data>
+	<date>02.02.2021</date>
+	<index><i>Kernel</i><i>Linux</i><i type="Person">Linus Torvalds</i></index>
+	<tags><t>Technologie</t></tags>
+</item>
+<item type="text" format="randomLinkColor">
+	<name>nietzsche_dancing_star</name>
+	<title>Nietzsche und der tanzende Stern</title>
+	<data>"Man muss noch Chaos in sich haben, um einen tanzenden Stern gebären zu können."
+	[Friedrich Nietzsche](https://de.wikipedia.org/wiki/Friedrich_Nietzsche) - ["Also sprach Zarathustra"](https://de.wikipedia.org/wiki/Also_sprach_Zarathustra)</data>
+	<date>06.02.2021</date>
+	<index><i>Chaos</i><i type="Person">Friedrich Nietzsche</i></index>
+	<tags><t>Philosophie</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>poster4</name>
+	<title>Poster</title>
+	<data>poster4_small.png</data>
+	<date>10.02.2021</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>great_filter</name>
+	<title>The Great Filter</title>
+	<data>Hat die Menschheit ihre Zukunft noch vor sich oder bereits hinter sich?
+	*1996* erschien der Essay "The Great Filter - Are We Almost Past It?" des Ökonomen [Robin Hanson](https://de.wikipedia.org/wiki/Robin_Hanson), in dem er zum ersten Mal als Erklärungsversuch für das [Fermi Paradoxon](https://de.wikipedia.org/wiki/Fermi-Paradoxon) den ["Großen Filter"](https://de.wikipedia.org/wiki/Fermi-Paradoxon#Der_Gro%C3%9Fe_Filter) als Barriere beschreibt, die es unwahrscheinlich macht, dass eine Zivilisation eine Entwicklungsstufe erreicht, die nötig ist, um interstellare Raumfahrt zu betreiben. Diese Barriere könnte eine Herausforderung oder Bedrohung sein, die es extrem schwierig macht, diese Stufe zu erreichen.
+	In seinem Essay beschreibt Hanson die folgenden neun Schritte eines "evolutionären Pfades", der zur Kolonisierung des beobachtbaren Universums führt: 
+	1. Das richtige [Sternensystem](https://en.wikipedia.org/wiki/Star_system) (mit organischen und potenziell bewohnbaren Planeten)
+	2. Reproduktionsmoleküle (z.B. [RNA](https://de.wikipedia.org/wiki/Ribonukleins%C3%A4ure))
+	3. Einfaches ([prokaryotisches](https://de.wikipedia.org/wiki/Prokaryoten)) [einzelliges Leben](https://de.wikipedia.org/wiki/Mikroorganismus)
+	4. Komplexes ([eukaryotisches](https://de.wikipedia.org/wiki/Eukaryoten)) einzelliges Leben
+	5. [Sexuelle Fortpflanzung](https://de.wikipedia.org/wiki/Geschlechtliche_Fortpflanzung)
+	6. [Multi-cell life](https://de.wikipedia.org/wiki/Vielzeller)
+	7. Werkzeugnutzende [Tiere](https://de.wikipedia.org/wiki/Tier) mit [Intelligenz](https://de.wikipedia.org/wiki/Intelligenz)
+	8. Eine Zivilisation, die sich auf das Potenzial für eine Kolonisierungsexplosion zubewegt (wo wir jetzt sind)
+	9. [Kolonisations-Explosion](https://de.wikipedia.org/wiki/Weltraumkolonisierung)
+	Nach der Great Filter-Hypothese muss mindestens einer dieser Schritte unwahrscheinlich sein. Wenn es sich nicht um einen frühen Schritt handelt (d. h. in unserer Vergangenheit), dann bedeutet das, dass der unwahrscheinliche Schritt in unserer Zukunft liegt. In diesem Sinne wäre es keine gute Nachricht für uns, wenn wir mehrzelliges Leben auf dem [Mars](https://de.wikipedia.org/wiki/Mars_(Planet)) finden würden.
+	</data>
+	<date>14.02.2021</date>
+	<index><i>Mars</i></index>
+	<tags><t>Astronomie</t></tags>
+</item>
 </content>

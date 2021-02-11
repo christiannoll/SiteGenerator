@@ -219,8 +219,7 @@
 	<title>bauhaus: walter gropius</title>
 	<data>in *1919* [walter gropius](https://en.wikipedia.org/wiki/Walter_Gropius) founded the [bauhaus](https://en.wikipedia.org/wiki/Bauhaus) in weimar, a school for the building of the future. the founding idea was to bring together art and craftsmanship.
 	after political difficulties in weimar, the bauhaus moved to dessau in *1925*. the new [school building](https://de.wikipedia.org/wiki/Bauhaus_Dessau) was constructed here in *1926* according to [gropius](https://www.bauhauskooperation.com/the-bauhaus/people/directors/walter-gropius/) plans - a total work of art and one of the most important buildings of the 20th century.
-	the [masters houses](https://de.wikipedia.org/wiki/Bauhaus_Dessau#Meisterh%C3%A4user) planned by gropius and erected near the bauhaus in *1926* also became a landmark of modern architecture. the masters teaching at the bauhaus and their families, such as [paul klee](https://en.wikipedia.org/wiki/Paul_Klee) and [wassily kandinsky](https://en.wikipedia.org/wiki/Wassily_Kandinsky), [lászló moholy-nagy](https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Moholy-Nagy) and [lyonel feininger](https://en.wikipedia.org/wiki/Lyonel_Feininger), as well as [georg muche](https://en.wikipedia.org/wiki/Georg_Muche) and [oskar schlemmer](https://en.wikipedia.org/wiki/Oskar_Schlemmer), lived in the three duplexes.
-</data>
+	the [masters houses](https://de.wikipedia.org/wiki/Bauhaus_Dessau#Meisterh%C3%A4user) planned by gropius and erected near the bauhaus in *1926* also became a landmark of modern architecture. the masters teaching at the bauhaus and their families, such as [paul klee](https://en.wikipedia.org/wiki/Paul_Klee) and [wassily kandinsky](https://en.wikipedia.org/wiki/Wassily_Kandinsky), [lászló moholy-nagy](https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Moholy-Nagy) and [lyonel feininger](https://en.wikipedia.org/wiki/Lyonel_Feininger), as well as [georg muche](https://en.wikipedia.org/wiki/Georg_Muche) and [oskar schlemmer](https://en.wikipedia.org/wiki/Oskar_Schlemmer), lived in the three duplexes.</data>
 	<date>12.02.2020</date>
 	<index><i type="Person">Walter Gropius</i><i type="Person">Paul Klee</i><i>Bauhaus</i></index>
 	<tags><t>Architecture</t><t>Art</t></tags>
@@ -716,7 +715,7 @@
 	This means that when a child learns what a car is, it builds a [mental model](https://en.wikipedia.org/wiki/Mental_model) of a car in its [brain](https://en.wikipedia.org/wiki/Brain). It learns the characteristics of a car over time and adds them to the model. As a result, before crossing a road, it is then able to calculate a [simulation](https://de.wikipedia.org/wiki/Simulation) of its car model to assess whether it is possible to reach the other side of the road without colliding with a passing car.
 	Perhaps the [consciousness](https://en.wikipedia.org/wiki/Consciousness) of self is just a mental model that [humans](https://en.wikipedia.org/wiki/Human) have of themselves in isolation from others. This model could include assumed characteristics, memories and relationships with other people. In addition, physicality probably also belongs to the model of our self. For example, a long jumper, before he even starts running, simulates the complete act of running and jumping in his head.</data>
 	<date>29.07.2020</date>
-	<index><i>Mental modell</i><i>Brain</i></index>
+	<index><i>Mental model</i><i>Brain</i></index>
 	<tags><t>Biology</t><t>Philosophy</t></tags>
 </item>
 <item type="image" height="200" width="200">
@@ -1082,5 +1081,95 @@
 	<index><i type="Person">William of Ockham</i><i>Complexity</i></index>
 	<tags><t>Physics</t><t>Mathematics</t><t>Biology</t></tags>
 	<serial>Complexity</serial>
+</item>
+<item type="image" height="200" width="200">
+	<name>abstract_5</name>
+	<title>Abstract 5</title>
+	<data>abstract5_small.png</data>
+	<date>05.01.2021</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="randomWordColor">
+	<name>blue_lines</name>
+	<title>Massive Attack: Blue Lines</title>
+	<data>Safe from Harm / One Love / [Blue Lines](https://en.wikipedia.org/wiki/Blue_Lines) / Be Thankful for What You Got / Five Man Army / Unfinished Sympathy / Daydreaming / Lately / Hymn of the Big Wheel</data>
+	<date>09.01.2021</date>
+	<index><i type="Musiker">Massive Attack</i></index>
+	<tags><t>Music</t></tags>
+</item>
+<item type="text" format="randomLinkColor">
+	<name>zero_and_one</name>
+	<title>Zero and One</title>
+	<data>in the beginning was the [Zero](https://en.wikipedia.org/wiki/0) / and the Zero was [god](https://en.wikipedia.org/wiki/God) / and god created the [One](https://en.wikipedia.org/wiki/1) / the One and the Zero became the light of the people / and the light shone brightly / fed by their desire</data>
+	<date>13.01.2021</date>
+	<index><i>Evolution</i></index>
+	<tags><t>General</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>ring</name>
+	<title>Ring</title>
+	<data>ring_small.png</data>
+	<date>17.01.2021</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>map_and_territory</name>
+	<title>Map and territory</title>
+	<data>"A map is not the territory it represents, but, if correct, it has a similar structure to the territory, which accounts for its usefulness."
+	This sentence comes from the main work "Science and Sanity" of the philosopher of language [Alfred Korzybski](https://en.wikipedia.org/wiki/Alfred_Korzybski). What is meant by [this](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation) is that our [brain](https://en.wikipedia.org/wiki/Human_brain) constructs an abstraction of reality from the sensory perceptions and the experiences of the past with the help of [mental models](#2020/07/29/thinking_as_simulation_of_mental_models/) and language, which ultimately can only be a representation of reality.
+	In order not to confuse the representation (map) with reality (territory), it is important to be aware of this distinction.</data>
+	<date>21.01.2021</date>
+	<index><i>Mental model</i><i>Brain</i></index>
+	<tags><t>Biology</t><t>Philosophy</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>bauhaus_breuer</name>
+	<title>bauhaus: marcel breuer</title>
+	<data>[marcel breuer](https://en.wikipedia.org/wiki/Marcel_Breuer), born in hungary in *1902*, began training as a cabinetmaker in *1920* in the furniture workshop at the [bauhaus](https://en.wikipedia.org/wiki/Bauhaus) in weimar.
+	during this time, he designed numerous avant-garde wooden pieces of furniture and worked intensively on the use of tubular steel as a starting material for innovative furniture design. at the same time, he also worked in the architectural office of [walter gropius](https://en.wikipedia.org/wiki/Walter_Gropius).
+	in *1925* [marcel breuer](https://www.bauhauskooperation.com/knowledge/the-bauhaus/people/masters-and-teachers/marcel-breuer/) was appointed young master and head of the furniture workshop at the [bauhaus](https://de.wikipedia.org/wiki/Bauhaus_Dessau) in dessau. in the same year he designed the [model b3 chair](https://de.wikipedia.org/wiki/Bauhaus_Dessau), also known as the "wassily chair", which is now considered a design classic. the chair was made of bent tubular steel and iron yarn, which was revolutionary at that time.
+	in *1933*, marcel breuer was forced to leave germany and, after working in hungary and london, he emigrated to the [usa](https://en.wikipedia.org/wiki/United_States) in *1937*. here he was appointed professor of architecture at the [harvard university](https://en.wikipedia.org/wiki/Harvard_University) school of design and opened a joint architecture office with walter gropius. after the latter's dissolution, he founded his own architecture office in *1941*.
+	in the years that followed, he carried out numerous large-scale projects in the united states and europe, such as the [whitney museum of american art](https://en.wikipedia.org/wiki/Met_Breuer) in new york and the unesco building in paris.</data>
+	<date>25.01.2021</date>
+	<index><i type="Person">Walter Gropius</i><i type="Person">Marcel Breuer</i><i>Bauhaus</i></index>
+	<tags><t>Architecture</t><t>Art</t><t>Design</t></tags>
+	<serial>Bauhaus</serial>
+</item>
+<item type="image" height="200" width="200">
+	<name>mirror</name>
+	<title>Mirror</title>
+	<data>mirror_small.png</data>
+	<date>29.01.2021</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>ebpf_rev</name>
+	<title>eBPF - Revolution in the kernel</title>
+	<data>eBPF stands for extended [Berkeley Packet Filter](https://en.wikipedia.org/wiki/Berkeley_Packet_Filter) and has been part of the [Linux kernel](https://en.wikipedia.org/wiki/Linux_kernel) since version 3.18. It is a technology that allows sandboxed programs to be executed in the Linux kernel without having to modify the kernel source code or load kernel modules.
+	When the first versions of the Linux kernel were released by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) in *1991*, there was a controversial debate about what the basic architecture of an [operating system kernel](https://en.wikipedia.org/wiki/Kernel_(operating_system)) should look like. In this controversy there were two different camps. On the one hand the representatives of a [microkernel](https://en.wikipedia.org/wiki/Microkernel) and on the other hand the proponents of a [monolithic kernel](https://en.wikipedia.org/wiki/Monolithic_kernel), like the Linux kernel.
+	Because [eBPF](https://ebpf.io/) makes it possible to load programs dynamically and run them securely and with the necessary efficiency in the kernel, every Linux user is able to adapt and extend the kernel according to his ideas in a secure way. Thus the Linux kernel becomes more and more a microkernel.</data>
+	<date>02.02.2021</date>
+	<index><i>Kernel</i><i>Linux</i><i type="Person">Linus Torvalds</i></index>
+	<tags><t>Technology</t></tags>
+</item>
+<item type="text" format="randomLinkColor">
+	<name>nietzsche_dancing_star</name>
+	<title>Nietzsche and the dancing star</title>
+	<data>"You must have chaos within you to give birth to a dancing star."
+	[Friedrich Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche) - ["Thus Spoke Zarathustra"](https://en.wikipedia.org/wiki/Thus_Spoke_Zarathustra)</data>
+	<date>06.02.2021</date>
+	<index><i>Chaos</i><i type="Person">Friedrich Nietzsche</i></index>
+	<tags><t>Philosophy</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>poster4</name>
+	<title>Poster</title>
+	<data>poster4_small.png</data>
+	<date>10.02.2021</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
 </item>
 </content>

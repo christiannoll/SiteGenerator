@@ -81,6 +81,20 @@ class UnitTest: XCTestCase {
         XCTAssertEqual(text, "text1 <a href=\"url\">title</a> t(ext2)")
     }
     
+    func testLinkWithinParenthesis() {
+        let s = "([title](url))"
+        let text = smlBuilder.render(s)
+        
+        XCTAssertEqual(text, "(<a href=\"url\">title</a>)")
+    }
+    
+    func testLinkWithinParenthesisWithPreAndPost() {
+        let s = "(pre [title](url) post)"
+        let text = smlBuilder.render(s)
+        
+        XCTAssertEqual(text, "(pre <a href=\"url\">title</a> post)")
+    }
+    
     func testParenthesis() {
         let s = "text1 (text2)"
         let text = smlBuilder.render(s)
