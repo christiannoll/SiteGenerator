@@ -1172,4 +1172,62 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>great_filter</name>
+	<title>The Great Filter</title>
+	<data>Does humanity still have its future ahead of it or already behind it?
+	In *1996* the economist [Robin Hanson](https://en.wikipedia.org/wiki/Robin_Hanson) published his essay "The Great Filter - Are We Almost Past It?", In which he first described the ["Great Filter"](https://en.wikipedia.org/wiki/Great_Filter) as an attempt to explain the [Fermi Paradox](https://en.wikipedia.org/wiki/Fermi_paradox) as a barrier that makes it unlikely that a civilization will reach a level of development necessary to engage in interstellar space travel. This barrier could be a challenge or threat that makes it extremely difficult to reach that stage.
+	In his essay, Hanson describes the following nine steps of an "evolutionary path" leading to colonization of the observable universe:
+	1. The right [star system](https://en.wikipedia.org/wiki/Star_system) (including organics and [potentially habitable](https://en.wikipedia.org/wiki/Drake_equation#Average_number_of_planets_that_might_support_life_per_star_that_has_planets,_ne) planets)
+	2. Reproductive [molecules](https://en.wikipedia.org/wiki/Molecules) (e.g. [RNA](https://en.wikipedia.org/wiki/RNA))
+	3. Simple ([prokaryotic](https://en.wikipedia.org/wiki/Prokaryotic)) [single-cell life](https://en.wikipedia.org/wiki/Microorganisms)
+	4. Complex ([eukaryotic](https://en.wikipedia.org/wiki/Eukaryotic)) single-cell life
+	5. [Sexual reproduction](https://en.wikipedia.org/wiki/Sexual_reproduction)
+	6. [Multi-cell life](https://en.wikipedia.org/wiki/Evolution_of_multicellularity)
+	7. Tool-using [animals](https://en.wikipedia.org/wiki/Animal) with [intelligence](https://en.wikipedia.org/wiki/Intelligence)
+	8. A civilization advancing toward the potential for a colonization explosion (where we are now)
+	9. [Colonization explosion](https://en.wikipedia.org/wiki/Space_colonization#Outside_the_Solar_System)
+	According to the Great Filter hypothesis, at least one of these steps must be improbable. If it is not an early step (i.e., in our past), then that means the unlikely step is in our future. In this sense, it would not be good news for humanity if we found multicellular life on [Mars](https://en.wikipedia.org/wiki/Mars).</data>
+	<date>14.02.2021</date>
+	<index><i>Mars</i><i type="Person">Robin Hanson</i><i>Fermi Paradox</i></index>
+	<tags><t>Astronomy</t><t>Biology</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>hans_fallada_on_writing</name>
+	<title>Hans Fallada on writing</title>
+	<data>[Hans Fallada](https://en.wikipedia.org/wiki/Hans_Fallada), author of ["Every Man Dies Alone"](https://en.wikipedia.org/wiki/Every_Man_Dies_Alone) about writing:
+		"I have to write how the silk worm has to spin its thread, it has to come out, and it has to come out as it is inside."</data>
+	<date>18.02.2021</date>
+	<index><i type="Person">Hans Fallada</i></index>
+	<tags><t>Literature</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>poster5</name>
+	<title>Poster</title>
+	<data>poster5_small.png</data>
+	<date>22.02.2021</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="randomLinkColor">
+	<name>requiem_for_a_dream</name>
+	<title>Requiem for a Dream</title>
+	<data>If the stuff dreams are made of is a white powder in small transparent plastic bags or colorful pills, the dream ends up being a nightmare with no redeeming awakening. 
+	For this madness, director [Darren Aronofsky](https://en.wikipedia.org/wiki/Darren_Aronofsky) finds impressive images in his film, sometimes staccato-like cut together or distorted shots of the four protagonists as they ghost through the film, so that the viewer can literally feel and see the ecstatic overstimulation of the synapses. 
+	["Requiem for a Dream"](https://en.wikipedia.org/wiki/Requiem_for_a_Dream) (*2000*) / Regie: [Darren Aronofsky](https://en.wikipedia.org/wiki/Darren_Aronofsky) / Drehbuch: [Hurbert Selby Jr.](https://en.wikipedia.org/wiki/Hubert_Selby_Jr.) / Kamera: [Matthew Libatique](https://en.wikipedia.org/wiki/Matthew_Libatique) / Musik: [Clint Mansell](https://en.wikipedia.org/wiki/Clint_Mansell) / Besetzung: [Ellen Burstyn](https://en.wikipedia.org/wiki/Ellen_Burstyn), [Jared Leto](https://en.wikipedia.org/wiki/Jared_Leto), [Jennifer Connelly](https://en.wikipedia.org/wiki/Jennifer_Connelly), [Marlon Wayans](https://en.wikipedia.org/wiki/Marlon_Wayans)</data>
+	<date>26.02.2021</date>
+	<index><i type="Person">Darren Aronofsky</i></index>
+	<tags><t>Movie</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>dark_forest_theory</name>
+	<title>The Dark Forest Theory</title>
+	<data>Should humanity call out into the dark cosmos and thus give away its existence? According to the [Dark Forest Theory](https://en.wikipedia.org/wiki/Fermi_paradox#Willingness_to_communicate), named after Liu Cixin's book ["The Dark Forest"](https://en.wikipedia.org/wiki/The_Dark_Forest), this would be a fatal mistake that could mean the end of human civilization.
+	The Dark Forest Theory is [another](#2021/02/14/great_filter/) attempt to explain the [Fermi Paradox](https://en.wikipedia.org/wiki/Fermi_paradox). It is based on the assumption that there are many highly developed civilizations in the universe and if among them only one is aggressive like a predator in a dark forest, one would rather not reveal the location of the own civilization and would like to camouflage itself instead, in order to escape an extinction.
+	In [Liu Cixin's](https://en.wikipedia.org/wiki/Liu_Cixin) book, based on this theory, a [balance of terror](https://en.wikipedia.org/wiki/Mutual_assured_destruction), similar to the logic of the Cold War, is established by Earth to prevent its own annihilation by another non-human civilization, the [Trisolarans](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)).
+	</data>
+	<date>02.03.2021</date>
+	<index><i>Fermi Paradox</i><i type="Person">Liu Cixin</i></index>
+	<tags><t>Astronomy</t><t>Technology</t><t>Literature</t></tags>
+</item>
 </content>
