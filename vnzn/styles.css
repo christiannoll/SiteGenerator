@@ -103,6 +103,12 @@ nav {
 .postDateline a:hover {
 	color: rgba(70, 140, 220, 1.0);
 }
+.menuLine {
+  width: 35px;
+  height: 5px;
+  background-color: rgba(70, 140, 220, 1.0);
+  margin: 6px 0;
+}
 
 footer {
 	margin-bottom: 0;

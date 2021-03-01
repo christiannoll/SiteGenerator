@@ -105,6 +105,10 @@ func div_blogArchiveIndex(_ children: [SmlNode]) -> SmlNode {
     return div([css_class => "blogArchiveIndex"], children)
 }
 
+func div_menuLine(_ children: [SmlNode]) -> SmlNode {
+    return div([css_class => "menuLine"], children)
+}
+
 func article_post(_ children: [SmlNode]) -> SmlNode {
     return article([css_class => "post"], children)
 }

@@ -27,6 +27,9 @@ class Page {
     private func renderBody() -> SmlNode {
         var bodyChildren: [SmlNode] = [newLine]
         
+        bodyChildren.append(renderBurgerButton())
+        bodyChildren.append(newLine)
+        
         bodyChildren.append(renderHeader())
         bodyChildren.append(newLine)
         
@@ -92,6 +95,14 @@ class Page {
         let link = a([href => (Page.baseUrl + "archive")], [SiteGeneratorEnv.forGerman() ? "Archiv": "Archive"])
         let para = p([link])
         return para
+    }
+    
+    private func renderBurgerButton() -> SmlNode {
+        let devMenuLine = div_menuLine([])
+        let lineDivs: [SmlNode] = [devMenuLine, devMenuLine, devMenuLine]
+        let divNode = div([], lineDivs)
+        let link = a([href => "#navLinks"], [divNode])
+        return link
     }
     
     private func renderHeader() -> SmlNode {
@@ -206,7 +217,7 @@ class Page {
     }
     
     private func nav(_ children: [SmlNode]) -> SmlNode {
-        return node("nav", children)
+        return node("nav", [id => "navLinks"], children)
     }
     
     private func footer(_ children: [SmlNode]) -> SmlNode {
