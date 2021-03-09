@@ -1230,4 +1230,21 @@
 	<index><i>Fermi Paradox</i><i type="Person">Liu Cixin</i></index>
 	<tags><t>Astronomy</t><t>Technology</t><t>Literature</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>ditch</name>
+	<title>The Ditch</title>
+	<data>ditch_small.png</data>
+	<date>06.03.2021</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>animal_rationale</name>
+	<title>Animal rationale</title>
+	<data>Are we free in our actions / are we slaves of our [neurons](https://en.wikipedia.org/wiki/Neuron) / prisoners of external circumstances / a tool of the [unconscious](https://en.wikipedia.org/wiki/Unconscious_mind) / a medium for spreading [ideas](https://en.wikipedia.org/wiki/Internet_meme)?
+	In the best case - we are [rational animals](https://en.wikipedia.org/wiki/Rational_animal).</data>
+	<date>10.03.2021</date>
+	<index><i type="Person">Aristotle</i></index>
+	<tags><t>Philosophy</t></tags>
+</item>
 </content>
