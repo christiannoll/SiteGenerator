@@ -1259,4 +1259,12 @@
 	<index><i type="Person">James Joyce</i></index>
 	<tags><t>Literatur</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>structure</name>
+	<title>Structure</title>
+	<data>structure_small.png</data>
+	<date>18.03.2021</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
