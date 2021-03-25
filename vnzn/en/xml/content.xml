@@ -1264,4 +1264,27 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>money_and_technology</name>
+	<title>Money and Technology</title>
+	<data>The [means of exchange and payment](https://en.wikipedia.org/wiki/Payment) used by people have always reflected the level of technological development in a society.
+	* For a long time people used very different natural products as currency, e.g. shells in China, cocoa beans in Central America, exotic feathers in Melanesia or iron rods in West Africa.
+	* Later, precious metals such as gold and silver were added. First silver [coins](https://en.wikipedia.org/wiki/Coin) were minted around *550 BC* in Asia Minor.
+	* Around *300 BC*, the first round Roman coins are made of bronze and copper.
+	* In China, [paper money](https://en.wikipedia.org/wiki/Banknote) was first issued in the Song Dynasty (*960-1127*) and in Europe, banknotes are issued from *1661*.
+	* The first plastic [credit cards](https://en.wikipedia.org/wiki/Credit_card) were issued in the U.S. in *1961* and credit cards with a standardized magnetic stripe began to gain acceptance worldwide in *1980*.
+	* [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin) was the first [cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency) to be introduced as a digital method of payment in *2009*.
+	One of the driving factors behind this evolution from shells to cryptocurrencies is society's desire for a secure, scalable and decentralized means of payment.</data>
+	<date>22.03.2021</date>
+	<index><i>Bitcoin</i></index>
+	<tags><t>General</t><t>Technology</t><t>Society</t></tags>
+</item>
+<item type="text" format="randomLinkColor">
+	<name>minimal_music</name>
+	<title>Minimal Music</title>
+	<data>`==` [Steve Reich](https://en.wikipedia.org/wiki/Steve_Reich) `== :: ==` [Julius Eastman](https://en.wikipedia.org/wiki/Julius_Eastman) `== :: ==` [Terry Riley](https://en.wikipedia.org/wiki/Terry_Riley) `== :: ==` [Philip Glass](https://en.wikipedia.org/wiki/Philip_Glass) `== :: ==` [La Monte Young](https://en.wikipedia.org/wiki/La_Monte_Young) `==`</data>
+	<date>26.03.2021</date>
+	<index><i type="Musiker">Steve Reich</i></index>
+	<tags><t>Music</t></tags>
+</item>
 </content>

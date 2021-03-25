@@ -1267,4 +1267,27 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>money_and_technology</name>
+	<title>Geld und Technologie</title>
+	<data>Die von den Menschen verwendeten [Tausch- und Zahlungsmittel](https://de.wikipedia.org/wiki/Zahlungsmittel) spiegelten schon immer den technologischen Entwicklungsstand einer Gesellschaft wieder.
+		* Über lange Zeit verwendeten die Menschen ganz unterschiedliche natürliche Produkte als Zahlungsmittel, z.B. Muscheln in China, Kakaobohnen in Mittelamerika, exotische Federn in Melanesien oder Eisentstäbchen in Westafrika.
+		* Später kamen dann Edelmetalle wie Gold und Silber dazu. Erste Silbermünzen wurden um *550 v.Chr.* in Kleinasien geprägt.
+		* Ca. *300 v.Chr.* werden erste runde römische [Münzen](https://de.wikipedia.org/wiki/M%C3%BCnze) aus Bronze und Kupfer gefertigt.
+		* In China wurde in der Song-Dynastie (*960–1127*) zum ersten Mal [Papiergeld](https://de.wikipedia.org/wiki/Banknote) herausgegeben und in Europa werden ab *1661* Banknoten emittiert.
+		* In den USA begann man *1961* die ersten Plastik-Kreditkarten auszugeben und weltweit setzten sich ab *1980* [Kreditkarten](https://de.wikipedia.org/wiki/Kreditkarte) mit einem standardisierten Magnetstreifen durch.
+		* Mit [Bitcoin](https://de.wikipedia.org/wiki/Bitcoin) wurde *2009* die erste [Kryptowährung](https://de.wikipedia.org/wiki/Kryptow%C3%A4hrung) als digitales Zahlungsmittel eingeführt.
+		Einer der treibenden Faktoren für diese Entwicklung von der Muschel bis zu Kryptowährungen ist der gesellschaftliche Wunsch nach einem sicheren, skalierbaren und dezentralen Zahlungsmittel.</data>
+	<date>22.03.2021</date>
+	<index><i>Bitcoin</i></index>
+	<tags><t>Allgemein</t><t>Technologie</t><t>Gesellschaft</t></tags>
+</item>
+<item type="text" format="randomLinkColor">
+	<name>minimal_music</name>
+	<title>Minimal Music</title>
+	<data>`==` [Steve Reich](https://de.wikipedia.org/wiki/Steve_Reich) `== :: ==` [Julius Eastman](https://de.wikipedia.org/wiki/Julius_Eastman) `== :: ==` [Terry Riley](https://de.wikipedia.org/wiki/Terry_Riley) `== :: ==` [Philip Glass](https://de.wikipedia.org/wiki/Philip_Glass) `== :: ==` [La Monte Young](https://de.wikipedia.org/wiki/La_Monte_Young) `==`</data>
+	<date>26.03.2021</date>
+	<index><i type="Musiker">Steve Reich</i></index>
+	<tags><t>Musik</t></tags>
+</item>
 </content>
