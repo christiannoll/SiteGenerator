@@ -381,7 +381,7 @@
 <item type="text" format="normal">
 	<name>2001_zeit_monolith</name>
 	<title>2001: Odyssee im Weltraum: Der Monolith -I-</title>
-	<data>Wie aus dem Nichts kommend steht er plötzlich da, der [Monolith](https://2001.fandom.com/wiki/Monolith), perfekt quaderförmig und schwarz gläuzend in der aufgehenden Sonne. Der Monolith erscheint im ersten Akt des [Films](https://de.wikipedia.org/wiki/2001:_Odyssee_im_Weltraum) genauso überraschend für die erwachende Vormenschensippe wie für die Zuschauer. Es ist wie eine Offenbarung.
+	<data>Wie aus dem Nichts kommend steht er plötzlich da, der [Monolith](https://2001.fandom.com/wiki/Monolith), perfekt quaderförmig und schwarz glänzend in der aufgehenden Sonne. Der Monolith erscheint im ersten Akt des [Films](https://de.wikipedia.org/wiki/2001:_Odyssee_im_Weltraum) genauso überraschend für die erwachende Vormenschensippe wie für die Zuschauer. Es ist wie eine Offenbarung.
 	Die Sippe umkreist aufgeregt den Monolithen, nähert sich ihm ängstlich, immer wieder zurückweichend, um am Ende über seine glatte Oberfläche ehrfurchtsvoll mit ihren Händen zu streichen. Diese Erfahrung wirkt transformativ für die weitere Entwicklung der Menschheit. Bleibt die Frage, [wer](https://de.wikipedia.org/wiki/Au%C3%9Ferirdisches_Leben) oder [was](https://de.wikipedia.org/wiki/Gott) hat den Monolithen dort aufgestellt?
 	</data>
 	<date>25.03.2020</date>
@@ -1287,7 +1287,25 @@
 	<title>Minimal Music</title>
 	<data>`==` [Steve Reich](https://de.wikipedia.org/wiki/Steve_Reich) `== :: ==` [Julius Eastman](https://de.wikipedia.org/wiki/Julius_Eastman) `== :: ==` [Terry Riley](https://de.wikipedia.org/wiki/Terry_Riley) `== :: ==` [Philip Glass](https://de.wikipedia.org/wiki/Philip_Glass) `== :: ==` [La Monte Young](https://de.wikipedia.org/wiki/La_Monte_Young) `==`</data>
 	<date>26.03.2021</date>
-	<index><i type="Musiker">Steve Reich</i></index>
+	<index><i type="Musiker">Steve Reich</i><i type="Musiker">Julius Eastman</i><i type="Musiker">Terry Riley</i></index>
 	<tags><t>Musik</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>stripes2</name>
+	<title>Stripes and a dress</title>
+	<data>stripes2_small.png</data>
+	<date>30.03.2021</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>satoshi_nakamoto</name>
+	<title>Wer ist Satoshi Nakamoto?</title>
+	<data>Diese Frage beschäftigt die Mediennwelt seit dem *03. Januar 2009*, als eine Person oder eine Gruppe von Personen unter dem Namen [Satoshi Nakamoto](https://de.wikipedia.org/wiki/Satoshi_Nakamoto) die Version 0.1 der [Bitcoin](https://de.wikipedia.org/wiki/Bitcoin) Software veröffentlichte und das Bitcoin-Netzwerk mit der Schöpfung der ersten 50 Bitcoin und der Generierung des "Block 0", des sogenannten Genesis Block, startete.
+	Aus der Synthese einer [Idee](https://bitcoin.org/bitcoin.pdf), [Mathematik](https://de.wikipedia.org/wiki/Kryptographie) und [Software](https://github.com/bitcoin/bitcoin) wurde etwas geschaffen, was die Verlagerung des Alltags der Menschen ins Digitale beschleunigen wird.
+	Die Spekulationen über die Identität von Satoshi Nakamoto werden natürlich weitergehen, sind aber sinnlos, denn entscheidend ist das Werk und nicht dessen [Schöpfer](https://de.wikipedia.org/wiki/Sch%C3%B6pfung).</data>
+	<date>03.04.2021</date>
+	<index><i type="Person">Satoshi Nakamoto</i><i>Bitcoin</i></index>
+	<tags><t>Technologie</t><t>Gesellschaft</t></tags>
 </item>
 </content>

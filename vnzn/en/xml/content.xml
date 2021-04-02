@@ -1284,7 +1284,25 @@
 	<title>Minimal Music</title>
 	<data>`==` [Steve Reich](https://en.wikipedia.org/wiki/Steve_Reich) `== :: ==` [Julius Eastman](https://en.wikipedia.org/wiki/Julius_Eastman) `== :: ==` [Terry Riley](https://en.wikipedia.org/wiki/Terry_Riley) `== :: ==` [Philip Glass](https://en.wikipedia.org/wiki/Philip_Glass) `== :: ==` [La Monte Young](https://en.wikipedia.org/wiki/La_Monte_Young) `==`</data>
 	<date>26.03.2021</date>
-	<index><i type="Musiker">Steve Reich</i></index>
+	<index><i type="Musiker">Steve Reich</i><i type="Musiker">Julius Eastman</i><i type="Musiker">Terry Riley</i></index>
 	<tags><t>Music</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>stripes2</name>
+	<title>Stripes and a dress</title>
+	<data>stripes2_small.png</data>
+	<date>30.03.2021</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>satoshi_nakamoto</name>
+	<title>Who is Satoshi Nakamoto?</title>
+	<data>This question has occupied the media since *January 03, 2009*, when a person or group of people under the name of [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto) released version 0.1 of the [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin) software and launched the bitcoin network with the creation of the first 50 bitcoins and the generation of "Block 0", the so-called [genesis block](https://en.wikipedia.org/wiki/Genesis_(blockchain)).
+	From the synthesis of an [idea](https://bitcoin.org/bitcoin.pdf), [mathematics](https://en.wikipedia.org/wiki/Cryptography) and [software](https://github.com/bitcoin/bitcoin), something was created that will accelerate the shift of people's everyday lives into the digital space.
+	Speculation about the identity of Satoshi Nakamoto will continue, of course, but it is pointless because what matters is the work, not its [creator](https://en.wikipedia.org/wiki/Creation_myth).</data>
+	<date>03.04.2021</date>
+	<index><i type="Person">Satoshi Nakamoto</i><i>Bitcoin</i></index>
+	<tags><t>Technology</t><t>Society</t></tags>
 </item>
 </content>
