@@ -70,6 +70,14 @@ class FormatBuilder {
             switch element {
             case .link(let mdNodes):
                 nodes.append(.link(parseLink(mdNodes)))
+            case .ulist(let mdNodes):
+                nodes.append(.ulist(parseLinks(elements:mdNodes)))
+            case .olist(let mdNodes):
+                nodes.append(.olist(parseLinks(elements:mdNodes)))
+            case .olistelement(let mdNodes):
+                nodes.append(.olistelement(parseLinks(elements:mdNodes)))
+            case .ulistelement(let mdNodes):
+                nodes.append(.ulistelement(parseLinks(elements:mdNodes)))
             default:
                 nodes.append(element)
             }
