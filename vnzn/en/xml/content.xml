@@ -1305,4 +1305,17 @@
 	<index><i type="Person">Satoshi Nakamoto</i><i>Bitcoin</i></index>
 	<tags><t>Technology</t><t>Society</t></tags>
 </item>
+<item type="text" format="randomLinkColor">
+	<name>beethoven_late_piano_sonatas</name>
+	<title>Beethoven's late piano sonatas</title>
+	<data>[Beethoven's](https://en.wikipedia.org/wiki/Ludwig_van_Beethoven) late creative phase was marked by progressive deafness and frequent illnesses. Musically, he was intensively occupied with compositions by Johann Sebastian Bach, which is also reflected in the contrapuntal style of the ["Hammerklaviersonate"](https://en.wikipedia.org/wiki/Piano_Sonata_No._29_(Beethoven)).
+	The increasing deafness affects Beethoven's way of composing. Its formal structure no longer adheres to the conventional rules and the sounds become more spacious and complex.
+	* [Piano Sonata No. 29 in B♭ major, Op. 106 „Hammerklaviersonate“](https://en.wikipedia.org/wiki/Piano_Sonata_No._29_(Beethoven)) (*1818*) 
+	* [Piano Sonata No. 30 in E major, Op. 109](https://en.wikipedia.org/wiki/Piano_Sonata_No._30_(Beethoven)) (*1820*) 
+	* [Piano Sonata No. 31 in A♭ major, Op. 110](https://en.wikipedia.org/wiki/Piano_Sonata_No._31_(Beethoven)) (*1821*) 
+	* [Piano Sonata No. 32 in C minor, Op. 111](https://en.wikipedia.org/wiki/Piano_Sonata_No._32_(Beethoven)) (*1822*)</data>
+	<date>07.04.2021</date>
+	<index><i type="Musiker">Ludwig van Beethoven</i><i type="Musiker">Johann Sebastian Bach</i></index>
+	<tags><t>Music</t></tags>
+</item>
 </content>
