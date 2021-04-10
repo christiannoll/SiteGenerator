@@ -1318,4 +1318,12 @@
 	<index><i type="Musiker">Ludwig van Beethoven</i><i type="Musiker">Johann Sebastian Bach</i></index>
 	<tags><t>Music</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>architecture</name>
+	<title>Architecture</title>
+	<data>architecture_small.png</data>
+	<date>11.04.2021</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
 </content>
