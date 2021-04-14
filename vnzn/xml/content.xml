@@ -1311,7 +1311,7 @@
 <item type="text" format="randomLinkColor">
 	<name>beethoven_late_piano_sonatas</name>
 	<title>Beethovens späte Klaviersonaten</title>
-	<data>Die späte Schaffensphase [Beethovens](https://de.wikipedia.org/wiki/Ludwig_van_Beethoven) ist durch die fortschreitende Taubheit und häufige Krankheiten geprägt. Musikalisch beschäftigt er sich intensiv mit Kompositionen von Johann Sebastian Bach, was sich auch im kontrapunktischen Stil der [Hammerklaviersonate](#2020/09/11/beetoven_nr_29_hammerklavier/) widerspiegelt. 
+	<data>Die späte Schaffensphase [Beethovens](https://de.wikipedia.org/wiki/Ludwig_van_Beethoven) ist durch die fortschreitende Taubheit und häufige Krankheiten geprägt. Musikalisch beschäftigt er sich in dieser Zeit intensiv mit Kompositionen von Johann Sebastian Bach, was sich auch im kontrapunktischen Stil der [Hammerklaviersonate](#2020/09/11/beetoven_nr_29_hammerklavier/) widerspiegelt. 
 	Die zunehmende Gehörlosigkeit wirkt sich auf Beethovens Kompositionsweise aus. Er hält sich im formalen Aufbau nicht mehr an die konventionellen Regeln und die Klänge werden weiträumiger und komplexer.
 	* [Klaviersonate Nr. 29 B-Dur op. 106 „Hammerklaviersonate“](https://de.wikipedia.org/wiki/Klaviersonate_Nr._29_(Beethoven)) (*1818*) 
 	* [Klaviersonate Nr. 30 E-Dur op. 109](https://de.wikipedia.org/wiki/Klaviersonate_Nr._30_(Beethoven)) (*1820*) 
@@ -1328,5 +1328,19 @@
 	<date>11.04.2021</date>
 	<index></index>
 	<tags><t>Foto</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>deconstructing_vietnam_war</name>
+	<title>Dekonstruktion des Kriegs im Film</title>
+	<data>Seit der Erfindung des Kinos wurde der Film von den Mächtigen für ihre eigene Agenda und Propaganda benutzt. In solchen Filmen wurde der Krieg durch Bilder von Heldentum und Bewährung des einzelnen Kriegers und der eigenen technologischen Überlegenheit verherrlicht. 
+	Allerdings gab es auch schon immer Filmemacher die dem etwas entgegensetzen wollten und die die Schrecken des Krieges in ihren Filmen sichtbar gemacht haben. 
+	So wurden z.B. in den 70iger und 80iger Jahren Filme über den [Vietnamkrieg](https://de.wikipedia.org/wiki/Vietnamkrieg) gedreht, in denen dieser Krieg mit den Mitteln des Kinos vollständig dekonstruiert wurde. Nichts blieb mehr übrig von Vernunft und Moral, wenig von Glamour und Heroismus. Dies sind Filme die an das wirkliche Grauen und an die innere und äußere Zerstörung des Krieges heranreichen.
+	* ["Die durch die Hölle gehen"](https://de.wikipedia.org/wiki/Die_durch_die_H%C3%B6lle_gehen) von [Michael Cimino](https://de.wikipedia.org/wiki/Michael_Cimino) (*1978*) 
+	* ["Apocalypse Now"](https://de.wikipedia.org/wiki/Apocalypse_Now) von [Francis Ford Coppola](https://de.wikipedia.org/wiki/Francis_Ford_Coppola) (*1979*)
+	* ["Platoon"](https://de.wikipedia.org/wiki/Platoon_(Film)) von [Oliver Stone](https://de.wikipedia.org/wiki/Oliver_Stone) (*1986*)
+	* ["Full Metal Jacket"](https://de.wikipedia.org/wiki/Full_Metal_Jacket) von [Stanley Kubrick](https://de.wikipedia.org/wiki/Stanley_Kubrick) (*1987*)</data>
+	<date>15.04.2021</date>
+	<index><i type="Person">Stanley Kubrick</i></index>
+	<tags><t>Film</t><t>Gesellschaft</t></tags>
 </item>
 </content>
