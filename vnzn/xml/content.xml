@@ -1352,4 +1352,12 @@
 	<index><i>Gehirn</i><i>Zukunft</i></index>
 	<tags><t>Technologie</t><t>Gesellschaft</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>dinner</name>
+	<title>Dinner</title>
+	<data>dinner_small.png</data>
+	<date>23.04.2021</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
