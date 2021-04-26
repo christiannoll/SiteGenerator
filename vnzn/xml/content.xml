@@ -1360,4 +1360,15 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>marie_curie</name>
+	<title>Marie Curie</title>
+	<data>"Es wurde notwendig, eine geeignete Bezeichnung für die neu entdeckte Eigenschaft der Materie zu finden. Ich schlug die Bezeichnung *Radioaktivität* vor." Marie Curie
+	Für ihre wissenschaftlichen Arbeiten auf dem Gebiet der [Radioaktivität](https://de.wikipedia.org/wiki/Radioaktivit%C3%A4t) erhält [Marie Curie](https://de.wikipedia.org/wiki/Marie_Curie) zusammen mit Ihrem Ehemann [Pierre Curie](https://de.wikipedia.org/wiki/Pierre_Curie) und dem Physiker Antoine Henri Becquerel *1903* den [Nobelpreis](https://de.wikipedia.org/wiki/Nobelpreis_f%C3%BCr_Physik) für Physik. Damit ist Marie Curie die erste Frau, die den Nobelpreis erhält. Das sorgt für eine Sensation, denn sie ist auch die erste Frau, die in Frankreich einen Doktor der Naturwissenschaften verliehen bekommt.
+	*1911* wird Marie Curie zum zweiten Mal der [Nobelpreis](https://www.nobelprize.org/prizes/chemistry/1911/marie-curie/lecture/), diesmal für Chemie, zugesprochen. Dadurch ist sie, neben [Linus Pauling](https://de.wikipedia.org/wiki/Linus_Pauling) bisher die einzige Person, die Nobelpreise auf zwei verschiedenen Fachgebieten erhielt.
+	"Sie ist unter allen berühmten Menschen der einzige, den der Ruhm nicht verdorben hat." [Albert Einstein](https://de.wikipedia.org/wiki/Albert_Einstein) über Marie Curie</data>
+	<date>27.04.2021</date>
+	<index><i type="Person">Marie Curie</i><i type="Person">Albert Einstein</i><i>Radioaktivität</i></index>
+	<tags><t>Physik</t></tags>
+</item>
 </content>

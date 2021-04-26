@@ -1357,4 +1357,16 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>marie_curie</name>
+	<title>Marie Curie</title>
+	<data>"It became necessary to find a suitable name for the newly discovered property of matter. I suggested the name *radioactivity*." [Marie Curie](https://en.wikipedia.org/wiki/Marie_Curie)
+	For her scientific work in the field of [radioactivity](https://en.wikipedia.org/wiki/Radioactive_decay), Marie Curie, together with her husband [Pierre Curie](https://en.wikipedia.org/wiki/Pierre_Curie) and the physicist Antoine Henri Becquerel, was awarded the [Nobel Prize](https://en.wikipedia.org/wiki/Nobel_Prize_in_Physics) in Physics in *1903*. This makes Marie Curie the first woman to receive the Nobel Prize. This causes a sensation, because she is also the first woman to be awarded a doctorate in natural sciences in France.
+	In *1911* Marie Curie was awarded the [Nobel Prize](https://www.nobelprize.org/prizes/chemistry/1911/marie-curie/lecture/) for the second time, this time for chemistry. As a result, she is the only person besides [Linus Pauling](https://en.wikipedia.org/wiki/Linus_Pauling) to have received Nobel Prizes in two different fields.
+	"She is the only famous person who has not been spoiled by fame." [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) on Marie Curie
+	</data>
+	<date>27.04.2021</date>
+	<index><i type="Person">Marie Curie</i><i type="Person">Albert Einstein</i><i>Radioactivity</i></index>
+	<tags><t>Physics</t></tags>
+</item>
 </content>
