@@ -1371,4 +1371,12 @@
 	<index><i type="Person">Marie Curie</i><i type="Person">Albert Einstein</i><i>Radioaktivität</i></index>
 	<tags><t>Physik</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>the_dream</name>
+	<title>Der Traum</title>
+	<data>Jemand musste K's Träume verleumdet haben, denn ohne das er etwas Böses geträumt hätte, wurde ihm eines Morgens mitgeteilt, dass seine Träume nicht mehr im [Dream Store](#2021/04/19/dream_store) angeboten werden könnten.</data>
+	<date>01.05.2021</date>
+	<index><i>Dream Store</i><i type="Person">Franz Kafka</i></index>
+	<tags><t>Literatur</t><t>Allgemein</t></tags>
+</item>
 </content>

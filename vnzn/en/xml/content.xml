@@ -1369,4 +1369,12 @@
 	<index><i type="Person">Marie Curie</i><i type="Person">Albert Einstein</i><i>Radioactivity</i></index>
 	<tags><t>Physics</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>the_dream</name>
+	<title>The Dream</title>
+	<data>Someone must have slandered K's dreams, because without him dreaming anything bad, he was told one morning that his dreams could no longer be offered in the [Dream Store](#2021/04/19/dream_store).</data>
+	<date>01.05.2021</date>
+	<index><i>Dream Store</i><i type="Person">Franz Kafka</i></index>
+	<tags><t>Literature</t><t>General</t></tags>
+</item>
 </content>
