@@ -97,6 +97,14 @@ class Page {
         return para
     }
     
+    func createTwitterLine() -> [SmlNode] {
+        var nodes: [SmlNode] = []
+        nodes.append(.text("Twitter: "))
+        let address = "https://twitter.com/fr0schmidt"
+        nodes.append(a([href => (address)], ["fr0schmidt"]))
+        return nodes
+    }
+    
     private func renderBurgerButton() -> SmlNode {
         let devMenuLine = div_menuLine([])
         let lineDivs: [SmlNode] = [devMenuLine, devMenuLine, devMenuLine]
