@@ -1377,4 +1377,27 @@
 	<index><i>Dream Store</i><i type="Person">Franz Kafka</i></index>
 	<tags><t>Literature</t><t>General</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>rock</name>
+	<title>The Rock</title>
+	<data>rock_small.png</data>
+	<date>05.05.2021</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>wonderful_numbers</name>
+	<title>The wonderful world of numbers</title>
+	<data>A [three](https://en.wikipedia.org/wiki/3) is a three and remains a three, there is no room for interpretation and discussion, that is unambiguously and the relations are clear.
+	[Numbers](https://en.wikipedia.org/wiki/Number) are truth and bring order to a chaotic and complex world. They determine our lives and are part of a universal language from which our [universe](https://en.wikipedia.org/wiki/Universe) is made of. They exist in infinite quantities and in different varieties, such as the [natural numbers](https://en.wikipedia.org/wiki/Natural_number), the [rational numbers](https://en.wikipedia.org/wiki/Rational_number), the [real numbers](https://en.wikipedia.org/wiki/Real_number), the [irrational numbers](https://en.wikipedia.org/wiki/Irrational_number), the [complex numbers](https://en.wikipedia.org/wiki/Complex_number), the hyper real numbers, the hyper complex numbers and the [surreal numbers](https://en.wikipedia.org/wiki/Surreal_number).
+	Some numbers are very special, have special properties such as the [prime numbers](https://en.wikipedia.org/wiki/Prime_number). There are also fascinating [mathematical constants](https://en.wikipedia.org/wiki/Mathematical_constant), such as:
+		* [Pi](#2020/03/01/number_pi/) π = `3.14159 26535 89793 23846 …`
+		* [Euler's number](https://en.wikipedia.org/wiki/E_(mathematical_constant)) e = `2.71828 18284 59045 23536 …`
+		* The [golden ratio](https://en.wikipedia.org/wiki/Golden_ratio) Φ = `1.61803 39887 49894 84820 …`
+	</data>
+	<date>09.05.2021</date>
+	<index><i>Complexity</i><i>Universum</i></index>
+	<tags><t>Mathematics</t><t>General</t></tags>
+	<serial>Complexity</serial>
+</item>
 </content>

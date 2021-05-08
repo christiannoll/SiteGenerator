@@ -1379,4 +1379,27 @@
 	<index><i>Dream Store</i><i type="Person">Franz Kafka</i></index>
 	<tags><t>Literatur</t><t>Allgemein</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>rock</name>
+	<title>The Rock</title>
+	<data>rock_small.png</data>
+	<date>05.05.2021</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>wonderful_numbers</name>
+	<title>Die wunderbare Welt der Zahlen</title>
+	<data>Eine [Drei](https://de.wikipedia.org/wiki/Drei) ist eine Drei und bleibt eine Drei, da gibt es keinen Platz für Interpretationen und Diskussionen, das ist eindeutig und die Verhältnisse sind geklärt.
+	[Zahlen](https://de.wikipedia.org/wiki/Zahl) sind Wahrheit und bringen Ordnung in eine chaotische und komplexe Welt. Sie bestimmen unser Leben und sind Teil einer universellen Sprache aus der unser [Universum](https://de.wikipedia.org/wiki/Universum) gewoben ist. Es gibt sie in unendlicher Menge und in unterschiedlichen Spielarten, wie z.B. die [natürlichen Zahlen](https://de.wikipedia.org/wiki/Nat%C3%BCrliche_Zahl), die [rationalen Zahlen](https://de.wikipedia.org/wiki/Rationale_Zahl), die [reellen Zahlen](https://de.wikipedia.org/wiki/Reelle_Zahlen), die [irrationalen Zahlen](https://de.wikipedia.org/wiki/Irrationale_Zahl), die [komplexen Zahlen](https://de.wikipedia.org/wiki/Komplexe_Zahlen), die hyperreellen Zahlen, die hyperkomplexen Zahlen und die [surrealen Zahlen](https://de.wikipedia.org/wiki/Surreale_Zahl).
+	Einige Zahlen sind ganz besonders, haben besondere Eigenschaften wie z.B. die [Primzahlen](https://de.wikipedia.org/wiki/Primzahl). Daneben gibt es noch faszinierende [mathematische Konstanten](https://de.wikipedia.org/wiki/Mathematische_Konstante), wie:
+		* die [Kreiszahl](#2020/03/01/number_pi/) pi = `3,14159 26535 89793 23846 …` 
+		* die [Eulersche Zahl](https://de.wikipedia.org/wiki/Eulersche_Zahl) e = `2,71828 18284 59045 23536 …`
+		* den [Goldenen Schnitt](https://de.wikipedia.org/wiki/Goldener_Schnitt) Φ = `1,61803 39887 49894 84820 …`
+		</data>
+	<date>09.05.2021</date>
+	<index><i>Komplexität</i><i>Universum</i></index>
+	<tags><t>Mathematik</t><t>Allgemein</t></tags>
+	<serial>Komplexität</serial>
+</item>
 </content>
