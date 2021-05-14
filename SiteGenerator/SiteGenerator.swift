@@ -111,5 +111,8 @@ struct SiteGenerator {
         
         let randomEntriesBuilder = RandomEntriesBuilder()
         randomEntriesBuilder.writeJsFile(posts)
+        
+        let betaPage = BetaPage()
+        writer.writeBetaPage(betaPage.render())
     }
 }

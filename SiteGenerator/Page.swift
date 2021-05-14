@@ -158,6 +158,13 @@ class Page {
         let serials = a([href => (Page.baseUrl + "serials")], [SiteGeneratorEnv.forGerman() ? "Serien" : "Serials"])
         pChildren.append(serials)
         
+        pChildren.append(.text(" • "))
+        pChildren.append(newLine)
+        pChildren.append(tab)
+        
+        let beta = a([href => (Page.baseUrl + "beta")], ["Beta"])
+        pChildren.append(beta)
+        
         let para = p(pChildren)
         navChildren.append(para)
         navChildren.append(newLine)

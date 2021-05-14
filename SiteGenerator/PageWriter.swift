@@ -68,6 +68,10 @@ class PageWriter {
         writeHtmlFile(content, "search/", "index.html")
     }
     
+    public func writeBetaPage(_ content: String) {
+        writeHtmlFile(content, "beta/", "index.html")
+    }
+    
     private func writeHtmlFile(_ content: String, _ relPath: String, _ fileName: String) {
         do {
             let htmlContent = "<!DOCTYPE html>\n" + content 
