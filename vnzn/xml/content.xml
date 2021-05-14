@@ -1418,4 +1418,12 @@
 	<index><i>Dream Store</i><i>Artificial Intelligence</i><i>GPT-2</i></index>
 	<tags><t>Literatur</t><t>Technologie</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>velvet_girl</name>
+	<title>Velvet Girl</title>
+	<data>velvet_girl_small.png</data>
+	<date>17.05.2021</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
