@@ -1424,4 +1424,14 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>stuxnet</name>
+	<title>Stuxnet</title>
+	<data>[Stuxnet](https://en.wikipedia.org/wiki/Stuxnet) - the first real cyber weapon. A weapon that was made entirely out of code and that works completely autonomously.
+	The [computer worm](https://en.wikipedia.org/wiki/Computer_worm) was first discovered in June *2010* and marks the beginning of the [cyberwar](https://en.wikipedia.org/wiki/Cyberwarfare) era. This complex malware was programmed by highly specialized experts, probably on behalf of the American and Israeli governments. To achieve its goal, Stuxnet used at least three [zero-day](https://en.wikipedia.org/wiki/Zero-day_(computing)) exploits. However, the malware did not aim to infect as many computers as possible, but very specific ones, the computers at the Iranian uranium enrichment plant in [Natanz](https://en.wikipedia.org/wiki/Stuxnet#Natanz_nuclear_facilities). That was the real target. Stuxnet was supposed to covertly sabotage the centrifuges in order to disrupt the Iranian nuclear program.
+	To date, not all of the Stuxnet puzzles have been solved. What is certain, however, is that Stuxnet was a wake-up call. It was clear that massive damage could be caused in the physical world by exploiting security [vulnerabilities](https://en.wikipedia.org/wiki/Vulnerability_(computing)) in software and networks. Such attacks can be understood as an act of war, as the U.S. has often emphasized.</data>
+	<date>21.05.2021</date>
+	<index><i>Computer</i><i>Stuxnet</i></index>
+	<tags><t>Computer science</t><t>Technology</t><t>Society</t></tags>
+</item>
 </content>

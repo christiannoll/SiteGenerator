@@ -1426,4 +1426,14 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>stuxnet</name>
+	<title>Stuxnet</title>
+	<data>[Stuxnet](https://de.wikipedia.org/wiki/Stuxnet) - das ist die erste echte Cyberwaffe. Eine Waffe die ausschließlich aus Programmcode geschaffen wurde und die völlig autonom arbeitet.
+	Der [Computerwurm](https://de.wikipedia.org/wiki/Computerwurm) wurde das erste Mal im Juni *2010* entdeckt und markiert den Beginn der [Cyberkrieg](https://de.wikipedia.org/wiki/Cyberkrieg)-Ära. Programmiert wurde diese komplexe Schadsoftware von hochspezialisierten Experten, wahrscheinlich im Auftrag der amerikanischen und israelischen Regierung. Um ihr Ziel zu erreichen nutzte Stuxnet mindestens drei [Zero-Day-Exploits](https://en.wikipedia.org/wiki/Zero-day_(computing)) aus. Bei der Schadsoftware ging es aber nicht darum, möglichst viele Computer zu infizieren, sondern ganz bestimmte, die Rechner in der iranischen Urananreicherungsanlage in [Natanz](https://de.wikipedia.org/wiki/Atomanlage_Natanz). Das war das eigentliche Ziel. Denn hier sollte Stuxnet im Verborgenen die Zentrifugen sabotieren, um so das iranische Atomprogramm zu stören.
+	Bis heute sind nicht alle Rätsel um Stuxnet gelöst. Sicher ist allerdings, dass Stuxnet ein Weckruf war. Damit war klar, dass durch das Ausnutzen von [Sicherheitslücken](https://de.wikipedia.org/wiki/Sicherheitsl%C3%BCcke) in Software und Netzwerken, massive Schäden in der physischen Welt verursacht werden können. Solche Angriffe können, wie es die USA auch schon öfter betont haben, als ein kriegerischer Akt verstanden werden.</data>
+	<date>21.05.2021</date>
+	<index><i>Computer</i><i>Stuxnet</i></index>
+	<tags><t>Informatik</t><t>Technologie</t><t>Gesellschaft</t></tags>
+</item>
 </content>
