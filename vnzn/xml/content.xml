@@ -1448,4 +1448,12 @@
 	<index><i type="Person">Forest Whitaker</i><i type="Person">Jim Jarmusch</i></index>
 	<tags><t>Film</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>big_f</name>
+	<title>Big F</title>
+	<data>abstract6_small.png</data>
+	<date>29.05.2021</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
