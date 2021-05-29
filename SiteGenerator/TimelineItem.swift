@@ -39,7 +39,7 @@ class TimelineItem {
         var liChildren: [SmlNode] = []
         let link = postBuilder.createPostLink(post)
         liChildren.append(link)
-        let l = li_style(post.id, liChildren)
+        let l = li(liChildren)
         return l
     }
 }
