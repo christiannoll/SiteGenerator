@@ -17,6 +17,7 @@
 		D63C253123EB5AF700545A18 /* Page.swift in Sources */ = {isa = PBXBuildFile; fileRef = D650F34E23930CC000B2320E /* Page.swift */; };
 		D63CB6FF240AFF4A00D1BA79 /* RssParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = D63CB6FE240AFF4A00D1BA79 /* RssParser.swift */; };
 		D63DFA2E23B1EF8A00E9602F /* PostStatisticData.swift in Sources */ = {isa = PBXBuildFile; fileRef = D63DFA2D23B1EF8A00E9602F /* PostStatisticData.swift */; };
+		D64A730626615D780088D8C6 /* YearParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = D64A730526615D780088D8C6 /* YearParser.swift */; };
 		D650F34F23930CC000B2320E /* Page.swift in Sources */ = {isa = PBXBuildFile; fileRef = D650F34E23930CC000B2320E /* Page.swift */; };
 		D650F35123930EBB00B2320E /* HomePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D650F35023930EBB00B2320E /* HomePage.swift */; };
 		D65545B02389B37A00D18FD2 /* SmlNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = D65545AF2389B37A00D18FD2 /* SmlNode.swift */; };
@@ -39,6 +40,7 @@
 		D699D53D239AB88D006FE271 /* TagsPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D699D53C239AB88D006FE271 /* TagsPage.swift */; };
 		D699D53F239AE808006FE271 /* TagItemPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D699D53E239AE808006FE271 /* TagItemPage.swift */; };
 		D699D541239AEBAE006FE271 /* TagItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = D699D540239AEBAE006FE271 /* TagItem.swift */; };
+		D69AF70C26624C6B0010D67C /* TimelinePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D69AF70B26624C6B0010D67C /* TimelinePage.swift */; };
 		D69D533C24533AAC005F618E /* SearchIndexBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = D69D533B24533AAC005F618E /* SearchIndexBuilder.swift */; };
 		D69D533E24535669005F618E /* LinkParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = D69D533D24535669005F618E /* LinkParser.swift */; };
 		D6A8CB7F24D9ED7500252182 /* ContactPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6A8CB7E24D9ED7500252182 /* ContactPage.swift */; };
@@ -65,6 +67,8 @@
 		D6F303AF23AC31AC0012F659 /* MarkdownTokenizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = D63B71A22383261B00E989EE /* MarkdownTokenizer.swift */; };
 		D6F303B023AC31B10012F659 /* SmlPrinter.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6D356D4238DBAC300A2F217 /* SmlPrinter.swift */; };
 		D6F4BF9123EE02FA005D9402 /* FormatBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F4BF9023EE02FA005D9402 /* FormatBuilder.swift */; };
+		D6F6D49E2662226E00B98789 /* TimelineItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F6D49D2662226E00B98789 /* TimelineItem.swift */; };
+		D6F6D4A0266225BB00B98789 /* Timeline.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F6D49F266225BB00B98789 /* Timeline.swift */; };
 		D6F6FF7B238875BB0049F171 /* PostBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F6FF7A238875BB0049F171 /* PostBuilder.swift */; };
 		D6F92EC4238320D900FCAAC1 /* MarkdownParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F92EC3238320D900FCAAC1 /* MarkdownParser.swift */; };
 /* End PBXBuildFile section */
@@ -91,6 +95,7 @@
 		D63B71A22383261B00E989EE /* MarkdownTokenizer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarkdownTokenizer.swift; sourceTree = "<group>"; };
 		D63CB6FE240AFF4A00D1BA79 /* RssParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RssParser.swift; sourceTree = "<group>"; };
 		D63DFA2D23B1EF8A00E9602F /* PostStatisticData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostStatisticData.swift; sourceTree = "<group>"; };
+		D64A730526615D780088D8C6 /* YearParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YearParser.swift; sourceTree = "<group>"; };
 		D650F34E23930CC000B2320E /* Page.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page.swift; sourceTree = "<group>"; };
 		D650F35023930EBB00B2320E /* HomePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePage.swift; sourceTree = "<group>"; };
 		D65545AF2389B37A00D18FD2 /* SmlNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmlNode.swift; sourceTree = "<group>"; };
@@ -113,6 +118,7 @@
 		D699D53C239AB88D006FE271 /* TagsPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TagsPage.swift; sourceTree = "<group>"; };
 		D699D53E239AE808006FE271 /* TagItemPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TagItemPage.swift; sourceTree = "<group>"; };
 		D699D540239AEBAE006FE271 /* TagItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TagItem.swift; sourceTree = "<group>"; };
+		D69AF70B26624C6B0010D67C /* TimelinePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimelinePage.swift; sourceTree = "<group>"; };
 		D69D533B24533AAC005F618E /* SearchIndexBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchIndexBuilder.swift; sourceTree = "<group>"; };
 		D69D533D24535669005F618E /* LinkParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkParser.swift; sourceTree = "<group>"; };
 		D6A8CB7E24D9ED7500252182 /* ContactPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactPage.swift; sourceTree = "<group>"; };
@@ -135,6 +141,8 @@
 		D6F303A423AC30220012F659 /* UnitTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnitTest.swift; sourceTree = "<group>"; };
 		D6F303A623AC30220012F659 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D6F4BF9023EE02FA005D9402 /* FormatBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormatBuilder.swift; sourceTree = "<group>"; };
+		D6F6D49D2662226E00B98789 /* TimelineItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimelineItem.swift; sourceTree = "<group>"; };
+		D6F6D49F266225BB00B98789 /* Timeline.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Timeline.swift; sourceTree = "<group>"; };
 		D6F6FF7A238875BB0049F171 /* PostBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostBuilder.swift; sourceTree = "<group>"; };
 		D6F92EC3238320D900FCAAC1 /* MarkdownParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarkdownParser.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -185,6 +193,7 @@
 				D699D530239A4A01006FE271 /* ArchiveMonthPage.swift */,
 				D63B510F239997FA001E7E7B /* ArchivePage.swift */,
 				D63B510D2399673E001E7E7B /* ArchiveYear.swift */,
+				D6E0279B264E0E840064DC6A /* BetaPage.swift */,
 				D6A8CB7E24D9ED7500252182 /* ContactPage.swift */,
 				D69221C5238196740007E774 /* ContentParser.swift */,
 				D667BB1324070C6C00B8789F /* FeedWriter.swift */,
@@ -223,7 +232,10 @@
 				D699D53E239AE808006FE271 /* TagItemPage.swift */,
 				D699D53A239AAFCD006FE271 /* Tags.swift */,
 				D699D53C239AB88D006FE271 /* TagsPage.swift */,
-				D6E0279B264E0E840064DC6A /* BetaPage.swift */,
+				D6F6D49F266225BB00B98789 /* Timeline.swift */,
+				D6F6D49D2662226E00B98789 /* TimelineItem.swift */,
+				D69AF70B26624C6B0010D67C /* TimelinePage.swift */,
+				D64A730526615D780088D8C6 /* YearParser.swift */,
 			);
 			path = SiteGenerator;
 			sourceTree = "<group>";
@@ -367,11 +379,14 @@
 				D676120D237F43960042F55D /* main.swift in Sources */,
 				D6CAB6FF2398488A00C4D2EF /* PageWriter.swift in Sources */,
 				D69D533C24533AAC005F618E /* SearchIndexBuilder.swift in Sources */,
+				D6F6D49E2662226E00B98789 /* TimelineItem.swift in Sources */,
 				D650F34F23930CC000B2320E /* Page.swift in Sources */,
 				D699D53D239AB88D006FE271 /* TagsPage.swift in Sources */,
 				D6F4BF9123EE02FA005D9402 /* FormatBuilder.swift in Sources */,
 				D6A981A123B0AE1C007F3CBF /* StatisticPage.swift in Sources */,
+				D69AF70C26624C6B0010D67C /* TimelinePage.swift in Sources */,
 				D6A8CB7F24D9ED7500252182 /* ContactPage.swift in Sources */,
+				D6F6D4A0266225BB00B98789 /* Timeline.swift in Sources */,
 				D65D75BD23ABED9F00490D17 /* SmlBuilder.swift in Sources */,
 				D699D539239AADCC006FE271 /* Archive.swift in Sources */,
 				D6A981A323B0AFE7007F3CBF /* SiteStatistics.swift in Sources */,
@@ -383,6 +398,7 @@
 				D6D356D5238DBAC300A2F217 /* SmlPrinter.swift in Sources */,
 				D699D537239AACAF006FE271 /* IndexItem.swift in Sources */,
 				D69D533E24535669005F618E /* LinkParser.swift in Sources */,
+				D64A730626615D780088D8C6 /* YearParser.swift in Sources */,
 				D6B1D68723F1F1AA00BE317E /* SerialsPage.swift in Sources */,
 				D60667612396E2A100F7B79E /* PostPage.swift in Sources */,
 				D6112D2623A8187300140519 /* PageLoader.swift in Sources */,

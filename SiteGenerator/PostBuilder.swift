@@ -26,6 +26,7 @@ class PostBuilder {
         
         let nodes = MarkdownParser.parse(text: item.data)
         parseLinks(item, nodes)
+        parseYears(item, nodes)
         
         let elements = formatBuilder.parse(nodes, item)
         
@@ -159,5 +160,12 @@ class PostBuilder {
         var links: [String: String] = [:]
         linkParser.parse(markdownNodes, &links)
         item.links = links
+    }
+    
+    private func parseYears(_ item: Item, _ markdownNodes: [MarkdownNode]) {
+        let yearParser = YearParser()
+        var years: [Int] = []
+        yearParser.parse(markdownNodes, &years)
+        item.years = years
     }
 }

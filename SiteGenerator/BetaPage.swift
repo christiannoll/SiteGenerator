@@ -23,6 +23,9 @@ class BetaPage : Page {
         ulChildren.append(renderItem(statisticsTitle, "statistic"))
         ulChildren.append(newLine)
         
+        ulChildren.append(renderItem("Timeline", "timeline"))
+        ulChildren.append(newLine)
+        
         let u_l = ul(ulChildren)
         divChildren.append(u_l)
         divChildren.append(newLine)

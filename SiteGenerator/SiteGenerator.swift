@@ -112,6 +112,11 @@ struct SiteGenerator {
         let randomEntriesBuilder = RandomEntriesBuilder()
         randomEntriesBuilder.writeJsFile(posts)
         
+        let timelineFactory = TimelineFactory()
+        let timeline = timelineFactory.createTimeline(posts)
+        let timelinePage = TimelinePage(timeline)
+        writer.writeTimelinePage(timelinePage.render())
+        
         let betaPage = BetaPage()
         writer.writeBetaPage(betaPage.render())
     }

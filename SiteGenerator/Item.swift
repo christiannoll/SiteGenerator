@@ -10,6 +10,7 @@ public class Item  {
     var indices: Set<String> = []
     var serial = ""
     var links: [String: String] = [:]
+    var years: [Int] = []
     
     let smlBuilder = PostBuilder()
     
