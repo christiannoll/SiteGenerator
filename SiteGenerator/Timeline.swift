@@ -19,7 +19,7 @@ struct Timeline {
     }
     
     fileprivate mutating func sort() {
-        _timelineItems.sort { $0.year > $1.year }
+        _timelineItems.sort { $0.year < $1.year }
     }
     
     fileprivate mutating func addPost(_ post: Item) {
