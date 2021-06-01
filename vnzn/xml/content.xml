@@ -1438,8 +1438,8 @@
 </item>
 <item type="text" format="randomLinkColor">
 	<name>ghost_dog</name>
-	<title>Ghost Dog</title>
-	<data>[Jim Jarmusch](https://de.wikipedia.org/wiki/Jim_Jarmusch) erzählt in seinem *1999* erschienen Film ["Ghost Dog – Der Weg des Samurai"](https://de.wikipedia.org/wiki/Ghost_Dog_%E2%80%93_Der_Weg_des_Samurai) die Geschichte des mysteriösen Ghost Dog, gespielt von [Forest Whitaker](https://de.wikipedia.org/wiki/Forest_Whitaker), einen Auftragsmörder im Dienste der Mafia, der den alten Kodex der Samurai befolgt und dabei mit seinen Auftraggebern in Konflikt gerät.
+	<title>Ghost Dog - Der Weg des Samurai</title>
+	<data>[Jim Jarmusch](https://de.wikipedia.org/wiki/Jim_Jarmusch) erzählt in seinem *1999* erschienen Film ["Ghost Dog - Der Weg des Samurai"](https://de.wikipedia.org/wiki/Ghost_Dog_%E2%80%93_Der_Weg_des_Samurai) die Geschichte des mysteriösen Ghost Dog, gespielt von [Forest Whitaker](https://de.wikipedia.org/wiki/Forest_Whitaker), einen Auftragsmörder im Dienste der Mafia, der den alten Kodex der Samurai befolgt und dabei mit seinen Auftraggebern in Konflikt gerät.
 	Ghost Dog: "Nichts zählt so sehr wie der gegenwärtige Augenblick. Das Leben eines Menschen besteht aus einer Abfolge von Augenblicken. Versteht man den gegenwärtigen Augenblick vollkommen, gibt es nichts anderes zu tun und nichts anderes zu erstreben."
 	 1. Live by the code. 
 	 2. Die by the code.
@@ -1455,5 +1455,14 @@
 	<date>29.05.2021</date>
 	<index></index>
 	<tags><t>Foto</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>skin</name>
+	<title>Haut</title>
+	<data>Die [Haut](https://de.wikipedia.org/wiki/Haut) ist unser größtes und intimstes Sinnesorgan. Mit ihr beginnt und endet der Körper, das eigene [Ich](https://de.wikipedia.org/wiki/Selbst). Sie stellt eine Grenze dar und mit der Auflösung dieser Grenze verliert sich das Ich, wie die Träne im Regen. 
+	Es ist nicht möglich das eigene Ich aus diesem Gefäß zu transzendieren - noch nicht.</data>
+	<date>02.06.2021</date>
+	<index><i>Haut</i></index>
+	<tags><t>Biologie</t><t>Philosophie</t></tags>
 </item>
 </content>

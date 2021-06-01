@@ -1436,7 +1436,7 @@
 </item>
 <item type="text" format="randomLinkColor">
 	<name>ghost_dog</name>
-	<title>Ghost Dog</title>
+	<title>Ghost Dog - The Way of the Samurai</title>
 	<data>[Jim Jarmusch's](https://en.wikipedia.org/wiki/Jim_Jarmusch) *1999* film ["Ghost Dog - The Way of the Samurai"](https://en.wikipedia.org/wiki/Ghost_Dog:_The_Way_of_the_Samurai) tells the story of the mysterious Ghost Dog, played by [Forest Whitaker](https://en.wikipedia.org/wiki/Forest_Whitaker), a contract killer in the service of the Mafia who follows the ancient code of the samurai and comes into conflict with his clients.
 	Ghost Dog: "There is surely nothing other than the single purpose of the present moment. A man's whole life is a succession of moment after moment. If one fully understands the present moment, there will be nothing else to do, and nothing else to pursue."
 	1. Live by the code.
@@ -1454,5 +1454,14 @@
 	<date>29.05.2021</date>
 	<index></index>
 	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>skin</name>
+	<title>Skin</title>
+	<data>The [skin](https://en.wikipedia.org/wiki/Skin) is our largest and most intimate sense organ. With it begins and ends the body, our own [self](https://en.wikipedia.org/wiki/Self). It represents a boundary and with the dissolution of this boundary the ego gets lost, like the tear in the rain.
+	It is not possible to transcend your own self out of this vessel - not yet.</data>
+	<date>02.06.2021</date>
+	<index><i>Skin</i></index>
+	<tags><t>Biology</t><t>Philosophy</t></tags>
 </item>
 </content>
