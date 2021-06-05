@@ -3,13 +3,21 @@ import Foundation
 class FormatBuilder {
     
     // https://www.w3schools.com/cssref/css_colors.asp
-    private let colors = ["CornflowerBlue", "DarkOrange", "DeepPink", "FireBrick", "ForestGreen", "DarkGrey", "DarkGoldenRod", "Blue", "DarkViolet", "Gold", "SeaGreen"]
+    private var colors: [String] = []
+    private let randomColors = ["CornflowerBlue", "DarkOrange", "DeepPink", "FireBrick", "ForestGreen", "DarkGrey", "DarkGoldenRod", "Blue", "DarkViolet", "Gold", "SeaGreen"]
+    private let blueColors = ["Blue", "CornflowerBlue", "DarkBlue", "DarkSlateBlue", "DodgerBlue", "DeepSkyBlue", "LightSkyBlue", "MediumBlue", "MidNightBlue", "Navy", "RoyalBlue", "SteelBlue"]
     
     func parse(_ markdownNodes: [MarkdownNode], _ textPost: TextPost) -> [MarkdownNode] {
         if textPost.format == "randomWordColor" {
+            colors = randomColors
             return parseText(elements: markdownNodes)
         }
         else if textPost.format == "randomLinkColor" {
+            colors = randomColors
+            return parseLinks(elements: markdownNodes)
+        }
+        else if textPost.format == "blueLinkColor" {
+            colors = blueColors
             return parseLinks(elements: markdownNodes)
         }
         return markdownNodes
