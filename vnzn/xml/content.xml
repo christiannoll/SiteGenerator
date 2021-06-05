@@ -1465,4 +1465,12 @@
 	<index><i>Haut</i></index>
 	<tags><t>Biologie</t><t>Philosophie</t></tags>
 </item>
+<item type="text" format="blueLinkColor">
+	<name>davis_kind_of_blue</name>
+	<title>Miles Davis: Kind of Blue</title>
+	<data>[So What](https://de.wikipedia.org/wiki/So_What_(Jazz-Titel)) / [Freddie Freeloader](https://de.wikipedia.org/wiki/Freddie_Freeloader) / [Blue in Green](https://de.wikipedia.org/wiki/Blue_in_Green) / [All Blues](https://de.wikipedia.org/wiki/All_Blues) / [Flamenco Sketches](https://de.wikipedia.org/wiki/Flamenco_Sketches) / [Flamenco Sketches - Alternate Take](https://de.wikipedia.org/wiki/Kind_of_Blue)</data>
+	<date>06.06.2021</date>
+	<index><i type="Musiker">Miles Davis</i></index>
+	<tags><t>Musik</t></tags>
+</item>
 </content>
