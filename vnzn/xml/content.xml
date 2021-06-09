@@ -1473,4 +1473,12 @@
 	<index><i type="Musiker">Miles Davis</i></index>
 	<tags><t>Musik</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>berlin</name>
+	<title>Berlin</title>
+	<data>berlin_small.png</data>
+	<date>10.06.2021</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
