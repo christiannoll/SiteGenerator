@@ -15,7 +15,9 @@ class TimelineItem {
     }
     
     func addPost(_ post: Item) {
-        posts.append(post)
+        if !containsPost(post) {
+            posts.append(post)
+        }
     }
     
     func renderTimelineItem() -> SmlNode {
@@ -41,5 +43,14 @@ class TimelineItem {
         liChildren.append(link)
         let l = li(liChildren)
         return l
+    }
+    
+    private func containsPost(_ newPost: Item) -> Bool {
+        for post in posts {
+            if post.name == newPost.name {
+                return true
+            }
+        }
+        return false
     }
 }
