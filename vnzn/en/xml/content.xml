@@ -1480,4 +1480,33 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>higgs-boson</name>
+	<title>The search for the smallest in the largest</title>
+	<data>What we can see and understand consists of [matter](https://en.wikipedia.org/wiki/Matter) and this is composed of the [elementary particles](https://en.wikipedia.org/wiki/Elementary_particle). The elementary particles are described in the [standard model of particle physics](https://en.wikipedia.org/wiki/Standard_Model) and this standard model had a problem until *2012*, more precisely a mass problem. It couldn't explain how the particles, e.g. the [quarks](https://en.wikipedia.org/wiki/Quark), get their mass.
+	To solve this problem, in *1964* the physicist [Peter Higgs](https://en.wikipedia.org/wiki/Peter_Higgs) proposed the theory of the [Higgs mechanism](https://en.wikipedia.org/wiki/Higgs_mechanism), according to which all elementary particles, except the [Higgs boson](https://en.wikipedia.org/wiki/Higgs_boson) itself, acquire their [mass](https://en.wikipedia.org/wiki/Mass) only through interaction with the ubiquitous [Higgs field](https://en.wikipedia.org/wiki/Higgs_mechanism). Because the Higgs field is not directly measurable, it can only be proven by the existence of the Higgs particle.
+	After 48 years of searching for this particle, physicists succeeded in creating Higgs particles in *2012* at the [Large Hadron Collider](https://en.wikipedia.org/wiki/Large_Hadron_Collider) (LHC) at [CERN](https://en.wikipedia.org/wiki/CERN) near Geneva. The LHC is located approximately 100 meters underground and is a ring-shaped tunnel with a circumference of 27 kilometers. In this tunnel, [protons](https://en.wikipedia.org/wiki/Proton) are accelerated in opposite directions to almost the speed of light and made to collide. The detectors then observe what happens during these collisions and which particles are created.
+	In physics, it is like in biology. The smaller the things are, the larger the microscopes become to observe them. At the LHC, the microscopes are called [particle detectors](https://en.wikipedia.org/wiki/Particle_detector). The detectors in the LHC contain sophisticated and complex electronic systems that measure the passage of a particle with a precision of a few thousandths of a millimeter. The largest of them is the [ATLAS detector](https://en.wikipedia.org/wiki/ATLAS_experiment), which is the size of a single-family house.
+	The data recorded by the LHC detectors is estimated at 30 [petabytes](https://en.wikipedia.org/wiki/Byte) per year. To evaluate and analyze this unimaginable amount of data, tens of thousands of computers around the world are interconnected in a computer network, the [LHC Computing Grid](https://en.wikipedia.org/wiki/Worldwide_LHC_Computing_Grid).
+</data>
+	<date>14.06.2021</date>
+	<index><i>Higgs</i></index>
+	<tags><t>Physics</t></tags>
+	<serial>Complexity</serial>
+</item>
+<item type="text" format="normal">
+	<name>after-higgs-boson</name>
+	<title>What comes after the Higgs boson?</title>
+	<data>Even though the [Higgs boson](https://en.wikipedia.org/wiki/Higgs_boson) was experimentally detected in the [LHC](https://en.wikipedia.org/wiki/Large_Hadron_Collider) at [CERN](https://en.wikipedia.org/wiki/CERN) in *2012*, many questions in particle physics remain unanswered::
+	* Are there other Higgs bosons?
+	* Is there [supersymmetry](https://en.wikipedia.org/wiki/Supersymmetry)?
+	* What is [dark matter](https://en.wikipedia.org/wiki/Dark_matter)?
+	* How can [gravity](https://en.wikipedia.org/wiki/Gravity) be included?
+	* How can the hierarchy of particle masses be explained?
+	* Are there more than three spatial dimensions?
+	* Where does the [matter-antimatter asymmetry](https://en.wikipedia.org/wiki/Baryon_asymmetry) come from?</data>
+	<date>18.06.2021</date>
+	<index><i>Higgs</i></index>
+	<tags><t>Physics</t></tags>
+</item>
 </content>

@@ -1481,4 +1481,40 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>higgs-boson</name>
+	<title>Die Suche nach dem Kleinsten im Größten</title>
+	<data>Das was wir sehen und begreifen können besteht aus [Materie](https://de.wikipedia.org/wiki/Materie_(Physik)) und diese ist aus den [Elementarteilchen](https://de.wikipedia.org/wiki/Elementarteilchen) zusammengesetzt. Die Elementarteilchen sind im [Standardmodell der Teilchenphysik](https://de.wikipedia.org/wiki/Standardmodell_der_Elementarteilchenphysik) beschrieben und dieses Standardmodell hatte bis *2012* ein Problem, genauer ein Masseproblem. Es konnte nicht erklären wie die Teilchen, z.B. die [Quarks](https://de.wikipedia.org/wiki/Quark_(Physik)), ihre Masse erhalten.
+	Um dieses Problem zu lösen schlug *1964* der Physiker [Peter Higgs](https://de.wikipedia.org/wiki/Peter_Higgs) die Theorie des [Higgs-Mechanismus](https://de.wikipedia.org/wiki/Higgs-Mechanismus) vor, nach der alle Elementarteilchen, außer dem [Higgs-Boson](https://de.wikipedia.org/wiki/Higgs-Boson) selbst, ihre [Masse](https://de.wikipedia.org/wiki/Masse_(Physik)) erst durch die Wechselwirkung mit dem allgegenwärtigen [Higgs-Feld](https://de.wikipedia.org/wiki/Higgs-Feld) erhalten. Weil das Higgs-Feld nicht direkt messbar ist, kann es nur durch die Existenz das Higgs-Teilchens nachgewiesen werden.
+	Nachdem Physiker 48 Jahre auf der Suche nach diesem Teilchen waren, ist es *2012* im [Large Hadron Collider](https://de.wikipedia.org/wiki/Large_Hadron_Collider) (LHC) am [CERN](https://de.wikipedia.org/wiki/CERN) in der Nähe von Genf gelungen, Higgs-Teilchen zu erzeugen. Der LHC befindet sich ca. 100 Meter unter der Erde und ist ein ringförmiger Tunnel mit einem Umfang von 27 Kilometern. In diesem Tunnel werden [Protonen](https://de.wikipedia.org/wiki/Proton) gegenläufig auf fast Lichtgeschwindigkeit beschleunigt und zur Kollision gebracht. In den Detektoren wird dann beobachtet, was bei diesen Kollisionen passiert und welche Teilchen dabei entstehen. 
+	In der Physik ist es dabei wie in der Biologie. Je kleiner die Dinge sind, je größer werden die Mikroskope, um sie zu beobachten. Am LHC heißen die Mikroskope [Teilchendetektoren](https://de.wikipedia.org/wiki/Teilchendetektor). Die Detektoren im LHC beinhalten hochentwickelte elektronische Systeme, die den Durchgang eines Teilchens mit einer Präzision von wenigen Tausendstel Millimetern messen. Der größte von ihnen ist der [ATLAS-Detektor](https://de.wikipedia.org/wiki/ATLAS_(Detektor)), der so groß wie ein Einfamilienhaus ist.
+	Die Daten, die von den LHC-Detektoren aufgezeichnet werden, schätzt man auf 30 [Petabyte](https://de.wikipedia.org/wiki/Byte) pro Jahr. Um diese unvorstellbare Menge an Daten auszuwerten und zu analysieren sind zehntausende Computer auf der ganzen Welt in einem Computernetzwerk, dem [LHC Computing Grid](https://de.wikipedia.org/wiki/LHC_Computing_Grid), zusammengeschaltet.</data>
+	<date>14.06.2021</date>
+	<index><i>Higgs</i></index>
+	<tags><t>Physik</t></tags>
+	<serial>Komplexität</serial>
+</item>
+<item type="text" format="normal">
+	<name>after-higgs-boson</name>
+	<title>Was kommt nach dem Higgs-Boson?</title>
+	<data>Auch wenn *2012* das [Higgs-Boson](https://de.wikipedia.org/wiki/Higgs-Boson) im [LHC](https://de.wikipedia.org/wiki/Large_Hadron_Collider) am [CERN](https://de.wikipedia.org/wiki/CERN) experimentell nachgewiesen werden konnte, sind noch viele Fragen der Teilchenphysik unbeantwortet:
+	* Gibt es weitere Higgs-Bosonen?
+	* Gibt es [Supersymmetrie](https://de.wikipedia.org/wiki/Supersymmetrie)?
+	* Was ist [dunkle Materie](https://de.wikipedia.org/wiki/Dunkle_Materie)?
+	* Wie kann [Gravitation](https://de.wikipedia.org/wiki/Gravitation) mit eingebunden werden?
+	* Wie ist die Hierarchie der Teilchenmassen zu erklären?
+	* Gibt es mehr als drei Raumdimensionen?
+	* Woher kommt die [Materie-Antimaterie-Asymmetrie](https://de.wikipedia.org/wiki/Baryonenasymmetrie)?</data>
+	<date>18.06.2021</date>
+	<index><i>Higgs</i></index>
+	<tags><t>Physik</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>Beach</name>
+	<title>Strand</title>
+	<data>beach_small.png</data>
+	<date>22.06.2021</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
