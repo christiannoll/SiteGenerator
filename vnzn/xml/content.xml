@@ -1510,7 +1510,7 @@
 	<tags><t>Physik</t></tags>
 </item>
 <item type="image" height="200" width="200">
-	<name>Beach</name>
+	<name>beach</name>
 	<title>Strand</title>
 	<data>beach_small.png</data>
 	<date>22.06.2021</date>
