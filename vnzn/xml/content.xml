@@ -1517,4 +1517,16 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>digital-identity-management</name>
+	<title>Digitales Identitätsmanagement</title>
+	<data>So wie das alltägliche Leben immer mehr im Digitalen stattfindet, verlagert sich auch die [Identität](https://de.wikipedia.org/wiki/Identit%C3%A4t) des Menschen in das [digitale Netz](https://de.wikipedia.org/wiki/Internet). Vielen ist dieser Prozess, dessen Folgen und Risiken gar nicht bewusst.
+	Die [digitale Identität](https://de.wikipedia.org/wiki/Identit%C3%A4tsmanagement) setzt sich aus einer stetig wachsenden und unüberschaubaren Menge an Datenpunkten zusammen, die von Algorithmen mit Hilfe [maschinellen Lernens](https://de.wikipedia.org/wiki/Maschinelles_Lernen) aggregiert und analysiert werden. Sie kann jederzeit und von überall durch jeden abgefragt werden.
+	Einmal gespeicherte Informationen werden aus den [Datenbanken](https://de.wikipedia.org/wiki/Datenbank) staatlicher und privater Akteure nie wieder gelöscht, ein Vergessen gibt es nicht. Das bedeutet für das Individuum einen zunehmenden Kontrollverlust. Gleichzeitig steigt auch das Risiko, dass durch die Manipulation von Daten die Identität verfälscht oder schlimmstenfalls auch gestohlen wird.
+	Im Netz gibt es also eine Repräsentation von uns, das digitale Ich, dessen man sich bewusst sein muss und um dass man sich unbedingt kümmern muss, zumal unsere [digitale Existenz](https://de.wikipedia.org/wiki/Digitaler_Zwilling) das analoge Dasein unseres [biologischen Körpers](https://de.wikipedia.org/wiki/Menschlicher_K%C3%B6rper) überdauern wird.
+	</data>
+	<date>26.06.2021</date>
+	<index><i>Identität</i><i>Artificial Intelligence</i><i>Internet</i></index>
+	<tags><t>Technologie</t><t>Gesellschaft</t></tags>
+</item>
 </content>
