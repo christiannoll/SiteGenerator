@@ -1556,4 +1556,15 @@
 	<index><i type="Person">Klaus Kinski</i><i type="Person">Werner Herzog</i></index>
 	<tags><t>Movie</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>gain-of-function-research</name>
+	<title>The engineered virus</title>
+	<data>The [SARS-CoV-2](https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome_coronavirus_2) virus has impressively demonstrated to the world what previously unimaginable effects a [pandemic](https://en.wikipedia.org/wiki/Pandemic) can have on the lives of all people. But we were probably still lucky in our misfortune, because there are much more dangerous viruses. The [Spanish flu](https://en.wikipedia.org/wiki/Spanish_flu), for example, raged between *1918* and *1920* and claimed 20 to 50 million lives in a world population of about 1.8 billion. Today, the number of people on earth is estimated at 7 billion.
+	The [Corona crisis](https://en.wikipedia.org/wiki/COVID-19_pandemic) also drew attention to experiments conducted on viruses by researchers around the world. Particularly problematic in this context is so-called [gain-of-function research](https://en.wikipedia.org/wiki/Gain-of-function_research). This area of medical research focuses on finding ways to give a virus additional functions, e.g. to increase its transmissibility or to make it no longer recognized by human antibodies.
+	Researchers like Ron Fouchier, a scientist in the Netherlands, believe they can better understand a possible [flu pandemic](https://en.wikipedia.org/wiki/Influenza) by conducting such experiments. But this is highly controversial, because you can't assume that an artificially created virus would look like one that evolved naturally. Moreover, it is not possible to deduce from these experiments which pandemic virus will emerge when and where.
+	But experiments of this kind are so [controversial](https://en.wikipedia.org/wiki/Gain-of-function_research#International_policies_and_regulations) for another reason. If an artificially created highly contagious [pathogen](https://en.wikipedia.org/wiki/Pathogen) escapes from a laboratory, it could lead to a pandemic that would make the [COVID-19 crisis](https://en.wikipedia.org/wiki/COVID-19_pandemic) look like child's play. All it takes is for a lab worker to become infected or for the virus to get on their clothes and escape outside, with unpredictable consequences, for all of us.</data>
+	<date>12.07.2021</date>
+	<index><i>Virus</i></index>
+	<tags><t>Technology</t><t>Biology</t></tags>
+</item>
 </content>

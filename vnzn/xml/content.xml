@@ -1556,4 +1556,16 @@
 	<index><i type="Person">Klaus Kinski</i><i type="Person">Werner Herzog</i></index>
 	<tags><t>Film</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>gain-of-function-research</name>
+	<title>Das Virus aus dem Baukasten</title>
+	<data>Das [SARS-CoV-2](https://de.wikipedia.org/wiki/SARS-CoV-2) Virus hat der Welt eindrücklich vor Augen geführt, welche bis dahin unvorstellbaren Auswirkungen eine [Pandemie](https://de.wikipedia.org/wiki/Pandemie) auf das Leben aller Menschen haben kann. Dabei hatten wir wahrscheinlich noch Glück im Unglück, denn es gibt noch viel gefährlichere Viren. So wütete z.B. die [Spanische Grippe](https://de.wikipedia.org/wiki/Spanische_Grippe) zwischen *1918* und *1920* und forderte bei einer Weltbevölkerung von etwa 1,8 Milliarden 20 bis 50 Millionen Menschenleben. Heute wird die Anzahl der Menschen auf der Erde auf 7 Milliarden geschätzt.
+	Die [Corona-Krise](https://de.wikipedia.org/wiki/COVID-19-Pandemie) lenkte auch die Aufmerksamkeit auf Experimente die Forscher in der ganzen Welt an Viren durchführen. Als besonders problematisch gilt in diesem Zusammenhang die sogenannte [Gain-of-Function-Forschung](https://de.wikipedia.org/wiki/Gain-of-function-Forschung). Dieser Bereich der medizinischen Forschung konzentriert sich darauf, herauszufinden wie man Viren mit zusätzlichen Funktionen ausstatten kann, um z.B. ihre Übertragbarkeit zu erhöhen oder das sie nicht mehr von menschlichen Antikörpern erkannt werden.
+	Forscher wie der Wissenschaftler Ron Fouchier in den Niederlanden sind der Meinung, dass sie eine mögliche [Grippe-Pandemie](https://de.wikipedia.org/wiki/Influenza) besser verstehen können, indem sie solche Experimente durchführen. Das ist aber stark umstritten, denn man kann nicht davon ausgehen, dass ein künstlich erschaffenes Virus aussehen würde wie eines, das sich natürlich entwickelt hat. Außerdem kann man aus diesen Experimenten nicht ableiten, welches Pandemievirus wann und wo entsteht.
+	Experimente dieser Art sind aber noch aus einem anderen Grund so [umstritten](https://de.wikipedia.org/wiki/Gain-of-function-Forschung#Risiken,_Diskussion_und_Kritik), denn wenn ein künstlich erzeugter hochansteckender [Krankheitserreger](https://de.wikipedia.org/wiki/Krankheitserreger) aus einem Labor entwischt, könnte es zu einer Pandemie kommen, gegen die die [COVID-19 Krise](https://de.wikipedia.org/wiki/COVID-19-Pandemie) ein Kinderspiel ist. Dazu reicht es schon, dass ein Laborarbeiter sich infiziert oder das Virus auf dessen Kleidung gerät und es so nach draußen entweicht, mit unvorhersagbaren Folgen, für uns alle.
+	</data>
+	<date>12.07.2021</date>
+	<index><i>Virus</i></index>
+	<tags><t>Technologie</t><t>Biologie</t></tags>
+</item>
 </content>
