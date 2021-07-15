@@ -1567,4 +1567,12 @@
 	<index><i>Virus</i></index>
 	<tags><t>Technology</t><t>Biology</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>structure_2</name>
+	<title>Structure 2</title>
+	<data>structure_2_small.png</data>
+	<date>16.07.2021</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
 </content>
