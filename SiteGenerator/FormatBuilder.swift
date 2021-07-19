@@ -86,6 +86,8 @@ class FormatBuilder {
                 nodes.append(.olistelement(parseLinks(elements:mdNodes)))
             case .ulistelement(let mdNodes):
                 nodes.append(.ulistelement(parseLinks(elements:mdNodes)))
+            case .parenthesis(let mdNodes):
+                nodes.append(.parenthesis(parseLinks(elements:mdNodes)))
             default:
                 nodes.append(element)
             }
