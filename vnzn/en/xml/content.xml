@@ -1575,4 +1575,13 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="randomLinkColor">
+	<name>doors-of-perception</name>
+	<title>The Doors</title>
+	<data>[William Blake](https://en.wikipedia.org/wiki/William_Blake): "If the doors of perception were cleansed, everything would appear to man as it is: infinite." 
+	([The Marriage of Heaven and Hell](https://en.wikipedia.org/wiki/The_Marriage_of_Heaven_and_Hell))</data>
+	<date>20.07.2021</date>
+	<index><i type="Person">William Blake</i></index>
+	<tags><t>Literature</t><t>Philosophy</t></tags>
+</item>
 </content>
