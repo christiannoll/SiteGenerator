@@ -1595,4 +1595,26 @@
 	<index><i type="Person">Andy Warhol</i><i>Free will</i><i type="Musik">The Velvet Underground &amp; Nico</i></index>
 	<tags><t>General</t><t>Biology</t><t>Philosophy</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>bed</name>
+	<title>Bed</title>
+	<data>bed_small.png</data>
+	<date>28.07.2021</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>symmetry_and_order</name>
+	<title>Symmetry as a universal principle</title>
+	<data>We are aesthetically attracted to [symmetry](https://en.wikipedia.org/wiki/Symmetry_(disambiguation)). That is certainly no coincidence.
+	Symmetrical structures have proven to be very successful in the course of [evolution](https://en.wikipedia.org/wiki/Evolution). They can be found everywhere in nature, in ice crystals, protozoa, in shells of mussels or snails, in flowers and even in the structure of the human body.
+	Symmetrical patterns are also widespread in art and music. [Leonardo da Vinci](https://en.wikipedia.org/wiki/Leonardo_da_Vinci) was already studying the principle of the ["golden ratio"](https://en.wikipedia.org/wiki/Golden_ratio) and illustrated the symmetry of the human body in his anatomy studies. In music, [Johann Sebastian Bach](https://en.wikipedia.org/wiki/Johann_Sebastian_Bach), for example, was very intensively interested in forms of symmetry. He very artfully incorporated symmetries and patterns into his compositions.
+	[Symmetry](https://en.wikipedia.org/wiki/Symmetry_(physics)) also plays a crucial role in physics. In general terms, a physical system is symmetrical if features of the system remain the same under certain transformation operations (e.g. rotation, mirroring or displacement), i.e. are [invariant](https://en.wikipedia.org/wiki/Invariant).
+	Both the [standard model of particle physics](https://en.wikipedia.org/wiki/Standard_Model) and the theories of [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) are essentially based on symmetry principles. The mathematics for this cannot be formulated without the use of symmetry concepts. The physical laws are invariant.
+	Perhaps the symmetry realized in the universe is the expression of a superior [reason](https://en.wikipedia.org/wiki/Reason)?</data>
+	<date>01.08.2021</date>
+	<index><i>Complexity</i><i type="Physiker">Albert Einstein</i><i type="Person">Leonardo da Vinci</i><i>Symmetry</i><i>Random</i><i type="Person">Johann Sebastian Bach</i></index>
+	<tags><t>Physics</t><t>Biology</t><t>Mathematics</t><t>Music</t><t>Art</t></tags>
+	<serial>Complexity</serial>
+</item>
 </content>

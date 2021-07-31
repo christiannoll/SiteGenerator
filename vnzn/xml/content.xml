@@ -1596,4 +1596,26 @@
 	<index><i type="Person">Andy Warhol</i><i>Freier Wille</i><i type="Musik">The Velvet Underground &amp; Nico</i></index>
 	<tags><t>Allgemein</t><t>Biologie</t><t>Philosophie</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>bed</name>
+	<title>Bed</title>
+	<data>bed_small.png</data>
+	<date>28.07.2021</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>symmetry_and_order</name>
+	<title>Symmetrie als universelles Prinzip</title>
+	<data>Der Mensch fühlt sich ästhetisch von [Symmetrien](https://de.wikipedia.org/wiki/Symmetrie) angezogen. Das ist sicher kein Zufall.
+	Symmetrische Baustrukturen haben sich im Laufe der [Evolution](https://de.wikipedia.org/wiki/Evolution) als sehr erfolgreich erwiesen. Man findet sie überall in der Natur, in Eiskristallen, Einzellern, in Muschel- oder Schneckengehäusen, in Blüten und selbst im Aufbau des menschlichen Körpers.
+	Symmetrische Muster sind aber auch in der Kunst und in der Musik weit verbreitet. Schon [Leonardo da Vinci](https://de.wikipedia.org/wiki/Leonardo_da_Vinci) befasste sich mit dem Prinzip des ["goldenen Schnitts"](https://de.wikipedia.org/wiki/Goldener_Schnitt) und verdeutlichte die Symmetrie des menschlichen Körpers in seinen Anatomiestudien. In der Musik hat sich z.B. [Johann Sebastian Bach](https://de.wikipedia.org/wiki/Johann_Sebastian_Bach) ganz intensiv mit Formen der Symmetrie beschäftigt. Er hat sehr kunstvoll Symmetrien und Muster in seine Kompositionen eingebaut.
+	Eine ganz entscheidene Rolle spielt die [Symmetrie](https://de.wikipedia.org/wiki/Symmetrie_(Physik)) in der Physik. Ganz allgemein gesagt, ist ein physikalisches System symmetrisch, wenn Merkmale des Systems unter bestimmten Transformationsoperationen (z.B. Drehung, Spiegelung oder Verschiebung) gleich bleiben, also [invariant](https://de.wikipedia.org/wiki/Invarianz) sind. 
+	Sowohl das [Standardmodell der Teilchenphysik](https://de.wikipedia.org/wiki/Standardmodell_der_Elementarteilchenphysik) als auch die Theorien von [Albert Einstein](https://de.wikipedia.org/wiki/Albert_Einstein) beruhen ganz wesentlich auf Symmetrieprinzipien. Die Mathematik dazu lässt sich gar nicht ohne die Verwendung von Symmetriebegriffen formulieren. Die physikalischen Gesetze sind invariant.
+	Vielleicht ist die im Universum realisierte Symmetrie der Ausdruck einer übergeordneten [Vernunft](https://de.wikipedia.org/wiki/Vernunft)?</data>
+	<date>01.08.2021</date>
+	<index><i>Komplexität</i><i type="Physiker">Albert Einstein</i><i type="Person">Leonardo da Vinci</i><i>Symmetrie</i><i>Zufall</i><i type="Person">Johann Sebastian Bach</i></index>
+	<tags><t>Physik</t><t>Biologie</t><t>Mathematik</t><t>Musik</t><t>Kunst</t></tags>
+	<serial>Komplexität</serial>
+</item>
 </content>
