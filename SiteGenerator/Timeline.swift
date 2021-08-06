@@ -11,7 +11,7 @@ struct Timeline {
             let h_4 = h4([.text(String(timelineItem.year))])
             divChildren.append(h_4)
             divChildren.append(newLine)
-            divChildren.append(timelineItem.renderTimelineItem())
+            divChildren.append(timelineItem.renderPostListItem())
         }
         
         let div = div_blogArchiveIndex(divChildren)

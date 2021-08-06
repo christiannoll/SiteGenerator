@@ -11,6 +11,7 @@ public class Item  {
     var serial = ""
     var links: [String: String] = [:]
     var years: [Int] = []
+    var persons: Set<String> = []
     
     let smlBuilder = PostBuilder()
     

@@ -7,6 +7,7 @@ class ContentParser : NSObject, XMLParserDelegate {
     private var items: [Item] = []
     private var item = Item(-1)
     private var foundCharacters = ""
+    private var indexIsPerson = false
     
     func parse() -> [Item] {
         return parse(CONTENT_FILE)
@@ -48,6 +49,14 @@ class ContentParser : NSObject, XMLParserDelegate {
                     item = imageItem
                 }
             }
+        case "i":
+            if let classAttrVal = attributeDict["type"] {
+                indexIsPerson = isIndexPerson(classAttrVal)
+            }
+            else {
+                indexIsPerson = false
+            }
+            break
         default:
             break
         }
@@ -71,6 +80,9 @@ class ContentParser : NSObject, XMLParserDelegate {
             item.tags.insert(trimmedText)
         case "i":
             item.indices.insert(trimmedText)
+            if indexIsPerson {
+                item.persons.insert(trimmedText)
+            }
         case "serial":
             item.serial = trimmedText
         case "item":
@@ -105,5 +117,10 @@ class ContentParser : NSObject, XMLParserDelegate {
         
         let date = dateFormatter.date(from: dateString)
         return date
+    }
+    
+    private func isIndexPerson(_ typeString: String) -> Bool {
+        let validStrings = ["Person", "Musiker", "Physiker", "Philosoph", "Komponist"]
+        return validStrings.contains(typeString)
     }
 }

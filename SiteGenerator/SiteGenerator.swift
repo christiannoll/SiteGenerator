@@ -117,6 +117,11 @@ struct SiteGenerator {
         let timelinePage = TimelinePage(timeline)
         writer.writeTimelinePage(timelinePage.render())
         
+        let personsRegisterFactory = PersonsRegisterFactory()
+        let personsRegister = personsRegisterFactory.createPersonsRegister(posts)
+        let personsRegisterPage = PersonsRegisterPage(personsRegister)
+        writer.writePersonsRegisterPage(personsRegisterPage.render())
+        
         let betaPage = BetaPage()
         writer.writeBetaPage(betaPage.render())
     }

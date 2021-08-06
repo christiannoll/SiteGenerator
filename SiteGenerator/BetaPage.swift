@@ -26,6 +26,10 @@ class BetaPage : Page {
         ulChildren.append(renderItem("Timeline", "timeline"))
         ulChildren.append(newLine)
         
+        let personsTitle = SiteGeneratorEnv.forGerman() ? "Personen" : "Persons"
+        ulChildren.append(renderItem(personsTitle, "persons"))
+        ulChildren.append(newLine)
+        
         let u_l = ul(ulChildren)
         divChildren.append(u_l)
         divChildren.append(newLine)

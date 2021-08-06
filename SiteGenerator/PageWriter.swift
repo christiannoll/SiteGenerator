@@ -72,6 +72,10 @@ class PageWriter {
         writeHtmlFile(content, "timeline/", "index.html")
     }
     
+    public func writePersonsRegisterPage(_ content: String) {
+        writeHtmlFile(content, "persons/", "index.html")
+    }
+    
     public func writeBetaPage(_ content: String) {
         writeHtmlFile(content, "beta/", "index.html")
     }
