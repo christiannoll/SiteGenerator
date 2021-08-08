@@ -1627,4 +1627,12 @@
 	<index><i type="Person">Pierre-Simon Laplace</i></index>
 	<tags><t>Physik</t><t>Philosophie</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>structure_3</name>
+	<title>Zaunstruktur</title>
+	<data>structure_3_small.png</data>
+	<date>09.08.2021</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
