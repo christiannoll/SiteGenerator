@@ -1635,4 +1635,34 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>road_to_mastery</name>
+	<title>Der Weg zur Meisterschaft</title>
+	<data>"Niemand findet jemals heraus, worum es im Leben geht, und das ist auch nicht wichtig. Erforsche die Welt. Fast alles ist wirklich interessant, wenn man sich nur tief genug damit beschäftigt." [Richard Feynman](https://de.wikipedia.org/wiki/Richard_Feynman)
+	Auf dem Weg zur Meisterschaft gibt es keine Abkürzungen.</data>
+	<date>13.08.2021</date>
+	<index><i type="Physiker">Richard Feynman</i></index>
+	<tags><t>Physik</t><t>Allgemein</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>thousend_brains_theory</name>
+	<title>The Thousend Brains Theory</title>
+	<data>Der Neurowissenschaftler [Jeff Hawkins](https://de.wikipedia.org/wiki/Jeff_Hawkins), Autor des Buchs "A Thousand Brains: A New Theory of Intelligence", im [Podcast-Interview](https://www.youtube.com/watch?v=Z1KwkpTUbkg) mit Lex Fridman.
+	In dem über zweistündigen Gespräch geht es u.a. über:
+	* Den Ursprung von [Intelligenz](https://de.wikipedia.org/wiki/Intelligenz) im menschlichen Gehirn
+	* Wie sich intelligentes Leben auf der [Erde](https://de.wikipedia.org/wiki/Erde) entwickelt hat
+	* Warum der [Mensch](https://de.wikipedia.org/wiki/Mensch) etwas Besonderes im Universum ist
+	* [Neuronen](https://de.wikipedia.org/wiki/Nervenzelle) und Vorhersagen
+	* 1000 Brains theory of intelligence
+	* Das Verstehen [komplexer Systeme](https://de.wikipedia.org/wiki/Komplexes_System)
+	* Wie man superintelligente KI entwickelt
+	* Das [existenzielles Risiko](https://de.wikipedia.org/wiki/Existentielles_Risiko) durch KI
+	* Wird KI die Selbstzerstörung der menschlichen Zivilisation verhindern?
+	* Die Vermittlung von menschlichem Wissen an fremde Zivilisationen
+	"Don't ever create a [self-replicating](https://en.wikipedia.org/wiki/Self-replication) system!"</data>
+	<date>17.08.2021</date>
+	<index><i type="Person">Jeff Hawkins</i><i type="Person">Lex Fridman</i></index>
+	<tags><t>Biologie</t></tags>
+	<serial>Komplexität</serial>
+</item>
 </content>

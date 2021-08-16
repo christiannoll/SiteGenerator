@@ -1634,4 +1634,34 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>road_to_mastery</name>
+	<title>The road to mastery</title>
+	<data>"Nobody ever figures out what life is all about, and it doesn't matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough." [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman)
+	There are no shortcuts on the road to mastery.</data>
+	<date>13.08.2021</date>
+	<index><i type="Physiker">Richard Feynman</i></index>
+	<tags><t>Physics</t><t>General</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>thousend_brains_theory</name>
+	<title>The Thousend Brains Theory</title>
+	<data>Neuroscientist [Jeff Hawkins](https://en.wikipedia.org/wiki/Jeff_Hawkins), author of "A Thousand Brains: A New Theory of Intelligence," in a [podcast interview](https://www.youtube.com/watch?v=Z1KwkpTUbkg) with Lex Fridman.
+	The two-hour conversation covers topics including:
+	* The origin of [intelligence](https://en.wikipedia.org/wiki/Intelligence) in the human brain
+	* How intelligent life evolved on [Earth](https://en.wikipedia.org/wiki/Earth)
+	* Why [humans](https://en.wikipedia.org/wiki/Human) are special in the universe
+	* [Neurons](https://en.wikipedia.org/wiki/Neuron) and predications
+	* A Thousand Brains theory of intelligence
+	* Understanding of [complex systems](https://en.wikipedia.org/wiki/Complex_system)
+	* How to build superintelligent AI
+	* [Existential risk](https://en.wikipedia.org/wiki/Global_catastrophic_risk) of AI
+	* Will AI prevent the self-destruction of human civilization?
+	* Communicating human knowledge to alien civilizations
+	"Don't ever create a [self-replicating](https://en.wikipedia.org/wiki/Self-replication) system!"</data>
+	<date>17.08.2021</date>
+	<index><i type="Person">Jeff Hawkins</i><i type="Person">Lex Fridman</i></index>
+	<tags><t>Biology</t></tags>
+	<serial>Complexity</serial>
+</item>
 </content>
