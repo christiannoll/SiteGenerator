@@ -1664,4 +1664,12 @@
 	<tags><t>Biology</t></tags>
 	<serial>Complexity</serial>
 </item>
+<item type="image" height="200" width="200">
+	<name>face</name>
+	<title>Face</title>
+	<data>face_small.png</data>
+	<date>21.08.2021</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
 </content>
