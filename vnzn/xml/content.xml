@@ -1673,4 +1673,15 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="randomLinkColor">
+	<name>top_4_radiohead</name>
+	<title>Top Four - Radiohead Alben</title>
+	<data>1. [Kid A](https://de.wikipedia.org/wiki/Kid_A) / [Amnesiac](https://de.wikipedia.org/wiki/Amnesiac)
+	2. [The Bends](https://de.wikipedia.org/wiki/The_Bends)
+	3. [A Moon Shaped Pool](https://de.wikipedia.org/wiki/A_Moon_Shaped_Pool)
+	4. [OK Computer](https://de.wikipedia.org/wiki/OK_Computer)</data>
+	<date>25.08.2021</date>
+	<index><i type="Musiker">Radiohead</i></index>
+	<tags><t>Musik</t></tags>
+</item>
 </content>
