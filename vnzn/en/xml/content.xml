@@ -1683,4 +1683,14 @@
 	<index><i type="Musiker">Radiohead</i></index>
 	<tags><t>Music</t></tags>
 </item>
+<item type="text" format="randomLinkColor">
+	<name>2001_sk_quotes</name>
+	<title>2001: A Space Odyssey: Kubrick quotes</title>
+	<data>"The feel of the experience is the important thing, not the ability to verbalize or analyze it." [Stanley Kubrick](https://en.wikipedia.org/wiki/Stanley_Kubrick) *1968*
+	"The most terrifying fact about the universe is not that it is hostile but that it is indifferent, but if we can come to terms with this indifference, then our existence as a species can have genuine meaning. However vast the darkness, we must supply our own light." [Stanley Kubrick](#index/Stanley-Kubrick/) *1968* (to Eric Nordern)</data>
+	<date>29.08.2021</date>
+	<index><i type="Movie">2001: A Space Odyssey</i><i type="Person">Stanley Kubrick</i></index>
+	<tags><t>Movie</t></tags>
+	<serial>2001: A Space Odyssey</serial>
+</item>
 </content>

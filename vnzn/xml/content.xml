@@ -1684,4 +1684,14 @@
 	<index><i type="Musiker">Radiohead</i></index>
 	<tags><t>Musik</t></tags>
 </item>
+<item type="text" format="randomLinkColor">
+	<name>2001_sk_quotes</name>
+	<title>2001: Odyssee im Weltraum: Kubrick-Zitate</title>
+	<data>"Das Entscheidende ist das Gefühl des Erlebens, nicht die Fähigkeit, es zu verbalisieren oder zu analysieren." [Stanley Kubrick](https://de.wikipedia.org/wiki/Stanley_Kubrick) *1968*
+	"Die erschreckendste Tatsache über das Universum ist nicht, dass es feindselig ist, sondern dass es gleichgültig ist. Wenn wir uns aber mit dieser Gleichgültigkeit abfinden können und die Herausforderungen des Lebens annehmen, innerhalb der Grenzen, die uns der Tod setzt - unabhängig davon, wie weit sie der Mensch zu verrücken in der Lage sein mag -, kann das Dasein unserer Art echten Sinn und wahre Erfüllung finden. So immens die Dunkelheit auch sein mag: Wir müssen unser eigenes Licht mitbringen." [Stanley Kubrick](#index/Stanley-Kubrick/) *1968* (zu Eric Nordern)</data>
+	<date>29.08.2021</date>
+	<index><i type="Movie">2001: Odyssee im Weltraum</i><i type="Person">Stanley Kubrick</i></index>
+	<tags><t>Film</t></tags>
+	<serial>2001: Odyssee im Weltraum</serial>
+</item>
 </content>
