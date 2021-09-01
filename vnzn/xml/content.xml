@@ -1694,4 +1694,12 @@
 	<tags><t>Film</t></tags>
 	<serial>2001: Odyssee im Weltraum</serial>
 </item>
+<item type="image" height="200" width="200">
+	<name>abstract_7</name>
+	<title>Abstract 7</title>
+	<data>abstract7_small.png</data>
+	<date>02.09.2021</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
