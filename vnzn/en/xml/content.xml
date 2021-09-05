@@ -1701,4 +1701,14 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>kids_and_lies</name>
+	<title>Hurray, our child is lying!</title>
+	<data>The ability to lie successfully is a major step in a child's [cognitive](https://en.wikipedia.org/wiki/Cognition) development because it requires complex mental effort.
+	The child needs [empathy](https://en.wikipedia.org/wiki/Empathy) because they have to put themselves in someone else's mind. It needs a [model of the situation](#2020/07/29/thinking_as_simulation_of_mental_models) in order to theoretically play through and evaluate strategic moves. The child has to steer his victim in a certain direction by making a false statement, have his emotions under control, be able to concentrate and at the same time be a good actor.
+	That sounds almost like the requirements profile of a job posting, doesn't it?</data>
+	<date>06.09.2021</date>
+	<index><i>Brain</i></index>
+	<tags><t>Biology</t><t>General</t></tags>
+</item>
 </content>
