@@ -1711,4 +1711,15 @@
 	<index><i>Brain</i></index>
 	<tags><t>Biology</t><t>General</t></tags>
 </item>
+<item type="text" format="randomLinkColor">
+	<name>top_4_jim_jarmusch</name>
+	<title>Top Four - Jim Jarmusch Movies</title>
+	<data>1. [Dead Man](https://en.wikipedia.org/wiki/Dead_Man)
+	2. [Ghost Dog - Der Weg des Samurai](https://en.wikipedia.org/wiki/Ghost_Dog:_The_Way_of_the_Samurai)
+	3. [The Limits of Control](https://en.wikipedia.org/wiki/The_Limits_of_Control)
+	4. [Down by Law](https://en.wikipedia.org/wiki/Down_by_Law_(film))</data>
+	<date>10.09.2021</date>
+	<index><i type="Person">Jim Jarmusch</i></index>
+	<tags><t>Movie</t></tags>
+</item>
 </content>
