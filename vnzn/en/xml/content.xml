@@ -1694,9 +1694,9 @@
 	<serial>2001: A Space Odyssey</serial>
 </item>
 <item type="image" height="200" width="200">
-	<name>abstract_7</name>
-	<title>Abstract 7</title>
-	<data>abstract7_small.png</data>
+	<name>abstract_8</name>
+	<title>Abstract 8</title>
+	<data>abstract8_small.png</data>
 	<date>02.09.2021</date>
 	<index></index>
 	<tags><t>Photo</t></tags>
@@ -1721,5 +1721,13 @@
 	<date>10.09.2021</date>
 	<index><i type="Person">Jim Jarmusch</i></index>
 	<tags><t>Movie</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>three_children</name>
+	<title>Three Children</title>
+	<data>three_children_small.png</data>
+	<date>14.09.2021</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
 </item>
 </content>
