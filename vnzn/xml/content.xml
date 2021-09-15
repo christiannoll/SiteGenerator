@@ -1683,6 +1683,7 @@
 	<date>25.08.2021</date>
 	<index><i type="Musiker">Radiohead</i></index>
 	<tags><t>Musik</t></tags>
+	<serial>Top Four</serial>
 </item>
 <item type="text" format="randomLinkColor">
 	<name>2001_sk_quotes</name>
@@ -1722,6 +1723,7 @@
 	<date>10.09.2021</date>
 	<index><i type="Person">Jim Jarmusch</i></index>
 	<tags><t>Film</t></tags>
+	<serial>Top Four</serial>
 </item>
 <item type="image" height="200" width="200">
 	<name>three_children</name>
