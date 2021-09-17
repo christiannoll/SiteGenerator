@@ -1733,4 +1733,13 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>dawkins_first_contact</name>
+	<title>First Contact</title>
+	<data>[Richard Dawkins](https://de.wikipedia.org/wiki/Richard_Dawkins) in einem [Gespräch](https://youtu.be/5f-JlzBuUUU) mit Lex Fridman, über die Idee von Fred Hoyle in ["A for Andromeda"](https://en.wikipedia.org/wiki/A_for_Andromeda) und Carl Sagan in ["Contact"](https://de.wikipedia.org/wiki/Contact_(Roman)), dass wir niemals physischen Besuch von extraterrestrischen Wesen bekommen werden:
+	"Wir werden nicht von physischen Körpern aus dem Weltraum besucht werden, sondern vielleicht von Funksignalen, die uns manipulieren, wenn sie uns dazu bringen, einen Computer zu bauen, auf dem ihre Software läuft, die ebenfalls übertragen wird. Dann übernimmt der Computer die Welt. Wir werden von verschlüsselten Informationen okkupiert."</data>
+	<date>18.09.2021</date>
+	<index><i type="Person">Richard Dawkins</i></index>
+	<tags><t>Biologie</t><t>Physik</t></tags>
+</item>
 </content>

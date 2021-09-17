@@ -1732,4 +1732,13 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>dawkins_first_contact</name>
+	<title>First Contact</title>
+	<data>[Richard Dawkins](https://en.wikipedia.org/wiki/Richard_Dawkins) in a [conversation](https://youtu.be/5f-JlzBuUUU) with Lex Fridman, about the idea of Fred Hoyle in ["A for Andromeda"](https://en.wikipedia.org/wiki/A_for_Andromeda) and Carl Sagan in ["Contact"](https://en.wikipedia.org/wiki/Contact_(novel)) that we will never be visisted by aliens:
+	"We will not be visited from outer space by physical bodies, but maybe by radio signals, that manipulate us, if they pursuade us to build a computer that runs their software which is also be transmitted. Then the computer takes over the world. We are invaded by coded information."</data>
+	<date>18.09.2021</date>
+	<index><i type="Person">Richard Dawkins</i></index>
+	<tags><t>Biology</t><t>Physics</t></tags>
+</item>
 </content>
