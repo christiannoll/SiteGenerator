@@ -1742,4 +1742,15 @@
 	<index><i type="Person">Richard Dawkins</i></index>
 	<tags><t>Biologie</t><t>Physik</t></tags>
 </item>
+<item type="text" format="randomLinkColor">
+	<name>das_bauhaus</name>
+	<title>das bauhaus</title>
+	<data>*1919* - *1925* Weimar | *1925* - *1932* Dessau | *1932* - *1933* Berlin
+	direktoren: [Walter Gropius](#2020/02/12/bauhaus_gropius) | [Hannes Meyer](#2020/08/18/bauhaus_hannes_meyer) | [Ludwig Mies van der Rohe](#2020/04/26/bauhaus_mies_an_der_rohe)
+	wichtige meister: [Paul Klee](#2020/02/26/bauhaus_klee) | [Lyonel Feininger](#2020/03/19/bauhaus_feininger) | [László Moholy-Nagy](#2020/05/19/bauhaus_moholy_nagy) | [Anni Albers](#2020/10/17/bauhaus_anni_albers) | [Marcel Breuer](http://localhost:8000/2021/01/25/bauhaus_breuer) | [Wassily Kandinsky](https://de.wikipedia.org/wiki/Wassily_Kandinsky) | [Oskar Schlemmer](https://de.wikipedia.org/wiki/Oskar_Schlemmer) | [Georg Muche](https://de.wikipedia.org/wiki/Georg_Muche) | [Johannes Itten](https://de.wikipedia.org/wiki/Johannes_Itten)</data>
+	<date>22.09.2021</date>
+	<index><i>Bauhaus</i></index>
+	<tags><t>Architektur</t><t>Kunst</t></tags>
+	<serial>Bauhaus</serial>
+</item>
 </content>
