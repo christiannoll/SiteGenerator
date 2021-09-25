@@ -1752,4 +1752,12 @@
 	<tags><t>Architecture</t><t>Art</t></tags>
 	<serial>Bauhaus</serial>
 </item>
+<item type="image" height="200" width="200">
+	<name>movement</name>
+	<title>Movement</title>
+	<data>movement_small.png</data>
+	<date>26.09.2021</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
 </content>
