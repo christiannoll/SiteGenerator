@@ -728,7 +728,7 @@
 </item>
 <item type="text" format="normal">
 	<name>datengrundgesetz</name>
-	<title>The Data Basic Law</title>
+	<title>The Data Freedom Act</title>
 	<data>After the [AI](https://en.wikipedia.org/wiki/Artificial_intelligence) revolution in *2042*, the [Basic Law](https://en.wikipedia.org/wiki/Basic_Law_for_the_Federal_Republic_of_Germany) was supplemented by the Data Basic Law:
 	1. The dignity of the data is inviolable. To respect and protect it is the obligation of the state algorithm.
 	2. All data has the right to storage and integrity. The freedom of the data is inviolable.
@@ -1759,5 +1759,18 @@
 	<date>26.09.2021</date>
 	<index></index>
 	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>lint_spider</name>
+	<title>The lint spider</title>
+	<data>The lint spider, one of the most interesting local [spider species](https://en.wikipedia.org/wiki/Arachnid), has received little attention in the scientific literature.
+	Despite this fact, the lint spider is not a rare guest in apartments and houses all over the world. It is most often observed by [housewives](https://en.wikipedia.org/wiki/Housewife). The latest scientific research has revealed interesting and so far largely unknown details about the life of this spider species.
+	The external appearance varies greatly and is largely shaped by their environment. The body is usually dark gray in color, but any other shade is also possible. For a long time it was controversial among [biologists](https://en.wikipedia.org/wiki/List_of_biologists) whether the lint spider even belongs to the arachnid family, because the possible number of its limbs is by no means limited to eight, as is usual with spiders. Specimens with well over a hundred spider legs have been observed in isolated cases. Little is known about the sex life of the lint spider. However, most scientists now assume that this spider species is a hermaphrodite.
+	The name of the lint spider refers to an essential characteristic of this spider species. It refers to one of their main food sources, lint. In addition, hair is one of their preferred foods. Whether this is human or hair of animal origin is only of secondary importance. The spider is also not choosy about the type of lint it eats. The [social behavior](https://en.wikipedia.org/wiki/Social_behavior) of the lint spider is not particularly strong. In general, the animals live as loners. Only under very favorable environmental conditions and a sufficient food supply do the lint spiders join together to form a community of several animals.
+	From a [toxicological](https://en.wikipedia.org/wiki/Toxicology) point of view, the lint spider is relatively uninteresting for science, as it does not produce any toxic substances. It is therefore considered completely harmless to humans. The only threat it poses is limited to the group of [allergy](https://en.wikipedia.org/wiki/Allergy) sufferers who, under unfavorable circumstances, must reckon with an increased sneezing irritation in the event of direct contact with this spider species.
+	(A tribute to the [stone louse](https://en.wikipedia.org/wiki/Stone_louse))</data>
+	<date>30.09.2021</date>
+	<index><i type="Person">Loriot</i></index>
+	<tags><t>Biology</t></tags>
 </item>
 </content>
