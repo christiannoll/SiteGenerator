@@ -565,7 +565,7 @@
 	Am I a man who dreamed he was a butterfly, or am I a butterfly who dreams he's a man?
 	According to  [Zhuang Zhou](https://en.wikipedia.org/wiki/Zhuang_Zhou)</data>
 	<date>27.05.2020</date>
-	<index><i type="Person">Zhuangzi</i></index>
+	<index><i type="Person">Zhuangzi</i><i>Dream</i></index>
 	<tags><t>Philosophy</t><t>General</t></tags>
 </item>
 <item type="text" format="normal">
@@ -652,7 +652,7 @@
 	Researchers have also found that at night most connections between nerve cells are weakened and some are even completely broken down. This creates space for learning new information during the day.
 	At the same time, however, what is absorbed during the day is also processed, as new connections are made and thus cross-links are established between what has already been learned.</data>
 	<date>01.07.2020</date>
-	<index><i>Brain</i><i>Sleep</i></index>
+	<index><i>Brain</i><i>Sleep</i><i>Dream</i></index>
 	<tags><t>Biology</t></tags>
 </item>
 <item type="text" format="randomWordColor">
@@ -1216,7 +1216,7 @@
 	For this madness, director [Darren Aronofsky](https://en.wikipedia.org/wiki/Darren_Aronofsky) finds impressive images in his film, sometimes staccato-like cut together or distorted shots of the four protagonists as they ghost through the film, so that the viewer can literally feel and see the ecstatic overstimulation of the synapses. 
 	["Requiem for a Dream"](https://en.wikipedia.org/wiki/Requiem_for_a_Dream) (*2000*) / Directed by: [Darren Aronofsky](https://en.wikipedia.org/wiki/Darren_Aronofsky) / Written by: [Hurbert Selby Jr.](https://en.wikipedia.org/wiki/Hubert_Selby_Jr.) / Cinematography: [Matthew Libatique](https://en.wikipedia.org/wiki/Matthew_Libatique) / Music by: [Clint Mansell](https://en.wikipedia.org/wiki/Clint_Mansell) / Starring: [Ellen Burstyn](https://en.wikipedia.org/wiki/Ellen_Burstyn), [Jared Leto](https://en.wikipedia.org/wiki/Jared_Leto), [Jennifer Connelly](https://en.wikipedia.org/wiki/Jennifer_Connelly), [Marlon Wayans](https://en.wikipedia.org/wiki/Marlon_Wayans)</data>
 	<date>26.02.2021</date>
-	<index><i type="Person">Darren Aronofsky</i></index>
+	<index><i type="Person">Darren Aronofsky</i><i>Dream</i></index>
 	<tags><t>Movie</t></tags>
 </item>
 <item type="text" format="normal">
@@ -1346,7 +1346,7 @@
 	<data>People have always wished to earn money while sleeping. Now this can come true for you with the new *Dream Recorder 5000 Pro*. Simply record your dreams and publish your most exciting dreams in our Dream Store so that millions of people can share your dreamy adventures.
 	[Invest](https://en.wikipedia.org/wiki/Investment) In Your [Dreams](https://en.wikipedia.org/wiki/Dream) [Now](https://en.wikipedia.org/wiki/Present)!</data>
 	<date>19.04.2021</date>
-	<index><i>Brain</i><i>Future</i></index>
+	<index><i>Brain</i><i>Future</i><i>Dream</i></index>
 	<tags><t>Technology</t><t>Society</t></tags>
 </item>
 <item type="image" height="200" width="200">
@@ -1374,7 +1374,7 @@
 	<title>The Dream</title>
 	<data>Someone must have slandered K's dreams, because without him dreaming anything bad, he was told one morning that his dreams could no longer be offered in the [Dream Store](#2021/04/19/dream_store).</data>
 	<date>01.05.2021</date>
-	<index><i>Dream Store</i><i type="Person">Franz Kafka</i></index>
+	<index><i>Dream Store</i><i type="Person">Franz Kafka</i><i>Dream</i></index>
 	<tags><t>Literature</t><t>General</t></tags>
 </item>
 <item type="image" height="200" width="200">
@@ -1413,7 +1413,7 @@
 	He started sobbing uncontrollably. "You think it's a joke?" A person, he thought, his dreams. Why didn't you put a word of it in the dream journal? He wanted to kill K, he wanted to put him through Hell. But K would not leave his dreamland until he was released from his pain. But K didn't want to be sent to Hell, because when he woke up, he wasn't tortured anymore, was he? K didn't want to be sent to Hell because K could imagine how this could end, how the world would be shattered and destroyed... but it couldn't end like this. It had to be different.
 	Then he remembered the dream. It was not a joke at all. It was that K knew there was something wrong with him.</data>
 	<date>13.05.2021</date>
-	<index><i>Dream Store</i><i>Artificial Intelligence</i><i>GPT-2</i></index>
+	<index><i>Dream Store</i><i>Artificial Intelligence</i><i>GPT-2</i><i>Dream</i></index>
 	<tags><t>Literature</t><t>Technology</t></tags>
 </item>
 <item type="image" height="200" width="200">
@@ -1533,7 +1533,7 @@
 	<title>Until the end</title>
 	<data>In a world in which all thoughts have been thought, all dreams dreamed, all stories told and all pictures painted, there is nothing left to do but just keep going, putting one foot in front of the other, until the end.</data>
 	<date>30.06.2021</date>
-	<index><i>Future</i></index>
+	<index><i>Future</i><i>Dream</i></index>
 	<tags><t>General</t></tags>
 </item>
 <item type="image" height="200" width="200">
@@ -1772,5 +1772,13 @@
 	<date>30.09.2021</date>
 	<index><i type="Person">Loriot</i></index>
 	<tags><t>Biology</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>winter_walk</name>
+	<title>Winter walk</title>
+	<data>With my breath I melt a hole in the ice flowers that have grown overnight on the window pane - a white landscape and the sun is struggling over the horizon. The frozen door jams when I open it and icicles hang threateningly from the rain gutter. I trudge through the crunching snow and pass a one-eyed snowman. Dog owners with red noses approach me. The wind is getting stronger and I flip up my coat collar. Dark clouds of snow slide over the mountains and I turn around.</data>
+	<date>04.10.2021</date>
+	<index><i>Winter</i></index>
+	<tags><t>General</t><t>Literature</t></tags>
 </item>
 </content>
