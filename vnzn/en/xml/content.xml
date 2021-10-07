@@ -1781,4 +1781,12 @@
 	<index><i>Winter</i></index>
 	<tags><t>General</t><t>Literature</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>soul_explosion</name>
+	<title>soul explosion</title>
+	<data>soul_explosion_small.png</data>
+	<date>10.10.2021</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
 </content>
