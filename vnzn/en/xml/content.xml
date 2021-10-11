@@ -1789,4 +1789,16 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="randomLinkColor">
+	<name>top_4_stanley_kubrick</name>
+	<title>Top Four - Stanley Kubrick Movies</title>
+	<data>1. [2001: A Space Odyssey](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film))
+	2. [The Shining](https://en.wikipedia.org/wiki/The_Shining_(film))
+	3. [Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb](https://en.wikipedia.org/wiki/Dr._Strangelove)
+	4. [A Clockwork Orange](https://en.wikipedia.org/wiki/A_Clockwork_Orange_(film))</data>
+	<date>12.10.2021</date>
+	<index><i type="Person">Stanley Kubrick</i></index>
+	<tags><t>Movie</t></tags>
+	<serial>Top Four</serial>
+</item>
 </content>

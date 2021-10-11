@@ -1790,4 +1790,16 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="randomLinkColor">
+	<name>top_4_stanley_kubrick</name>
+	<title>Top Four - Stanley Kubrick Filme</title>
+	<data>1. [2001: Odyssee im Weltraum](https://de.wikipedia.org/wiki/2001:_Odyssee_im_Weltraum)
+	2. [Shining](https://de.wikipedia.org/wiki/Shining_(1980))
+	3. [Dr. Seltsam oder: Wie ich lernte, die Bombe zu lieben](https://de.wikipedia.org/wiki/Dr._Seltsam_oder:_Wie_ich_lernte,_die_Bombe_zu_lieben)
+	4. [Uhrwerk Orange](https://de.wikipedia.org/wiki/Uhrwerk_Orange_(Film))</data>
+	<date>12.10.2021</date>
+	<index><i type="Person">Stanley Kubrick</i></index>
+	<tags><t>Film</t></tags>
+	<serial>Top Four</serial>
+</item>
 </content>
