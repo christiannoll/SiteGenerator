@@ -6,8 +6,11 @@ class FormatBuilder {
     private var colors: [String] = []
     private let randomColors = ["CornflowerBlue", "DarkOrange", "DeepPink", "FireBrick", "ForestGreen", "DarkGrey", "DarkGoldenRod", "Blue", "DarkViolet", "Gold", "SeaGreen"]
     private let blueColors = ["Blue", "CornflowerBlue", "DarkBlue", "DarkSlateBlue", "DodgerBlue", "DeepSkyBlue", "LightSkyBlue", "MediumBlue", "MidNightBlue", "Navy", "RoyalBlue", "SteelBlue"]
+    private var separateWords = true
     
     func parse(_ markdownNodes: [MarkdownNode], _ textPost: TextPost) -> [MarkdownNode] {
+        separateWords = true
+        
         if textPost.format == "randomWordColor" {
             colors = randomColors
             return parseText(elements: markdownNodes)
@@ -18,6 +21,11 @@ class FormatBuilder {
         }
         else if textPost.format == "blueLinkColor" {
             colors = blueColors
+            return parseLinks(elements: markdownNodes)
+        }
+        else if textPost.format == "randomLinksColor" {
+            separateWords = false
+            colors = randomColors
             return parseLinks(elements: markdownNodes)
         }
         return markdownNodes
@@ -55,7 +63,7 @@ class FormatBuilder {
     private func buildColorNodes(text: String) -> [MarkdownNode] {
         var colorNodes: [MarkdownNode] = []
         
-        let words = text.components(separatedBy: CharacterSet.whitespaces)
+        let words = separateWords ? text.components(separatedBy: CharacterSet.whitespaces) : [text]
         for word in words {
             if word.count > 1 {
                 colorNodes.append(.color(colors[Int.random(in: 0 ..< colors.count)], [.text(word)]))
@@ -101,13 +109,27 @@ class FormatBuilder {
         for markDownNode in markdownNodes {
             switch markDownNode {
             case .brackets(let mdNodes):
-                nodes.append(.brackets(parseText(elements: mdNodes)))
+                nodes.append(.brackets(parseText(elements: combineTextNodes(mdNodes))))
                 break
             default:
                 nodes.append(markDownNode)
             }
         }
         return nodes
+    }
+    
+    private func combineTextNodes(_ textNodes: [MarkdownNode]) -> [MarkdownNode] {
+        var combinedText = ""
+        for textNode in textNodes {
+            switch textNode {
+            case .text(let text):
+                combinedText += text
+                break
+            default:
+                fatalError()
+            }
+        }
+        return [.text(combinedText)]
     }
     
 }
