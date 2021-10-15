@@ -1801,4 +1801,18 @@
 	<tags><t>Movie</t></tags>
 	<serial>Top Four</serial>
 </item>
+<item type="text" format="normal">
+	<name>bauhaus_schlemmer</name>
+	<title>bauhaus: oskar schlemmer</title>
+	<data>[oskar schlemmer](https://en.wikipedia.org/wiki/Oskar_Schlemmer), born in stuttgart in *1888*, was one of the first masters to be appointed by [walter gropius](https://en.wikipedia.org/wiki/Walter_Gropius) to the state bauhaus in weimar in early *1921*.
+	initially, he was head of the mural painting department and the sculpture workshop at the [bauhaus](https://en.wikipedia.org/wiki/Bauhaus). in *1923*, he then became head of the theater workshop.
+	in *1927* and *1928*, schlemmer taught figure drawing and, starting in 1928, gave his course "Man", which dealt with formal drawing, biological and philosophical content.
+	during his time at the bauhaus in dessau he wrote the basic article "man and fictional figure", in which he formulated the requirement of generally applicable typification by means of masking and costuming. it was during this time that his groundbreaking [bauhaus dances](https://www.youtube.com/watch?v=rlIiT80dqHE) were created.
+	one of Schlemmer's most important works was the premiere of his ["Triadic Ballet"](https://en.wikipedia.org/wiki/Triadisches_Ballett), which helped him achieve an international breakthrough. the music for the ballet came from [paul hindemith](https://en.wikipedia.org/wiki/Paul_Hindemith). it became the most frequently shown avant-garde art dance. while he was working at the bauhaus, the ballet went on tour, which contributed to the spread of the bauhaus style.
+	in *1929*, oskar schlemmer left the bauhaus and accepted a position at the [art academy](https://de.wikipedia.org/wiki/Staatliche_Akademie_f%C3%BCr_Kunst_und_Kunstgewerbe_Breslau) in breslau. it was here, in *1932*, that he painted his most famous work, the [Bauhaus Stairway](https://de.wikipedia.org/wiki/Bauhaustreppe). the painting depicts the bauhaus. the grid-like structure, the modular figures and the restrained color palette exemplarily reflect the bauhaus philosophy.</data>
+	<date>16.10.2021</date>
+	<index><i type="Person">Oskar Schlemmer</i><i>Bauhaus</i></index>
+	<tags><t>Art</t></tags>
+	<serial>Bauhaus</serial>
+</item>
 </content>
