@@ -1816,4 +1816,12 @@
 	<tags><t>Kunst</t></tags>
 	<serial>Bauhaus</serial>
 </item>
+<item type="image" height="200" width="200">
+	<name>art_poster</name>
+	<title>Kunst</title>
+	<data>art_small.png</data>
+	<date>20.10.2021</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
