@@ -1824,4 +1824,14 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>man_and_machine</name>
+	<title>Mensch und Maschine</title>
+	<data>"Die Gefahr, dass der Computer so wird wie der Mensch, ist nicht so groß wie die Gefahr, dass der Mensch so wird wie der Computer." - [Konrad Zuse](https://de.wikipedia.org/wiki/Konrad_Zuse), *2005*
+	Mit seiner Entwicklung der [Z3](https://de.wikipedia.org/wiki/Zuse_Z3) im Jahre *1941* baute Konrad Zuse den ersten funktionstüchtigen, vollautomatischen, programmgesteuerten und frei programmierbaren, in [binärer Gleitkommarechnung](https://de.wikipedia.org/wiki/Gleitkommazahl) arbeitenden Rechner und somit den ersten funktionsfähigen [Computer](https://de.wikipedia.org/wiki/Computer) der Welt.
+	</data>
+	<date>24.10.2021</date>
+	<index><i type="Person">Konrad Zuse</i></index>
+	<tags><t>Technologie</t><t>Gesellschaft</t><t>Philosophie</t></tags>
+</item>
 </content>
