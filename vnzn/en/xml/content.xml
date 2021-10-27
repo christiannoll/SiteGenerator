@@ -1833,4 +1833,13 @@
 	<index><i type="Person">Konrad Zuse</i></index>
 	<tags><t>Technology</t><t>Society</t><t>Philosophy</t></tags>
 </item>
+<item type="text" format="randomLinkColor">
+	<name>vincent_van_gogh_melancholia</name>
+	<title>Melancholy</title>
+	<data>[Vincent van Gogh](https://en.wikipedia.org/wiki/Vincent_van_Gogh) on [melancholy](https://en.wikipedia.org/wiki/Melancholia):
+	"So instead of giving in to despair I chose active melancholy, in so far as I was capable of activity, in other words I chose the kind of melancholy that hopes, that strives and that seeks, in preference to the melancholy that despairs numbly and in distress."</data>
+	<date>28.10.2021</date>
+	<index><i type="Person">Vincent van Gogh</i></index>
+	<tags><t>Art</t><t>General</t></tags>
+</item>
 </content>

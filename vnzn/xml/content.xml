@@ -1834,4 +1834,13 @@
 	<index><i type="Person">Konrad Zuse</i></index>
 	<tags><t>Technologie</t><t>Gesellschaft</t><t>Philosophie</t></tags>
 </item>
+<item type="text" format="randomLinkColor">
+	<name>vincent_van_gogh_melancholia</name>
+	<title>Melancholie</title>
+	<data>[Vincent van Gogh](https://de.wikipedia.org/wiki/Vincent_van_Gogh) über die [Melancholie](https://de.wikipedia.org/wiki/Melancholie):
+	"Statt mich in Verzweiflung gehen zu lassen, habe ich mich für die tätige Melancholie entschieden, insofern Tätigkeit in meiner Macht stand, oder, mit anderen Worten, ich habe die Melancholie, die hofft und strebt und sucht, einer Melancholie vorgezogen, die trübsinnig und tatenlos verzweifelt."</data>
+	<date>28.10.2021</date>
+	<index><i type="Person">Vincent van Gogh</i></index>
+	<tags><t>Kunst</t><t>Allgemein</t></tags>
+</item>
 </content>
