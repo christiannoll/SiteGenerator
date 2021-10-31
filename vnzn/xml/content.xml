@@ -1843,4 +1843,12 @@
 	<index><i type="Person">Vincent van Gogh</i></index>
 	<tags><t>Kunst</t><t>Allgemein</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>beethoven_9</name>
+	<title>Beethoven 9.</title>
+	<data>beethoven_9_small.png</data>
+	<date>01.11.2021</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
