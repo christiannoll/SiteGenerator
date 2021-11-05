@@ -38,6 +38,19 @@ class StatisticPage : Page {
         pChildren.append(br())
         pChildren.append(.text((SiteGeneratorEnv.forGerman() ? "Durchschnittliche Anzahl an Wörtern: " : "Average number of words: ") + String(data.meanNumberOfWords)))
         pChildren.append(br())
+        pChildren.append(br())
+        
+        pChildren.append(.text((SiteGeneratorEnv.forGerman() ? "Post mit den meisten Wörtern (" : "Post with most words (") + String(data.maxWordCountPostItem?.number ?? 0) + "): "))
+        pChildren.append(data.maxWordCountPostItem?.renderPostLink() ?? .text(""))
+        pChildren.append(br())
+        
+        pChildren.append(.text((SiteGeneratorEnv.forGerman() ? "Post mit den wenigsten Wörtern (" : "Post with fewest words (") + String(data.minWordCountPostItem?.number ?? 0) + "): "))
+        pChildren.append(data.minWordCountPostItem?.renderPostLink() ?? .text(""))
+        pChildren.append(br())
+        
+        pChildren.append(.text((SiteGeneratorEnv.forGerman() ? "Post mit den meisten Links (" : "Post with most links (") + String(data.maxLinkCountPostItem?.number ?? 0) + "): "))
+        pChildren.append(data.maxLinkCountPostItem?.renderPostLink() ?? .text(""))
+        pChildren.append(br())
         
         return p(pChildren)
     }

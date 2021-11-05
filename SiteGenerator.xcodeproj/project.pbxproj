@@ -51,6 +51,7 @@
 		D6B1D68723F1F1AA00BE317E /* SerialsPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6B1D68623F1F1AA00BE317E /* SerialsPage.swift */; };
 		D6C26E6D23C0AF1B0014634C /* IndexItemPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6C26E6C23C0AF1B0014634C /* IndexItemPage.swift */; };
 		D6CAB6FF2398488A00C4D2EF /* PageWriter.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6CAB6FE2398488A00C4D2EF /* PageWriter.swift */; };
+		D6CE5C6F27357B3F007DD925 /* StatisticPostItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6CE5C6E27357B3F007DD925 /* StatisticPostItem.swift */; };
 		D6D356D5238DBAC300A2F217 /* SmlPrinter.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6D356D4238DBAC300A2F217 /* SmlPrinter.swift */; };
 		D6D4901F26BD9E5E0001D9AB /* PersonsRegisterItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6D4901E26BD9E5E0001D9AB /* PersonsRegisterItem.swift */; };
 		D6D4902126BD9FF10001D9AB /* PostListItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6D4902026BD9FF10001D9AB /* PostListItem.swift */; };
@@ -133,6 +134,7 @@
 		D6B1D68623F1F1AA00BE317E /* SerialsPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SerialsPage.swift; sourceTree = "<group>"; };
 		D6C26E6C23C0AF1B0014634C /* IndexItemPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IndexItemPage.swift; sourceTree = "<group>"; };
 		D6CAB6FE2398488A00C4D2EF /* PageWriter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageWriter.swift; sourceTree = "<group>"; };
+		D6CE5C6E27357B3F007DD925 /* StatisticPostItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatisticPostItem.swift; sourceTree = "<group>"; };
 		D6D356D4238DBAC300A2F217 /* SmlPrinter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmlPrinter.swift; sourceTree = "<group>"; };
 		D6D4901E26BD9E5E0001D9AB /* PersonsRegisterItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonsRegisterItem.swift; sourceTree = "<group>"; };
 		D6D4902026BD9FF10001D9AB /* PostListItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostListItem.swift; sourceTree = "<group>"; };
@@ -260,6 +262,7 @@
 				D6A981A423B0B7A7007F3CBF /* StatisticData.swift */,
 				D6A981A023B0AE1C007F3CBF /* StatisticPage.swift */,
 				D63DFA2D23B1EF8A00E9602F /* PostStatisticData.swift */,
+				D6CE5C6E27357B3F007DD925 /* StatisticPostItem.swift */,
 			);
 			path = Statistics;
 			sourceTree = "<group>";
@@ -429,6 +432,7 @@
 				D6578DDA257120E00029C761 /* SiteGeneratorEnv.swift in Sources */,
 				D6E8D2A2244B3A1500605EEF /* SearchItem.swift in Sources */,
 				D6D736CE2404777500FE2FD4 /* RssFeed.swift in Sources */,
+				D6CE5C6F27357B3F007DD925 /* StatisticPostItem.swift in Sources */,
 				D63B510E2399673E001E7E7B /* ArchiveYear.swift in Sources */,
 				D699D541239AEBAE006FE271 /* TagItem.swift in Sources */,
 				D63B5110239997FA001E7E7B /* ArchivePage.swift in Sources */,

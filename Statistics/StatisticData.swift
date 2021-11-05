@@ -12,4 +12,9 @@ struct StatisticData {
     var meanNumberOfWords: Int = 0
     
     var postsData: [PostStatisticData] = []
+    
+    var maxWordCountPostItem: StatisticPostItem?
+    var minWordCountPostItem: StatisticPostItem?
+    
+    var maxLinkCountPostItem: StatisticPostItem?
 }

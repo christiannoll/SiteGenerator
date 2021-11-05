@@ -31,7 +31,7 @@ class SiteStatistics {
         var numberOfAllWords = 0
         
         for post in posts {
-            var postData = PostStatisticData()
+            var postData = PostStatisticData(postItem: post)
             if post as? ImagePost != nil {
                 data.numberOfPhotos += 1
                 postData.imagePost = true
@@ -63,6 +63,13 @@ class SiteStatistics {
         let serialsFactory = SerialsFactory()
         let serials = serialsFactory.createSerials(posts)
         data.numberOfSerialItems = serials.numberOfTagItems
+        
+        sortByWordCount()
+        calculateMaxWordCountPost()
+        calculateMinWordCountPost()
+        
+        sortByLinkCount()
+        calculateMaxLinkCountPost()
     }
     
     private func calcWordCount(_ post: Item) -> Int {
@@ -129,5 +136,34 @@ class SiteStatistics {
             }
         }
         return numberOfWords
+    }
+    
+    private func calculateMaxWordCountPost() {
+        if !data.postsData.isEmpty {
+            data.maxWordCountPostItem = StatisticPostItem(data.postsData.last!.postItem, data.postsData.last!.wordCount)
+        }
+    }
+    
+    private func calculateMinWordCountPost() {
+        for postStatisticData in data.postsData {
+            if postStatisticData.wordCount > 0 {
+                data.minWordCountPostItem = StatisticPostItem(postStatisticData.postItem, postStatisticData.wordCount)
+                break
+            }
+        }
+    }
+    
+    private func calculateMaxLinkCountPost() {
+        if !data.postsData.isEmpty {
+            data.maxLinkCountPostItem = StatisticPostItem(data.postsData.last!.postItem, data.postsData.last!.linkCount)
+        }
+    }
+    
+    private func sortByWordCount() {
+        data.postsData.sort { $0.wordCount < $1.wordCount }
+    }
+    
+    private func sortByLinkCount() {
+        data.postsData.sort { $0.linkCount < $1.linkCount }
     }
 }
