@@ -17,7 +17,7 @@ struct YearParser {
                  .brackets(let nodes),
                  .link(let nodes),
                  .color(_, let nodes):
-                parseYear(nodes, &years)
+                parse(nodes, &years)
             default:
                 break
             }
