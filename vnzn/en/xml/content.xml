@@ -1866,4 +1866,21 @@
 	<index><i type="Person">Franz Kafka</i></index>
 	<tags><t>Literature</t></tags>
 </item>
+<item type="text" format="randomLinksColor">
+	<name>museum_architecture</name>
+	<title>Museum architecture</title>
+	<data>Which architect does not dream of designing a museum building, because it offers the lucrative opportunity with a lot of leeway for your own creative expressiveness to create something with which you can go down in the annals of [architectural history](https://en.wikipedia.org/wiki/Museum_architecture). However, the question arises as to whether the often spectacular exterior design is not sometimes more important than the appropriate presentation of what is on display.
+	Modern museum buildings as works of art:
+	* [Solomon R. Guggenheim Museum](https://en.wikipedia.org/wiki/Solomon_R._Guggenheim_Museum) designed by [Frank Lloyd Wright](https://en.wikipedia.org/wiki/Frank_Lloyd_Wright) and opened in New York City in 1959
+	* [Centre Pompidou](https://en.wikipedia.org/wiki/Centre_Pompidou) designed by [Renzo Piano](https://en.wikipedia.org/wiki/Renzo_Piano), [Richard Rogers](https://en.wikipedia.org/wiki/Richard_Rogers), Gianfranco Franchini and opened in Paris in *1977*
+	* [Guggenheim Museum Bilbao](https://en.wikipedia.org/wiki/Guggenheim_Museum_Bilbao) designed by [Frank Gehry](https://en.wikipedia.org/wiki/Frank_Gehry) and opened in *1997* in Bilbao
+	* [Jewish Museum Berlin](https://en.wikipedia.org/wiki/Jewish_Museum_Berlin) designed by [Daniel Libeskind](https://en.wikipedia.org/wiki/Daniel_Libeskind) and opened in Berlin in *2001*
+	* [Museum of Islamic Art](https://en.wikipedia.org/wiki/Museum_of_Islamic_Art,_Doha) designed by [Ieoh Ming Pei](https://en.wikipedia.org/wiki/I._M._Pei) and opened in Doha in *2008*
+	* [MAXXI – Museo nazionale delle arti del XXI secolo](https://en.wikipedia.org/wiki/MAXXI) designed by [Zaha Hadid](https://en.wikipedia.org/wiki/Zaha_Hadid) and opened in Rome in *2010*
+	* [V&amp;A Dundee](https://en.wikipedia.org/wiki/V%26A_Dundee) designed by [Kengo Kuma](https://en.wikipedia.org/wiki/Kengo_Kuma) and opened in Dundee (Scotland) in *2018*
+	</data>
+	<date>09.11.2021</date>
+	<index><i type="Person">Frank Lloyd Wright</i><i type="Person">Renzo Piano</i><i type="Person">Frank Gehry</i><i type="Person">Daniel Libeskind</i><i type="Person">Ieoh Ming Pei</i><i type="Person">Zaha Hadid</i></index>
+	<tags><t>Art</t><t>Architecture</t></tags>
+</item>
 </content>
