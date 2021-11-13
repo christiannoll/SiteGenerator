@@ -13,7 +13,7 @@ class BetaPage : Page {
     private func renderItems() -> SmlNode {
         var divChildren: [SmlNode] = []
         divChildren.append(newLine)
-        let h_4 = h4([.text("Beta")])
+        let h_4 = h4([.text("Meta")])
         divChildren.append(h_4)
         divChildren.append(newLine)
         
