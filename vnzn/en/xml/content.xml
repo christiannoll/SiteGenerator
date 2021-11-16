@@ -1891,4 +1891,16 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="randomLinkColor">
+	<name>top_4_werner_herzog</name>
+	<title>Top Four - Werner Herzog Movies</title>
+	<data>1. [Aguirre, the Wrath of God](https://en.wikipedia.org/wiki/Aguirre,_the_Wrath_of_God)
+	2. [Fitzcarraldo](https://en.wikipedia.org/wiki/Fitzcarraldo)
+	3. [Rescue Dawn](https://en.wikipedia.org/wiki/Rescue_Dawn)
+	4. [Grizzly Man](https://en.wikipedia.org/wiki/Grizzly_Man)</data>
+	<date>17.11.2021</date>
+	<index><i type="Person">Werner Herzog</i></index>
+	<tags><t>Movie</t></tags>
+	<serial>Top Four</serial>
+</item>
 </content>

@@ -1892,4 +1892,16 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="randomLinkColor">
+	<name>top_4_werner_herzog</name>
+	<title>Top Four - Werner Herzog Filme</title>
+	<data>1. [Aguirre, der Zorn Gottes](https://de.wikipedia.org/wiki/Aguirre,_der_Zorn_Gottes)
+	2. [Fitzcarraldo](https://de.wikipedia.org/wiki/Fitzcarraldo)
+	3. [Rescue Dawn](https://de.wikipedia.org/wiki/Rescue_Dawn)
+	4. [Grizzly Man](https://de.wikipedia.org/wiki/Grizzly_Man)</data>
+	<date>17.11.2021</date>
+	<index><i type="Person">Werner Herzog</i></index>
+	<tags><t>Film</t></tags>
+	<serial>Top Four</serial>
+</item>
 </content>
