@@ -1915,4 +1915,12 @@
 	<index><i>The hand</i><i>Brain</i></index>
 	<tags><t>General</t><t>Biology</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>two_heads</name>
+	<title>two heads</title>
+	<data>two_heads_small.png</data>
+	<date>25.11.2021</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
 </content>
