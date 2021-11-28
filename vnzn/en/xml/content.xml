@@ -1923,4 +1923,15 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>origin_of_thoughts</name>
+	<title>Where do thoughts come from?</title>
+	<data>It's hard not to think, but where do our [thoughts](https://en.wikipedia.org/wiki/Thought) actually come from? Maybe it's like this -
+	Our [brain](https://en.wikipedia.org/wiki/Brain) is constantly busy making predictions about the future, it is quasi permanently conducting thought experiments. For this purpose, it uses many [models](#2020/07/29/thinking_as_simulation_of_mental_models/) that it has learned over a lifetime and constructs from them, together with the external and internal sensory perceptions, a picture of the world that appears coherent to us and that we perceive as [reality](https://en.wikipedia.org/wiki/Reality).
+	However, we do not become [aware](https://en.wikipedia.org/wiki/Consciousness) of all these predictions, because only when they have successfully passed through a complex filtering mechanism do conscious thoughts emerge from them.
+	When we dream, this filter is probably much more permeable, which is why incredible things are possible in the dream world. The use of [drugs](https://en.wikipedia.org/wiki/Drug) can also affect the functioning of the filter. [Mental illnesses](https://en.wikipedia.org/wiki/Mental_disorder) may have something to do with a change in the way this filter works, as well.</data>
+	<date>29.11.2021</date>
+	<index><i>Brain</i><i>Dream</i></index>
+	<tags><t>General</t><t>Biology</t></tags>
+</item>
 </content>
