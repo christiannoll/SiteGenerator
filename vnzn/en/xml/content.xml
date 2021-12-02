@@ -1934,4 +1934,21 @@
 	<index><i>Brain</i><i>Dream</i></index>
 	<tags><t>General</t><t>Biology</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>hacker_ethics</name>
+	<title>Hacker Ethics</title>
+	<data>What are the ethical principles of hacking - motivation and limits - the [hacker ethics](https://www.ccc.de/en/hackerethik) of the [Chaos Computer Club](https://www.ccc.de/en/home):
+	* Access to computers - and anything which might teach you something about the way the world really works - should be unlimited and total. Always yield to the Hands-On Imperative!
+	* All information should be free.
+	* Mistrust authority - promote decentralization.
+	* [Hackers](https://en.wikipedia.org/wiki/Hacker) should be judged by their acting, not bogus criteria such as degrees, age, race, or position.
+	* You can create art and beauty on a computer.
+	* Computers can change your life for the better.
+	* Don't litter other people's data.
+	* Make public data available, protect private data.
+</data>
+	<date>03.12.2021</date>
+	<index><i>Chaos Computer Club</i></index>
+	<tags><t>Technology</t><t>Society</t></tags>
+</item>
 </content>

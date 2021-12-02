@@ -1935,4 +1935,20 @@
 	<index><i>Gehirn</i><i>Traum</i></index>
 	<tags><t>Allgemein</t><t>Biologie</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>hacker_ethics</name>
+	<title>Hackerethik</title>
+	<data>Die ethischen Grundsätze des Hackens – Motivation und Grenzen - die [Hackerethik](https://www.ccc.de/de/hackerethik) des [Chaos Computer Club](https://www.ccc.de/de/):
+	* Der Zugang zu Computern und allem, was einem zeigen kann, wie diese Welt funktioniert, sollte unbegrenzt und vollständig sein.
+	* Alle Informationen müssen frei sein.
+	* Mißtraue Autoritäten – fördere Dezentralisierung.
+	* Beurteile einen [Hacker](https://de.wikipedia.org/wiki/Hacker) nach dem, was er tut, und nicht nach üblichen Kriterien wie Aussehen, Alter, Herkunft, Spezies, Geschlecht oder gesellschaftliche Stellung.
+	* Man kann mit einem Computer Kunst und Schönheit schaffen.
+	* Computer können dein Leben zum Besseren verändern.
+	* Mülle nicht in den Daten anderer Leute.
+	* Öffentliche Daten nützen, private Daten schützen.</data>
+	<date>03.12.2021</date>
+	<index><i>Chaos Computer Club</i></index>
+	<tags><t>Technologie</t><t>Gesellschaft</t></tags>
+</item>
 </content>
