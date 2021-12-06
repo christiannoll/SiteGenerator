@@ -1951,4 +1951,12 @@
 	<index><i>Chaos Computer Club</i></index>
 	<tags><t>Technologie</t><t>Gesellschaft</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>silhouette</name>
+	<title>Schattenriss</title>
+	<data>silhouette_small.png</data>
+	<date>07.12.2021</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
