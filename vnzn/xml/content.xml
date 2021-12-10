@@ -1949,7 +1949,7 @@
 	* Öffentliche Daten nützen, private Daten schützen.</data>
 	<date>03.12.2021</date>
 	<index><i>Chaos Computer Club</i></index>
-	<tags><t>Technologie</t><t>Gesellschaft</t></tags>
+	<tags><t>Technologie</t><t>Gesellschaft</t><t>Informatik</t></tags>
 </item>
 <item type="image" height="200" width="200">
 	<name>silhouette</name>
@@ -1958,5 +1958,18 @@
 	<date>07.12.2021</date>
 	<index></index>
 	<tags><t>Foto</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>quine</name>
+	<title>Quine - Ein sich selbst reproduzierendes Programm</title>
+	<data>Ein [Quine](https://de.wikipedia.org/wiki/Quine_(Computerprogramm)) ist ein Computerprogramm, das ohne Input als einzige Ausgabe eine Kopie seines eigenen [Quellcodes](https://de.wikipedia.org/wiki/Quelltext) erzeugt.
+	Der Begriff "Quine" wurde von [Douglas R. Hofstadter](https://de.wikipedia.org/wiki/Douglas_R._Hofstadter), dem Autor des bekannten Buchs ["Gödel, Escher, Bach"](https://de.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach), als Hommage an den Logiker und Philosophen [Willard Van Orman Quine](https://de.wikipedia.org/wiki/Willard_Van_Orman_Quine), geprägt.
+	Für Programmierer ist es eine sportliche Herausforderung, die kleinstmöglichen Quines in verschiedenen Programmiersprachen zu finden.
+	Quines in [Python](https://de.wikipedia.org/wiki/Python_(Programmiersprache)) und in [Swift](https://de.wikipedia.org/wiki/Swift_(Programmiersprache)):
+	`c='c=%r;print(c%%c)';print(c%c)
+	let x = ["let x =", ";print(x[0], x, x[1])"] ;print(x[0], x, x[1])`</data>
+	<date>11.12.2021</date>
+	<index><i>Programmierung</i><i type="Person">Douglas R. Hofstadter</i><i type="Person">Johann Sebastian Bach</i></index>
+	<tags><t>Informatik</t></tags>
 </item>
 </content>
