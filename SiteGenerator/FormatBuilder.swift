@@ -119,17 +119,24 @@ class FormatBuilder {
     }
     
     private func combineTextNodes(_ textNodes: [MarkdownNode]) -> [MarkdownNode] {
+        let combinedText = combineText(textNodes)
+        return [.text(combinedText)]
+    }
+ 
+    private func combineText(_ textNodes: [MarkdownNode]) -> String {
         var combinedText = ""
         for textNode in textNodes {
             switch textNode {
             case .text(let text):
                 combinedText += text
                 break
+            case .parenthesis(let mdNodes):
+                combinedText += combineText(mdNodes)
+                break
             default:
                 fatalError()
             }
         }
-        return [.text(combinedText)]
+        return combinedText
     }
-    
 }
