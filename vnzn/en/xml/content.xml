@@ -1971,4 +1971,23 @@
 	<index><i>Programming</i><i type="Person">Douglas R. Hofstadter</i><i type="Person">Johann Sebastian Bach</i></index>
 	<tags><t>Computer science</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>2001_music</name>
+	<title>2001: A Space Odyssey: Music</title>
+	<data>"In a film, however, I think the images, the music, the editing and the emotions of the actors are the principal tools you have to work with. Language is important but I would put it after those elements. The thing a film does best is to use pictures with music and I think these are the moments you remember." [Stanley Kubrick](https://en.wikipedia.org/wiki/Stanley_Kubrick) *1972*
+	Soundtrack of ["2001: A Space Odyssey"](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(soundtrack)):
+	1. ["Also sprach Zarathustra"](https://en.wikipedia.org/wiki/Also_sprach_Zarathustra) - [Richard Strauss](https://en.wikipedia.org/wiki/Richard_Strauss)
+	2. "Requiem for Soprano, Mezzo-Soprano, 2 Mixed Choirs and Orchestra" - [György Ligeti](https://en.wikipedia.org/wiki/Gyorgy_Ligeti)
+	3. ["Lux Aeterna"](https://en.wikipedia.org/wiki/Lux_Aeterna_(Ligeti)) - [György Ligeti](https://en.wikipedia.org/wiki/Gyorgy_Ligeti)
+	4. ["The Blue Danube"](https://en.wikipedia.org/wiki/The_Blue_Danube) - [Johann Strauss II](https://en.wikipedia.org/wiki/Johann_Strauss_II)
+	5. ["Gayane Ballet Suite (Adagio)"](https://en.wikipedia.org/wiki/Gayane_(ballet)) - [Aram Khachaturian](https://en.wikipedia.org/wiki/Aram_Khachaturian)
+	6. ["Atmosphères"](https://en.wikipedia.org/wiki/Atmosph%C3%A8res) - [György Ligeti](https://en.wikipedia.org/wiki/Gyorgy_Ligeti)
+	7. ["The Blue Danube"](https://en.wikipedia.org/wiki/The_Blue_Danube) - [Johann Strauss II](https://en.wikipedia.org/wiki/Johann_Strauss_II)
+	8. ["Also sprach Zarathustra"](https://en.wikipedia.org/wiki/Also_sprach_Zarathustra) - [Richard Strauss](https://en.wikipedia.org/wiki/Richard_Strauss)
+	</data>
+	<date>15.12.2021</date>
+	<index><i type="Movie">2001: A Space Odyssey</i><i type="Person">Stanley Kubrick</i></index>
+	<tags><t>Movie</t><t>Music</t></tags>
+	<serial>2001: A Space Odyssey</serial>
+</item>
 </content>

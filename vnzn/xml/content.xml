@@ -1972,4 +1972,22 @@
 	<index><i>Programmierung</i><i type="Person">Douglas R. Hofstadter</i><i type="Person">Johann Sebastian Bach</i></index>
 	<tags><t>Informatik</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>2001_music</name>
+	<title>2001: Odyssee im Weltraum: Musik</title>
+	<data>"Die wichtigsten Werkzeuge, mit denen man bei einem Film arbeiten muß, sind meines Erachtens Bild, Musik, Montage und die Gefühle der Schauspieler. Sprache ist sicher wichtig, aber für mich kommt Sie erst an fünfter Stelle. Für mich persönlich bestehen die unvergesslichsten Szenen in den besten Filmen in der Hauptsache aus Bild und Musik." [Stanley Kubrick](https://de.wikipedia.org/wiki/Stanley_Kubrick) *1972*
+	Soundtrack von ["2001: Odyssee im Weltraum"](https://de.wikipedia.org/wiki/2001:_Odyssee_im_Weltraum):
+	1. ["Also sprach Zarathustra"](https://de.wikipedia.org/wiki/Also_sprach_Zarathustra_(Strauss)) - [Richard Strauss](https://de.wikipedia.org/wiki/Richard_Strauss)
+	2. "Requiem für Sopran, Mezzosopran, zwei gemischte Chöre und Orchester" - [György Ligeti](https://de.wikipedia.org/wiki/Gy%C3%B6rgy_Ligeti)
+	3. ["Lux Aeterna"](https://de.wikipedia.org/wiki/Lux_Aeterna_(Ligeti)) - [György Ligeti](https://de.wikipedia.org/wiki/Gy%C3%B6rgy_Ligeti)
+	4. ["An der schönen blauen Donau"](https://de.wikipedia.org/wiki/An_der_sch%C3%B6nen_blauen_Donau) - [Johann Strauss (Sohn)](https://de.wikipedia.org/wiki/Johann_Strauss_(Sohn))
+	5. ["Gayaneh"](https://en.wikipedia.org/wiki/Gayane_(ballet)) - [Aram Chatschaturjan](https://de.wikipedia.org/wiki/Aram_Chatschaturjan)
+	6. ["Atmosphères"](https://de.wikipedia.org/wiki/Atmosph%C3%A8res) - [György Ligeti](https://de.wikipedia.org/wiki/Gy%C3%B6rgy_Ligeti)
+	7. ["An der schönen blauen Donau"](https://de.wikipedia.org/wiki/An_der_sch%C3%B6nen_blauen_Donau) - [Johann Strauss (Sohn)](https://de.wikipedia.org/wiki/Johann_Strauss_(Sohn))
+	8. ["Also sprach Zarathustra"](https://de.wikipedia.org/wiki/Also_sprach_Zarathustra_(Strauss)) - [Richard Strauss](https://de.wikipedia.org/wiki/Richard_Strauss)</data>
+	<date>15.12.2021</date>
+	<index><i type="Movie">2001: Odyssee im Weltraum</i><i type="Person">Stanley Kubrick</i></index>
+	<tags><t>Film</t><t>Musik</t></tags>
+	<serial>2001: Odyssee im Weltraum</serial>
+</item>
 </content>
