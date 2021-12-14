@@ -31,9 +31,9 @@ class RssFeed {
         for post in posts {
             channelChildren.append(post.renderRss())
             channelChildren.append(newLine)
-            if index >= HomePage.max_number_of_posts {
+            /*if index >= HomePage.max_number_of_posts {
                 break
-            }
+            }*/
             index += 1
         }
         
