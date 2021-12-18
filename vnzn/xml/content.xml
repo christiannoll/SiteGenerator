@@ -1990,4 +1990,12 @@
 	<tags><t>Film</t><t>Musik</t></tags>
 	<serial>2001: Odyssee im Weltraum</serial>
 </item>
+<item type="image" height="200" width="200">
+	<name>advent</name>
+	<title>Advent</title>
+	<data>advent_small.png</data>
+	<date>19.12.2021</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
