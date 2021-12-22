@@ -1998,4 +1998,13 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>paul_klee_inconceivable</name>
+	<title>Paul Klee - about himself</title>
+	<data>[Paul Klee](https://en.wikipedia.org/wiki/Paul_Klee) is not only one of the most important visual artists of 20th century [Classical Modernism](https://en.wikipedia.org/wiki/Modern_art), but, in addition to his musical talent, he was also very good with words:
+	"I cannot be grasped in the here and now. For my dwelling place is as much among the dead as the yet unborn. Slightly closer to the heart of creation than usual. But not nearly close enough." *1920*</data>
+	<date>23.12.2021</date>
+	<index><i type="Person">Paul Klee</i><i>Bauhaus</i></index>
+	<tags><t>Painting</t></tags>
+</item>
 </content>
