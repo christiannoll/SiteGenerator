@@ -38,6 +38,8 @@ public class MarkdownParser {
                 else if token == .tab {
                     elements.append(.linebreak)
                 }
+            case .newline:
+                elements.append(.newline)
             case .text(let text):
                 elements.append(.text(text))
             case .olistDelimiter(let delimiter):

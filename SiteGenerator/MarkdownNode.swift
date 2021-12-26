@@ -2,6 +2,7 @@ import Foundation
 
 public enum MarkdownNode {
     case linebreak
+    case newline
     case text(String)
     case olistelement([MarkdownNode])
     case ulistelement([MarkdownNode])

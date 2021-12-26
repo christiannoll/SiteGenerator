@@ -3,6 +3,7 @@ import Foundation
 enum MarkdownToken {
     case end
     case tab
+    case newline
     case text(String)
     case olistDelimiter(UnicodeScalar)
     case ulistDelimiter(UnicodeScalar)
@@ -18,6 +19,8 @@ extension MarkdownToken: CustomStringConvertible {
         case .end:
             return ""
         case .tab:
+            fallthrough
+        case .newline:
             return "\n"
         case .text(let value):
             return value
@@ -67,6 +70,7 @@ private extension UnicodeScalar {
     static let space: UnicodeScalar = " "
     static let tab: UnicodeScalar = "\t"
     static let point: UnicodeScalar = "."
+    static let backslash: UnicodeScalar = "\\"
 }
 
 
@@ -103,7 +107,11 @@ class MarkdownTokenizer {
         else if c == UnicodeScalar.tab {
             token = .tab
             advance()
-        } else {
+        }
+        else if c == UnicodeScalar.backslash {
+            token = scanNewline()
+        }
+        else {
             token = scanText()
         }
         
@@ -262,10 +270,23 @@ class MarkdownTokenizer {
         
         return .ulistDelimiter(delimiter)
     }
+    
+    private func scanNewline() -> MarkdownToken? {
+        let n = next ?? .space
+        
+        guard n == .space else {
+            return nil
+        }
+        
+        advance()
+        return .newline
+    }
 
     private func scanText() -> MarkdownToken? {
         let startIndex = currentIndex
-        scanUntil { CharacterSet.delimiters.contains($0) || UnicodeScalar.tab == $0 || CharacterSet.olistDelimiters.contains($0) || CharacterSet.ulistDelimiters.contains($0) }
+        scanUntil { CharacterSet.delimiters.contains($0) || UnicodeScalar.tab == $0 || CharacterSet.olistDelimiters.contains($0) || CharacterSet.ulistDelimiters.contains($0)
+            || UnicodeScalar.backslash == $0
+        }
         
         guard currentIndex > startIndex else {
             return nil

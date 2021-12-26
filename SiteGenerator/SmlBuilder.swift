@@ -28,6 +28,8 @@ public class SmlBuilder {
             switch markDownNode {
             case .linebreak:
                 s.append("</p>\n\t\t<p>")
+            case .newline:
+                s.append("<br>")
             case .text(let text):
                 s.append(text)
             case .bold(let nodes):
