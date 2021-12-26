@@ -213,4 +213,18 @@ class UnitTest: XCTestCase {
         
         XCTAssertEqual(text, "<code>wiederhole<br>     falls n gerade:  n := n / 2<br>    sonst:           n := (3 * n) + 1<br>bis n = 1</code>")
     }
+    
+    func testNewline() {
+        let s = "first line \\ second line"
+        let text = smlBuilder.render(s)
+        
+        XCTAssertEqual(text, "first line <br> second line")
+    }
+    
+    func testNoNewline() {
+        let s = "first part \n second part"
+        let text = smlBuilder.render(s)
+        
+        XCTAssertEqual(text, s)
+    }
 }
