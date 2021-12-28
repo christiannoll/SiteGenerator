@@ -101,7 +101,15 @@ class Page {
         var nodes: [SmlNode] = []
         nodes.append(.text("Twitter: "))
         let address = "https://twitter.com/fr0schmidt"
-        nodes.append(a([href => (address)], ["fr0schmidt"]))
+        nodes.append(a([href => (address)], ["@fr0schmidt"]))
+        return nodes
+    }
+    
+    func createGithubLine() -> [SmlNode] {
+        var nodes: [SmlNode] = []
+        nodes.append(.text("GitHub: "))
+        let address = "https://github.com/christiannoll"
+        nodes.append(a([href => (address)], ["christiannoll"]))
         return nodes
     }
     
@@ -209,7 +217,7 @@ class Page {
         var footerChildren: [SmlNode] = [newLine, tab]
         
         var pChildren: [SmlNode] = []
-        pChildren.append(.text("© 2019-2021 "))
+        pChildren.append(.text("© 2019-2022 "))
         let link = a([href => Page.baseUrl], ["Christian Noll"])
         pChildren.append(link)
         

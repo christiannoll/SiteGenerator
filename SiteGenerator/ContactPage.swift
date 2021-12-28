@@ -27,6 +27,8 @@ class ContactPage: Page {
         pChildren.append(.text("Email: webmaster (at) vnzn (punkt) de"))
         pChildren.append(br())
         pChildren.append(contentsOf: createTwitterLine())
+        pChildren.append(br())
+        pChildren.append(contentsOf: createGithubLine())
         return p(pChildren)
     }
     

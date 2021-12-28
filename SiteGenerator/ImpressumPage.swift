@@ -50,6 +50,8 @@ class ImpressumPage: Page {
         nodes.append(.text(email))
         nodes.append(br())
         nodes.append(contentsOf: createTwitterLine())
+        nodes.append(br())
+        nodes.append(contentsOf: createGithubLine())
         return p(nodes)
     }
     
