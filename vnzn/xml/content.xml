@@ -2017,4 +2017,12 @@
 	<index><i>Rückblick</i></index>
 	<tags><t>Allgemein</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>potsdamer_platz</name>
+	<title>Potsdamer Platz</title>
+	<data>potsdamer_platz_small.png</data>
+	<date>31.12.2021</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
