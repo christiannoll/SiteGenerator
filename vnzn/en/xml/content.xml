@@ -302,7 +302,7 @@
 	`3.1415926535 8979323846 2643383279 5028841971 6939937510 5820974944 5923078164 0628620899 8628034825 3421170679 ...`
 	For thousands of years mathematicians have been working on the calculation of the [irrational](https://en.wikipedia.org/wiki/Irrational_number) and [transcendental](https://en.wikipedia.org/wiki/Transcendental_number) number [Pi](https://3.141592653589793238462643383279502884197169399375105820974944592.eu/). Starting with the Greek mathematician Archimedes, through [Ludolph van Ceulen](https://en.wikipedia.org/wiki/Ludolph_van_Ceulen), [Gottfried Wilhelm Leibnitz](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz) and [Johann Heinrich Lambert](https://en.wikipedia.org/wiki/Johann_Heinrich_Lambert) to the present day. At present, the [record](http://www.numberworld.org/y-cruncher/#Records) is [50 trillion](https://blog.timothymullican.com/calculating-pi-my-attempt-breaking-pi-record) decimal places.</data>	
 	<date>01.03.2020</date>
-	<index><i>Pi</i></index>
+	<index><i>Pi</i><i>Numbers</i></index>
 	<tags><t>Mathematics</t></tags>
 </item>
 <item type="text" format="randomLinkColor">
@@ -1396,7 +1396,7 @@
 		* The [golden ratio](https://en.wikipedia.org/wiki/Golden_ratio) Φ = `1.61803 39887 49894 84820 …`
 	</data>
 	<date>09.05.2021</date>
-	<index><i>Complexity</i><i>Universum</i></index>
+	<index><i>Complexity</i><i>Universum</i><i>Numbers</i></index>
 	<tags><t>Mathematics</t><t>General</t></tags>
 	<serial>Complexity</serial>
 </item>
@@ -2024,5 +2024,15 @@
 	<date>31.12.2021</date>
 	<index></index>
 	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>math_curiosities</name>
+	<title>Mathematical curiosities</title>
+	<data>*81* is the only number, other than 0 und 1, with this curious property: (8+1)&lt;sup&gt;2&lt;/sup&gt; = 81
+	*40585* is the largest [factorion](https://en.wikipedia.org/wiki/Factorion) and was discovered in *1964* by Leigh Janes: 4! + 0! + 5! + 8! + 5! = 40585
+	</data>
+	<date>04.01.2022</date>
+	<index><i>Numbers</i></index>
+	<tags><t>Mathematics</t></tags>
 </item>
 </content>

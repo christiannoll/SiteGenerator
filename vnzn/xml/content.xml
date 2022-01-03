@@ -302,7 +302,7 @@
 	`3.1415926535 8979323846 2643383279 5028841971 6939937510 5820974944 5923078164 0628620899 8628034825 3421170679 ...`
 	Seit tausenden von Jahren beschäftigen sich Mathematiker mit der Berechnung der [irrationalen](https://de.wikipedia.org/wiki/Irrationale_Zahl) und [transzendenten](https://de.wikipedia.org/wiki/Transzendente_Zahl) Zahl [Pi](https://3.141592653589793238462643383279502884197169399375105820974944592.eu/). Angefangen mit dem griechischen Mathematiker [Archimedes](https://de.wikipedia.org/wiki/Archimedes),  über [Ludolph van Ceulen](https://de.wikipedia.org/wiki/Ludolph_van_Ceulen), [Gottfried Wilhelm Leibnitz](https://de.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz) und [Johann Heinrich Lambert](https://de.wikipedia.org/wiki/Johann_Heinrich_Lambert) bis heute. Zum aktuellen Zeitpunkt liegt der [Rekord](http://www.numberworld.org/y-cruncher/#Records) bei [50 Billionen](https://blog.timothymullican.com/calculating-pi-my-attempt-breaking-pi-record) Nachkommastellen.</data>	
 	<date>01.03.2020</date>
-	<index><i>Kreiszahl Pi</i></index>
+	<index><i>Kreiszahl Pi</i><i>Zahlen</i></index>
 	<tags><t>Mathematik</t></tags>
 </item>
 <item type="text" format="randomLinkColor">
@@ -1398,7 +1398,7 @@
 		* den [Goldenen Schnitt](https://de.wikipedia.org/wiki/Goldener_Schnitt) Φ = `1,61803 39887 49894 84820 …`
 		</data>
 	<date>09.05.2021</date>
-	<index><i>Komplexität</i><i>Universum</i></index>
+	<index><i>Komplexität</i><i>Universum</i><i>Zahlen</i></index>
 	<tags><t>Mathematik</t><t>Allgemein</t></tags>
 	<serial>Komplexität</serial>
 </item>
@@ -2024,5 +2024,14 @@
 	<date>31.12.2021</date>
 	<index></index>
 	<tags><t>Foto</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>math_curiosities</name>
+	<title>Mathematische Kuriositäten</title>
+	<data>*81* ist die einzige Zahl neben 0 und 1, die diese merkwürdige Eigenschaft hat: (8+1)&lt;sup&gt;2&lt;/sup&gt; = 81
+	*40585* ist das größte [Faktorion](https://en.wikipedia.org/wiki/Factorion) und wurde *1964* von Leigh Janes entdeckt: 4! + 0! + 5! + 8! + 5! = 40585</data>
+	<date>04.01.2022</date>
+	<index><i>Zahlen</i></index>
+	<tags><t>Mathematik</t></tags>
 </item>
 </content>
