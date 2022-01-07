@@ -2034,4 +2034,13 @@
 	<index><i>Zahlen</i></index>
 	<tags><t>Mathematik</t></tags>
 </item>
+<item type="text" format="randomLinksColor">
+	<name>show_me_the_code</name>
+	<title>Show me the code</title>
+	<data>In Anlehnung an eine Stelle in der [Bibel](https://de.wikipedia.org/wiki/Bibel) (1. Johannes 2,1-6) gibt es die Redewendung: "Nicht an ihren Worten, an ihren Taten sollt ihr sie erkennen."
+	Passend dazu gibt es ein Zitat von [Linus Torvalds](https://de.wikipedia.org/wiki/Linus_Torvalds) aus der Welt der Informatik: "Talk is cheap. Show me the [code](https://github.com/torvalds/linux)."</data>
+	<date>08.01.2022</date>
+	<index><i type="Person">Linus Torvalds</i></index>
+	<tags><t>Informatik</t><t>Philosophie</t></tags>
+</item>
 </content>
