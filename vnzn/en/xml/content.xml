@@ -2045,4 +2045,12 @@
 	<index><i type="Person">Linus Torvalds</i></index>
 	<tags><t>Computer science</t><t>Philosophy</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>frost</name>
+	<title>Frost</title>
+	<data>frost_small.png</data>
+	<date>12.01.2022</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
 </content>
