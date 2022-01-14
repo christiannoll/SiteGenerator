@@ -12,6 +12,7 @@ public class Item  {
     var links: [String: String] = [:]
     var years: [Int] = []
     var persons: Set<String> = []
+    var movies: Set<String> = []
     
     let smlBuilder = PostBuilder()
     
