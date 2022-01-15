@@ -1220,7 +1220,7 @@
 	Für diesen Wahnsinn findet der Regisseur [Darren Aronofsky](https://de.wikipedia.org/wiki/Darren_Aronofsky) in seinem Film eindrucksvolle Bilder, manchmal stakkatohaft zusammengeschnittene oder verzerrte Aufnahmen der vier Protagonisten, wie sie durch den Film geistern, so dass der Zuschauer förmlich die ekstatische Überreizung der Synapsen fühlen und sehen kann. 
 	["Requiem for a Dream"](https://de.wikipedia.org/wiki/Requiem_for_a_Dream) (*2000*) / Regie: [Darren Aronofsky](https://de.wikipedia.org/wiki/Darren_Aronofsky) / Drehbuch: [Hurbert Selby](https://de.wikipedia.org/wiki/Hubert_Selby) / Kamera: [Matthew Libatique](https://de.wikipedia.org/wiki/Matthew_Libatique) / Musik: [Clint Mansell](https://de.wikipedia.org/wiki/Clint_Mansell) / Besetzung: [Ellen Burstyn](https://de.wikipedia.org/wiki/Ellen_Burstyn), [Jared Leto](https://de.wikipedia.org/wiki/Jared_Leto), [Jennifer Connelly](https://de.wikipedia.org/wiki/Jennifer_Connelly), [Marlon Wayans](https://de.wikipedia.org/wiki/Marlon_Wayans)</data>
 	<date>26.02.2021</date>
-	<index><i type="Person">Darren Aronofsky</i><i>Traum</i></index>
+	<index><i type="Person">Darren Aronofsky</i><i>Traum</i><i type="Movie">Requiem for a Dream</i></index>
 	<tags><t>Film</t></tags>
 </item>
 <item type="text" format="normal">
@@ -1340,7 +1340,7 @@
 	* ["Platoon"](https://de.wikipedia.org/wiki/Platoon_(Film)) von [Oliver Stone](https://de.wikipedia.org/wiki/Oliver_Stone) (*1986*)
 	* ["Full Metal Jacket"](https://de.wikipedia.org/wiki/Full_Metal_Jacket) von [Stanley Kubrick](https://de.wikipedia.org/wiki/Stanley_Kubrick) (*1987*)</data>
 	<date>15.04.2021</date>
-	<index><i type="Person">Stanley Kubrick</i></index>
+	<index><i type="Person">Stanley Kubrick</i><i type="Movie">Die durch die Hölle gehen</i><i type="Movie">Apocalypse Now</i><i type="Movie">Platoon</i><i type="Movie">Full Metal Jacket</i></index>
 	<tags><t>Film</t><t>Gesellschaft</t></tags>
 </item>
 <item type="text" format="randomLinkColor">
@@ -1445,7 +1445,7 @@
 	 2. Die by the code.
 	Regie: [Jim Jarmusch](https://de.wikipedia.org/wiki/Jim_Jarmusch) / Drehbuch: [Jim Jarmusch](https://de.wikipedia.org/wiki/Jim_Jarmusch) / Kamera: [Robby Müller](https://de.wikipedia.org/wiki/Robby_M%C3%BCller) / Musik: [RZA](https://de.wikipedia.org/wiki/Robert_Diggs), [Wu-Tang Clan](https://de.wikipedia.org/wiki/Wu-Tang_Clan) / Besetzung: [Forest Whitaker](https://de.wikipedia.org/wiki/Forest_Whitaker), John Tormey, [Cliff Gorman](https://de.wikipedia.org/wiki/Cliff_Gorman), [Isaac de Bankolé](https://de.wikipedia.org/wiki/Isaac_de_Bankol%C3%A9), [Henry Silva](https://de.wikipedia.org/wiki/Henry_Silva), [Camille Winbush](https://de.wikipedia.org/wiki/Camille_Winbush), Tricia Vessey</data>
 	<date>25.05.2021</date>
-	<index><i type="Person">Forest Whitaker</i><i type="Person">Jim Jarmusch</i></index>
+	<index><i type="Person">Forest Whitaker</i><i type="Person">Jim Jarmusch</i><i type="Movie">Ghost Dog - Der Weg des Samurai</i></index>
 	<tags><t>Film</t></tags>
 </item>
 <item type="image" height="200" width="200">
@@ -2050,5 +2050,16 @@
 	<date>12.01.2022</date>
 	<index></index>
 	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>hanlons_razor</name>
+	<title>Hanlons Rasiermesser</title>
+	<data>In Zeiten zunehmender Popularität von [Verschwörungstheorien](https://de.wikipedia.org/wiki/Verschw%C3%B6rungstheorie) kann es hilfreich sein, sich das Prinzip des [Hanlonschen Rasiermessers](https://de.wikipedia.org/wiki/Hanlon%E2%80%99s_Razor) bewusst zu machen. Es ist in Anlehnung an das Sparsamkeitsprinzip, auch [Ockhams Rasiermesser](#2021/01/01/occams_razor/) genannt, entstanden und sagt Folgendes aus:
+	"Unterstelle niemals Böswilligkeit, was sich durch Dummheit hinreichend erklären lässt."
+	Einen ähnlichen Gedanken hat [Goethe](https://de.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe) *1774* in seinem Roman ["Die Leiden des jungen Werther"](https://de.wikipedia.org/wiki/Die_Leiden_des_jungen_Werthers) formuliert: "Mißverständnisse und Trägheit machen vielleicht mehr Irrungen in der Welt als List und Bosheit."</data>
+	<date>16.01.2022</date>
+	<index><i>Gehirn</i><i>Komplexität</i><i type="Person">Johann Wolfgang von Goethe</i><i type="Book">Die Leiden des jungen Werther</i></index>
+	<tags><t>Allgemein</t></tags>
+	<serial>Komplexität</serial>
 </item>
 </content>
