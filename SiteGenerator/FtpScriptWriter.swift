@@ -3,7 +3,7 @@ import Foundation
 class FtpScriptWriter {
     
     private let baseUrl = URL(fileURLWithPath: SiteGeneratorEnv.baseDir)
-    private let folderNames = ["2019", "2020", "2021", "archive", "images", "impressum", "index", "statistic", "tags", "serials", "xml", "search", "random", "beta", "timeline", "persons"]
+    private let folderNames = ["2019", "2020", "2021", "archive", "images", "impressum", "index", "statistic", "tags", "serials", "xml", "search", "random", "beta", "timeline", "persons", "movies"]
     
     private var script = ""
     
