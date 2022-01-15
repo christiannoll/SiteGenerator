@@ -122,6 +122,11 @@ struct SiteGenerator {
         let personsRegisterPage = PersonsRegisterPage(personsRegister)
         writer.writePersonsRegisterPage(personsRegisterPage.render())
         
+        let moviesRegisterFactory = MoviesRegisterFactory()
+        let moviesRegister = moviesRegisterFactory.createMoviesRegister(posts)
+        let moviesRegisterPage = MoviesRegisterPage(moviesRegister)
+        writer.writeMoviesRegisterPage(moviesRegisterPage.render())
+        
         let betaPage = BetaPage()
         writer.writeBetaPage(betaPage.render())
     }

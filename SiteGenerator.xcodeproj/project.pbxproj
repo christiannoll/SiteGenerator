@@ -53,7 +53,7 @@
 		D6CAB6FF2398488A00C4D2EF /* PageWriter.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6CAB6FE2398488A00C4D2EF /* PageWriter.swift */; };
 		D6CE5C6F27357B3F007DD925 /* StatisticPostItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6CE5C6E27357B3F007DD925 /* StatisticPostItem.swift */; };
 		D6D356D5238DBAC300A2F217 /* SmlPrinter.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6D356D4238DBAC300A2F217 /* SmlPrinter.swift */; };
-		D6D4901F26BD9E5E0001D9AB /* PersonsRegisterItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6D4901E26BD9E5E0001D9AB /* PersonsRegisterItem.swift */; };
+		D6D4901F26BD9E5E0001D9AB /* RegisterItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6D4901E26BD9E5E0001D9AB /* RegisterItem.swift */; };
 		D6D4902126BD9FF10001D9AB /* PostListItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6D4902026BD9FF10001D9AB /* PostListItem.swift */; };
 		D6D4902326BDA3B60001D9AB /* PersonsRegister.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6D4902226BDA3B60001D9AB /* PersonsRegister.swift */; };
 		D6D4902526BDA6AD0001D9AB /* PersonsRegisterPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6D4902426BDA6AD0001D9AB /* PersonsRegisterPage.swift */; };
@@ -64,6 +64,9 @@
 		D6E8D29E244B384C00605EEF /* SearchPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6E8D29D244B384C00605EEF /* SearchPage.swift */; };
 		D6E8D2A0244B38FA00605EEF /* SearchItems.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6E8D29F244B38FA00605EEF /* SearchItems.swift */; };
 		D6E8D2A2244B3A1500605EEF /* SearchItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6E8D2A1244B3A1500605EEF /* SearchItem.swift */; };
+		D6EC3FB02792140C00B0BD45 /* Register.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6EC3FAF2792140C00B0BD45 /* Register.swift */; };
+		D6EC3FB227921D0000B0BD45 /* MoviesRegister.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6EC3FB127921D0000B0BD45 /* MoviesRegister.swift */; };
+		D6EC3FB427921DFE00B0BD45 /* MoviesRegisterPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6EC3FB327921DFE00B0BD45 /* MoviesRegisterPage.swift */; };
 		D6F303A523AC30220012F659 /* UnitTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F303A423AC30220012F659 /* UnitTest.swift */; };
 		D6F303AB23AC31170012F659 /* SmlBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = D65D75BC23ABED9F00490D17 /* SmlBuilder.swift */; };
 		D6F303AC23AC311E0012F659 /* MarkdownParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F92EC3238320D900FCAAC1 /* MarkdownParser.swift */; };
@@ -136,7 +139,7 @@
 		D6CAB6FE2398488A00C4D2EF /* PageWriter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageWriter.swift; sourceTree = "<group>"; };
 		D6CE5C6E27357B3F007DD925 /* StatisticPostItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatisticPostItem.swift; sourceTree = "<group>"; };
 		D6D356D4238DBAC300A2F217 /* SmlPrinter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmlPrinter.swift; sourceTree = "<group>"; };
-		D6D4901E26BD9E5E0001D9AB /* PersonsRegisterItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonsRegisterItem.swift; sourceTree = "<group>"; };
+		D6D4901E26BD9E5E0001D9AB /* RegisterItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterItem.swift; sourceTree = "<group>"; };
 		D6D4902026BD9FF10001D9AB /* PostListItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostListItem.swift; sourceTree = "<group>"; };
 		D6D4902226BDA3B60001D9AB /* PersonsRegister.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonsRegister.swift; sourceTree = "<group>"; };
 		D6D4902426BDA6AD0001D9AB /* PersonsRegisterPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonsRegisterPage.swift; sourceTree = "<group>"; };
@@ -147,6 +150,9 @@
 		D6E8D29D244B384C00605EEF /* SearchPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchPage.swift; sourceTree = "<group>"; };
 		D6E8D29F244B38FA00605EEF /* SearchItems.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchItems.swift; sourceTree = "<group>"; };
 		D6E8D2A1244B3A1500605EEF /* SearchItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchItem.swift; sourceTree = "<group>"; };
+		D6EC3FAF2792140C00B0BD45 /* Register.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Register.swift; sourceTree = "<group>"; };
+		D6EC3FB127921D0000B0BD45 /* MoviesRegister.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesRegister.swift; sourceTree = "<group>"; };
+		D6EC3FB327921DFE00B0BD45 /* MoviesRegisterPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesRegisterPage.swift; sourceTree = "<group>"; };
 		D6F303A223AC30220012F659 /* UnitTest.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UnitTest.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D6F303A423AC30220012F659 /* UnitTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnitTest.swift; sourceTree = "<group>"; };
 		D6F303A623AC30220012F659 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -221,15 +227,18 @@
 				D6ADD6532385DAF9005C0495 /* MarkdownNode.swift */,
 				D6F92EC3238320D900FCAAC1 /* MarkdownParser.swift */,
 				D63B71A22383261B00E989EE /* MarkdownTokenizer.swift */,
+				D6EC3FB127921D0000B0BD45 /* MoviesRegister.swift */,
+				D6EC3FB327921DFE00B0BD45 /* MoviesRegisterPage.swift */,
 				D650F34E23930CC000B2320E /* Page.swift */,
 				D6CAB6FE2398488A00C4D2EF /* PageWriter.swift */,
 				D6D4902226BDA3B60001D9AB /* PersonsRegister.swift */,
-				D6D4901E26BD9E5E0001D9AB /* PersonsRegisterItem.swift */,
 				D6D4902426BDA6AD0001D9AB /* PersonsRegisterPage.swift */,
 				D6F6FF7A238875BB0049F171 /* PostBuilder.swift */,
 				D6D4902026BD9FF10001D9AB /* PostListItem.swift */,
 				D60667602396E2A100F7B79E /* PostPage.swift */,
 				D65B17AF2598C42C0008F88E /* RandomEntriesBuilder.swift */,
+				D6EC3FAF2792140C00B0BD45 /* Register.swift */,
+				D6D4901E26BD9E5E0001D9AB /* RegisterItem.swift */,
 				D6D736CD2404777500FE2FD4 /* RssFeed.swift */,
 				D63CB6FE240AFF4A00D1BA79 /* RssParser.swift */,
 				D69D533B24533AAC005F618E /* SearchIndexBuilder.swift */,
@@ -387,7 +396,8 @@
 				D60B488F23B160DC005E57EF /* CsvWriter.swift in Sources */,
 				D69221C6238196740007E774 /* ContentParser.swift in Sources */,
 				D6E8D29E244B384C00605EEF /* SearchPage.swift in Sources */,
-				D6D4901F26BD9E5E0001D9AB /* PersonsRegisterItem.swift in Sources */,
+				D6D4901F26BD9E5E0001D9AB /* RegisterItem.swift in Sources */,
+				D6EC3FB427921DFE00B0BD45 /* MoviesRegisterPage.swift in Sources */,
 				D65545B02389B37A00D18FD2 /* SmlNode.swift in Sources */,
 				D6E1929C23A77A82006A7A5C /* SiteGenerator.swift in Sources */,
 				D6C26E6D23C0AF1B0014634C /* IndexItemPage.swift in Sources */,
@@ -412,6 +422,7 @@
 				D6A981A523B0B7A7007F3CBF /* StatisticData.swift in Sources */,
 				D667BB1424070C6C00B8789F /* FeedWriter.swift in Sources */,
 				D6D356D5238DBAC300A2F217 /* SmlPrinter.swift in Sources */,
+				D6EC3FB02792140C00B0BD45 /* Register.swift in Sources */,
 				D699D537239AACAF006FE271 /* IndexItem.swift in Sources */,
 				D69D533E24535669005F618E /* LinkParser.swift in Sources */,
 				D64A730626615D780088D8C6 /* YearParser.swift in Sources */,
@@ -429,6 +440,7 @@
 				D6D4902126BD9FF10001D9AB /* PostListItem.swift in Sources */,
 				D699D53F239AE808006FE271 /* TagItemPage.swift in Sources */,
 				D699D533239A8000006FE271 /* Index.swift in Sources */,
+				D6EC3FB227921D0000B0BD45 /* MoviesRegister.swift in Sources */,
 				D6578DDA257120E00029C761 /* SiteGeneratorEnv.swift in Sources */,
 				D6E8D2A2244B3A1500605EEF /* SearchItem.swift in Sources */,
 				D6D736CE2404777500FE2FD4 /* RssFeed.swift in Sources */,
