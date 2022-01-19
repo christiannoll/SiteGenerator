@@ -2064,4 +2064,17 @@
 	<tags><t>General</t></tags>
 	<serial>Complexity</serial>
 </item>
+<item type="text" format="randomLinkColor">
+	<name>top_4_science_fiction_movies</name>
+	<title>Top Four - science-fiction movies</title>
+	<data>1. [2001: A Space Odyssey](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film))
+	2. [Blade Runner](https://en.wikipedia.org/wiki/Blade_Runner)
+	3. [Alien](https://en.wikipedia.org/wiki/Alien_(film))
+	4. [Ex Machina](https://en.wikipedia.org/wiki/Ex_Machina_(film))
+	🚀 Special: [WALL·E](https://en.wikipedia.org/wiki/WALL-E)</data>
+	<date>20.01.2022</date>
+	<index><i type="Movie">2001: A Space Odyssey</i><i type="Movie">Blade Runner</i><i type="Movie">Alien</i><i type="Movie">Ex Machina</i><i type="Movie">WALL·E</i></index>
+	<tags><t>Film</t></tags>
+	<serial>Top Four</serial>
+</item>
 </content>

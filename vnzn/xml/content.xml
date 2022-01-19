@@ -2062,4 +2062,17 @@
 	<tags><t>Allgemein</t></tags>
 	<serial>Komplexität</serial>
 </item>
+<item type="text" format="randomLinkColor">
+	<name>top_4_science_fiction_movies</name>
+	<title>Top Four - Science-Fiction Filme</title>
+	<data>1. [2001: Odyssee im Weltraum](https://de.wikipedia.org/wiki/2001:_Odyssee_im_Weltraum)
+	2. [Blade Runner](https://de.wikipedia.org/wiki/Blade_Runner)
+	3. [Alien](https://de.wikipedia.org/wiki/Alien_%E2%80%93_Das_unheimliche_Wesen_aus_einer_fremden_Welt)
+	4. [Ex Machina](https://de.wikipedia.org/wiki/Ex_Machina_(Film))
+	🚀 Spezial: [WALL·E](https://de.wikipedia.org/wiki/WALL%C2%B7E_%E2%80%93_Der_Letzte_r%C3%A4umt_die_Erde_auf)</data>
+	<date>20.01.2022</date>
+	<index><i type="Movie">2001: Odyssee im Weltraum</i><i type="Movie">Blade Runner</i><i type="Movie">Alien</i><i type="Movie">Ex Machina</i><i type="Movie">WALL·E</i></index>
+	<tags><t>Film</t></tags>
+	<serial>Top Four</serial>
+</item>
 </content>
