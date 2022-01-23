@@ -2077,4 +2077,12 @@
 	<tags><t>Film</t></tags>
 	<serial>Top Four</serial>
 </item>
+<item type="image" height="200" width="200">
+	<name>david</name>
+	<title>David</title>
+	<data>david_small.png</data>
+	<date>24.01.2022</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
 </content>
