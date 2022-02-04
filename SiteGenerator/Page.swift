@@ -10,6 +10,8 @@ class Page {
     static let homepageTitle = "v.n.z.n"
     static let homepageTagline = "Christian Noll"
     
+    private var title = "v.n.z.n"
+    
     public func render() -> String {
         var htmlChildren: [SmlNode] = []
         htmlChildren.append(newLine)
@@ -49,7 +51,7 @@ class Page {
     private func renderHead() -> SmlNode {
         var headChildren: [SmlNode] = [newLine, tab]
         
-        headChildren.append(node("title", [.text(Page.homepageTitle)]))
+        headChildren.append(node("title", [.text(title)]))
         headChildren.append(newLine)
         headChildren.append(tab)
         
@@ -81,6 +83,11 @@ class Page {
         
         let h = head(headChildren)
         return h
+    }
+    
+    func setTitle(_ pageTitle: String) {
+        title = pageTitle
+        title += " | vnzn"
     }
     
     func createJavascriptInclude() -> SmlNode? {

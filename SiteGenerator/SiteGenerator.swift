@@ -32,10 +32,12 @@ struct SiteGenerator {
         let writer = PageWriter()
         
         let homePage = HomePage(posts)
+        homePage.setTitle("weblog")
         writer.writeHomePage(homePage.render())
         
         for post in posts {
             let page = PostPage(post)
+            page.setTitle(post.title)
             writer.writePostPage(post, page.render())
         }
         
