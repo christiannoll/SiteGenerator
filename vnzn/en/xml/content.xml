@@ -2114,4 +2114,12 @@
 	<index><i type="Person">Douglas R. Hofstadter</i></index>
 	<tags><t>Computer science</t><t>Mathematics</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>exit</name>
+	<title>Exit</title>
+	<data>exit_small.png</data>
+	<date>05.02.2022</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
 </content>
