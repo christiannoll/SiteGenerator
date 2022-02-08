@@ -2122,4 +2122,13 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>marcel_proust_about_art</name>
+	<title>Marcel Proust about art</title>
+	<data>From ["In Search of Lost Time"](https://en.wikipedia.org/wiki/In_Search_of_Lost_Time) by [Marcel Proust](https://en.wikipedia.org/wiki/Marcel_Proust):
+	"Through art alone are we able to emerge from ourselves, to know what another person sees of a universe which is not the same as our own and of which, without art, the landscapes would remain as unknown to us as those that may exist on the moon."</data>
+	<date>09.02.2022</date>
+	<index><i type="Person">Marcel Proust</i><i>Art</i><i type="Book">In Search of Lost Time</i></index>
+	<tags><t>Art</t><t>Literature</t><t>Philosophy</t></tags>
+</item>
 </content>

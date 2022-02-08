@@ -2119,4 +2119,13 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>marcel_proust_about_art</name>
+	<title>Marcel Proust über Kunst</title>
+	<data>Aus ["Auf der Suche nach der verlorenen Zeit"](https://de.wikipedia.org/wiki/Auf_der_Suche_nach_der_verlorenen_Zeit) von [Marcel Proust](https://de.wikipedia.org/wiki/Marcel_Proust):
+	"Nur mittels der Kunst können wir aus uns heraustreten, erfahren, was ein anderer von diesem Universum sieht, das für ihn nicht das gleiche ist wie für uns und dessen Landschaften uns sonst ebenso unbekannt blieben wie jene, die es auf dem Mond geben mag."</data>
+	<date>09.02.2022</date>
+	<index><i type="Person">Marcel Proust</i><i>Kunst</i><i type="Book">Auf der Suche nach der verlorenen Zeit</i></index>
+	<tags><t>Kunst</t><t>Literatur</t><t>Philosophie</t></tags>
+</item>
 </content>
