@@ -2128,4 +2128,12 @@
 	<index><i type="Person">Marcel Proust</i><i>Kunst</i><i type="Book">Auf der Suche nach der verlorenen Zeit</i></index>
 	<tags><t>Kunst</t><t>Literatur</t><t>Philosophie</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>structure_4</name>
+	<title>Struktur</title>
+	<data>structure_4_small.png</data>
+	<date>12.02.2022</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>

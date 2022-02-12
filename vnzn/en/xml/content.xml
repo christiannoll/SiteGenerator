@@ -2056,7 +2056,7 @@
 <item type="text" format="normal">
 	<name>hanlons_razor</name>
 	<title>Hanlon's razor</title>
-	<data>In times of increasing popularity of [conspiracy theories](https://en.wikipedia.org/wiki/Conspiracy_theory), it can be helpful to be aware of the principle of [Hanlon's razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor). It was created based on the principle of parsimony, also known as [Occam's razor](2021/01/01/occams_razor/), and says the following:
+	<data>In times of increasing popularity of [conspiracy theories](https://en.wikipedia.org/wiki/Conspiracy_theory), it can be helpful to be aware of the principle of [Hanlon's razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor). It was created based on the principle of parsimony, also known as [Occam's razor](#2021/01/01/occams_razor/), and says the following:
 	"Never attribute to malice that which is adequately explained by stupidity."
 	[Johann Wolfgang von Goethe](https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe) formulated a similar thought in his novel ["The Sorrows of Young Werther"](https://en.wikipedia.org/wiki/The_Sorrows_of_Young_Werther) in *1774*: "Misunderstandings and lethargy perhaps produce more wrong in the world than deceit and malice do. At least the latter two are certainly rarer."</data>
 	<date>16.01.2022</date>
@@ -2130,5 +2130,13 @@
 	<date>09.02.2022</date>
 	<index><i type="Person">Marcel Proust</i><i>Art</i><i type="Book">In Search of Lost Time</i></index>
 	<tags><t>Art</t><t>Literature</t><t>Philosophy</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>structure_4</name>
+	<title>Structure</title>
+	<data>structure_4_small.png</data>
+	<date>12.02.2022</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
 </item>
 </content>
