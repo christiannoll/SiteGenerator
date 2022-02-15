@@ -2139,4 +2139,15 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>shortest_short_story</name>
+	<title>The shortest short story</title>
+	<data>There is the following story about [Ernest Hemingway](https://en.wikipedia.org/wiki/Ernest_Hemingway): In a restaurant, Hemingway bets friends ten dollars each that he can make up an entire [story in six words](https://en.wikipedia.org/wiki/For_sale:_baby_shoes,_never_worn). He then writes these words on a napkin:
+	"For sale: baby shoes, never worn"
+	The story is also interesting from the perspective that it only arises in the mind of the reader, through associations, personal experiences, emotions and imagination. 
+	Man as the resonating body of art.</data>
+	<date>16.02.2022</date>
+	<index><i type="Person">Ernest Hemingway</i></index>
+	<tags><t>General</t><t>Literature</t></tags>
+</item>
 </content>

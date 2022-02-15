@@ -2136,4 +2136,15 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>shortest_short_story</name>
+	<title>Die kürzeste Kurzgeschichte</title>
+	<data>Es gibt die folgende Geschichte über [Ernest Hemingway](https://de.wikipedia.org/wiki/Ernest_Hemingway): In einem Restaurant wettet Hemingway mit Freunden um je zehn Dollar, dass er eine ganze [Geschichte in sechs Wörtern](https://de.wikipedia.org/wiki/For_sale:_baby_shoes,_never_worn) erfinden kann. Anschließend schreibt er diese Wörter auf eine Serviette:
+	"For sale: baby shoes, never worn"
+	Interessant ist die Geschichte auch aus der Perspektive, dass sie erst im Kopf des Lesers entsteht, durch Assoziationen, eigene Erfahrungen, Emotionen und Imagination. 
+	Der Mensch als Resonanzkörper der Kunst.</data>
+	<date>16.02.2022</date>
+	<index><i type="Person">Ernest Hemingway</i></index>
+	<tags><t>Allgemein</t><t>Literatur</t></tags>
+</item>
 </content>
