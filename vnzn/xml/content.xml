@@ -2147,4 +2147,16 @@
 	<index><i type="Person">Ernest Hemingway</i></index>
 	<tags><t>Allgemein</t><t>Literatur</t></tags>
 </item>
+<item type="text" format="randomLinkColor">
+	<name>top_4_hemingway_short_stories</name>
+	<title>Top Four - Hemingway Kurzgeschichten</title>
+	<data>1. [Schnee auf dem Kilimandscharo](https://de.wikipedia.org/wiki/Schnee_auf_dem_Kilimandscharo)
+	2. [Das kurze glückliche Leben des Francis Macomber](https://de.wikipedia.org/wiki/Das_kurze_gl%C3%BCckliche_Leben_des_Francis_Macomber)
+	3. [Indianerlager](https://en.wikipedia.org/wiki/Indian_Camp)
+	4. [Hügel wie weiße Elefanten](https://en.wikipedia.org/wiki/Hills_Like_White_Elephants)</data>
+	<date>20.02.2022</date>
+	<index><i type="Person">Ernest Hemingway</i><i type="Book">The First Forty-Nine Stories</i></index>
+	<tags><t>Literatur</t></tags>
+	<serial>Top Four</serial>
+</item>
 </content>

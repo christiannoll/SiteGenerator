@@ -2150,4 +2150,16 @@
 	<index><i type="Person">Ernest Hemingway</i></index>
 	<tags><t>General</t><t>Literature</t></tags>
 </item>
+<item type="text" format="randomLinkColor">
+	<name>top_4_hemingway_short_stories</name>
+	<title>Top Four - Hemingway short stories</title>
+	<data>1. [The Snows of Kilimanjaro](https://en.wikipedia.org/wiki/The_Snows_of_Kilimanjaro_(short_story))
+	2. [The Short Happy Life of Francis Macomber](https://en.wikipedia.org/wiki/The_Short_Happy_Life_of_Francis_Macomber)
+	3. [Indian Camp](https://en.wikipedia.org/wiki/Indian_Camp)
+	4. [Hills Like White Elephants](https://en.wikipedia.org/wiki/Hills_Like_White_Elephants)</data>
+	<date>20.02.2022</date>
+	<index><i type="Person">Ernest Hemingway</i><i type="Book">The First Forty-Nine Stories</i></index>
+	<tags><t>Literature</t></tags>
+	<serial>Top Four</serial>
+</item>
 </content>
