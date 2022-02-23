@@ -2162,4 +2162,12 @@
 	<tags><t>Literature</t></tags>
 	<serial>Top Four</serial>
 </item>
+<item type="image" height="200" width="200">
+	<name>pattern</name>
+	<title>Pattern</title>
+	<data>pattern_small.png</data>
+	<date>24.02.2022</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
 </content>
