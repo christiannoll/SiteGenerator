@@ -2155,7 +2155,7 @@
 	3. [Indianerlager](https://en.wikipedia.org/wiki/Indian_Camp)
 	4. [Hügel wie weiße Elefanten](https://en.wikipedia.org/wiki/Hills_Like_White_Elephants)</data>
 	<date>20.02.2022</date>
-	<index><i type="Person">Ernest Hemingway</i><i type="Book">The First Forty-Nine Stories</i></index>
+	<index><i type="Person">Ernest Hemingway</i><i type="Book" author="Ernest Hemingway">The First Forty-Nine Stories</i></index>
 	<tags><t>Literatur</t></tags>
 	<serial>Top Four</serial>
 </item>
@@ -2166,5 +2166,16 @@
 	<date>24.02.2022</date>
 	<index></index>
 	<tags><t>Foto</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>animal_farm</name>
+	<title>Farm der Tiere</title>
+	<data>In der letzten [Woche](https://de.wikipedia.org/wiki/Februar_2022) musste ich öfter an die Fabel ["Farm der Tiere"](https://de.wikipedia.org/wiki/Farm_der_Tiere) von George Orwell, die er zwischen *1943* und *1944* schrieb, denken. Ein paar Jahre später, *1949*, erschien dann seine zweite weltberühmte Dystopie, der Roman ["1984"](https://de.wikipedia.org/wiki/1984_(Roman)). Beide Bücher waren in der [DDR](https://de.wikipedia.org/wiki/Deutsche_Demokratische_Republik) verboten.
+	"Alle Tiere sind gleich, aber manche sind gleicher." 
+	</data>
+	<date>28.02.2022</date>
+	<index><i type="Person">George Orwell</i><i type="Book" author="George Orwell">Farm der Tiere</i>
+	<i type="Book" author="George Orwell">1984</i></index>
+	<tags><t>Gesellschaft</t><t>Literatur</t></tags>
 </item>
 </content>

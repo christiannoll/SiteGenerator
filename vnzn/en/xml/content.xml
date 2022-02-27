@@ -2158,7 +2158,7 @@
 	3. [Indian Camp](https://en.wikipedia.org/wiki/Indian_Camp)
 	4. [Hills Like White Elephants](https://en.wikipedia.org/wiki/Hills_Like_White_Elephants)</data>
 	<date>20.02.2022</date>
-	<index><i type="Person">Ernest Hemingway</i><i type="Book">The First Forty-Nine Stories</i></index>
+	<index><i type="Person">Ernest Hemingway</i><i type="Book" author="Ernest Hemingway">The First Forty-Nine Stories</i></index>
 	<tags><t>Literature</t></tags>
 	<serial>Top Four</serial>
 </item>
@@ -2169,5 +2169,15 @@
 	<date>24.02.2022</date>
 	<index></index>
 	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>animal_farm</name>
+	<title>Animal Farm</title>
+	<data>In the past [week](https://en.wikipedia.org/wiki/Portal:Current_events/February_2022), I've had to think a lot about George Orwell's fable ["Animal Farm"](https://en.wikipedia.org/wiki/Animal_Farm), which he wrote between *1943* and *1944*. A few years later, in *1949*, his second world-famous dystopia, the novel ["1984"](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four), was published. Both books were banned in the [GDR](https://en.wikipedia.org/wiki/East_Germany).
+	"All animals are equal, but some animals are more equal than others."</data>
+	<date>28.02.2022</date>
+	<index><i type="Person">George Orwell</i><i type="Book" author="George Orwell">Farm der Tiere</i>
+	<i type="Book" author="George Orwell">1984</i></index>
+	<tags><t>Society</t><t>Literature</t></tags>
 </item>
 </content>
