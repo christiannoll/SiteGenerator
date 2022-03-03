@@ -2180,4 +2180,13 @@
 	<i type="Book" author="George Orwell">1984</i></index>
 	<tags><t>Society</t><t>Literature</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>1984</name>
+	<title>1984</title>
+	<data>From the novel ["1984"](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four) by [George Orwell](https://en.wikipedia.org/wiki/George_Orwell):
+	"War is peace. \ Freedom is slavery. \ Ignorance is strength."</data>
+	<date>04.03.2022</date>
+	<index><i type="Person">George Orwell</i><i type="Book" author="George Orwell">1984</i></index>
+	<tags><t>Society</t><t>Literature</t></tags>
+</item>
 </content>

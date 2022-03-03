@@ -2178,4 +2178,13 @@
 	<i type="Book" author="George Orwell">1984</i></index>
 	<tags><t>Gesellschaft</t><t>Literatur</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>1984</name>
+	<title>1984</title>
+	<data>Aus dem Roman ["1984"](https://de.wikipedia.org/wiki/1984_(Roman)) von [George Orwell](https://de.wikipedia.org/wiki/George_Orwell):
+	"Krieg ist Frieden. \ Freiheit ist Sklaverei. \ Unwissenheit ist Stärke."</data>
+	<date>04.03.2022</date>
+	<index><i type="Person">George Orwell</i><i type="Book" author="George Orwell">1984</i></index>
+	<tags><t>Gesellschaft</t><t>Literatur</t></tags>
+</item>
 </content>
