@@ -4,7 +4,7 @@
 	<title>About "The Burrow" by Franz Kafka</title>
 	<data>[The burrow](https://en.wikipedia.org/wiki/The_Burrow_(short_story)) developed well, fulfilled its purpose, offered a place of retreat and security, until one day a noise destroyed this peace, a noise that could not be assigned and whose originator could not be identified. If the sound comes closer, is it a threat or just an illusion, does the construction offer protection or does it become a trap ...</data>
 	<date>08.11.2019</date>
-	<index><i type="Person">Franz Kafka</i></index>
+	<index><i type="Person">Franz Kafka</i><i type="Book" author="Franz Kafka">The Burrow</i></index>
 	<tags><t>Literature</t></tags>
 </item>
 <item type="image" height="200" width="200">
@@ -458,7 +458,7 @@
 	<data>From "Diaries 1935-1936" by [Thomas Mann](https://en.wikipedia.org/wiki/Thomas_Mann) on *04.04.1935*:
 		"... Continued reading Kafka's ["Metamorphosis"](https://en.wikipedia.org/wiki/The_Metamorphosis). I would like to say that K.'s legacy is the most brilliant German prose in decades. What is there in German that is not bourgeois? ..."</data>
 	<date>16.04.2020</date>
-	<index><i type="Person">Thomas Mann</i><i type="Person">Franz Kafka</i></index>
+	<index><i type="Person">Thomas Mann</i><i type="Person">Franz Kafka</i><i type="Book" author="Franz Kafka">Metamorphosis</i></index>
 	<tags><t>Literature</t></tags>
 </item>
 <item type="image" height="200" width="200">
@@ -1198,7 +1198,7 @@
 	<data>[Hans Fallada](https://en.wikipedia.org/wiki/Hans_Fallada), author of ["Every Man Dies Alone"](https://en.wikipedia.org/wiki/Every_Man_Dies_Alone) about writing:
 		"I have to write how the silk worm has to spin its thread, it has to come out, and it has to come out as it is inside."</data>
 	<date>18.02.2021</date>
-	<index><i type="Person">Hans Fallada</i></index>
+	<index><i type="Person">Hans Fallada</i><i type="Book" author="Hans Fallada">Every Man Dies Alone</i></index>
 	<tags><t>Literature</t></tags>
 </item>
 <item type="image" height="200" width="200">
@@ -1227,7 +1227,7 @@
 	In [Liu Cixin's](https://en.wikipedia.org/wiki/Liu_Cixin) book, based on this theory, a [balance of terror](https://en.wikipedia.org/wiki/Mutual_assured_destruction), similar to the logic of the Cold War, is established by Earth to prevent its own annihilation by another non-human civilization, the [Trisolarans](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)).
 	</data>
 	<date>02.03.2021</date>
-	<index><i>Fermi Paradox</i><i type="Person">Liu Cixin</i></index>
+	<index><i>Fermi Paradox</i><i type="Person">Liu Cixin</i><i type="Book" author="Liu Cixin">The Dark Forest</i></index>
 	<tags><t>Astronomy</t><t>Technology</t><t>Literature</t></tags>
 </item>
 <item type="image" height="200" width="200">
@@ -1253,7 +1253,7 @@
 	<data>*June 16, 1904*: The reader accompanies [Leopold Bloom](https://en.wikipedia.org/wiki/Leopold_Bloom), the "hero" of the novel ["Ulysses"](https://en.wikipedia.org/wiki/Ulysses_(novel)) by the Irish writer [James Joyce](https://en.wikipedia.org/wiki/James_Joyce), as he wanders through the Irish capital Dublin from dawn until late at night, and gets to know various illustrious characters , takes part in Bloom's inner monologue, his [stream of consciousness](https://en.wikipedia.org/wiki/Stream_of_consciousness), and thus, parallel to the network of places and encounters on Bloom's route through the city, a whole universe of literary, philosophical and historical allusions and cross-references emerges.
 	To commemorate the Bloom's [Odyssey](https://en.wikipedia.org/wiki/Odyssey), this groundbreaking novel is celebrated every year on June 16 - [Bloomsday](https://en.wikipedia.org/wiki/Bloomsday) - in many cities around the world.</data>
 	<date>14.03.2021</date>
-	<index><i type="Person">James Joyce</i></index>
+	<index><i type="Person">James Joyce</i><i type="Book" author="James Joyce">Ulysses</i></index>
 	<tags><t>Literature</t></tags>
 </item>
 <item type="image" height="200" width="200">
@@ -2176,7 +2176,7 @@
 	<data>In the past [week](https://en.wikipedia.org/wiki/Portal:Current_events/February_2022), I've had to think a lot about George Orwell's fable ["Animal Farm"](https://en.wikipedia.org/wiki/Animal_Farm), which he wrote between *1943* and *1944*. A few years later, in *1949*, his second world-famous dystopia, the novel ["1984"](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four), was published. Both books were banned in the [GDR](https://en.wikipedia.org/wiki/East_Germany).
 	"All animals are equal, but some animals are more equal than others."</data>
 	<date>28.02.2022</date>
-	<index><i type="Person">George Orwell</i><i type="Book" author="George Orwell">Farm der Tiere</i>
+	<index><i type="Person">George Orwell</i><i type="Book" author="George Orwell">Animal Farm</i>
 	<i type="Book" author="George Orwell">1984</i></index>
 	<tags><t>Society</t><t>Literature</t></tags>
 </item>

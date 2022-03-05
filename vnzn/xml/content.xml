@@ -4,7 +4,7 @@
 	<title>Über "Der Bau" von Franz Kafka</title>
 	<data>[Der Bau](https://de.wikipedia.org/wiki/Der_Bau) entwickelte sich gut, erfüllte seinen Zweck, bot Rückzugsraum und Geborgenheit, bis eines Tages ein Geräusch diese Ruhe zerstörte, ein Geräusch das sich nicht zuordnen ließ und dessen Verursacher nicht zu identifizieren war. Kommt das Geräusch näher, ist es Bedrohung oder nur Einbildung, bietet der Bau Schutz oder wird er zur Falle ...</data>
 	<date>08.11.2019</date>
-	<index><i type="Person">Franz Kafka</i></index>
+	<index><i type="Person">Franz Kafka</i><i type="Book" author="Franz Kafka">Der Bau</i></index>
 	<tags><t>Literatur</t></tags>
 </item>
 <item type="image" height="200" width="200">
@@ -460,7 +460,7 @@
 	<data>Aus "Tagebücher 1935-1936" von [Thomas Mann](https://de.wikipedia.org/wiki/Thomas_Mann) am *04.04.1935*:
 		"... Setzte die Lektüre von Kafkas ["Verwandlung"](https://de.wikipedia.org/wiki/Die_Verwandlung) fort. Ich möchte sagen, daß K.'s Hinterlassenschaft die genialste deutsche Prosa seit Jahrzenten ist. Was gibt es denn auf deutsch, was daneben nicht Spießerei wäre? ..."</data>
 	<date>16.04.2020</date>
-	<index><i type="Person">Thomas Mann</i><i type="Person">Franz Kafka</i></index>
+	<index><i type="Person">Thomas Mann</i><i type="Person">Franz Kafka</i><i type="Book" author="Franz Kafka">Die Verwandlung</i></index>
 	<tags><t>Literatur</t></tags>
 </item>
 <item type="image" height="200" width="200">
@@ -1202,7 +1202,7 @@
 	<data>[Hans Fallada](https://de.wikipedia.org/wiki/Hans_Fallada), der Autor von ["Jeder stirbt für sich allein"](https://de.wikipedia.org/wiki/Jeder_stirbt_f%C3%BCr_sich_allein_(Roman)), über das Schreiben:
 		"Ich muß schreiben, wie der Seidenwurm seinen Faden spinnen muß, es muß heraus, und es muß so heraus, wie es drin ist."</data>
 	<date>18.02.2021</date>
-	<index><i type="Person">Hans Fallada</i></index>
+	<index><i type="Person">Hans Fallada</i><i type="Book" author="Hans Fallada">Jeder stirbt für sich allein</i></index>
 	<tags><t>Literatur</t></tags>
 </item>
 <item type="image" height="200" width="200">
@@ -1230,7 +1230,7 @@
 	Die Dunkler-Wald-Theorie ist ein [weiterer](#2021/02/14/great_filter/) Erklärungsversuch für das [Fermi Paradoxon](https://de.wikipedia.org/wiki/Fermi-Paradoxon). Sie beruht auf der Annahme, dass es viele hochentwickelte Zivilisationen im Universum gibt und wenn darunter nur eine aggressiv wie ein Raubtier in einem dunklen Wald ist, man die Lokalität der eigenen Zivilisation lieber nicht verraten und sich statt dessen tarnen möchte, um einer Auslöschung zu entgehen.
 	In [Liu Cixins](https://de.wikipedia.org/wiki/Liu_Cixin) Buch wird auf Basis dieser Theorie ein [Gleichgewicht des Schreckens](https://de.wikipedia.org/wiki/Gleichgewicht_des_Schreckens), ähnlich der Logik des Kalten Krieges, von der Erde aufgebaut, um der eigenen Vernichtung durch eine andere nichtmenschliche Zivilisation, den [Trisolanern](https://de.wikipedia.org/wiki/Die_drei_Sonnen), zu verhindern.</data>
 	<date>02.03.2021</date>
-	<index><i>Fermi Paradoxon</i><i type="Person">Liu Cixin</i></index>
+	<index><i>Fermi Paradoxon</i><i type="Person">Liu Cixin</i><i type="Book" author="Liu Cixin">Der dunkle Wald</i></index>
 	<tags><t>Astronomie</t><t>Technologie</t><t>Literatur</t></tags>
 </item>
 <item type="image" height="200" width="200">
@@ -1256,7 +1256,7 @@
 	<data>*16. Juni 1904*: Der Leser begleitet [Leopold Bloom](https://de.wikipedia.org/wiki/Leopold_Bloom), den "Helden" des Romans ["Ulysses"](https://de.wikipedia.org/wiki/Ulysses) des irischen Schriftstellers [James Joyce](https://de.wikipedia.org/wiki/James_Joyce), wie dieser vom ersten Morgengrauen bis tiefe in die Nacht, durch die irische Hauptstadt Dublin streift, lernt dabei diverse illustre Figuren kennen, nimmt an Blooms inneren Monolog, seinem [Bewusstseinsstrom](https://de.wikipedia.org/wiki/Bewusstseinsstrom), teil und so entsteht parallel zu dem Geflecht aus Orten und Begegnungen auf Blooms Route durch die Stadt, ein ganzes Universum an literarischen, philosophischen und geschichtlichen Anspielungen und Querverweisen.
 	Um der bloomschen [Odyssee](https://de.wikipedia.org/wiki/Odyssee) zu gedenken, wird jedes Jahr am 16. Juni - dem [Bloomsday](https://de.wikipedia.org/wiki/Bloomsday), in vielen Städten rund um die Welt dieser wegweisende Roman gefeiert.</data>
 	<date>14.03.2021</date>
-	<index><i type="Person">James Joyce</i></index>
+	<index><i type="Person">James Joyce</i><i type="Book" author="James Joyce">Ulysses</i></index>
 	<tags><t>Literatur</t></tags>
 </item>
 <item type="image" height="200" width="200">
