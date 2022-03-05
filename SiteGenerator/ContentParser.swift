@@ -86,6 +86,9 @@ class ContentParser : NSObject, XMLParserDelegate {
             else if isMovieIndex(indexType) {
                 item.movies.insert(trimmedText)
             }
+            else if isBookIndex(indexType) {
+                item.books.insert(trimmedText)
+            }
         case "serial":
             item.serial = trimmedText
         case "item":
@@ -129,6 +132,11 @@ class ContentParser : NSObject, XMLParserDelegate {
     
     private func isMovieIndex(_ typeString: String) -> Bool {
         let validStrings = ["Movie"]
+        return validStrings.contains(typeString)
+    }
+    
+    private func isBookIndex(_ typeString: String) -> Bool {
+        let validStrings = ["Book"]
         return validStrings.contains(typeString)
     }
 }
