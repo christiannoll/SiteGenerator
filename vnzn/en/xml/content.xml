@@ -2197,4 +2197,13 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>arthur_dent</name>
+	<title>H2G2: Arthur Dent</title>
+	<data>Arthur Dent is the only humanoid survivor of earth's annihilation at the hands of a vogon interstellar construction crew. The earth had to give way to an interstellar expressway between two galaxies. He was lucky that his friend Ford Prefect had traveled through the galaxy several times by hitchhiking and had landed on the earth by chance. With the help of his device called sub-etha-senso-o-matic and a towel, the two manage to escape the catastrophe on earth and make a fantastic [journey through the galaxy by hitchhiking](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(novel)).</data>
+	<date>12.03.2022</date>
+	<index><i type="Person">Douglas Adams</i><i type="Book" author="Douglas Adams">The Hitchhiker's Guide to the Galaxy</i></index>
+	<tags><t>Literature</t></tags>
+	<serial>The Hitchhiker's Guide to the Galaxy</serial>
+</item>
 </content>
