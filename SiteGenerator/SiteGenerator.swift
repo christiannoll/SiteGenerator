@@ -114,27 +114,40 @@ struct SiteGenerator {
         let randomEntriesBuilder = RandomEntriesBuilder()
         randomEntriesBuilder.writeJsFile(posts)
         
+        writeTimelinePage(writer)
+        writePersonsRegisterPage(writer)
+        writeMoviesRegisterPage(writer)
+        writeBooksRegisterPage(writer)
+        
+        let betaPage = BetaPage()
+        writer.writeBetaPage(betaPage.render())
+    }
+    
+    private func writeTimelinePage(_ writer: PageWriter) {
         let timelineFactory = TimelineFactory()
         let timeline = timelineFactory.createTimeline(posts)
         let timelinePage = TimelinePage(timeline)
         writer.writeTimelinePage(timelinePage.render())
-        
+    }
+    
+    private func writePersonsRegisterPage(_ writer: PageWriter) {
         let personsRegisterFactory = PersonsRegisterFactory()
         let personsRegister = personsRegisterFactory.createPersonsRegister(posts)
         let personsRegisterPage = PersonsRegisterPage(personsRegister)
         writer.writePersonsRegisterPage(personsRegisterPage.render())
-        
+    }
+    
+    private func writeMoviesRegisterPage(_ writer: PageWriter) {
         let moviesRegisterFactory = MoviesRegisterFactory()
         let moviesRegister = moviesRegisterFactory.createMoviesRegister(posts)
         let moviesRegisterPage = MoviesRegisterPage(moviesRegister)
         writer.writeMoviesRegisterPage(moviesRegisterPage.render())
-        
+    }
+    
+    private func writeBooksRegisterPage(_ writer: PageWriter) {
         let booksRegisterFactory = BooksRegisterFactory()
         let booksRegister = booksRegisterFactory.createBooksRegister(posts)
         let booksRegisterPage = BooksRegisterPage(booksRegister)
         writer.writeBooksRegisterPage(booksRegisterPage.render())
-        
-        let betaPage = BetaPage()
-        writer.writeBetaPage(betaPage.render())
     }
 }
