@@ -2198,8 +2198,18 @@
 <item type="text" format="normal">
 	<name>arthur_dent</name>
 	<title>H2G2: Arthur Dent</title>
-	<data>arthur dent ist der einzige humanoide überlebende der vernichtung der erde durch einen vogonischen interstellaren bautrupp. die erde musste einer interstellaren schnellstraße zwischen zwei galaxien weichen. sein glück war, dass sein freund ford prefect schon öfter per anhalter durch die galaxis gereist ist und zufällig auf der erde gelandet war. mit hilfe seines gerätes namens sub-etha-senso-o-matic und einem handtuch gelingt es den beiden, der katastrophe auf der erde zu entgehen, und eine phantastische reise [per anhalter durch die galaxis](https://de.wikipedia.org/wiki/Per_Anhalter_durch_die_Galaxis) zu machen.</data>
+	<data>arthur dent ist der einzige humanoide überlebende der vernichtung der erde durch einen vogonischen interstellaren bautrupp. die erde musste einer interstellaren schnellstraße zwischen zwei galaxien weichen. sein glück war, dass sein freund [ford prefect](#2022/03/16/ford_prefect) schon öfter per anhalter durch die galaxis gereist ist und zufällig auf der erde gelandet war. mit hilfe seines gerätes namens sub-etha-senso-o-matic und einem handtuch gelingt es den beiden, der katastrophe auf der erde zu entgehen, und eine phantastische reise [per anhalter durch die galaxis](https://de.wikipedia.org/wiki/Per_Anhalter_durch_die_Galaxis) zu machen.</data>
 	<date>12.03.2022</date>
+	<index><i type="Person">Douglas Adams</i><i type="Book" author="Douglas Adams">Per Anhalter durch die Galaxis</i></index>
+	<tags><t>Literatur</t></tags>
+	<serial>Per Anhalter durch die Galaxis</serial>
+</item>
+<item type="text" format="normal">
+	<name>ford_prefect</name>
+	<title>H2G2: Ford Prefect</title>
+	<data>ford prefect ist ein verwandter von zaphod beeblebrox, dem präsidenten der galaxis. er ist nur durch einen dummen zufall auf einem unbedeutenden kleinen blauen planeten in der milchstraße namens erde gelandet.
+	normalerweise reist ford prefect [per anhalter durch die galaxis](https://de.wikipedia.org/wiki/Per_Anhalter_durch_die_Galaxis). doch in die nähe der erde verirrt sich nur selten ein interstellares raumschiff. und so musste er lange warten bis sein sub-etha-senso-o-matic-apperat in seinem brustbeutel ihm mitteilte, dass sich ein raumschiff der erde nähert. was er allerdings nicht ahnte war der umstand, dass es sich dabei um einen vogonischen interstellaren bautrupp handelte.</data>
+	<date>16.03.2022</date>
 	<index><i type="Person">Douglas Adams</i><i type="Book" author="Douglas Adams">Per Anhalter durch die Galaxis</i></index>
 	<tags><t>Literatur</t></tags>
 	<serial>Per Anhalter durch die Galaxis</serial>

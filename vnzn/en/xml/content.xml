@@ -2200,8 +2200,18 @@
 <item type="text" format="normal">
 	<name>arthur_dent</name>
 	<title>H2G2: Arthur Dent</title>
-	<data>Arthur Dent is the only humanoid survivor of earth's annihilation at the hands of a vogon interstellar construction crew. The earth had to give way to an interstellar expressway between two galaxies. He was lucky that his friend Ford Prefect had traveled through the galaxy several times by hitchhiking and had landed on the earth by chance. With the help of his device called sub-etha-senso-o-matic and a towel, the two manage to escape the catastrophe on earth and make a fantastic [journey through the galaxy by hitchhiking](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(novel)).</data>
+	<data>Arthur Dent is the only humanoid survivor of earth's annihilation at the hands of a vogon interstellar construction crew. The earth had to give way to an interstellar expressway between two galaxies. He was lucky that his friend [Ford Prefect](#2022/03/16/ford_prefect) had traveled through the galaxy several times by hitchhiking and had landed on the earth by chance. With the help of his device called sub-etha-senso-o-matic and a towel, the two manage to escape the catastrophe on earth and make a fantastic [journey through the galaxy by hitchhiking](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(novel)).</data>
 	<date>12.03.2022</date>
+	<index><i type="Person">Douglas Adams</i><i type="Book" author="Douglas Adams">The Hitchhiker's Guide to the Galaxy</i></index>
+	<tags><t>Literature</t></tags>
+	<serial>The Hitchhiker's Guide to the Galaxy</serial>
+</item>
+<item type="text" format="normal">
+	<name>ford_prefect</name>
+	<title>H2G2: Ford Prefect</title>
+	<data>Ford Prefect is a relative of Zaphod Beeblebrox, the president of the galaxy. He just ended up on an insignificant little blue planet in the milky way called earth by some stupid coincidence.
+	Usually, Ford Prefect [hitchhike around the galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(novel)). However, an interstellar spaceship rarely strays close to earth. And so he had to wait a long time before his sub-etha-senso-o-matic device in his neck pouch informed him that a spaceship was approaching earth. What he didn't suspect, however, was the fact that it was a Vogonian interstellar construction crew.</data>
+	<date>16.03.2022</date>
 	<index><i type="Person">Douglas Adams</i><i type="Book" author="Douglas Adams">The Hitchhiker's Guide to the Galaxy</i></index>
 	<tags><t>Literature</t></tags>
 	<serial>The Hitchhiker's Guide to the Galaxy</serial>
