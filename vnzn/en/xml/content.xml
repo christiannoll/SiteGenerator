@@ -2216,4 +2216,12 @@
 	<tags><t>Literature</t></tags>
 	<serial>The Hitchhiker's Guide to the Galaxy</serial>
 </item>
+<item type="image" height="200" width="200">
+	<name>abstract_9</name>
+	<title>Abstract 9</title>
+	<data>abstract9_small.png</data>
+	<date>20.03.2022</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
 </content>
