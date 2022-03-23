@@ -2222,4 +2222,16 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="randomLinkColor">
+	<name>forty_two</name>
+	<title>Die Antwort: 42</title>
+	<data>die frage nach dem sinn des lebens beschäftigt schon seit urzeiten alle intelligenten wesen im universum.
+	da sich ein paar superschlaue weltallbewohner schrecklich langweilten, konstruierten sie den intelligentesten computer und stellten genau ihm diese frage aller fragen. nach ein paar millionen jahren fand der computer die antwort. sie lautete [42](https://de.wikipedia.org/wiki/42_(Antwort)).
+	damit war natürlich keiner zufrieden und so fragten sie den computer, was [42](https://de.wikipedia.org/wiki/42_(Antwort)) denn bedeutet. worauf der computer auch keine antwort wusste. daraufhin konstruierte der computer einen noch viel besseren computer. dieser entwickelte dann die erde, um herauszufinden, was die antwort [42](https://de.wikipedia.org/wiki/42_(Antwort)) bedeutet.
+	leider wurde die erde kurz bevor das experiment abgeschlossen werden konnte, zerstört, weil sie einer schnellstrasse zwischen zwei galaxien weichen musste.</data>
+	<date>24.03.2022</date>
+	<index><i type="Person">Douglas Adams</i><i type="Book" author="Douglas Adams">Per Anhalter durch die Galaxis</i></index>
+	<tags><t>Literatur</t></tags>
+	<serial>Per Anhalter durch die Galaxis</serial>
+</item>
 </content>

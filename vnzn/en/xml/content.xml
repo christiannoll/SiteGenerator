@@ -2224,4 +2224,16 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="randomLinkColor">
+	<name>forty_two</name>
+	<title>The answer: 42</title>
+	<data>The question of the meaning of life has occupied all intelligent beings in the universe since all times.
+	A few super-smart space creatures were terribly bored, so they designed the most intelligent computer and asked it this question of all questions. After a few million years, the computer found the answer. It was [42](https://en.wikipedia.org/wiki/Answer_to_the_Ultimate_Question_of_Life,_the_Universe,_and_Everything).
+	No one was satisfied with this, of course, so they asked the computer what [42](https://en.wikipedia.org/wiki/Answer_to_the_Ultimate_Question_of_Life,_the_Universe,_and_Everything) meant. The computer didn't know the answer either. The machine then constructed an even better computer. It then developed the earth to find out what the answer [42](https://en.wikipedia.org/wiki/Answer_to_the_Ultimate_Question_of_Life,_the_Universe,_and_Everything) meant.
+	Unfortunately, just before the experiment could be completed, the earth was destroyed because it had to give way to an expressway between two galaxies.</data>
+	<date>24.03.2022</date>
+	<index><i type="Person">Douglas Adams</i><i type="Book" author="Douglas Adams">The Hitchhiker's Guide to the Galaxy</i></index>
+	<tags><t>Literature</t></tags>
+	<serial>The Hitchhiker's Guide to the Galaxy</serial>
+</item>
 </content>
