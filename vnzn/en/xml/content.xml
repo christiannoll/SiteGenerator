@@ -2236,4 +2236,14 @@
 	<tags><t>Literature</t></tags>
 	<serial>The Hitchhiker's Guide to the Galaxy</serial>
 </item>
+<item type="text" format="normal">
+	<name>babel_fish</name>
+	<title>H2G2: babel fish</title>
+	<data>The [babel fish](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(novel)) is probably the most amazing creature in the whole universe. He looks like a little yellow leech. You put it in your ear and then immediately understand everything that is said to you in any language.
+	The babel fish feeds on the brain currents of its host's environment and secretes a telepathic matrix into its brain, which allows the host to understand everything that is spoken in the environment. However, this very useful property of the babel fish has already led to many military conflicts between peoples with different cultures.</data>
+	<date>28.03.2022</date>
+	<index><i type="Person">Douglas Adams</i><i type="Book" author="Douglas Adams">The Hitchhiker's Guide to the Galaxy</i></index>
+	<tags><t>Literature</t></tags>
+	<serial>The Hitchhiker's Guide to the Galaxy</serial>
+</item>
 </content>
