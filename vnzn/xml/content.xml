@@ -2244,4 +2244,12 @@
 	<tags><t>Literatur</t></tags>
 	<serial>Per Anhalter durch die Galaxis</serial>
 </item>
+<item type="image" height="200" width="200">
+	<name>abstract_10</name>
+	<title>Abstract 10</title>
+	<data>abstract10_small.png</data>
+	<date>01.04.2022</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
