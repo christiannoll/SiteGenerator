@@ -2265,4 +2265,13 @@
 	<tags><t>Literature</t></tags>
 	<serial>The Hitchhiker's Guide to the Galaxy</serial>
 </item>
+<item type="text" format="normal">
+	<name>marvin_hitchhiker</name>
+	<title>H2G2: Marvin</title>
+	<data>[Marvin](https://en.wikipedia.org/wiki/Marvin_the_Paranoid_Android) is probably the most melancholy android in the entire universe. He's the first robot to be constructed from a real human personality, and he's having a hard time with that. Marvin is fifty thousand times more intelligent than the other characters on the ["heart of gold"](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(novel)) and gets a headache just trying to think down to their level.</data>
+	<date>09.04.2022</date>
+	<index><i type="Person">Douglas Adams</i><i type="Book" author="Douglas Adams">The Hitchhiker's Guide to the Galaxy</i></index>
+	<tags><t>Literature</t></tags>
+	<serial>The Hitchhiker's Guide to the Galaxy</serial>
+</item>
 </content>
