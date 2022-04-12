@@ -2274,4 +2274,12 @@
 	<tags><t>Literature</t></tags>
 	<serial>The Hitchhiker's Guide to the Galaxy</serial>
 </item>
+<item type="image" height="200" width="200">
+	<name>patched_face</name>
+	<title>Patched Face</title>
+	<data>patched_face_small.png</data>
+	<date>13.04.2022</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
 </content>

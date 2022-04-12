@@ -2272,4 +2272,12 @@
 	<tags><t>Literatur</t></tags>
 	<serial>Per Anhalter durch die Galaxis</serial>
 </item>
+<item type="image" height="200" width="200">
+	<name>patched_face</name>
+	<title>Patched Face</title>
+	<data>patched_face_small.png</data>
+	<date>13.04.2022</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
