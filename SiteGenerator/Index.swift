@@ -47,6 +47,32 @@ class Index {
         return div
     }
     
+    func renderWordCloud() -> SmlNode {
+        let headerText = SiteGeneratorEnv.forGerman() ? "Wortwolke" : "Word Cloud"
+        
+        var divChildren: [SmlNode] = []
+        divChildren.append(newLine)
+        let h_4 = h4([.text(headerText)])
+        divChildren.append(h_4)
+        divChildren.append(newLine)
+        
+        var pChildren: [SmlNode] = []
+        
+        for indexItem in _indexItems {
+            if indexItem.numberOfPosts > 1 {
+                pChildren.append(indexItem.renderWordCloudItem())
+                pChildren.append(.text(" "))
+                pChildren.append(newLine)
+            }
+        }
+        
+        let p = p(pChildren)
+        divChildren.append(p)
+        divChildren.append(newLine)
+        let div = div_blogArchiveIndex(divChildren)
+        return div
+    }
+    
     private func getIndexItems(_ post: Item) -> [IndexItem] {
         var indexItems: [IndexItem] = []
         for index in post.indices {

@@ -38,6 +38,10 @@ class BetaPage : Page {
         ulChildren.append(renderItem(booksTitle, "books"))
         ulChildren.append(newLine)
         
+        let wordCloudTitle = SiteGeneratorEnv.forGerman() ? "Wortwolke" : "Word Cloud"
+        ulChildren.append(renderItem(wordCloudTitle, "wordCloud"))
+        ulChildren.append(newLine)
+        
         let u_l = ul(ulChildren)
         divChildren.append(u_l)
         divChildren.append(newLine)

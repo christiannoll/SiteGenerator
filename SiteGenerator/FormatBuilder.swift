@@ -4,7 +4,7 @@ class FormatBuilder {
     
     // https://www.w3schools.com/cssref/css_colors.asp
     private var colors: [String] = []
-    private let randomColors = ["CornflowerBlue", "DarkOrange", "DeepPink", "FireBrick", "ForestGreen", "DarkGrey", "DarkGoldenRod", "Blue", "DarkViolet", "Gold", "SeaGreen"]
+    static let randomColors = ["CornflowerBlue", "DarkOrange", "DeepPink", "FireBrick", "ForestGreen", "DarkGrey", "DarkGoldenRod", "Blue", "DarkViolet", "Gold", "SeaGreen"]
     private let blueColors = ["Blue", "CornflowerBlue", "DarkBlue", "DarkSlateBlue", "DodgerBlue", "DeepSkyBlue", "LightSkyBlue", "MediumBlue", "MidNightBlue", "Navy", "RoyalBlue", "SteelBlue"]
     private var separateWords = true
     
@@ -12,11 +12,11 @@ class FormatBuilder {
         separateWords = true
         
         if textPost.format == "randomWordColor" {
-            colors = randomColors
+            colors = FormatBuilder.randomColors
             return parseText(elements: markdownNodes)
         }
         else if textPost.format == "randomLinkColor" {
-            colors = randomColors
+            colors = FormatBuilder.randomColors
             return parseLinks(elements: markdownNodes)
         }
         else if textPost.format == "blueLinkColor" {
@@ -25,7 +25,7 @@ class FormatBuilder {
         }
         else if textPost.format == "randomLinksColor" {
             separateWords = false
-            colors = randomColors
+            colors = FormatBuilder.randomColors
             return parseLinks(elements: markdownNodes)
         }
         return markdownNodes

@@ -14,6 +14,10 @@ class IndexItem {
         self._key = key
     }
     
+    var numberOfPosts: Int {
+        get { return posts.count }
+    }
+    
     func addPost(_ post: Item) {
         posts.append(post)
     }
@@ -24,6 +28,11 @@ class IndexItem {
         liChildren.append(link)
         let l = li(liChildren)
         return l
+    }
+    
+    func renderWordCloudItem() -> SmlNode {
+        let link = a([href => createLinkUrl(), style => getStyleAttributeText()], [createWorldCloudLinkTitle()])
+        return link
     }
     
     func renderIndexItemPosts() -> [SmlNode] {
@@ -41,5 +50,18 @@ class IndexItem {
     
     private func createLinkTitle() -> SmlNode {
         return .text(key + " (" + String(posts.count) + ")")
+    }
+    
+    private func createWorldCloudLinkTitle() -> SmlNode {
+        return .text(key)
+    }
+    
+    private func getStyleAttributeText() -> String {
+        let fontSizeText = "font-size:1.\(numberOfPosts)em;"
+        
+        let color = FormatBuilder.randomColors[Int.random(in: 0 ..< FormatBuilder.randomColors.count)]
+        let colorText = " color:\(color);"
+        
+        return fontSizeText + colorText
     }
 }

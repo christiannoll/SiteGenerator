@@ -118,6 +118,7 @@ struct SiteGenerator {
         writePersonsRegisterPage(writer)
         writeMoviesRegisterPage(writer)
         writeBooksRegisterPage(writer)
+        writeWordCloudPage(writer)
         
         let betaPage = BetaPage()
         writer.writeBetaPage(betaPage.render())
@@ -149,5 +150,12 @@ struct SiteGenerator {
         let booksRegister = booksRegisterFactory.createBooksRegister(posts)
         let booksRegisterPage = BooksRegisterPage(booksRegister)
         writer.writeBooksRegisterPage(booksRegisterPage.render())
+    }
+    
+    private func writeWordCloudPage(_ writer: PageWriter) {
+        let indexFactory = IndexFactory()
+        let index = indexFactory.createIndex(posts)
+        let wordCloudPage = WordCloudPage(index)
+        writer.writeWordCloudPage(wordCloudPage.render())
     }
 }

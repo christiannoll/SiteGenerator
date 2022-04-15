@@ -84,6 +84,10 @@ class PageWriter {
         writeHtmlFile(content, "books/", "index.html")
     }
     
+    public func writeWordCloudPage(_ content: String) {
+        writeHtmlFile(content, "wordcloud/", "index.html")
+    }
+    
     public func writeBetaPage(_ content: String) {
         writeHtmlFile(content, "beta/", "index.html")
     }
