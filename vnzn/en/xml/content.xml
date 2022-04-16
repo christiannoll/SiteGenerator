@@ -2282,4 +2282,17 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>einstein_1905</name>
+	<title>Einstein's miracle year 1905</title>
+	<data>In *1905*, [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) presented five [papers](https://en.wikipedia.org/wiki/Albert_Einstein#Scientific) that changed physics forever:
+	1. On a Heuristic Viewpoint Concerning the Production and Transformation of Light, Annalen der Physik, Manuscript received March 18, 1905
+	2. A new determination of molecular dimensions, Dissertation, Completed 30 April and submitted 20 July 1905
+	3. On the Motion - Required by the Molecular Kinetic Theory of Heat - of Small Particles Suspended in a Stationary Liquid, Annalen der Physik, Manuscript received May 11, 1905
+	4. On the Electrodynamics of Moving Bodies, Annalen der Physik, Manuscript received June 30, 1905
+	5. Does the Inertia of a Body Depend Upon Its Energy Content?, Annalen der Physik, Manuscript received September 28, 1905</data>
+	<date>17.04.2022</date>
+	<index><i type="Person">Albert Einstein</i></index>
+	<tags><t>Physics</t></tags>
+</item>
 </content>
