@@ -39,7 +39,7 @@ class BetaPage : Page {
         ulChildren.append(newLine)
         
         let wordCloudTitle = SiteGeneratorEnv.forGerman() ? "Wortwolke" : "Word Cloud"
-        ulChildren.append(renderItem(wordCloudTitle, "wordCloud"))
+        ulChildren.append(renderItem(wordCloudTitle, "wordcloud"))
         ulChildren.append(newLine)
         
         let u_l = ul(ulChildren)
