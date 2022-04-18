@@ -2293,4 +2293,12 @@
 	<index><i type="Person">Albert Einstein</i></index>
 	<tags><t>Physik</t></tags>
 </item>
+<item type="text" format="randomLinksColor">
+	<name>new_page_wordcloud</name>
+	<title>v.n.z.n - Wortwolke</title>
+	<data>Neue [Meta-Seite](#beta/): [Wortwolke](#wordcloud/)</data>
+	<date>18.04.2022</date>
+	<index><i>Rückblick</i></index>
+	<tags><t>Allgemein</t></tags>
+</item>
 </content>

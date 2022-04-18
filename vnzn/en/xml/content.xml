@@ -2295,4 +2295,12 @@
 	<index><i type="Person">Albert Einstein</i></index>
 	<tags><t>Physics</t></tags>
 </item>
+<item type="text" format="randomLinksColor">
+	<name>new_page_wordcloud</name>
+	<title>v.n.z.n - word cloud</title>
+	<data>New [Meta page](#beta/): [Word Cloud](#wordcloud/)</data>
+	<date>18.04.2022</date>
+	<index><i>Review</i></index>
+	<tags><t>General</t></tags>
+</item>
 </content>
