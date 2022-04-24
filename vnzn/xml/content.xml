@@ -2320,4 +2320,12 @@
 	<index><i>Dream Store</i><i type="Person">Franz Kafka</i><i>Traum</i></index>
 	<tags><t>Literatur</t><t>Short Story</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>stripes_and_reflections</name>
+	<title>Streifen und Reflexionen</title>
+	<data>reflections_small.png</data>
+	<date>25.04.2022</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
