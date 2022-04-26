@@ -2328,4 +2328,16 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="randomLinksColor">
+	<name>top_4_music_videos_with_story</name>
+	<title>Top Four - Musikvideos mit einer Story</title>
+	<data>1. [The Chemical Brothers](https://de.wikipedia.org/wiki/The_Chemical_Brothers) - ["Galvanize"](https://en.wikipedia.org/wiki/Galvanize_(song)) :: [YouTube](https://www.youtube.com/watch?v=Xu3FTEmN-eg)
+	2. [Massive Attack](https://de.wikipedia.org/wiki/Massive_Attack) - ["Live With Me"](https://en.wikipedia.org/wiki/Live_with_Me_(Massive_Attack_song)) :: [YouTube](https://www.youtube.com/watch?v=AIIovpUQiro)
+	3. [Beastie Boys](https://de.wikipedia.org/wiki/Beastie_Boys) - ["Sabotage"](https://de.wikipedia.org/wiki/Sabotage_(Lied)) :: [YouTube](https://www.youtube.com/watch?v=z5rRZdiu1UE)
+	4. [Radiohead](https://de.wikipedia.org/wiki/Radiohead) - ["Man Of War"](https://en.wikipedia.org/wiki/Man_of_War_(song)) :: [YouTube](https://www.youtube.com/watch?v=DXP1KdZX4io)</data>
+	<date>29.04.2022</date>
+	<index><i type="Musiker">Radiohead</i><i type="Musiker">The Chemical Brothers</i><i type="Musiker">Massive Attack</i><i type="Musiker">Beastie Boys</i></index>
+	<tags><t>Musik</t><t>Film</t></tags>
+	<serial>Top Four</serial>
+</item>
 </content>
