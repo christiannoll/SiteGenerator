@@ -8,10 +8,16 @@ class TagItemPage : Page {
         self.tagItem = tagItem
     }
     
+    var key: String {
+        get {
+            let photoKey = SiteGeneratorEnv.forGerman() ? "Foto" : "Photo"
+            let key = tagItem.key == photoKey ? "" : tagItem.key
+            return key
+        }
+    }
+    
     override func renderContent() -> SmlNode {
         var mainChildren: [SmlNode] = [newLine, newLine]
-        let photoKey = SiteGeneratorEnv.forGerman() ? "Foto" : "Photo"
-        let key = tagItem.key == photoKey ? "" : tagItem.key
         let h_1 = h1([.text(key)])
         mainChildren.append(h_1)
         

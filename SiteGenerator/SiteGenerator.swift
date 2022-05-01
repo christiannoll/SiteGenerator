@@ -69,11 +69,13 @@ struct SiteGenerator {
         let tagsFactory = TagsFactory()
         let tags = tagsFactory.createTags(posts)
         let tagsPage = TagsPage(tags)
+        tagsPage.setTitle()
         writer.writeTagsPage(tagsPage.render())
         
         let tagItems = tags.tagItems
         for tagItem in tagItems {
             let page = TagItemPage(tagItem)
+            page.setTitle(page.key)
             writer.writeTagItemPage(tagItem, page.render())
         }
         

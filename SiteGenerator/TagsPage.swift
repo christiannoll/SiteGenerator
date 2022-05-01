@@ -15,4 +15,8 @@ class TagsPage : Page {
         mainChildren.append(newLine)
         return main(mainChildren)
     }
+    
+    func setTitle() {
+        setTitle(tagsTitle)
+    }
 }

@@ -12,6 +12,10 @@ class Page {
     
     private var title = "v.n.z.n"
     
+    var tagsTitle: String {
+        get {SiteGeneratorEnv.forGerman() ? "Kategorien" : "Tags"}
+    }
+    
     public func render() -> String {
         var htmlChildren: [SmlNode] = []
         htmlChildren.append(newLine)
@@ -163,7 +167,7 @@ class Page {
         pChildren.append(newLine)
         pChildren.append(tab)
         
-        let tags = a([href => (Page.baseUrl + "tags")], [SiteGeneratorEnv.forGerman() ? "Kategorien" : "Tags"])
+        let tags = a([href => (Page.baseUrl + "tags")], [.text(tagsTitle)])
         pChildren.append(tags)
         
         pChildren.append(.text(" • "))
