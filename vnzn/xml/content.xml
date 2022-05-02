@@ -2340,4 +2340,12 @@
 	<tags><t>Musik</t><t>Film</t></tags>
 	<serial>Top Four</serial>
 </item>
+<item type="text" format="normal">
+	<name>universal_blockchain</name>
+	<title>Die Zeit als die ultimative Blockchain</title>
+	<data>Wenn das Universum ein gigantischer Supercomputer ist, dann errechnet er ständig neue Blöcke für die Universal-Blockchain. Durch den [Urknall](https://de.wikipedia.org/wiki/Urknall) wurde der Genesis Block geschaffen und so ist die [Zeit](https://de.wikipedia.org/wiki/Zeit) in die Welt gekommen. Mit jedem neuen Block der [Blockchain](https://de.wikipedia.org/wiki/Blockchain) wird die Zeit weiter fortgeschrieben. Nur Ereignisse die in der Universal-Blockchain integriert werden, stehen später in den Geschichtsbüchern der Menschen.</data>
+	<date>03.05.2022</date>
+	<index><i>Blockchain</i><i>Zeit</i></index>
+	<tags><t>Physik</t><t>Technologie</t></tags>
+</item>
 </content>

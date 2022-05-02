@@ -2342,4 +2342,12 @@
 	<tags><t>Music</t><t>Movie</t></tags>
 	<serial>Top Four</serial>
 </item>
+<item type="text" format="normal">
+	<name>universal_blockchain</name>
+	<title>Time as the ultimate blockchain</title>
+	<data>If the universe is a gigantic supercomputer, then it constantly calculates new blocks for the universal [blockchain](https://en.wikipedia.org/wiki/Blockchain). The Genesis Block was created by the [Big Bang](https://en.wikipedia.org/wiki/Big_Bang) and this is how [time](https://en.wikipedia.org/wiki/Time) came into the world. With each new block of the blockchain, the time continues to be updated. Only events that are integrated into the universal blockchain later appear in people's history books.</data>
+	<date>03.05.2022</date>
+	<index><i>Blockchain</i><i>Time</i></index>
+	<tags><t>Physics</t><t>Technology</t></tags>
+</item>
 </content>
