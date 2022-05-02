@@ -16,6 +16,10 @@ class Page {
         get {SiteGeneratorEnv.forGerman() ? "Kategorien" : "Tags"}
     }
     
+    var indexTitle: String {
+        get { "Index" }
+    }
+    
     public func render() -> String {
         var htmlChildren: [SmlNode] = []
         htmlChildren.append(newLine)
@@ -161,7 +165,7 @@ class Page {
         pChildren.append(newLine)
         pChildren.append(tab)
         
-        let index = a([href => (Page.baseUrl + "index")], ["Index"])
+        let index = a([href => (Page.baseUrl + "index")], [.text(indexTitle)])
         pChildren.append(index)
         pChildren.append(.text(" • "))
         pChildren.append(newLine)

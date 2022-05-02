@@ -15,4 +15,8 @@ class IndexPage : Page {
         mainChildren.append(newLine)
         return main(mainChildren)
     }
+    
+    func setTitle() {
+        setTitle(indexTitle)
+    }
 }

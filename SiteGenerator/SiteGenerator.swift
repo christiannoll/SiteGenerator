@@ -58,11 +58,13 @@ struct SiteGenerator {
         let indexFactory = IndexFactory()
         let index = indexFactory.createIndex(posts)
         let indexPage = IndexPage(index)
+        indexPage.setTitle()
         writer.writeIndexPage(indexPage.render())
         
         let indexItems = index.indexItems
         for indexItem in indexItems {
             let page = IndexItemPage(indexItem)
+            page.setTitle(indexItem.key)
             writer.writeIndexItemPage(indexItem, page.render())
         }
         
