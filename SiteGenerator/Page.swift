@@ -13,11 +13,15 @@ class Page {
     private var title = "v.n.z.n"
     
     var tagsTitle: String {
-        get {SiteGeneratorEnv.forGerman() ? "Kategorien" : "Tags"}
+        get { SiteGeneratorEnv.forGerman() ? "Kategorien" : "Tags" }
     }
     
     var indexTitle: String {
         get { "Index" }
+    }
+    
+    var serialsTitle: String {
+        get { SiteGeneratorEnv.forGerman() ? "Serien" : "Serials" }
     }
     
     public func render() -> String {
@@ -178,7 +182,7 @@ class Page {
         pChildren.append(newLine)
         pChildren.append(tab)
         
-        let serials = a([href => (Page.baseUrl + "serials")], [SiteGeneratorEnv.forGerman() ? "Serien" : "Serials"])
+        let serials = a([href => (Page.baseUrl + "serials")], [.text(serialsTitle)])
         pChildren.append(serials)
         
         pChildren.append(.text(" • "))

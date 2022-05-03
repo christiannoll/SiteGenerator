@@ -84,11 +84,13 @@ struct SiteGenerator {
         let serialsFactory = SerialsFactory()
         let serials = serialsFactory.createSerials(posts)
         let serialsPage = SerialsPage(serials)
+        serialsPage.setTitle()
         writer.writeSerialsPage(serialsPage.render())
         
         let serialItems = serials.tagItems
         for serialItem in serialItems {
             let page = TagItemPage(serialItem)
+            page.setTitle(page.key)
             writer.writeSerialItemPage(serialItem, page.render())
         }
         

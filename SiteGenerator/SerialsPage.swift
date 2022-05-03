@@ -15,4 +15,8 @@ class SerialsPage : Page {
         mainChildren.append(newLine)
         return main(mainChildren)
     }
+    
+    func setTitle() {
+        setTitle(serialsTitle)
+    }
 }
