@@ -10,13 +10,17 @@ class StatisticPage : Page {
     
     override func renderContent() -> SmlNode {
         var mainChildren: [SmlNode] = [newLine]
-        let h_S = h4([.text(SiteGeneratorEnv.forGerman() ? "Statistik" : "Statistics")])
+        let h_S = h4([.text(statisticsTitle)])
         mainChildren.append(h_S)
         mainChildren.append(newLine)
         mainChildren.append(createData())
         
         mainChildren.append(newLine)
         return main(mainChildren)
+    }
+    
+    func setTitle() {
+        setTitle(statisticsTitle)
     }
     
     private func createData() -> SmlNode {

@@ -10,16 +10,19 @@ class BetaPage : Page {
         return main(mainChildren)
     }
     
+    func setTitle() {
+        setTitle(metaTitle)
+    }
+    
     private func renderItems() -> SmlNode {
         var divChildren: [SmlNode] = []
         divChildren.append(newLine)
-        let h_4 = h4([.text("Meta")])
+        let h_4 = h4([.text(metaTitle)])
         divChildren.append(h_4)
         divChildren.append(newLine)
         
         var ulChildren: [SmlNode] = []
         
-        let statisticsTitle = SiteGeneratorEnv.forGerman() ? "Statistik" : "Statistics"
         ulChildren.append(renderItem(statisticsTitle, "statistic"))
         ulChildren.append(newLine)
         

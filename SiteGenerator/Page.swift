@@ -24,6 +24,14 @@ class Page {
         get { SiteGeneratorEnv.forGerman() ? "Serien" : "Serials" }
     }
     
+    var metaTitle: String {
+        get { "Meta" }
+    }
+    
+    var statisticsTitle: String {
+        get { SiteGeneratorEnv.forGerman() ? "Statistik" : "Statistics" }
+    }
+    
     public func render() -> String {
         var htmlChildren: [SmlNode] = []
         htmlChildren.append(newLine)
@@ -189,7 +197,7 @@ class Page {
         pChildren.append(newLine)
         pChildren.append(tab)
         
-        let beta = a([href => (Page.baseUrl + "beta")], ["Meta*"])
+        let beta = a([href => (Page.baseUrl + "beta")], [.text(metaTitle + "*")])
         pChildren.append(beta)
         
         let para = p(pChildren)

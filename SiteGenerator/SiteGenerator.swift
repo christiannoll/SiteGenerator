@@ -128,6 +128,7 @@ struct SiteGenerator {
         writeWordCloudPage(writer)
         
         let betaPage = BetaPage()
+        betaPage.setTitle()
         writer.writeBetaPage(betaPage.render())
     }
     

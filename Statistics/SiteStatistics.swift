@@ -14,6 +14,7 @@ class SiteStatistics {
     
     func writeStatisticPage() {
         let page = StatisticPage(data)
+        page.setTitle()
         
         let writer = PageWriter()
         writer.writeStatisticPage(page.render())
