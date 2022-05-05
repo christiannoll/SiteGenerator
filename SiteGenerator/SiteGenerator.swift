@@ -77,7 +77,7 @@ struct SiteGenerator {
         let tagItems = tags.tagItems
         for tagItem in tagItems {
             let page = TagItemPage(tagItem)
-            page.setTitle(page.key)
+            page.setTitle(tagItem.key)
             writer.writeTagItemPage(tagItem, page.render())
         }
         
