@@ -15,4 +15,8 @@ class TimelinePage : Page {
         mainChildren.append(newLine)
         return main(mainChildren)
     }
+    
+    func setTitle() {
+        setTitle(timelineTitle)
+    }
 }

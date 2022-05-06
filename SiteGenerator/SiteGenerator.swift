@@ -136,6 +136,7 @@ struct SiteGenerator {
         let timelineFactory = TimelineFactory()
         let timeline = timelineFactory.createTimeline(posts)
         let timelinePage = TimelinePage(timeline)
+        timelinePage.setTitle()
         writer.writeTimelinePage(timelinePage.render())
     }
     
