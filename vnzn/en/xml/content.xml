@@ -2350,4 +2350,12 @@
 	<index><i>Blockchain</i><i>Time</i></index>
 	<tags><t>Physics</t><t>Technology</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>blossom</name>
+	<title>Blossom</title>
+	<data>blossom_small.png</data>
+	<date>07.05.2022</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
 </content>
