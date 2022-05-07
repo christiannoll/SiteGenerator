@@ -144,6 +144,7 @@ struct SiteGenerator {
         let personsRegisterFactory = PersonsRegisterFactory()
         let personsRegister = personsRegisterFactory.createPersonsRegister(posts)
         let personsRegisterPage = PersonsRegisterPage(personsRegister)
+        personsRegisterPage.setTitle()
         writer.writePersonsRegisterPage(personsRegisterPage.render())
     }
     

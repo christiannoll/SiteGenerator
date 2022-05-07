@@ -36,6 +36,10 @@ class Page {
         get { "Timeline" }
     }
     
+    var personsTitle: String {
+        get { SiteGeneratorEnv.forGerman() ? "Personen" : "Persons" }
+    }
+    
     public func render() -> String {
         var htmlChildren: [SmlNode] = []
         htmlChildren.append(newLine)
