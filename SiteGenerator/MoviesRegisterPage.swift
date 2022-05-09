@@ -15,4 +15,8 @@ class MoviesRegisterPage : Page {
         mainChildren.append(newLine)
         return main(mainChildren)
     }
+    
+    func setTitle() {
+        setTitle(moviesTitle)
+    }
 }

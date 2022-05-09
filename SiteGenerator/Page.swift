@@ -40,6 +40,10 @@ class Page {
         get { SiteGeneratorEnv.forGerman() ? "Personen" : "Persons" }
     }
     
+    var moviesTitle: String {
+        get { SiteGeneratorEnv.forGerman() ? "Filme" : "Movies" }
+    }
+    
     public func render() -> String {
         var htmlChildren: [SmlNode] = []
         htmlChildren.append(newLine)

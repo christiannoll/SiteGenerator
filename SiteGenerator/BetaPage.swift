@@ -32,7 +32,6 @@ class BetaPage : Page {
         ulChildren.append(renderItem(personsTitle, "persons"))
         ulChildren.append(newLine)
         
-        let moviesTitle = SiteGeneratorEnv.forGerman() ? "Filme" : "Movies"
         ulChildren.append(renderItem(moviesTitle, "movies"))
         ulChildren.append(newLine)
         

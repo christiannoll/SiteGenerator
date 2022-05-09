@@ -152,6 +152,7 @@ struct SiteGenerator {
         let moviesRegisterFactory = MoviesRegisterFactory()
         let moviesRegister = moviesRegisterFactory.createMoviesRegister(posts)
         let moviesRegisterPage = MoviesRegisterPage(moviesRegister)
+        moviesRegisterPage.setTitle()
         writer.writeMoviesRegisterPage(moviesRegisterPage.render())
     }
     
