@@ -2356,4 +2356,15 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>heart_of_gold</name>
+	<title>H2G2: Herz aus Gold</title>
+	<data>die [herz aus gold](https://de.wikipedia.org/wiki/Hintergr%C3%BCnde_zu_Per_Anhalter_durch_die_Galaxis#Herz_aus_Gold) ist das erste raumschiff im ganzen [universum](https://de.wikipedia.org/wiki/Per_Anhalter_durch_die_Galaxis), das mit dem neuen unendlichen unwahrscheinlichkeitsdrive ausgestattet ist. mit dem unendlichen unwahrscheinlichkeitsdrive ist man in der lage riesige interstellare entfernungen in weniger als einem bruchteil einer sekunde zurückzulegen.
+	das prinzip kleine mengen endlicher unwahrscheinlichkeiten herzustellen ist schon länger bekannt gewesen. doch auch die bekanntesten physiker waren bisher nicht in der lage, ein unendliches unwahrscheinlichkeitsfeld zu erzeugen.
+	bis ein student auf die idee kam auszurechnen wie unwahrscheinlich es ist, eine unendliche unwahrscheinlichkleit zu erzeugen, und mit dieser zahl dann den endlichen unwahrscheinlichkeitsapperat zu füttern. damit war der erste unendliche unwahrscheinlichlkeitsapperat geboren.</data>
+	<date>11.05.2022</date>
+	<index><i type="Person">Douglas Adams</i><i type="Book" author="Douglas Adams">Per Anhalter durch die Galaxis</i></index>
+	<tags><t>Literatur</t></tags>
+	<serial>Per Anhalter durch die Galaxis</serial>
+</item>
 </content>

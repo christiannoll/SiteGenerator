@@ -2358,4 +2358,15 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>heart_of_gold</name>
+	<title>H2G2: Heart of Gold</title>
+	<data>The [Heart of Gold](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(novel)) is the first starship in the universe to be equipped with the new infinite improbability drive. With the infinite improbability drive, one is able to cover huge interstellar distances in less than a fraction of a second.
+	The principle of creating small sets of finite probabilities has been known for a long time. But even the best-known physicists have not been able to generate an infinite field of improbability.
+	Until a student came up with the idea of calculating how improbable it is to generate an infinite improbability number and then feeding the finite improbability apparatus with this number. Thus the first infinite improbability apparatus was born.</data>
+	<date>11.05.2022</date>
+	<index><i type="Person">Douglas Adams</i><i type="Book" author="Douglas Adams">The Hitchhiker's Guide to the Galaxy</i></index>
+	<tags><t>Literature</t></tags>
+	<serial>The Hitchhiker's Guide to the Galaxy</serial>
+</item>
 </content>
