@@ -20,6 +20,10 @@ class ContactPage: Page {
         return main(mainChildren)
     }
     
+    func setTitle() {
+        setTitle(impressumTitle)
+    }
+    
     private func createAddress() -> SmlNode {
         var pChildren: [SmlNode] = []
         pChildren.append(.text("v.n.z.n (Christian Noll)"))

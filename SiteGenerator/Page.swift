@@ -28,6 +28,10 @@ class Page {
         get { "Meta" }
     }
     
+    var impressumTitle: String {
+        get { SiteGeneratorEnv.forGerman() ? "Impressum" : "Contact" }
+    }
+    
     var statisticsTitle: String {
         get { SiteGeneratorEnv.forGerman() ? "Statistik" : "Statistics" }
     }
@@ -42,6 +46,14 @@ class Page {
     
     var moviesTitle: String {
         get { SiteGeneratorEnv.forGerman() ? "Filme" : "Movies" }
+    }
+    
+    var booksTitle: String {
+        get { SiteGeneratorEnv.forGerman() ? "Bücher" : "Books" }
+    }
+    
+    var wordCloudTitle: String {
+        get { SiteGeneratorEnv.forGerman() ? "Wortwolke" : "Word Cloud" }
     }
     
     public func render() -> String {
@@ -231,7 +243,7 @@ class Page {
         pChildren2.append(newLine)
         pChildren2.append(tab)
         
-        let impressum = a([href => (Page.baseUrl + "impressum")], [SiteGeneratorEnv.forGerman() ? "Impressum" : "Contact"])
+        let impressum = a([href => (Page.baseUrl + "impressum")], [.text(impressumTitle)])
         pChildren2.append(impressum)
         
         let para2 = p(pChildren2)

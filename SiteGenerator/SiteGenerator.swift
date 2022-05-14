@@ -96,10 +96,12 @@ struct SiteGenerator {
         
         if (SiteGeneratorEnv.forGerman()) {
             let impressumPage = ImpressumPage()
+            impressumPage.setTitle()
             writer.writeImpressumPage(impressumPage.render())
         }
         else {
             let contactPage = ContactPage()
+            contactPage.setTitle()
             writer.writeImpressumPage(contactPage.render())
         }
         
@@ -160,6 +162,7 @@ struct SiteGenerator {
         let booksRegisterFactory = BooksRegisterFactory()
         let booksRegister = booksRegisterFactory.createBooksRegister(posts)
         let booksRegisterPage = BooksRegisterPage(booksRegister)
+        booksRegisterPage.setTitle()
         writer.writeBooksRegisterPage(booksRegisterPage.render())
     }
     
@@ -167,6 +170,7 @@ struct SiteGenerator {
         let indexFactory = IndexFactory()
         let index = indexFactory.createIndex(posts)
         let wordCloudPage = WordCloudPage(index)
+        wordCloudPage.setTitle()
         writer.writeWordCloudPage(wordCloudPage.render())
     }
 }

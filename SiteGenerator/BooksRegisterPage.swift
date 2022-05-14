@@ -16,4 +16,8 @@ class BooksRegisterPage : Page {
         mainChildren.append(newLine)
         return main(mainChildren)
     }
+    
+    func setTitle() {
+        setTitle(booksTitle)
+    }
 }

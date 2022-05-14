@@ -35,11 +35,9 @@ class BetaPage : Page {
         ulChildren.append(renderItem(moviesTitle, "movies"))
         ulChildren.append(newLine)
         
-        let booksTitle = SiteGeneratorEnv.forGerman() ? "Bücher" : "Books"
         ulChildren.append(renderItem(booksTitle, "books"))
         ulChildren.append(newLine)
         
-        let wordCloudTitle = SiteGeneratorEnv.forGerman() ? "Wortwolke" : "Word Cloud"
         ulChildren.append(renderItem(wordCloudTitle, "wordcloud"))
         ulChildren.append(newLine)
         

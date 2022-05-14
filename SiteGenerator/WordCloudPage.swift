@@ -15,4 +15,8 @@ class WordCloudPage : Page {
         mainChildren.append(newLine)
         return main(mainChildren)
     }
+    
+    func setTitle() {
+        setTitle(wordCloudTitle)
+    }
 }
