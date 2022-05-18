@@ -2379,4 +2379,12 @@
 	<tags><t>Literatur</t></tags>
 	<serial>Per Anhalter durch die Galaxis</serial>
 </item>
+<item type="image" height="200" width="200">
+	<name>three</name>
+	<title>Three</title>
+	<data>three_small.png</data>
+	<date>19.05.2022</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
