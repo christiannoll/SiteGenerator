@@ -2396,4 +2396,15 @@
 	<index><i type="Person">Bernd Becher</i><i type="Person">Hilla Becher</i></index>
 	<tags><t>Fotografie</t><t>Kunst</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>deep_thought</name>
+	<title>H2G2: Deep Thought</title>
+	<data>[deep thought](https://en.wikipedia.org/wiki/List_of_The_Hitchhiker%27s_Guide_to_the_Galaxy_characters#Deep_Thought) ist der größte supercomputer in der ganzen galaxis. er alleine ist so groß wie eine kleinstadt. deep thought ist so wahnsinnig intelligent, dass seine ersten worte : "ich denke also bin ich" waren.
+	er wurde gebaut um die frage aller fragen zu beantworten. die frage nach dem sinn des lebens. die antwort zu finden war für deep thought nicht eigentlich schwer. er mußte nur ein bißchen nachdenken, genaugesagt die kleinigkeit von siebeneinhalbmillionen jahren.
+	die antwort auf die frage aller fragen lautete : [42](#2022/03/24/forty_two).</data>
+	<date>27.05.2022</date>
+	<index><i type="Person">Douglas Adams</i><i type="Book" author="Douglas Adams">Per Anhalter durch die Galaxis</i></index>
+	<tags><t>Literatur</t></tags>
+	<serial>Per Anhalter durch die Galaxis</serial>
+</item>
 </content>

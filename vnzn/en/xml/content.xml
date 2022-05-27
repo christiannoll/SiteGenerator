@@ -2398,4 +2398,15 @@
 	<index><i type="Person">Bernd Becher</i><i type="Person">Hilla Becher</i></index>
 	<tags><t>Photography</t><t>Art</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>deep_thought</name>
+	<title>H2G2: Deep Thought</title>
+	<data>[Deep Thought](https://en.wikipedia.org/wiki/List_of_The_Hitchhiker%27s_Guide_to_the_Galaxy_characters#Deep_Thought) is the largest supercomputer in the galaxy. He alone is as big as a small town. Deep Thought is so incredibly intelligent that his first words were: "i think therefore i am".
+	It was built to answer the question of all questions. The question of the meaning of life. It wasn't really difficult for deep thought to find the answer. He just had to think a little, the little thing of seven and a half million years to be precise.
+	The answer to the question of all questions was : [42](#2022/03/24/forty_two).</data>
+	<date>27.05.2022</date>
+	<index><i type="Person">Douglas Adams</i><i type="Book" author="Douglas Adams">The Hitchhiker's Guide to the Galaxy</i></index>
+	<tags><t>Literature</t></tags>
+	<serial>The Hitchhiker's Guide to the Galaxy</serial>
+</item>
 </content>
