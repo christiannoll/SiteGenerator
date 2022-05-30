@@ -2407,4 +2407,12 @@
 	<tags><t>Literatur</t></tags>
 	<serial>Per Anhalter durch die Galaxis</serial>
 </item>
+<item type="image" height="200" width="200">
+	<name>reflections</name>
+	<title>Reflexionen</title>
+	<data>reflections2_small.png</data>
+	<date>31.05.2022</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
