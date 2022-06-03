@@ -2417,4 +2417,17 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>godels_loophole</name>
+	<title>Gödel's Loophole</title>
+	<data>The mathematician and philosopher [Kurt Gödel](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del), born in [Brno](https://en.wikipedia.org/wiki/Brno) in *1906*, is best known for his *1931* [incompleteness theorem](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems).
+	Kurt Gödel lost his professorship in Vienna in *1938* due to the so-called annexation of Austria to the German Reich and emigrated to the USA two years later. There he worked in Princeton at the Institute for Advanced Study. Here Gödel became friends with [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) in *1942* and began to discuss physical problems such as the [theory of relativity](https://en.wikipedia.org/wiki/Theory_of_relativity) and philosophical topics with him.
+	It was also Einstein who, in *1947*, together with the economist [Oskar Morgenstern](https://en.wikipedia.org/wiki/Oskar_Morgenstern), supported Kurt Gödel in his attempt to obtain U.S. citizenship.
+	Gödel, in his usual manner, had prepared for the hearing by reading extensively. In the course of his studies, Gödel concluded that he had discovered a flaw in the U.S. Constitution - a contradiction that would allow the U.S. to become a dictatorship.
+	During his hearing on December 5, *1947*, Gödel was asked about his nationality. When Gödel stated that he was Austrian, the judge casually said that fortunately in America no dictatorship like in Austria could arise. Gödel disagreed, claiming that there is a logical contradiction in the US Constitution that allows for the transformation of the state into a dictatorship. However, the judge quickly interrupted the mathematician's explanations, which probably saved his citizenship.
+	It is not known which points of the American Constitution Gödel had in mind in his assessment of a formally legal transition to [dictatorship](https://en.wikipedia.org/wiki/Dictatorship).</data>
+	<date>04.06.2022</date>
+	<index><i type="Person">Kurt Gödel</i><i type="Person">Albert Einstein</i></index>
+	<tags><t>Mathematics</t><t>Society</t><t>Philosophy</t></tags>
+</item>
 </content>

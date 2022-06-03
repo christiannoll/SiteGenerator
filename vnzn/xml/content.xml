@@ -2415,4 +2415,17 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>godels_loophole</name>
+	<title>Gödels Schlupfloch</title>
+	<data>Der *1906* in [Brünn](https://de.wikipedia.org/wiki/Br%C3%BCnn) geborene Mathematiker und Philosoph [Kurt Gödel](https://de.wikipedia.org/wiki/Kurt_G%C3%B6del) wurde vor allem durch seinen [Unvollständigkeitssatz](https://de.wikipedia.org/wiki/G%C3%B6delscher_Unvollst%C3%A4ndigkeitssatz) von *1931* bekannt.
+	Kurt Gödel verlor aufgrund des sogenannten Anschluss Österreichs an das Deutsche Reich *1938* seine Professur in Wien und emigrierte zwei Jahre später in die USA. Dort arbeitete er in Princeton am Institute for Advanced Study. Hier freundete sich Gödel *1942* mit [Albert Einstein](https://de.wikipedia.org/wiki/Albert_Einstein) an und begann mit ihm über physikalische Probleme wie die [Relativitätstheorie](https://de.wikipedia.org/wiki/Relativit%C3%A4tstheorie) und über philosophische Themen zu diskutieren.
+	Einstein war es auch, der Kurt Gödel *1947* zusammen mit dem Ökonomen [Oskar Morgenstern](https://de.wikipedia.org/wiki/Oskar_Morgenstern) bei seinem Vorhaben, die US-amerikanische Staatsbürgerschaft zu erhalten, unterstützte.
+	Gödel hatte sich in seiner üblichen Art durch umfangreiche Lektüre auf die Anhörung vorbereitet. Im Laufe seiner Studien kam Gödel zu dem Schluss, dass er einen Fehler in der amerikanischen Verfassung entdeckt hatte - einen Widerspruch, der es ermöglichen würde, die USA in eine Diktatur zu verwandeln.
+	Während seiner Anhörung am 5. Dezember *1947* wurde Gödel nach seiner Nationalität gefragt. Als Gödel angab, dass er Österreicher sei, sagte der Richter beiläufig, dass in Amerika zum Glück keine Diktatur wie in Österreich entstehen könnte. Gödel widersprach und behauptete, dass es in der Verfassung der USA einen logischen Widerspruch gebe, der die Umwandlung des Staates in eine Diktatur erlaube. Der Richter unterbrach die Ausführungen des Mathematikers allerdings schnell, was wahrscheinlich dessen Einbürgerung rettete.
+	Welche Punkte der amerikanischen Verfassung Gödel bei seiner Einschätzung eines formal legalen Übergangs zur [Diktatur](https://de.wikipedia.org/wiki/Diktatur) im Sinn hatte, ist nicht bekannt.</data>
+	<date>04.06.2022</date>
+	<index><i type="Person">Kurt Gödel</i><i type="Person">Albert Einstein</i></index>
+	<tags><t>Mathematik</t><t>Gesellschaft</t><t>Philosophie</t></tags>
+</item>
 </content>
