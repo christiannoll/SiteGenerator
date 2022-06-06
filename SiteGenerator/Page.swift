@@ -56,6 +56,10 @@ class Page {
         get { SiteGeneratorEnv.forGerman() ? "Wortwolke" : "Word Cloud" }
     }
     
+    var metaDescriptionContent: String {
+        get { SiteGeneratorEnv.forGerman() ? "Fragmente aus der Vergangenheit, Gegenwart und Zukunft." : "Fragments from the past, present and future." }
+    }
+    
     public func render() -> String {
         var htmlChildren: [SmlNode] = []
         htmlChildren.append(newLine)
@@ -96,6 +100,11 @@ class Page {
         var headChildren: [SmlNode] = [newLine, tab]
         
         headChildren.append(node("title", [.text(title)]))
+        headChildren.append(newLine)
+        headChildren.append(tab)
+        
+        let metaDescription = meta([name => "description", content => metaDescriptionContent])
+        headChildren.append(metaDescription)
         headChildren.append(newLine)
         headChildren.append(tab)
         
