@@ -281,7 +281,8 @@ class Page {
     }
     
     private func html(_ children: [SmlNode]) -> SmlNode {
-        return node("html", children)
+        let language = SiteGeneratorEnv.forGerman() ? "de" : "en"
+        return node("html", [lang => language], children)
     }
     
     private func head(_ children: [SmlNode]) -> SmlNode {
@@ -335,4 +336,5 @@ class Page {
     let onLoad = SmlAttributeKey<String>("onLoad")
     let size = SmlAttributeKey<String>("size")
     let onkeyup = SmlAttributeKey<String>("onkeyup")
+    let lang = SmlAttributeKey<String>("lang")
 }
