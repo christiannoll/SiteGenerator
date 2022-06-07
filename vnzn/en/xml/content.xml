@@ -2430,4 +2430,16 @@
 	<index><i type="Person">Kurt Gödel</i><i type="Person">Albert Einstein</i></index>
 	<tags><t>Mathematics</t><t>Society</t><t>Philosophy</t></tags>
 </item>
+<item type="text" format="randomLinkColor">
+	<name>top_4_coen_movies</name>
+	<title>Top Four - Films by Ethan and Joel Coen</title>
+	<data>1. [The Big Lebowski](https://en.wikipedia.org/wiki/The_Big_Lebowski)
+	2. [No Country for Old Men](https://en.wikipedia.org/wiki/No_Country_for_Old_Men_(film))
+	3. [Burn After Reading](https://en.wikipedia.org/wiki/Burn_After_Reading)
+	4. [A Serious Man](https://en.wikipedia.org/wiki/A_Serious_Man)</data>
+	<date>08.06.2022</date>
+	<index><i type="Person">Joel Coen</i><i type="Person">Ethan Coen</i><i type="Movie">The Big Lebowski</i></index>
+	<tags><t>Movie</t></tags>
+	<serial>Top Four</serial>
+</item>
 </content>
