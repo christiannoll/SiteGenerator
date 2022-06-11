@@ -2442,4 +2442,12 @@
 	<tags><t>Movie</t></tags>
 	<serial>Top Four</serial>
 </item>
+<item type="image" height="200" width="200">
+	<name>bridge_hh</name>
+	<title>Bridge</title>
+	<data>bridge_hh_small.png</data>
+	<date>12.06.2022</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
 </content>
