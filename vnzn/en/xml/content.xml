@@ -2450,4 +2450,13 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>identity</name>
+	<title>Identity</title>
+	<data>[Identity](https://en.wikipedia.org/wiki/Identity_(philosophy)) is the sum of the stories we tell ourselves about ourselves, stories others tell us about ourselves, and stories we think others are telling about us.
+	What happens when we lose these stories - then we dissolve like tears in the rain.</data>
+	<date>16.06.2022</date>
+	<index><i>Identity</i></index>
+	<tags><t>Society</t><t>Philosophy</t></tags>
+</item>
 </content>

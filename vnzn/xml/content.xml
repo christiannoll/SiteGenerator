@@ -2448,4 +2448,13 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>identity</name>
+	<title>Identität</title>
+	<data>[Identität](https://de.wikipedia.org/wiki/Identit%C3%A4t) ist die Summe der Geschichten die wir uns selber über uns erzählen, Geschichten die uns Andere über uns erzählen und Geschichten von denen wir denken, dass Andere sie über uns erzählen. 
+	Was passiert wenn wir diese Geschichten verlieren - dann lösen wir uns auf, wie die Träne im Regen.</data>
+	<date>16.06.2022</date>
+	<index><i>Identität</i></index>
+	<tags><t>Gesellschaft</t><t>Philosophie</t></tags>
+</item>
 </content>
