@@ -2459,4 +2459,13 @@
 	<index><i>Identity</i></index>
 	<tags><t>Society</t><t>Philosophy</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>being_an_artits</name>
+	<title>The child in us</title>
+	<data>In general, being an artist means to have contact with the child in yourself, or as [Pablo Picasso](https://en.wikipedia.org/wiki/Pablo_Picasso) put it:
+	"Every child is an artist. The problem is how to remain an artist once we grow up."</data>
+	<date>20.06.2022</date>
+	<index><i type="Person">Pablo Picasso</i></index>
+	<tags><t>Society</t><t>Art</t></tags>
+</item>
 </content>
