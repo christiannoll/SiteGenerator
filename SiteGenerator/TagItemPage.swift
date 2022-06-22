@@ -4,14 +4,15 @@ class TagItemPage : Page {
     
     private let tagItem: TagItem
     
+    static let photoKey = SiteGeneratorEnv.forGerman() ? "Foto" : "Photo"
+    
     init(_ tagItem: TagItem) {
         self.tagItem = tagItem
     }
     
     var key: String {
         get {
-            let photoKey = SiteGeneratorEnv.forGerman() ? "Foto" : "Photo"
-            let key = tagItem.key == photoKey ? "" : tagItem.key
+            let key = tagItem.key == Self.photoKey ? "" : tagItem.key
             return key
         }
     }

@@ -38,6 +38,9 @@ class BetaPage : Page {
         ulChildren.append(renderItem(booksTitle, "books"))
         ulChildren.append(newLine)
         
+        ulChildren.append(renderItem(photosTitle, "tags/" + TagItemPage.photoKey))
+        ulChildren.append(newLine)
+        
         ulChildren.append(renderItem(wordCloudTitle, "wordcloud"))
         ulChildren.append(newLine)
         

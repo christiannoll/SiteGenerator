@@ -52,6 +52,10 @@ class Page {
         get { SiteGeneratorEnv.forGerman() ? "Bücher" : "Books" }
     }
     
+    var photosTitle: String {
+        get { SiteGeneratorEnv.forGerman() ? "Fotos" : "Photos" }
+    }
+    
     var wordCloudTitle: String {
         get { SiteGeneratorEnv.forGerman() ? "Wortwolke" : "Word Cloud" }
     }
