@@ -2476,4 +2476,16 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="randomLinkColor">
+	<name>top_4_tarantino_movies</name>
+	<title>Top Four - Quentin Tarantino Movies</title>
+	<data>1. [Pulp Fiction](https://en.wikipedia.org/wiki/Pulp_Fiction)
+	2. [Once Upon a Time in Hollywood](https://en.wikipedia.org/wiki/Once_Upon_a_Time_in_Hollywood)
+	3. [Jackie Brown](https://en.wikipedia.org/wiki/Jackie_Brown)
+	4. [Kill Bill – Volume 1](https://en.wikipedia.org/wiki/Kill_Bill:_Volume_1)</data>
+	<date>28.06.2022</date>
+	<index><i type="Person">Quentin Tarantino</i><i type="Movie">Pulp Fiction</i></index>
+	<tags><t>Movie</t></tags>
+	<serial>Top Four</serial>
+</item>
 </content>
