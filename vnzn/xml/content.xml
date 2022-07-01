@@ -2486,4 +2486,20 @@
 	<tags><t>Film</t></tags>
 	<serial>Top Four</serial>
 </item>
+<item type="text" format="normal">
+	<name>math_curiosities_2</name>
+	<title>Mathematische Kuriositäten II</title>
+	<data>*73939133* ist die größte bekannte Primzahl mit dieser merkwürdigen Eigenschaft: Wenn man eine oder mehrere Ziffern am Ende abzieht, sind die resultierenden Zahlen alle [Primzahlen](https://de.wikipedia.org/wiki/Primzahl).
+	`73939133
+	7393913
+	739391
+	73939
+	7393
+	739
+	73
+	7`</data>
+	<date>02.07.2022</date>
+	<index><i>Zahlen</i></index>
+	<tags><t>Mathematik</t></tags>
+</item>
 </content>
