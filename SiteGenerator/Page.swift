@@ -156,7 +156,7 @@ class Page {
     }
     
     func renderArchiveLink() -> SmlNode {
-        let link = a([href => (Page.baseUrl + "archive")], [SiteGeneratorEnv.forGerman() ? "Archiv": "Archive"])
+        let link = a([href => (Page.baseUrl + "archive/")], [SiteGeneratorEnv.forGerman() ? "Archiv": "Archive"])
         let para = p([link])
         return para
     }
@@ -208,33 +208,33 @@ class Page {
         var navChildren: [SmlNode] = [newLine, tab]
         
         var pChildren: [SmlNode] = []
-        let search = a([href => (Page.baseUrl + "search")], [SiteGeneratorEnv.forGerman() ? "Suche" : "Search"])
+        let search = a([href => (Page.baseUrl + "search/")], [SiteGeneratorEnv.forGerman() ? "Suche" : "Search"])
         pChildren.append(search)
         pChildren.append(.text(" • "))
         pChildren.append(newLine)
         pChildren.append(tab)
         
-        let index = a([href => (Page.baseUrl + "index")], [.text(indexTitle)])
+        let index = a([href => (Page.baseUrl + "index/")], [.text(indexTitle)])
         pChildren.append(index)
         pChildren.append(.text(" • "))
         pChildren.append(newLine)
         pChildren.append(tab)
         
-        let tags = a([href => (Page.baseUrl + "tags")], [.text(tagsTitle)])
+        let tags = a([href => (Page.baseUrl + "tags/")], [.text(tagsTitle)])
         pChildren.append(tags)
         
         pChildren.append(.text(" • "))
         pChildren.append(newLine)
         pChildren.append(tab)
         
-        let serials = a([href => (Page.baseUrl + "serials")], [.text(serialsTitle)])
+        let serials = a([href => (Page.baseUrl + "serials/")], [.text(serialsTitle)])
         pChildren.append(serials)
         
         pChildren.append(.text(" • "))
         pChildren.append(newLine)
         pChildren.append(tab)
         
-        let beta = a([href => (Page.baseUrl + "beta")], [.text(metaTitle + "*")])
+        let beta = a([href => (Page.baseUrl + "beta/")], [.text(metaTitle + "*")])
         pChildren.append(beta)
         
         let para = p(pChildren)
@@ -242,7 +242,7 @@ class Page {
         navChildren.append(newLine)
         
         var pChildren2: [SmlNode] = []
-        let random = a([href => (Page.baseUrl + "random")], [SiteGeneratorEnv.forGerman() ? "Zufall" : "Random"])
+        let random = a([href => (Page.baseUrl + "random/")], [SiteGeneratorEnv.forGerman() ? "Zufall" : "Random"])
         pChildren2.append(random)
 
         pChildren2.append(.text(" • "))
@@ -256,7 +256,7 @@ class Page {
         pChildren2.append(newLine)
         pChildren2.append(tab)
         
-        let impressum = a([href => (Page.baseUrl + "impressum")], [.text(impressumTitle)])
+        let impressum = a([href => (Page.baseUrl + "impressum/")], [.text(impressumTitle)])
         pChildren2.append(impressum)
         
         let para2 = p(pChildren2)
@@ -265,7 +265,7 @@ class Page {
         
         var pChildren3: [SmlNode] = []
         let germanLang = a([href => (Page.baseRootUrl)], ["German"])
-        let englishLang = a([href => (Page.baseUrl + "en")], ["English"])
+        let englishLang = a([href => (Page.baseUrl + "en/")], ["English"])
         let lang = SiteGeneratorEnv.forGerman() ? englishLang : germanLang
         pChildren3.append(lang)
         

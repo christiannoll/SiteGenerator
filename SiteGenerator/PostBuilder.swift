@@ -17,6 +17,7 @@ class PostBuilder {
         
         url.append(PostBuilder.createDatePath(item))
         url.append(item.name)
+        url.append("/")
         
         return url
     }
