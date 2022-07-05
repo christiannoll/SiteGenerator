@@ -2502,4 +2502,12 @@
 	<index><i>Zahlen</i></index>
 	<tags><t>Mathematik</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>lueders_haus</name>
+	<title>Marie-Elisabeth-Lüders-Haus</title>
+	<data>lueders_haus_small.png</data>
+	<date>06.07.2022</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
