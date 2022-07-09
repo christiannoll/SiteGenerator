@@ -117,6 +117,11 @@ class Page {
         headChildren.append(newLine)
         headChildren.append(tab)
         
+        let metaAuthor = meta([name => "author", content => "Christian Noll"])
+        headChildren.append(metaAuthor)
+        headChildren.append(newLine)
+        headChildren.append(tab)
+        
         let metaContent = meta([http_equiv => "Content-Type", content => "text/html; charset=utf-8"])
         headChildren.append(metaContent)
         headChildren.append(newLine)
