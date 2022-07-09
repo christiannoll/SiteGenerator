@@ -1396,7 +1396,7 @@
 		* The [golden ratio](https://en.wikipedia.org/wiki/Golden_ratio) Φ = `1.61803 39887 49894 84820 …`
 	</data>
 	<date>09.05.2021</date>
-	<index><i>Complexity</i><i>Universum</i><i>Numbers</i></index>
+	<index><i>Complexity</i><i>Universe</i><i>Numbers</i></index>
 	<tags><t>Mathematics</t><t>General</t></tags>
 	<serial>Complexity</serial>
 </item>
@@ -2511,5 +2511,14 @@
 	<date>06.07.2022</date>
 	<index></index>
 	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>information_universe</name>
+	<title>Information universe</title>
+	<data>The basic building block of our universe is [information](https://en.wikipedia.org/wiki/Information) and in this sense the [universe](https://en.wikipedia.org/wiki/Universe) can be described as a computer that creates, processes and changes information.
+	There is a point on the way into the depths of [reality](https://en.wikipedia.org/wiki/Reality) where the ordinary distinction between spirit and matter is no longer possible and merges into information.</data>
+	<date>10.07.2022</date>
+	<index><i>Universe</i></index>
+	<tags><t>Physics</t><t>Philosophy</t></tags>
 </item>
 </content>
