@@ -2521,4 +2521,13 @@
 	<index><i>Universe</i></index>
 	<tags><t>Physics</t><t>Philosophy</t></tags>
 </item>
+<item type="text" format="randomLinkColor">
+	<name>anything_that_happens</name>
+	<title>Anything that happens, happens</title>
+	<data>[Douglas Adams](https://en.wikipedia.org/wiki/Douglas_Adams):
+	"Anything that happens, happens. \ Anything that, in happening, causes something else to happen, causes something else to happen. \ Anything that, in happening, causes itself to happen again, happens again. \ It doesn’t necessarily do it in chronological order, though."</data>
+	<date>14.07.2022</date>
+	<index><i type="Person">Douglas Adams</i></index>
+	<tags><t>Literature</t><t>Philosophy</t></tags>
+</item>
 </content>
