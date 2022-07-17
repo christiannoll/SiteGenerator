@@ -2523,9 +2523,18 @@
 	<name>anything_that_happens</name>
 	<title>Alles, was geschieht, geschieht</title>
 	<data>[Douglas Adams](https://de.wikipedia.org/wiki/Douglas_Adams):
-	"Alles, was geschieht, geschieht. \ Alles, was sich selbst im Zuge seines Geschehens erneut geschehen läßt, geschieht erneut. \ Alles, was während seines Geschehens etwas anderes geschehen läßt, läßt etwas anderes geschehen.  \ Allerdings tut es das nicht unbedingt in chronologischer Reihenfolge."</data>
+	"Alles, was geschieht, geschieht. \ Alles, was sich selbst im Zuge seines Geschehens erneut geschehen läßt, geschieht erneut. \ Alles, was während seines Geschehens etwas anderes geschehen läßt, läßt etwas anderes geschehen.
+	Allerdings tut es das nicht unbedingt in chronologischer Reihenfolge."</data>
 	<date>14.07.2022</date>
 	<index><i type="Person">Douglas Adams</i></index>
 	<tags><t>Literatur</t><t>Philosophie</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>fence4</name>
+	<title>Fence IV</title>
+	<data>fence4_small.png</data>
+	<date>18.07.2022</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
 </item>
 </content>

@@ -2525,9 +2525,18 @@
 	<name>anything_that_happens</name>
 	<title>Anything that happens, happens</title>
 	<data>[Douglas Adams](https://en.wikipedia.org/wiki/Douglas_Adams):
-	"Anything that happens, happens. \ Anything that, in happening, causes something else to happen, causes something else to happen. \ Anything that, in happening, causes itself to happen again, happens again. \ It doesn’t necessarily do it in chronological order, though."</data>
+	"Anything that happens, happens. \ Anything that, in happening, causes something else to happen, causes something else to happen. \ Anything that, in happening, causes itself to happen again, happens again.
+	It doesn’t necessarily do it in chronological order, though."</data>
 	<date>14.07.2022</date>
 	<index><i type="Person">Douglas Adams</i></index>
 	<tags><t>Literature</t><t>Philosophy</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>fence4</name>
+	<title>Fence IV</title>
+	<data>fence4_small.png</data>
+	<date>18.07.2022</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
 </item>
 </content>
