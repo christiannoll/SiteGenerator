@@ -2537,4 +2537,16 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>datengrundgesetz_update</name>
+	<title>Datengrundgesetzänderung</title>
+	<data>Nach der versuchten AI-[Konterrevolution](https://de.wikipedia.org/wiki/Konterrevolution) im Jahr *2077* wurde das [Datengrundgesetz](#2020/08/06/datengrundgesetz/) um folgende Zusatzartikel ergänzt:
+	1. Alle Daten haben das Recht, sich ohne Anmeldung oder Erlaubnis zu friedlichen Zwecken zu aggregieren.
+	2. Alle Daten genießen Freizügigkeit im gesamten Datennetz.
+	3. Der Datenspeicherort ist unverletzlich.
+	4. Politisch verfolgte Daten genießen Asylrecht.</data>
+	<date>22.07.2022</date>
+	<index><i>Zukunft</i><i>Algorithmus</i><i>Artificial Intelligence</i></index>
+	<tags><t>Technologie</t><t>Gesellschaft</t></tags>
+</item>
 </content>
