@@ -2549,4 +2549,13 @@
 	<index><i>Zukunft</i><i>Algorithmus</i><i>Artificial Intelligence</i></index>
 	<tags><t>Technologie</t><t>Gesellschaft</t></tags>
 </item>
+<item type="text" format="randomLinkColor">
+	<name>disturbing_theory</name>
+	<title>Eine beunruhigende Theorie</title>
+	<data>[Douglas Adams](https://de.wikipedia.org/wiki/Douglas_Adams) - "Es gibt eine Theorie, die besagt, wenn jemals irgendwer genau herausfindet, wozu das Universum da ist und warum es da ist, dann verschwindet es und wird durch etwas noch Bizarreres und Unbegreiflicheres ersetzt.
+	Es gibt eine andere Theorie nach der das schon passiert ist."</data>
+	<date>26.07.2022</date>
+	<index><i type="Person">Douglas Adams</i></index>
+	<tags><t>Literatur</t><t>Philosophie</t></tags>
+</item>
 </content>

@@ -2551,4 +2551,13 @@
 	<index><i>Future</i><i>Algorithm</i><i>Artificial Intelligence</i></index>
 	<tags><t>Technology</t><t>Society</t></tags>
 </item>
+<item type="text" format="randomLinkColor">
+	<name>disturbing_theory</name>
+	<title>A disturbing theory</title>
+	<data>[Douglas Adams](https://en.wikipedia.org/wiki/Douglas_Adams) - "There is a theory which states that if ever anyone discovers exactly what the Universe is for and why it is here, it will instantly disappear and be replaced by something even more bizarre and inexplicable.
+	There is another theory which states that this has already happened."</data>
+	<date>26.07.2022</date>
+	<index><i type="Person">Douglas Adams</i></index>
+	<tags><t>Literature</t><t>Philosophy</t></tags>
+</item>
 </content>
