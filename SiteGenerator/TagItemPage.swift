@@ -5,6 +5,7 @@ class TagItemPage : Page {
     private let tagItem: TagItem
     
     static let photoKey = SiteGeneratorEnv.forGerman() ? "Foto" : "Photo"
+    static let storyKey = "Short-Story"
     
     init(_ tagItem: TagItem) {
         self.tagItem = tagItem

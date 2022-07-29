@@ -60,6 +60,10 @@ class Page {
         get { SiteGeneratorEnv.forGerman() ? "Wortwolke" : "Word Cloud" }
     }
     
+    var storiesTitle: String {
+        get { SiteGeneratorEnv.forGerman() ? "Kurzgeschichten" : "Short Stories"}
+    }
+    
     var metaDescriptionContent: String {
         get { SiteGeneratorEnv.forGerman() ? "Fragmente aus der Vergangenheit, Gegenwart und Zukunft." : "Fragments from the past, present and future." }
     }
