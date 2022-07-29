@@ -2560,4 +2560,12 @@
 	<index><i type="Person">Douglas Adams</i></index>
 	<tags><t>Literature</t><t>Philosophy</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>berlin2</name>
+	<title>Berlin Friedrichstraße</title>
+	<data>berlin2_small.png</data>
+	<date>30.07.2022</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
 </content>
