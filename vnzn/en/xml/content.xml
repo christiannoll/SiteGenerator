@@ -2568,4 +2568,12 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="randomLinkColor">
+	<name>vinyl</name>
+	<title>For all vinyl lovers</title>
+	<data>Life doesn't have a B-side and sometimes it's not even a full [album](https://en.wikipedia.org/wiki/Album), it's just a [single](https://en.wikipedia.org/wiki/Single_(music)).</data>
+	<date>03.08.2022</date>
+	<index><i>Future</i></index>
+	<tags><t>General</t></tags>
+</item>
 </content>

@@ -2566,4 +2566,12 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="randomLinkColor">
+	<name>vinyl</name>
+	<title>Für alle Vinyl-Liebhaber</title>
+	<data>Das Leben hat keine B-Seite und manchmal ist es noch nicht einmal ein ganzes [Album](https://de.wikipedia.org/wiki/Musikalbum), sondern nur eine [Single](https://de.wikipedia.org/wiki/Single_(Musik)).</data>
+	<date>03.08.2022</date>
+	<index><i>Zukunft</i></index>
+	<tags><t>Allgemein</t></tags>
+</item>
 </content>
