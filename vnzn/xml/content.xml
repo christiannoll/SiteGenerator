@@ -1661,7 +1661,7 @@
 	* Die Vermittlung von menschlichem Wissen an fremde Zivilisationen
 	"Don't ever create a [self-replicating](https://en.wikipedia.org/wiki/Self-replication) system!"</data>
 	<date>17.08.2021</date>
-	<index><i type="Person">Jeff Hawkins</i><i type="Person">Lex Fridman</i></index>
+	<index><i type="Person">Jeff Hawkins</i><i type="Person">Lex Fridman</i><i>Vorhersage</i></index>
 	<tags><t>Biologie</t></tags>
 	<serial>Komplexität</serial>
 </item>
@@ -1932,7 +1932,7 @@
 	Diese Vorhersagen werden uns aber nicht alle [bewusst](https://de.wikipedia.org/wiki/Bewusstsein), denn erst wenn sie einen komplexen Filtermechanismus erfolgreich durchlaufen haben, entstehen daraus bewusste Gedanken.
 	Wenn wir träumen ist dieser Filter wahrscheinlich viel durchlässiger, weshalb in der Traumwelt unglaubliche Dinge möglich sind. Die Einnahme von [Drogen](https://de.wikipedia.org/wiki/Droge) kann ebenfalls die Funktionsweise des Filters beeinflussen. Auch [psychische Erkrankungen](https://de.wikipedia.org/wiki/Psychische_St%C3%B6rung) haben vielleicht etwas mit einer veränderten Funktionsweise dieses Filters zu tun.</data>
 	<date>29.11.2021</date>
-	<index><i>Gehirn</i><i>Traum</i></index>
+	<index><i>Gehirn</i><i>Traum</i><i>Vorhersage</i></index>
 	<tags><t>Allgemein</t><t>Biologie</t></tags>
 </item>
 <item type="text" format="normal">
@@ -2581,5 +2581,13 @@
 	<date>07.08.2022</date>
 	<index><i>Zukunft</i></index>
 	<tags><t>Literatur</t><t>Technologie</t><t>Short Story</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>explosion</name>
+	<title>Farbexplosion</title>
+	<data>explosion_small.png</data>
+	<date>11.08.2022</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
 </item>
 </content>

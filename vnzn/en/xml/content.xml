@@ -1660,7 +1660,7 @@
 	* Communicating human knowledge to alien civilizations
 	"Don't ever create a [self-replicating](https://en.wikipedia.org/wiki/Self-replication) system!"</data>
 	<date>17.08.2021</date>
-	<index><i type="Person">Jeff Hawkins</i><i type="Person">Lex Fridman</i></index>
+	<index><i type="Person">Jeff Hawkins</i><i type="Person">Lex Fridman</i><i>Prediction</i></index>
 	<tags><t>Biology</t></tags>
 	<serial>Complexity</serial>
 </item>
@@ -1931,7 +1931,7 @@
 	However, we do not become [aware](https://en.wikipedia.org/wiki/Consciousness) of all these predictions, because only when they have successfully passed through a complex filtering mechanism do conscious thoughts emerge from them.
 	When we dream, this filter is probably much more permeable, which is why incredible things are possible in the dream world. The use of [drugs](https://en.wikipedia.org/wiki/Drug) can also affect the functioning of the filter. [Mental illnesses](https://en.wikipedia.org/wiki/Mental_disorder) may have something to do with a change in the way this filter works, as well.</data>
 	<date>29.11.2021</date>
-	<index><i>Brain</i><i>Dream</i></index>
+	<index><i>Brain</i><i>Dream</i><i>Prediction</i></index>
 	<tags><t>General</t><t>Biology</t></tags>
 </item>
 <item type="text" format="normal">
@@ -2583,5 +2583,13 @@
 	<date>07.08.2022</date>
 	<index><i>Future</i></index>
 	<tags><t>Literature</t><t>Technology</t><t>Short Story</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>explosion</name>
+	<title>Color explosion</title>
+	<data>explosion_small.png</data>
+	<date>11.08.2022</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
 </item>
 </content>
