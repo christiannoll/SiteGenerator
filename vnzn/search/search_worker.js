@@ -11,13 +11,34 @@ onmessage = function(e) {
 	else if (msg === "search"){
 		worker.search(data[1]);
 	}
+	else if (msg === "advancedSearch"){
+		worker.advancedSearch(data[1]);
+	}
 }
 
 function SearchWorker() {
 	this.searchIndex = getSearchIndex();
 }
 
-SearchWorker.prototype.search = function(searchStr){
+SearchWorker.prototype.search = function(searchStr) {
+	let foundIndices = this.findMatchingIndices(searchStr);
+	
+  	postMessage(foundIndices);
+}
+
+SearchWorker.prototype.advancedSearch = function(searchStr) {
+	const commaSeparatedTokens = searchStr.split(',');
+
+	var foundIndices = new Array();
+	for (const token of commaSeparatedTokens) {
+		foundIndices = foundIndices.concat(this.findMatchingIndices(token));
+	}
+
+	const uniqueFoundIndices = Array.from(new Set(foundIndices));
+	postMessage(uniqueFoundIndices);
+}
+
+SearchWorker.prototype.findMatchingIndices = function(searchStr) {
 	var foundIndices = new Array();
 	
 	if (searchStr.length > 2){
@@ -61,8 +82,8 @@ SearchWorker.prototype.search = function(searchStr){
   			}
   		}
 	}
-	
-  	postMessage(foundIndices);
+
+	return foundIndices;
 }
 
 SearchWorker.prototype.splitInTokens = function(str){

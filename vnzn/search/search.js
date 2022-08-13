@@ -13,6 +13,15 @@ function search(searchStr){
 	}
 }
 
+function advancedSearch(searchStr) {
+	if (searchStr.length > 2) {
+		worker.postMessage(["advancedSearch", searchStr]);
+	}
+	else {
+		showAll();
+	}
+}
+
 worker.onmessage = function(e){
 	let indices = e.data;	
 	applySearchResult(indices);
