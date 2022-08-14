@@ -53,6 +53,8 @@
 		D6ADD6542385DAF9005C0495 /* MarkdownNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6ADD6532385DAF9005C0495 /* MarkdownNode.swift */; };
 		D6B1D68723F1F1AA00BE317E /* SerialsPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6B1D68623F1F1AA00BE317E /* SerialsPage.swift */; };
 		D6C26E6D23C0AF1B0014634C /* IndexItemPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6C26E6C23C0AF1B0014634C /* IndexItemPage.swift */; };
+		D6C42DF528A8DA6A0066D47D /* ExperimentsPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6C42DF428A8DA6A0066D47D /* ExperimentsPage.swift */; };
+		D6C42DF728A8E2B30066D47D /* AdvancedSearchPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6C42DF628A8E2B30066D47D /* AdvancedSearchPage.swift */; };
 		D6CAB6FF2398488A00C4D2EF /* PageWriter.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6CAB6FE2398488A00C4D2EF /* PageWriter.swift */; };
 		D6CE5C6F27357B3F007DD925 /* StatisticPostItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6CE5C6E27357B3F007DD925 /* StatisticPostItem.swift */; };
 		D6D356D5238DBAC300A2F217 /* SmlPrinter.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6D356D4238DBAC300A2F217 /* SmlPrinter.swift */; };
@@ -142,6 +144,8 @@
 		D6ADD6532385DAF9005C0495 /* MarkdownNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarkdownNode.swift; sourceTree = "<group>"; };
 		D6B1D68623F1F1AA00BE317E /* SerialsPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SerialsPage.swift; sourceTree = "<group>"; };
 		D6C26E6C23C0AF1B0014634C /* IndexItemPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IndexItemPage.swift; sourceTree = "<group>"; };
+		D6C42DF428A8DA6A0066D47D /* ExperimentsPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExperimentsPage.swift; sourceTree = "<group>"; };
+		D6C42DF628A8E2B30066D47D /* AdvancedSearchPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdvancedSearchPage.swift; sourceTree = "<group>"; };
 		D6CAB6FE2398488A00C4D2EF /* PageWriter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageWriter.swift; sourceTree = "<group>"; };
 		D6CE5C6E27357B3F007DD925 /* StatisticPostItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatisticPostItem.swift; sourceTree = "<group>"; };
 		D6D356D4238DBAC300A2F217 /* SmlPrinter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmlPrinter.swift; sourceTree = "<group>"; };
@@ -210,6 +214,7 @@
 		D676120B237F43960042F55D /* SiteGenerator */ = {
 			isa = PBXGroup;
 			children = (
+				D6C42DF628A8E2B30066D47D /* AdvancedSearchPage.swift */,
 				D699D538239AADCC006FE271 /* Archive.swift */,
 				D63B510B23996704001E7E7B /* ArchiveMonth.swift */,
 				D699D530239A4A01006FE271 /* ArchiveMonthPage.swift */,
@@ -220,6 +225,7 @@
 				D6A0A65127D34A4500783635 /* BooksRegisterPage.swift */,
 				D6A8CB7E24D9ED7500252182 /* ContactPage.swift */,
 				D69221C5238196740007E774 /* ContentParser.swift */,
+				D6C42DF428A8DA6A0066D47D /* ExperimentsPage.swift */,
 				D667BB1324070C6C00B8789F /* FeedWriter.swift */,
 				D6F4BF9023EE02FA005D9402 /* FormatBuilder.swift */,
 				D690C72323DA315C00975E72 /* FtpScriptWriter.swift */,
@@ -445,6 +451,7 @@
 				D6D4902526BDA6AD0001D9AB /* PersonsRegisterPage.swift in Sources */,
 				D699D531239A4A01006FE271 /* ArchiveMonthPage.swift in Sources */,
 				D6F6FF7B238875BB0049F171 /* PostBuilder.swift in Sources */,
+				D6C42DF528A8DA6A0066D47D /* ExperimentsPage.swift in Sources */,
 				D6A0A65027D3496000783635 /* BooksRegister.swift in Sources */,
 				D6ADD6542385DAF9005C0495 /* MarkdownNode.swift in Sources */,
 				D63B71A32383261B00E989EE /* MarkdownTokenizer.swift in Sources */,
@@ -458,6 +465,7 @@
 				D6D736CE2404777500FE2FD4 /* RssFeed.swift in Sources */,
 				D6CE5C6F27357B3F007DD925 /* StatisticPostItem.swift in Sources */,
 				D63B510E2399673E001E7E7B /* ArchiveYear.swift in Sources */,
+				D6C42DF728A8E2B30066D47D /* AdvancedSearchPage.swift in Sources */,
 				D699D541239AEBAE006FE271 /* TagItem.swift in Sources */,
 				D63B5110239997FA001E7E7B /* ArchivePage.swift in Sources */,
 				D63CB6FF240AFF4A00D1BA79 /* RssParser.swift in Sources */,

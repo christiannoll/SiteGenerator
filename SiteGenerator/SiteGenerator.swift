@@ -116,6 +116,9 @@ struct SiteGenerator {
         let searchPage = SearchPage(searchItems)
         writer.writeSearchPage(searchPage.render())
         
+        let advancedSearchPage = AdvancedSearchPage(searchItems)
+        writer.writeAdvancedSearchPage(advancedSearchPage.render())
+        
         var searchIndexBuilder = SearchIndexBuilder()
         searchIndexBuilder.buildIndex(posts)
         searchIndexBuilder.writeJsFile()
@@ -132,6 +135,10 @@ struct SiteGenerator {
         let betaPage = BetaPage()
         betaPage.setTitle()
         writer.writeBetaPage(betaPage.render())
+        
+        let experimentsPage = ExperimentsPage()
+        experimentsPage.setTitle()
+        writer.writeExperimentsPage(experimentsPage.render())
     }
     
     private func writeTimelinePage(_ writer: PageWriter) {

@@ -4,6 +4,14 @@ class SearchPage : Page {
     
     private let searchItems: SearchItems
     
+    var searchCallString: String {
+        get { "search(this.value)"  }
+    }
+    
+    var searchTip: String {
+        get { SiteGeneratorEnv.forGerman() ? "Suche ..." : "Search ..." }
+    }
+    
     init(_ searchItems: SearchItems) {
         self.searchItems = searchItems
     }
@@ -11,8 +19,7 @@ class SearchPage : Page {
     override func renderContent() -> SmlNode {
         var mainChildren: [SmlNode] = [newLine]
         
-        let searchTip = SiteGeneratorEnv.forGerman() ? "Suche ..." : "Search ..."
-        mainChildren.append(input([type => "text", id => "search-bar", placeholder => searchTip, name => "search", onkeyup => "search(this.value)"]))
+        mainChildren.append(input([type => "text", id => "search-bar", placeholder => searchTip, name => "search", onkeyup => searchCallString]))
         mainChildren.append(newLine)
         
         mainChildren.append(searchItems.renderSearchItems())

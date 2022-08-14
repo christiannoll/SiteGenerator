@@ -2,6 +2,10 @@ import Foundation
 
 class BetaPage : Page {
     
+    var title: String {
+        get { metaTitle }
+    }
+    
     override func renderContent() -> SmlNode {
         var mainChildren: [SmlNode] = [newLine]
         mainChildren.append(renderItems())
@@ -14,13 +18,7 @@ class BetaPage : Page {
         setTitle(metaTitle)
     }
     
-    private func renderItems() -> SmlNode {
-        var divChildren: [SmlNode] = []
-        divChildren.append(newLine)
-        let h_4 = h4([.text(metaTitle)])
-        divChildren.append(h_4)
-        divChildren.append(newLine)
-        
+    func getListItems() -> [SmlNode] {
         var ulChildren: [SmlNode] = []
         
         ulChildren.append(renderItem(statisticsTitle, "statistic"))
@@ -47,14 +45,27 @@ class BetaPage : Page {
         ulChildren.append(renderItem(storiesTitle, "tags/" + TagItemPage.storyKey))
         ulChildren.append(newLine)
         
-        let u_l = ul(ulChildren)
+        ulChildren.append(renderItem(experimentsTitle + " 🔬", "experiments"))
+        ulChildren.append(newLine)
+        
+        return ulChildren
+    }
+    
+    private func renderItems() -> SmlNode {
+        var divChildren: [SmlNode] = []
+        divChildren.append(newLine)
+        let h_4 = h4([.text(title)])
+        divChildren.append(h_4)
+        divChildren.append(newLine)
+        
+        let u_l = ul(getListItems())
         divChildren.append(u_l)
         divChildren.append(newLine)
         let div = div_blogArchiveIndex(divChildren)
         return div
     }
     
-    private func renderItem(_ title: String, _ relPath: String) -> SmlNode {
+    func renderItem(_ title: String, _ relPath: String) -> SmlNode {
         var liChildren: [SmlNode] = []
         let link = a([href => (Page.baseUrl + relPath + "/")], [.text(title)])
         liChildren.append(link)

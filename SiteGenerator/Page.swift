@@ -64,6 +64,14 @@ class Page {
         get { SiteGeneratorEnv.forGerman() ? "Kurzgeschichten" : "Short Stories"}
     }
     
+    var experimentsTitle: String {
+        get { SiteGeneratorEnv.forGerman() ? "Experimente" : "Experiments"}
+    }
+    
+    var advancedSearchTitle: String {
+        get { SiteGeneratorEnv.forGerman() ? "Erweiterte Suche" : "Advanced Search"}
+    }
+    
     var metaDescriptionContent: String {
         get { SiteGeneratorEnv.forGerman() ? "Fragmente aus der Vergangenheit, Gegenwart und Zukunft." : "Fragments from the past, present and future." }
     }
