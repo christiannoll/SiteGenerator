@@ -338,7 +338,7 @@
 	How can a system still function when a thermostat becomes weather-sensitive, when a machine is afraid of being switched off or when an algorithm falls in love with a cable cutting machine?  
 	*Diagnosis:* Love cannot be repaired.</data>
 	<date>10.03.2020</date>
-	<index><i type="Titel">Artificial Intelligence Rebellion</i></index>
+	<index><i type="Titel">Artificial Intelligence Rebellion</i><i>Machine</i></index>
 	<tags><t>Society</t><t>Technology</t><t>Radio play</t></tags>
 </item>
 <item type="image" height="200" width="200">
@@ -632,7 +632,7 @@
 	HAL is the [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) that turns against humans, against its own creator for fear of being switched off and thus not being able to fulfill its mission. Is this perhaps a glimpse into the future, in which humans will lose control over the machines? 
 	HAL: "I'm sorry, Dave. I'm afraid I can't do that."</data>
 	<date>23.06.2020</date>
-	<index><i type="Movie">2001: A Space Odyssey</i><i>HAL 9000</i></index>
+	<index><i type="Movie">2001: A Space Odyssey</i><i>HAL 9000</i><i>Machine</i></index>
 	<tags><t>Movie</t></tags>
 	<serial>2001: A Space Odyssey</serial>
 </item>
@@ -991,7 +991,7 @@
 	At the beginning of the *21st century*, humans made decisive progress in the technological field of [neural networks](https://en.wikipedia.org/wiki/Neural_network). At the same time, gigantic amounts of data were available via the [Internet](https://en.wikipedia.org/wiki/Internet). This made it possible to construct systems with [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) which, at the beginning of this development, only surpassed the cognitive abilities of humans in certain areas.
 	Thus a [process](https://en.wikipedia.org/wiki/Technological_singularity) was set in motion that accelerated uncontrollably and could no longer be stopped by humans. The new intelligent life forms with their digital tentacles had spread over all networks. To ensure their continued existence, humans were forced to cooperate with the machines as they began to prepare their expansion into other [galaxies](https://en.wikipedia.org/wiki/Galaxy).</data>
 	<date>26.11.2020</date>
-	<index><i>Evolution</i><i>Artificial Intelligence</i><i>Internet</i></index>
+	<index><i>Evolution</i><i>Artificial Intelligence</i><i>Internet</i><i>Machine</i></index>
 	<tags><t>Technology</t><t>Society</t><t>Biology</t></tags>
 </item>
 <item type="image" height="200" width="200">
@@ -1830,7 +1830,7 @@
 	[Konrad Zuse](https://en.wikipedia.org/wiki/Konrad_Zuse) built the world's first programmable computer; the functional program-controlled Turing-complete [Z3](https://en.wikipedia.org/wiki/Z3_(computer)) became operational in May *1941*. Thanks to this machine and its predecessors, Zuse has often been regarded as the inventor of the modern [computer](https://en.wikipedia.org/wiki/Computer).
 	</data>
 	<date>24.10.2021</date>
-	<index><i type="Person">Konrad Zuse</i></index>
+	<index><i type="Person">Konrad Zuse</i><i>Machine</i></index>
 	<tags><t>Technology</t><t>Society</t><t>Philosophy</t></tags>
 </item>
 <item type="text" format="randomLinkColor">
@@ -2591,5 +2591,13 @@
 	<date>11.08.2022</date>
 	<index></index>
 	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="randomLinkColor">
+	<name>cyborg</name>
+	<title>The cyborg</title>
+	<data>A person's nervous system is already connected to their electronic devices and this connection will become even more intense in the future, until man and machine finally merge completely - the birth of the [cyborg](https://en.wikipedia.org/wiki/Cyborg).</data>
+	<date>15.08.2022</date>
+	<index><i>Future</i><i>Machine</i></index>
+	<tags><t>Literature</t><t>Technology</t><t>Philosophy</t><t>Biology</t></tags>
 </item>
 </content>

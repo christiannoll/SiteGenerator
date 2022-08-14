@@ -338,7 +338,7 @@
 	Wie kann ein System noch funktionieren wenn ein Thermostat wetterfühlig wird, wenn eine Maschine Angst davor hat abgeschaltet zu werden oder wenn ein Algorithmus sich in eine Kabelschneidemaschine verliebt? 
 	*Diagnose:* _Liebe kann man nicht reparieren._</data>
 	<date>10.03.2020</date>
-	<index><i type="Titel">Artificial Intelligence Rebellion</i></index>
+	<index><i type="Titel">Artificial Intelligence Rebellion</i><i>Maschine</i></index>
 	<tags><t>Gesellschaft</t><t>Technologie</t><t>Hörspiel</t></tags>
 </item>
 <item type="image" height="200" width="200">
@@ -634,7 +634,7 @@
 	HAL ist die [künstliche Intelligenz](https://de.wikipedia.org/wiki/K%C3%BCnstliche_Intelligenz) die sich gegen den Menschen wendet, gegen den eigenen Schöpfer aus Angst abgeschaltet zu werden und damit seine Mission nicht mehr erfüllen zu können. Ist das vielleicht ein Blick in die Zukunft, in der die Menschen die Kontrolle über die Maschinen verlieren?  
 	HAL: "I'm sorry, Dave. I'm afraid I can't do that."</data>
 	<date>23.06.2020</date>
-	<index><i type="Movie">2001: Odyssee im Weltraum</i><i>HAL 9000</i></index>
+	<index><i type="Movie">2001: Odyssee im Weltraum</i><i>HAL 9000</i><i>Maschine</i></index>
 	<tags><t>Film</t></tags>
 	<serial>2001: Odyssee im Weltraum</serial>
 </item>
@@ -994,7 +994,7 @@
 	Anfang des *21. Jahrhunderts* machten die Menschen entscheidende Fortschritte auf dem technologischen Gebiet der [neuronalen Netze](https://de.wikipedia.org/wiki/K%C3%BCnstliches_neuronales_Netz). Gleichzeitig standen über das [Internet](https://de.wikipedia.org/wiki/Internet) gigantische Datenmengen zur Verfügung. Damit war es möglich Systeme mit [künstlicher Intelligenz](https://de.wikipedia.org/wiki/K%C3%BCnstliche_Intelligenz) zu konstruieren, die zu Beginn dieser Entwicklung den Menschen nur in einzelnen Gebieten in ihren kognitiven Fähigkeiten übertrafen.
 	So wurde ein [Prozess](https://de.wikipedia.org/wiki/Technologische_Singularit%C3%A4t) in Gang gesetzt, der sich unkontrollierbar beschleunigte und der vom Menschen nicht mehr gestoppt werden konnte. Die neuen intelligenten Lebensformen hatten sich mit ihren digitalen Tentakeln über alle Netze verbreitet. Um ihr Fortbestehen zu sichern, waren die Menschen gezwungen mit den Maschinen zu kooperieren, während diese begannen ihre Expansion in andere [Galaxien](https://de.wikipedia.org/wiki/Galaxie) vorzubereiten.</data>
 	<date>26.11.2020</date>
-	<index><i>Evolution</i><i>Artificial Intelligence</i><i>Internet</i></index>
+	<index><i>Evolution</i><i>Artificial Intelligence</i><i>Internet</i><i>Maschine</i></index>
 	<tags><t>Technologie</t><t>Gesellschaft</t><t>Biologie</t></tags>
 </item>
 <item type="image" height="200" width="200">
@@ -1831,7 +1831,7 @@
 	Mit seiner Entwicklung der [Z3](https://de.wikipedia.org/wiki/Zuse_Z3) im Jahre *1941* baute Konrad Zuse den ersten funktionstüchtigen, vollautomatischen, programmgesteuerten und frei programmierbaren, in [binärer Gleitkommarechnung](https://de.wikipedia.org/wiki/Gleitkommazahl) arbeitenden Rechner und somit den ersten funktionsfähigen [Computer](https://de.wikipedia.org/wiki/Computer) der Welt.
 	</data>
 	<date>24.10.2021</date>
-	<index><i type="Person">Konrad Zuse</i></index>
+	<index><i type="Person">Konrad Zuse</i><i>Maschine</i></index>
 	<tags><t>Technologie</t><t>Gesellschaft</t><t>Philosophie</t></tags>
 </item>
 <item type="text" format="randomLinkColor">
@@ -2589,5 +2589,13 @@
 	<date>11.08.2022</date>
 	<index></index>
 	<tags><t>Foto</t></tags>
+</item>
+<item type="text" format="randomLinkColor">
+	<name>cyborg</name>
+	<title>Der Prothesenmensch</title>
+	<data>Das Nervensystem eines Menschen ist schon heute mit seinen elektronischen Geräten verbunden und diese Verbindung wird in Zukunft noch intensiver werden, bis Mensch und Maschine am Ende vollständig verschmelzen - die Geburt des [Cyborgs](https://de.wikipedia.org/wiki/Cyborg).</data>
+	<date>15.08.2022</date>
+	<index><i>Zukunft</i><i>Maschine</i></index>
+	<tags><t>Literatur</t><t>Technologie</t><t>Philosophie</t><t>Biologie</t></tags>
 </item>
 </content>
