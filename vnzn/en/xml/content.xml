@@ -2627,4 +2627,13 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>film_dead_man</name>
+	<title>Dead Man</title>
+	<data>It's *1876*, a shy young man named William Blake is traveling by train from Cleveland to the American West to take up a job as an accountant. This is how the *1995* black-and-white Western [Dead Man](https://en.wikipedia.org/wiki/Dead_Man) filmed by [Jim Jarmusch](https://en.wikipedia.org/wiki/Jim_Jarmusch) begins.
+	The young man, played by [Johnny Depp](https://en.wikipedia.org/wiki/Johnny_Depp), has no idea that he has embarked on a spiritual journey that will end his life.</data>
+	<date>27.08.2022</date>
+	<index><i type="Movie">Dead Man</i><i>Jim Jarmusch</i></index>
+	<tags><t>Movie</t></tags>
+</item>
 </content>

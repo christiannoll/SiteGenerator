@@ -2625,4 +2625,13 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>film_dead_man</name>
+	<title>Dead Man</title>
+	<data>Es ist das Jahr *1876*, ein schüchterner junger Mann, namens William Blake, ist mit dem Zug auf dem Weg von Cleveland in den amerikanischen Westen, um dort eine Stelle als Buchhalter anzutreten. So beginnt der *1995* von [Jim Jarmusch](https://de.wikipedia.org/wiki/Jim_Jarmusch) als Schwarzweißfilm gedrehte Western [Dead Man](https://de.wikipedia.org/wiki/Dead_Man). 
+	Der junge Mann, gespielt von [Johnny Depp](https://de.wikipedia.org/wiki/Johnny_Depp), ahnt noch nicht, dass er sich auf eine spirituelle Reise begeben hat, an dessen Ende sein bisheriges Leben endet.</data>
+	<date>27.08.2022</date>
+	<index><i type="Movie">Dead Man</i><i>Jim Jarmusch</i></index>
+	<tags><t>Film</t></tags>
+</item>
 </content>
