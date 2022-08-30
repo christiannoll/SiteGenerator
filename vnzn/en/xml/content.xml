@@ -777,7 +777,7 @@
 </item>
 <item type="image" height="200" width="200">
 	<name>shells</name>
-	<title>two_shells</title>
+	<title>Two shells</title>
 	<data>shells_small.png</data>
 	<date>26.08.2020</date>
 	<index></index>
@@ -2635,5 +2635,15 @@
 	<date>27.08.2022</date>
 	<index><i type="Movie">Dead Man</i><i>Jim Jarmusch</i></index>
 	<tags><t>Movie</t></tags>
+</item>
+<item type="text" format="randomLinkColor">
+	<name>dada</name>
+	<title>dada come the DADAists</title>
+	<data>Kick the cosmos! [VIVE DADA](https://en.wikipedia.org/wiki/Dada)!!!
+	Is [DADA](https://en.wikipedia.org/wiki/Cabaret_Voltaire_(Zurich)) there \ or here \ or \ nowhere?
+	[dilettantes](https://en.wikipedia.org/wiki/Amateur) rise up!</data>
+	<date>31.08.2022</date>
+	<index><i>Dada</i></index>
+	<tags><t>Art</t></tags>
 </item>
 </content>

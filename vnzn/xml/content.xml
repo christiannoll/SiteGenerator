@@ -779,7 +779,7 @@
 </item>
 <item type="image" height="200" width="200">
 	<name>shells</name>
-	<title>two_shells</title>
+	<title>Zwei Muscheln</title>
 	<data>shells_small.png</data>
 	<date>26.08.2020</date>
 	<index></index>
@@ -2633,5 +2633,15 @@
 	<date>27.08.2022</date>
 	<index><i type="Movie">Dead Man</i><i>Jim Jarmusch</i></index>
 	<tags><t>Film</t></tags>
+</item>
+<item type="text" format="randomLinkColor">
+	<name>dada</name>
+	<title>dada kommen die DADAisten</title>
+	<data>Dem Kosmos einen Tritt! [VIVE DADA](https://de.wikipedia.org/wiki/Dadaismus)!!!
+	Ist [DADA](https://de.wikipedia.org/wiki/Cabaret_Voltaire) da \ oder hier \ oder \ nirgendwo?
+	[dilettanten](https://de.wikipedia.org/wiki/Dilettant) erhebt Euch!</data>
+	<date>31.08.2022</date>
+	<index><i>Dada</i></index>
+	<tags><t>Kunst</t></tags>
 </item>
 </content>
