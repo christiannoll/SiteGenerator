@@ -38,11 +38,11 @@ extension MarkdownToken: CustomStringConvertible {
 
 
 extension CharacterSet {
-    static let delimiters = CharacterSet(charactersIn: "[]()*_`")
+    static let delimiters = CharacterSet(charactersIn: "[](){}*_`")
     static let ulistDelimiters = CharacterSet(charactersIn: "*-+")
     static let olistDelimiters = CharacterSet(charactersIn: "123456789")
-    static let leftBraces = CharacterSet(charactersIn: "[(")
-    static let rightBraces = CharacterSet(charactersIn: "])")
+    static let leftBraces = CharacterSet(charactersIn: "[({")
+    static let rightBraces = CharacterSet(charactersIn: "])}")
     static let whitespaceAndPunctuation = CharacterSet.whitespacesAndNewlines
         .union(CharacterSet.punctuationCharacters)
     
@@ -52,6 +52,8 @@ extension CharacterSet {
             return "("
         case "]":
             return "["
+        case "}":
+            return "{"
         default:
             return " "
         }

@@ -234,4 +234,18 @@ class UnitTest: XCTestCase {
         
         XCTAssertEqual(text, s)
     }
+    
+    func testCenterTextAlign() {
+        let s = "{ text is centered }"
+        let text = smlBuilder.render(s)
+        
+        XCTAssertEqual(text, "<div style=\"text-align:center\"> text is centered </div>")
+    }
+    
+    func testParagraphSymbols() {
+        let s = "{`***`}"
+        let text = smlBuilder.render(s)
+        
+        XCTAssertEqual(text, "<div style=\"text-align:center\"><code>***</code></div>")
+    }
 }

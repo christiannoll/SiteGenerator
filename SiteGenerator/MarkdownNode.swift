@@ -12,6 +12,7 @@ public enum MarkdownNode {
     case color(String, [MarkdownNode])
     case parenthesis([MarkdownNode])
     case brackets([MarkdownNode])
+    case curlybraces([MarkdownNode])
     case link([MarkdownNode])
     case ulist([MarkdownNode])
     case olist([MarkdownNode])
@@ -32,6 +33,8 @@ extension MarkdownNode {
             self = .parenthesis(children)
         case "]":
             self = .brackets(children)
+        case "}":
+            self = .curlybraces(children)
         case " ":
             self = .link(children)
         default:

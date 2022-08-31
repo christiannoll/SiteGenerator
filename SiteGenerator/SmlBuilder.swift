@@ -56,6 +56,10 @@ public class SmlBuilder {
                 s.append("[")
                 s.append(parse(nodes))
                 s.append("]")
+            case .curlybraces(let nodes):
+                s.append("<div style=\"text-align:center\">")
+                s.append(parse(nodes))
+                s.append("</div>")
             case .olistelement(let nodes):
                 s.append("<li>")
                 s.append(parse(nodes))
