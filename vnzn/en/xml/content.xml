@@ -2647,4 +2647,12 @@
 	<index><i>Dada</i></index>
 	<tags><t>Art</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>poster6</name>
+	<title>Face with stripes</title>
+	<data>poster6_small.png</data>
+	<date>04.09.2022</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
 </content>

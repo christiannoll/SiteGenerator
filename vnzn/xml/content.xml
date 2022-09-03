@@ -2645,4 +2645,12 @@
 	<index><i>Dada</i></index>
 	<tags><t>Kunst</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>poster6</name>
+	<title>Gesicht mit Streifen</title>
+	<data>poster6_small.png</data>
+	<date>04.09.2022</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
