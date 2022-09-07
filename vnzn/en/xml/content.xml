@@ -2655,4 +2655,20 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>fragments_and_comments</name>
+	<title>Fragments und comments -</title>
+	<data>from the [past, present and future](#):
+	- Time as the [ultimate blockchain](#2022/05/03/universal_blockchain/)
+	- [Money and Technology](#2021/03/22/money_and_technology/)
+	- [Gödel's Loophole](#2022/06/04/godels_loophole/)
+	- What does [man think](#2020/07/29/thinking_as_simulation_of_mental_models/) when he thinks himself?
+	- Language as the operating system of the [brain](#index/Brain/)
+	- Drone [warfare](#2021/04/15/deconstructing_vietnam_war/) - when the sky loses its innocence
+	- Humans as a preliminary stage to [general artificial intelligence](#2020/11/26/human_evolution_ai/)
+	</data>
+	<date>08.09.2022</date>
+	<index><i>Future</i></index>
+	<tags><t>General</t></tags>
+</item>
 </content>
