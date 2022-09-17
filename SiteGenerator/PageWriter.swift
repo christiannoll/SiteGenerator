@@ -100,6 +100,10 @@ class PageWriter {
         writeHtmlFile(content, "experiments/", "index.html")
     }
     
+    public func writeShuffledHomePage(_ content: String) {
+        writeHtmlFile(content, "shuffled/", "index.html")
+    }
+    
     private func writeHtmlFile(_ content: String, _ relPath: String, _ fileName: String) {
         do {
             let htmlContent = "<!DOCTYPE html>\n" + content 

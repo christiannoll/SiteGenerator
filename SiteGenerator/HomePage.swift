@@ -2,11 +2,19 @@ import Foundation
 
 class HomePage : Page {
     
+    enum SortOrder {
+        case latestFirst
+        case shuffled
+    }
+    
     private var posts: [Item]
     public static let max_number_of_posts = 32
     
-    init(_ posts: [Item]) {
+    init(_ posts: [Item], sortOrder: SortOrder = .latestFirst) {
         self.posts = posts
+        if sortOrder == .shuffled {
+            self.posts.shuffle()
+        }
     }
     
     override func renderContent() -> SmlNode {

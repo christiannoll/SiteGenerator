@@ -36,6 +36,10 @@ struct SiteGenerator {
         homePage.setTitle("weblog")
         writer.writeHomePage(homePage.render())
         
+        let shuffledHomePage = HomePage(posts, sortOrder: .shuffled)
+        shuffledHomePage.setTitle("weblog")
+        writer.writeShuffledHomePage(shuffledHomePage.render())
+        
         for post in posts {
             let page = PostPage(post)
             page.setTitle(post.title)

@@ -13,7 +13,10 @@ class ExperimentsPage: BetaPage {
     override func getListItems() -> [SmlNode] {
         var ulChildren: [SmlNode] = []
         
-        ulChildren.append(renderItem(advancedSearchTitle, "search"))
+        ulChildren.append(renderItem(advancedSearchTitle, "search/advancedSearch.html"))
+        ulChildren.append(newLine)
+        
+        ulChildren.append(renderItem(shuffledHomepageTitle, "shuffled/"))
         ulChildren.append(newLine)
         
         return ulChildren
@@ -21,7 +24,7 @@ class ExperimentsPage: BetaPage {
     
     override func renderItem(_ title: String, _ relPath: String) -> SmlNode {
         var liChildren: [SmlNode] = []
-        let link = a([href => (Page.baseUrl + relPath + "/advancedSearch.html")], [.text(title)])
+        let link = a([href => (Page.baseUrl + relPath)], [.text(title)])
         liChildren.append(link)
         let l = li(liChildren)
         return l

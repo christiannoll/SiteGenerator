@@ -72,6 +72,10 @@ class Page {
         get { SiteGeneratorEnv.forGerman() ? "Erweiterte Suche" : "Advanced Search"}
     }
     
+    var shuffledHomepageTitle: String {
+        get { SiteGeneratorEnv.forGerman() ? "Auf gut Glück!" : "I'm Feeling Lucky" }
+    }
+    
     var metaDescriptionContent: String {
         get { SiteGeneratorEnv.forGerman() ? "Fragmente aus der Vergangenheit, Gegenwart und Zukunft." : "Fragments from the past, present and future." }
     }
