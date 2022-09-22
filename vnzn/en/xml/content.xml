@@ -2702,4 +2702,20 @@
 	<tags><t>General</t></tags>
 	<serial>Complexity</serial>
 </item>
+<item type="text" format="normal">
+	<name>2001_posts</name>
+	<title>2001: A Space Odyssey</title>
+	<data>* [Time is an illusion](#2020/01/27/2001_zeit_visualisierung/)
+	* [The dawn of Man](2020/02/02/2001_dawn_of_man/)
+	* [The Monolith -I-](#2020/03/25/2001_zeit_monolith/)
+	* [HAL 9000](#2020/06/23/hal_9000/)
+	* [Rhythm](#2020/10/05/2001_rhythmus/)
+	* [Key texts](#2020/12/28/2001_key_texts/)
+	* [Musik](#2021/12/15/2001_music/)
+	* [HAL's last Words](#2022/09/12/2001_hal_last_words/)
+	</data>
+	<date>24.09.2022</date>
+	<index><i type="Movie">2001: A Space Odyssey</i><i type="Person">Stanley Kubrick</i></index>
+	<tags><t>Movie</t></tags>
+</item>
 </content>
