@@ -1,6 +1,11 @@
 import Foundation
 
-public class Item  {
+public enum ItemType {
+    case text
+    case image
+}
+
+public class Item {
     let id: Int
     var data = ""
     var name = ""
@@ -27,6 +32,14 @@ public class Item  {
     func renderPostInSingleMode() -> SmlNode { return renderPost() }
     
     func renderRss() -> SmlNode { return .text("") }
+    
+    func itemType() -> ItemType { return .text }
+}
+
+extension Item: Equatable {
+    public static func == (lhs: Item, rhs: Item) -> Bool {
+        lhs.id == rhs.id
+    }
 }
 
 class TextPost: Item {
@@ -69,5 +82,9 @@ class ImagePost : Item {
         width = origWidth
         height = origHeight
         return post
+    }
+    
+    override func itemType() -> ItemType {
+        .image
     }
 }

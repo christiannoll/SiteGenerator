@@ -36,7 +36,7 @@ struct SiteGenerator {
         homePage.setTitle("weblog")
         writer.writeHomePage(homePage.render())
         
-        let shuffledHomePage = HomePage(posts, sortOrder: .shuffled)
+        let shuffledHomePage = HomePage(shuffledPosts())
         shuffledHomePage.setTitle("weblog")
         writer.writeShuffledHomePage(shuffledHomePage.render())
         
@@ -183,5 +183,39 @@ struct SiteGenerator {
         let wordCloudPage = WordCloudPage(index)
         wordCloudPage.setTitle()
         writer.writeWordCloudPage(wordCloudPage.render())
+    }
+    
+    private func shuffledPosts() -> [Item] {
+        var shuffledPosts: [Item] = []
+        
+        var textPosts: [Item] = []
+        var imagePosts: [Item] = []
+        
+        for post in posts {
+            if post.itemType() == .text {
+                textPosts.append(post)
+            }
+            else {
+                imagePosts.append(post)
+            }
+        }
+        
+        textPosts.shuffle()
+        imagePosts.shuffle()
+        
+        var index = 0
+        var imageIndex = 0
+        while index + 1 < textPosts.count {
+            shuffledPosts.append(textPosts[index])
+            index += 1
+            shuffledPosts.append(textPosts[index])
+            index += 1
+            if imageIndex < imagePosts.count {
+                shuffledPosts.append(imagePosts[imageIndex])
+                imageIndex += 1
+            }
+        }
+        
+        return shuffledPosts
     }
 }
