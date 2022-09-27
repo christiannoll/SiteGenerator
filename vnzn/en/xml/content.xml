@@ -2718,4 +2718,12 @@
 	<index><i type="Movie">2001: A Space Odyssey</i><i type="Person">Stanley Kubrick</i></index>
 	<tags><t>Movie</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>eyes</name>
+	<title>Eyes</title>
+	<data>eyes_small.png</data>
+	<date>28.09.2022</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
