@@ -167,7 +167,7 @@ class PageVerifier {
     private func loadRssFile() -> Bool {
         let parser = RssParser()
         let items = parser.parse()
-        let ok = items.count == HomePage.max_number_of_posts
+        let ok = items.count == posts.count
         if ok {
             print("OK- parsing RSS file")
         }
