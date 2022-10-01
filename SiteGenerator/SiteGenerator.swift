@@ -143,6 +143,10 @@ struct SiteGenerator {
         let experimentsPage = ExperimentsPage()
         experimentsPage.setTitle()
         writer.writeExperimentsPage(experimentsPage.render())
+        
+        let sitemap = Sitemap(posts: posts)
+        let sitemapWriter = SitemapWriter()
+        sitemapWriter.writeSitemap(sitemap.render())
     }
     
     private func writeTimelinePage(_ writer: PageWriter) {
