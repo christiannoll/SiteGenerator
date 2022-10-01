@@ -1969,7 +1969,7 @@
 	`c='c=%r;print(c%%c)';print(c%c)
 	let x = ["let x =", ";print(x[0], x, x[1])"] ;print(x[0], x, x[1])`</data>
 	<date>11.12.2021</date>
-	<index><i>Programmierung</i><i type="Person">Douglas R. Hofstadter</i><i type="Person">Johann Sebastian Bach</i></index>
+	<index><i>Programmierung</i><i type="Person">Douglas R. Hofstadter</i><i type="Person">Johann Sebastian Bach</i><i type="Book" author="Douglas R. Hofstadter">Gödel, Escher, Bach</i></index>
 	<tags><t>Informatik</t></tags>
 </item>
 <item type="text" format="normal">
@@ -2071,7 +2071,7 @@
 	4. [Ex Machina](https://de.wikipedia.org/wiki/Ex_Machina_(Film))
 	🚀 Spezial: [WALL·E](https://de.wikipedia.org/wiki/WALL%C2%B7E_%E2%80%93_Der_Letzte_r%C3%A4umt_die_Erde_auf)</data>
 	<date>20.01.2022</date>
-	<index><i type="Movie">2001: Odyssee im Weltraum</i><i type="Movie">Blade Runner</i><i type="Movie">Alien</i><i type="Movie">Ex Machina</i><i type="Movie">WALL·E</i></index>
+	<index><i type="Movie">2001: Odyssee im Weltraum</i><i type="Movie">Blade Runner</i><i type="Movie">Alien</i><i type="Movie">Ex Machina</i><i type="Movie">WALL-E</i></index>
 	<tags><t>Film</t></tags>
 	<serial>Top Four</serial>
 </item>
@@ -2720,5 +2720,13 @@
 	<date>28.09.2022</date>
 	<index></index>
 	<tags><t>Foto</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>infinite_loop</name>
+	<title>Neuronales Möbiusband</title>
+	<data>Ist es möglich, dass das Gehirn in eine Endlosschleife gerät, wenn man zu intensiv über das Denken von Gedanken nachdenkt? Wie würde es sich anfühlen? Würden sich die Neuronen zu einem überdimensionalen [Möbiusband](https://de.wikipedia.org/wiki/M%C3%B6biusband) zusammenschalten?</data>
+	<date>02.10.2022</date>
+	<index><i>Gehirn</i><i type="Person">Douglas R. Hofstadter</i><i type="Book" author="Douglas R. Hofstadter">Gödel, Escher, Bach</i></index>
+	<tags><t>Biologie</t></tags>
 </item>
 </content>

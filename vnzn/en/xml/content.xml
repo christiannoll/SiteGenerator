@@ -1968,7 +1968,7 @@
 	`c='c=%r;print(c%%c)';print(c%c)
 	let x = ["let x =", ";print(x[0], x, x[1])"] ;print(x[0], x, x[1])`</data>
 	<date>11.12.2021</date>
-	<index><i>Programming</i><i type="Person">Douglas R. Hofstadter</i><i type="Person">Johann Sebastian Bach</i></index>
+	<index><i>Programming</i><i type="Person">Douglas R. Hofstadter</i><i type="Person">Johann Sebastian Bach</i><i type="Book" author="Douglas R. Hofstadter">Gödel, Escher, Bach</i></index>
 	<tags><t>Computer science</t></tags>
 </item>
 <item type="text" format="normal">
@@ -2073,7 +2073,7 @@
 	4. [Ex Machina](https://en.wikipedia.org/wiki/Ex_Machina_(film))
 	🚀 Special: [WALL·E](https://en.wikipedia.org/wiki/WALL-E)</data>
 	<date>20.01.2022</date>
-	<index><i type="Movie">2001: A Space Odyssey</i><i type="Movie">Blade Runner</i><i type="Movie">Alien</i><i type="Movie">Ex Machina</i><i type="Movie">WALL·E</i></index>
+	<index><i type="Movie">2001: A Space Odyssey</i><i type="Movie">Blade Runner</i><i type="Movie">Alien</i><i type="Movie">Ex Machina</i><i type="Movie">WALL-E</i></index>
 	<tags><t>Movie</t></tags>
 	<serial>Top Four</serial>
 </item>
@@ -2711,7 +2711,7 @@
 	* [HAL 9000](#2020/06/23/hal_9000/)
 	* [Rhythm](#2020/10/05/2001_rhythmus/)
 	* [Key texts](#2020/12/28/2001_key_texts/)
-	* [Musik](#2021/12/15/2001_music/)
+	* [Music](#2021/12/15/2001_music/)
 	* [HAL's last Words](#2022/09/12/2001_hal_last_words/)
 	</data>
 	<date>24.09.2022</date>
@@ -2725,5 +2725,13 @@
 	<date>28.09.2022</date>
 	<index></index>
 	<tags><t>Foto</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>infinite_loop</name>
+	<title>Neural Möbius strip</title>
+	<data>Is it possible for the brain to go into an infinite loop if you think too hard about thinking thoughts? What would it feel like? Would the neurons connect to form an oversized [Möbius strip](https://en.wikipedia.org/wiki/M%C3%B6bius_strip)?</data>
+	<date>02.10.2022</date>
+	<index><i>Brain</i><i type="Person">Douglas R. Hofstadter</i><i type="Book" author="Douglas R. Hofstadter">Gödel, Escher, Bach</i></index>
+	<tags><t>Biology</t></tags>
 </item>
 </content>
