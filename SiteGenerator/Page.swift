@@ -148,6 +148,11 @@ class Page {
         headChildren.append(newLine)
         headChildren.append(tab)
         
+        let appleTouchIcon = link([rel => "apple-touch-icon", href => (Page.baseRootUrl + "images/apple-touch-icon.png")])
+        headChildren.append(appleTouchIcon)
+        headChildren.append(newLine)
+        headChildren.append(tab)
+        
         let rss = link([rel => "alternate", type => "application/rss+xml", title_attr => "RSS", href => (Page.baseUrl + "xml/rss.xml")])
         headChildren.append(rss)
         headChildren.append(newLine)
