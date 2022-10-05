@@ -2729,4 +2729,13 @@
 	<index><i>Gehirn</i><i type="Person">Douglas R. Hofstadter</i><i type="Book" author="Douglas R. Hofstadter">Gödel, Escher, Bach</i></index>
 	<tags><t>Biologie</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>cage_and_bach</name>
+	<title>John Cage und J. S. Bach</title>
+	<data>[John Cage](https://de.wikipedia.org/wiki/John_Cage): "Der Zweck der Musik ist es, das Bewußtsein zu ernüchtern und zu beruhigen, um es dadurch für göttliche Einflüsse empfänglich zu machen."
+	Auf die beiden Klavierwerke [Das Wohltemperierte Klavier](https://de.wikipedia.org/wiki/Das_Wohltemperierte_Klavier) und die [Goldberg-Variationen](https://de.wikipedia.org/wiki/Goldberg-Variationen) von [Johann Sebastian Bach](https://de.wikipedia.org/wiki/Johann_Sebastian_Bach) trifft das auf jeden Fall zu.</data>
+	<date>06.10.2022</date>
+	<index><i type="Person">John Cage</i><i type="Person">Johann Sebastian Bach</i><i type="Musik">Goldberg-Variationen</i></index>
+	<tags><t>Musik</t></tags>
+</item>
 </content>

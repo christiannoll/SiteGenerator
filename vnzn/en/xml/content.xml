@@ -2734,4 +2734,13 @@
 	<index><i>Brain</i><i type="Person">Douglas R. Hofstadter</i><i type="Book" author="Douglas R. Hofstadter">Gödel, Escher, Bach</i></index>
 	<tags><t>Biology</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>cage_and_bach</name>
+	<title>John Cage and J. S. Bach</title>
+	<data>[John Cage](https://en.wikipedia.org/wiki/John_Cage): "The purpose of music is to sober and quiet the mind, thus making it susceptible to divine influences."
+	This definitely applies to the two piano works [The Well-Tempered Clavier](https://en.wikipedia.org/wiki/The_Well-Tempered_Clavier) and the [Goldberg Variations](https://en.wikipedia.org/wiki/Goldberg_Variations) by [Johann Sebastian Bach](https://en.wikipedia.org/wiki/Johann_Sebastian_Bach).</data>
+	<date>06.10.2022</date>
+	<index><i type="Person">John Cage</i><i type="Person">Johann Sebastian Bach</i><i type="Musik">Goldberg-Variationen</i></index>
+	<tags><t>Music</t></tags>
+</item>
 </content>
