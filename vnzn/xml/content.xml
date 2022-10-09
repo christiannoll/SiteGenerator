@@ -2738,4 +2738,12 @@
 	<index><i type="Person">John Cage</i><i type="Person">Johann Sebastian Bach</i><i type="Musik">Goldberg-Variationen</i></index>
 	<tags><t>Musik</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>emptiness</name>
+	<title>Leere</title>
+	<data>emptiness_small.png</data>
+	<date>10.10.2022</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
