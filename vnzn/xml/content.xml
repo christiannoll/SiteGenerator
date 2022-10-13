@@ -2746,4 +2746,14 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>associations</name>
+	<title>Assoziationen</title>
+	<data>Die serielle Wortproduktion als [Assoziationskette](https://de.wikipedia.org/wiki/Assoziationskette) zur Bedeutungsschöpfung mit Satzvariationen, deren verschachtelte Muster den Rhythmus der Sprache und Gedanken formen. 
+	{Oder anders gefragt:}
+	Ist die Dummheit die Abwesenheit von [Intelligenz](https://de.wikipedia.org/wiki/Intelligenz), so wie die Dunkelheit die Abwesenheit von Licht ist?</data>
+	<date>14.10.2022</date>
+	<index><i>Intelligenz</i></index>
+	<tags><t>Allgemein</t></tags>
+</item>
 </content>

@@ -2751,4 +2751,14 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>associations</name>
+	<title>Associations</title>
+	<data>The serial production of words as a chain of associations for the creation of meaning with sentence variations whose nested patterns shape the rhythm of language and thought.
+	{Or to put it another way:}
+	Is stupidity the absence of [intelligence](https://en.wikipedia.org/wiki/Intelligence) like darkness is the absence of light?</data>
+	<date>14.10.2022</date>
+	<index><i>Intelligence</i></index>
+	<tags><t>General</t></tags>
+</item>
 </content>
