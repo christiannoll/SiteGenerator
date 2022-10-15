@@ -144,7 +144,7 @@ struct SiteGenerator {
         experimentsPage.setTitle()
         writer.writeExperimentsPage(experimentsPage.render())
         
-        let sitemap = Sitemap(posts: posts)
+        let sitemap = Sitemap(posts: posts, relativePagePaths: writer.relativePagePaths)
         let sitemapWriter = SitemapWriter()
         sitemapWriter.writeSitemap(sitemap.render())
     }
