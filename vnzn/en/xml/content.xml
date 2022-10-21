@@ -2773,4 +2773,12 @@
 	<index><i type="Person">Douglas Coupland</i><i type="Book" author="Douglas Coupland">Generation X</i></index>
 	<tags><t>Literature</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>dirty_berlin</name>
+	<title>Dirty Berlin</title>
+	<data>dirty_berlin_small.png</data>
+	<date>22.10.2022</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
 </content>
