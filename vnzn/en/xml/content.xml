@@ -2781,4 +2781,17 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>rust_linux_kernel</name>
+	<title>Rust comes to the Linux Kernel</title>
+	<data>After 30 years of dominance by the [C programming language](https://en.wikipedia.org/wiki/C_(programming_language)), [Rust](https://en.wikipedia.org/wiki/Rust_(programming_language)) has made it into the [Linux kernel](https://en.wikipedia.org/wiki/Linux_kernel) as the second programming language. On 10/16 in *2022*, [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) has published Linux 6.1-rc1. In the release notes he wrote among other things:
+	" ... we've got a few core things that have been brewing for a long time, most notably the multi-gen LRU VM series, and the initial Rust scaffolding (no actual real Rust code in the kernel yet, but the infrastructure is there)."
+	What at first glance doesn't seem like a big deal could prove crucial for the future of the Linux kernel and the Rust programming language.
+	Two-thirds of Linux kernel vulnerabilities stem from memory security issues. Their share could be drastically reduced with Rust, since the Rust compiler detects program errors that lead to [memory access errors](https://en.wikipedia.org/wiki/Segmentation_fault) or [buffer overflows](https://en.wikipedia.org/wiki/Buffer_overflow), especially in concurrent processes.
+	A crucial role in the [development process](#2020/05/07/linux_development/) of the Linux kernel is played by the maintainers of the individual subsystems of the kernel. These are now all in their forties, or even fifties. So the question is, how can kernel development be made attractive to young ambitious programmers?
+	Compared to C, Rust is a very young [programming language](https://en.wikipedia.org/wiki/Programming_language) that enjoys great popularity among system programmers. This could receive an enormous additional boost through the integration of Rust into the Linux kernel. 🚀</data>
+	<date>26.10.2022</date>
+	<index><i>Linux</i><i type="Person">Linus Torvalds</i></index>
+	<tags><t>Technology</t><t>Computer science</t></tags>
+</item>
 </content>

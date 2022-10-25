@@ -2777,4 +2777,18 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>rust_linux_kernel</name>
+	<title>Rust im Linux-Kernel</title>
+	<data>Nach 30 Jahren Dominanz der [Programmiersprache C](https://de.wikipedia.org/wiki/C_(Programmiersprache)), hat es [Rust](https://de.wikipedia.org/wiki/Rust_(Programmiersprache)) als zweite Programmiersprache in den [Linux-Kernel](https://de.wikipedia.org/wiki/Linux_(Kernel)) geschafft. Am 16.10. *2022* hat [Linus Torvalds](https://de.wikipedia.org/wiki/Linus_Torvalds) Linux 6.1-rc1 veröffentlicht. In den Release Notes schrieb er u.a.
+	" ... we've got a few core things that have been brewing for a long time, most notably the multi-gen LRU VM series, and the initial Rust scaffolding (no actual real Rust code in the kernel yet, but the infrastructure is there)."
+	Was auf den ersten Blick wie keine große Sache aussieht, könnte sich als entscheidend für die Zukunft des Linux-Kernels und der Programmiersprache Rust erweisen.
+	Zwei Drittel der Sicherheitslücken im Linux-Kernel gehen auf Speichersicherheitsprobleme zurück. Deren Anteil könnte man mit Rust drastisch reduzieren, da der Rust-Compiler Programmfehler erkennt, die zu [Speicherzugriffsfehlern](https://de.wikipedia.org/wiki/Schutzverletzung) oder [Pufferüberläufen](https://de.wikipedia.org/wiki/Puffer%C3%BCberlauf), vor allem auch in nebenläufigen Prozessen, führen.
+	Eine entscheidende Rolle im [Entwicklungsprozess](#2020/05/07/linux_development/) des Linux-Kernels spielen die Maintainer der einzelnen Subsysteme des Kernels. Diese sind mittlerweile alle in den Vierzigern, oder sogar Fünfzigern. Die Frage ist also, wie kann man die Kernelentwicklung für junge ambitionierte Programmierer attraktiv machen?
+	Rust ist im Vergleich zu C eine sehr junge [Programmiersprache](https://de.wikipedia.org/wiki/Programmiersprache), die sich unter Systemprogrammierern großer Beliebtheit erfreut. Diese könnte durch die Integration von Rust in den Linux-Kernel einen enormen zusätzlichen Schub erhalten. 🚀
+	</data>
+	<date>26.10.2022</date>
+	<index><i>Linux</i><i type="Person">Linus Torvalds</i></index>
+	<tags><t>Technologie</t><t>Informatik</t></tags>
+</item>
 </content>
