@@ -1337,7 +1337,7 @@
 	* ["Platoon"](https://en.wikipedia.org/wiki/Platoon_(film)) by [Oliver Stone](https://en.wikipedia.org/wiki/Oliver_Stone) (*1986*)
 	* ["Full Metal Jacket"](https://en.wikipedia.org/wiki/Full_Metal_Jacket) by [Stanley Kubrick](https://en.wikipedia.org/wiki/Stanley_Kubrick) (*1987*)</data>
 	<date>15.04.2021</date>
-	<index><i type="Person">Stanley Kubrick</i><i type="Movie">The Deer Hunter</i><i type="Movie">Apocalypse Now</i><i type="Movie">Platoon</i><i type="Movie">Full Metal Jacket</i></index>
+	<index><i type="Person">Stanley Kubrick</i><i type="Movie">The Deer Hunter</i><i type="Movie">Apocalypse Now</i><i type="Movie">Platoon</i><i type="Movie">Full Metal Jacket</i><i>War</i></index>
 	<tags><t>Movie</t><t>Society</t></tags>
 </item>
 <item type="text" format="randomLinkColor">
@@ -2186,7 +2186,7 @@
 	<data>From the novel ["1984"](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four) by [George Orwell](https://en.wikipedia.org/wiki/George_Orwell):
 	"War is peace. \ Freedom is slavery. \ Ignorance is strength."</data>
 	<date>04.03.2022</date>
-	<index><i type="Person">George Orwell</i><i type="Book" author="George Orwell">1984</i></index>
+	<index><i type="Person">George Orwell</i><i type="Book" author="George Orwell">1984</i><i>War</i></index>
 	<tags><t>Society</t><t>Literature</t></tags>
 </item>
 <item type="image" height="200" width="200">
@@ -2793,5 +2793,13 @@
 	<date>26.10.2022</date>
 	<index><i>Linux</i><i type="Person">Linus Torvalds</i></index>
 	<tags><t>Technology</t><t>Computer science</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>automatisms_of_war</name>
+	<title>Automatisms of war</title>
+	<data>Small causes or triggers used as pretexts to start the war machine are enough, but once started it is all the more difficult to stop a war machine. Once set in motion, the forces of war must eventually be exhausted. The biggest problem is to formulate holding conditions, to create interruptions and to stop the escalation spiral so that the war machine, once started, can actually be switched off again.</data>
+	<date>30.10.2022</date>
+	<index><i>War</i></index>
+	<tags><t>Society</t></tags>
 </item>
 </content>

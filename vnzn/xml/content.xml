@@ -1340,7 +1340,7 @@
 	* ["Platoon"](https://de.wikipedia.org/wiki/Platoon_(Film)) von [Oliver Stone](https://de.wikipedia.org/wiki/Oliver_Stone) (*1986*)
 	* ["Full Metal Jacket"](https://de.wikipedia.org/wiki/Full_Metal_Jacket) von [Stanley Kubrick](https://de.wikipedia.org/wiki/Stanley_Kubrick) (*1987*)</data>
 	<date>15.04.2021</date>
-	<index><i type="Person">Stanley Kubrick</i><i type="Movie">Die durch die Hölle gehen</i><i type="Movie">Apocalypse Now</i><i type="Movie">Platoon</i><i type="Movie">Full Metal Jacket</i></index>
+	<index><i type="Person">Stanley Kubrick</i><i type="Movie">Die durch die Hölle gehen</i><i type="Movie">Apocalypse Now</i><i type="Movie">Platoon</i><i type="Movie">Full Metal Jacket</i><i>Krieg</i></index>
 	<tags><t>Film</t><t>Gesellschaft</t></tags>
 </item>
 <item type="text" format="randomLinkColor">
@@ -2184,7 +2184,7 @@
 	<data>Aus dem Roman ["1984"](https://de.wikipedia.org/wiki/1984_(Roman)) von [George Orwell](https://de.wikipedia.org/wiki/George_Orwell):
 	"Krieg ist Frieden. \ Freiheit ist Sklaverei. \ Unwissenheit ist Stärke."</data>
 	<date>04.03.2022</date>
-	<index><i type="Person">George Orwell</i><i type="Book" author="George Orwell">1984</i></index>
+	<index><i type="Person">George Orwell</i><i type="Book" author="George Orwell">1984</i><i>Krieg</i></index>
 	<tags><t>Gesellschaft</t><t>Literatur</t></tags>
 </item>
 <item type="image" height="200" width="200">
@@ -2790,5 +2790,13 @@
 	<date>26.10.2022</date>
 	<index><i>Linux</i><i type="Person">Linus Torvalds</i></index>
 	<tags><t>Technologie</t><t>Informatik</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>automatisms_of_war</name>
+	<title>Automatismen des Krieges</title>
+	<data>Es genügen kleine Anlässe oder Auslöser, die als Vorwand genutzt werden, um die Kriegsmaschine in Gang zu setzen, aber es ist umso schwieriger eine einmal in Gang gesetzte Kriegsmaschine wieder anzuhalten. Einmal in Bewegung gesetzt, müssen sich die Kräfte des Krieges irgendwann erschöpfen. Das größte Problem besteht darin, Haltebedingungen zu formulieren, Unterbrechungen herzustellen und die Eskalationsspirale zu stoppen, damit die einmal gestartete Kriegsmaschine tatsächlich wieder abgeschaltet werden kann.</data>
+	<date>30.10.2022</date>
+	<index><i>Krieg</i></index>
+	<tags><t>Gesellschaft</t></tags>
 </item>
 </content>
