@@ -2799,4 +2799,12 @@
 	<index><i>Krieg</i></index>
 	<tags><t>Gesellschaft</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>red_circle</name>
+	<title>Red Circle</title>
+	<data>red_circle_small.png</data>
+	<date>03.11.2022</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>

@@ -2802,4 +2802,12 @@
 	<index><i>War</i></index>
 	<tags><t>Society</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>red_circle</name>
+	<title>Red Circle</title>
+	<data>red_circle_small.png</data>
+	<date>03.11.2022</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
 </content>
