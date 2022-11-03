@@ -110,6 +110,10 @@ class PageWriter {
         writeHtmlFile(content, "shuffled/", "index.html")
     }
     
+    public func writeMaxHomePage(_ content: String) {
+        writeHtmlFile(content, "max/", "index.html")
+    }
+    
     private func writeHtmlFile(_ content: String, _ relPath: String, _ fileName: String) {
         do {
             let htmlContent = "<!DOCTYPE html>\n" + content 

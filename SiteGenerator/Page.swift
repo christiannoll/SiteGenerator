@@ -76,6 +76,10 @@ class Page {
         get { SiteGeneratorEnv.forGerman() ? "Auf gut Glück!" : "I'm Feeling Lucky" }
     }
     
+    var maxHomepageTitle: String {
+        get { SiteGeneratorEnv.forGerman() ? "Ein langer Strom" : "A long stream" }
+    }
+    
     var metaDescriptionContent: String {
         get { SiteGeneratorEnv.forGerman() ? "Fragmente aus der Vergangenheit, Gegenwart und Zukunft." : "Fragments from the past, present and future." }
     }

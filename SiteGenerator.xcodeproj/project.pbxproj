@@ -14,6 +14,7 @@
 		D63B510E2399673E001E7E7B /* ArchiveYear.swift in Sources */ = {isa = PBXBuildFile; fileRef = D63B510D2399673E001E7E7B /* ArchiveYear.swift */; };
 		D63B5110239997FA001E7E7B /* ArchivePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D63B510F239997FA001E7E7B /* ArchivePage.swift */; };
 		D63B71A32383261B00E989EE /* MarkdownTokenizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = D63B71A22383261B00E989EE /* MarkdownTokenizer.swift */; };
+		D63BBEEE29142763008AF236 /* MaxHomePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D63BBEED29142763008AF236 /* MaxHomePage.swift */; };
 		D63C253123EB5AF700545A18 /* Page.swift in Sources */ = {isa = PBXBuildFile; fileRef = D650F34E23930CC000B2320E /* Page.swift */; };
 		D63CB6FF240AFF4A00D1BA79 /* RssParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = D63CB6FE240AFF4A00D1BA79 /* RssParser.swift */; };
 		D63DFA2E23B1EF8A00E9602F /* PostStatisticData.swift in Sources */ = {isa = PBXBuildFile; fileRef = D63DFA2D23B1EF8A00E9602F /* PostStatisticData.swift */; };
@@ -108,6 +109,7 @@
 		D63B510D2399673E001E7E7B /* ArchiveYear.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArchiveYear.swift; sourceTree = "<group>"; };
 		D63B510F239997FA001E7E7B /* ArchivePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArchivePage.swift; sourceTree = "<group>"; };
 		D63B71A22383261B00E989EE /* MarkdownTokenizer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarkdownTokenizer.swift; sourceTree = "<group>"; };
+		D63BBEED29142763008AF236 /* MaxHomePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxHomePage.swift; sourceTree = "<group>"; };
 		D63CB6FE240AFF4A00D1BA79 /* RssParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RssParser.swift; sourceTree = "<group>"; };
 		D63DFA2D23B1EF8A00E9602F /* PostStatisticData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostStatisticData.swift; sourceTree = "<group>"; };
 		D64A730526615D780088D8C6 /* YearParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YearParser.swift; sourceTree = "<group>"; };
@@ -245,6 +247,7 @@
 				D6ADD6532385DAF9005C0495 /* MarkdownNode.swift */,
 				D6F92EC3238320D900FCAAC1 /* MarkdownParser.swift */,
 				D63B71A22383261B00E989EE /* MarkdownTokenizer.swift */,
+				D63BBEED29142763008AF236 /* MaxHomePage.swift */,
 				D6EC3FB127921D0000B0BD45 /* MoviesRegister.swift */,
 				D6EC3FB327921DFE00B0BD45 /* MoviesRegisterPage.swift */,
 				D650F34E23930CC000B2320E /* Page.swift */,
@@ -423,6 +426,7 @@
 				D6E1929C23A77A82006A7A5C /* SiteGenerator.swift in Sources */,
 				D6C26E6D23C0AF1B0014634C /* IndexItemPage.swift in Sources */,
 				D690C72423DA315C00975E72 /* FtpScriptWriter.swift in Sources */,
+				D63BBEEE29142763008AF236 /* MaxHomePage.swift in Sources */,
 				D676120D237F43960042F55D /* main.swift in Sources */,
 				D6CAB6FF2398488A00C4D2EF /* PageWriter.swift in Sources */,
 				D69D533C24533AAC005F618E /* SearchIndexBuilder.swift in Sources */,

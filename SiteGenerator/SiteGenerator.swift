@@ -40,6 +40,10 @@ struct SiteGenerator {
         shuffledHomePage.setTitle("weblog")
         writer.writeShuffledHomePage(shuffledHomePage.render())
         
+        let maxHomePage = MaxHomePage(posts)
+        maxHomePage.setTitle("weblog")
+        writer.writeMaxHomePage(maxHomePage.render())
+        
         for post in posts {
             let page = PostPage(post)
             page.setTitle(post.title)

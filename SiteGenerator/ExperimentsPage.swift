@@ -19,6 +19,9 @@ class ExperimentsPage: BetaPage {
         ulChildren.append(renderItem(shuffledHomepageTitle, "shuffled/"))
         ulChildren.append(newLine)
         
+        ulChildren.append(renderItem(maxHomepageTitle, "max/"))
+        ulChildren.append(newLine)
+        
         return ulChildren
     }
     
