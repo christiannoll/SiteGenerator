@@ -2810,4 +2810,13 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>muehlengleichnis</name>
+	<title>Leibniz's mill argument</title>
+	<data>[Gottfried Wilhelm Leibniz](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz): "If we imagine a machine whose structure makes it think, sense, and have perceptions, we could conceive it enlarged, keeping the same proportions, so that we could enter into it, as one enters a mill. Assuming that, when inspecting its interior, we will find only parts that push one another, and we will never find anything to explain a perception. And so, one should seek perception in the simple substance and not in the composite or in the machine."
+	THE DETAILS OF THE BRAIN DO NOT EXPLAIN CONSCIOUSNESS.</data>
+	<date>07.11.2022</date>
+	<index><i>Brain</i><i type="Person">Gottfried Wilhelm Leibniz</i></index>
+	<tags><t>Biology</t><t>Philosophy</t></tags>
+</item>
 </content>
