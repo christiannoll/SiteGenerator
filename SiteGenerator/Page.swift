@@ -68,6 +68,10 @@ class Page {
         get { SiteGeneratorEnv.forGerman() ? "Experimente" : "Experiments"}
     }
     
+    var whatsNewTitle: String {
+        get { "What's new?" }
+    }
+    
     var advancedSearchTitle: String {
         get { SiteGeneratorEnv.forGerman() ? "Erweiterte Suche" : "Advanced Search"}
     }

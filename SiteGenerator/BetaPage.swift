@@ -48,6 +48,9 @@ class BetaPage : Page {
         ulChildren.append(renderItem(experimentsTitle + " 🔬", "experiments"))
         ulChildren.append(newLine)
         
+        ulChildren.append(renderExternalItem(whatsNewTitle, "https://github.com/christiannoll/SiteGenerator/commits/main"))
+        ulChildren.append(newLine)
+        
         return ulChildren
     }
     
@@ -68,6 +71,14 @@ class BetaPage : Page {
     func renderItem(_ title: String, _ relPath: String) -> SmlNode {
         var liChildren: [SmlNode] = []
         let link = a([href => (Page.baseUrl + relPath + "/")], [.text(title)])
+        liChildren.append(link)
+        let l = li(liChildren)
+        return l
+    }
+    
+    func renderExternalItem(_ title: String, _ url: String) -> SmlNode {
+        var liChildren: [SmlNode] = []
+        let link = a([href => (url)], [.text(title)])
         liChildren.append(link)
         let l = li(liChildren)
         return l
