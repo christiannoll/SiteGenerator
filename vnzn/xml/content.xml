@@ -2830,4 +2830,12 @@
 	<index><i>Zufall</i></index>
 	<tags><t>Literatur</t><t>Short Story</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>the_seagull</name>
+	<title>Die Möwe</title>
+	<data>seagull_small.png</data>
+	<date>15.11.2022</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
