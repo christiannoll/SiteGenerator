@@ -53,9 +53,11 @@ class ImpressumPage: Page {
         var nodes: [SmlNode] = []
         nodes.append(.text(email))
         nodes.append(br())
+        nodes.append(contentsOf: createGithubLine())
+        nodes.append(br())
         nodes.append(contentsOf: createTwitterLine())
         nodes.append(br())
-        nodes.append(contentsOf: createGithubLine())
+        nodes.append(contentsOf: createMastodonLine())
         return p(nodes)
     }
     

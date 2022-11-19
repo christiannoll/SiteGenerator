@@ -211,6 +211,14 @@ class Page {
         return nodes
     }
     
+    func createMastodonLine() -> [SmlNode] {
+        var nodes: [SmlNode] = []
+        nodes.append(.text("Mastodon: "))
+        let address = "https://mas.to/@vnzn"
+        nodes.append(a([href => (address)], ["@vnzn@mas.to"]))
+        return nodes
+    }
+    
     private func renderBurgerButton() -> SmlNode {
         let devMenuLine = div_menuLine([])
         let lineDivs: [SmlNode] = [devMenuLine, devMenuLine, devMenuLine]
