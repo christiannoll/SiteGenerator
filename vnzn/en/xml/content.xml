@@ -2841,4 +2841,16 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="randomLinkColor">
+	<name>top_4_philip_k_dick_movies</name>
+	<title>Top Four - Philip K. Dick movies</title>
+	<data>1. [Blade Runner](https://en.wikipedia.org/wiki/Blade_Runner)
+	2. [Minority Report](https://en.wikipedia.org/wiki/Minority_Report_(film))
+	3. [Total Recall](https://en.wikipedia.org/wiki/Total_Recall_(1990_film))
+	4. [The Man in the High Castle](https://en.wikipedia.org/wiki/The_Man_in_the_High_Castle_(TV_series))</data>
+	<date>20.11.2022</date>
+	<index><i type="Person">Philip K. Dick</i></index>
+	<tags><t>Movie</t></tags>
+	<serial>Top Four</serial>
+</item>
 </content>
