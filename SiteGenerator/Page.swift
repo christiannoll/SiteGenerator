@@ -164,6 +164,10 @@ class Page {
         let rss = link([rel => "alternate", type => "application/rss+xml", title_attr => "RSS", href => (Page.baseUrl + "xml/rss.xml")])
         headChildren.append(rss)
         headChildren.append(newLine)
+        headChildren.append(tab)
+        
+        headChildren.append(createMastodonRelMeLink())
+        headChildren.append(newLine)
         
         let jsInclude = createJavascriptInclude()
         if jsInclude != nil {
@@ -217,6 +221,10 @@ class Page {
         let address = "https://mas.to/@vnzn"
         nodes.append(a([href => (address)], ["@vnzn@mas.to"]))
         return nodes
+    }
+    
+    func createMastodonRelMeLink() -> SmlNode {
+        link([rel => "me", href => "https://mas.to/@vnzn"])
     }
     
     private func renderBurgerButton() -> SmlNode {
