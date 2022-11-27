@@ -2864,4 +2864,12 @@
 	<index><i>Brain</i><i type="Person">Noam Chomsky</i><i>Free will</i></index>
 	<tags><t>Society</t><t>Philosophy</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>peeled_face</name>
+	<title>Peeled Face</title>
+	<data>peeled_face_small.png</data>
+	<date>28.11.2022</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
 </content>
