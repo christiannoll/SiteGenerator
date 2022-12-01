@@ -2872,4 +2872,12 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>entropy_of_life</name>
+	<title>The entropy of life</title>
+	<data>Human life is a permanent attempt to locally reduce the number of ways in which reality is created in the universe. The energy required for this is proportional to the reduction of the possibilities.</data>
+	<date>02.12.2022</date>
+	<index><i>Entropy</i><i>Universe</i></index>
+	<tags><t>Physics</t><t>Philosophy</t></tags>
+</item>
 </content>
