@@ -2880,4 +2880,13 @@
 	<index><i>Entropy</i><i>Universe</i></index>
 	<tags><t>Physics</t><t>Philosophy</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>jacob_boehme</name>
+	<title>Jacob Boehme</title>
+	<data>About the German mystic and theosophist [Jacob Boehme](https://en.wikipedia.org/wiki/Jakob_B%C3%B6hme):
+	[Jacob Boehme Online](http://jacobboehmeonline.com/home): "About 400 years ago, before the discovery of electricity and only 150 years after the invention of the printing press, a barely literate German cobbler came up with the idea that God was a binary, fractal, self-replicating algorithm and that the universe was a genetic matrix resulting from the existential tension created by His desire for self-knowledge."</data>
+	<date>06.12.2022</date>
+	<index><i type="Person">Jacob Boehme</i><i>Algorithm</i></index>
+	<tags><t>Physics</t><t>Philosophy</t></tags>
+</item>
 </content>
