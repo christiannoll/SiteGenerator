@@ -39,7 +39,7 @@ class ContactPage: Page {
     }
     
     private func createCopyrightText() -> SmlNode {
-        let s = "All contents of this website, in particular texts, photographs and graphics, are protected by copyright. The copyright is, unless otherwise expressly indicated, with Christian Noll. Please ask me if you would like to use the contents of this website."
+        let s = "All contents of this website, in particular texts, photographs, images and graphics, are protected by copyright. The copyright is, unless otherwise expressly indicated, with Christian Noll. Please ask me if you would like to use the contents of this website."
         return p([.text(s)])
     }
 }

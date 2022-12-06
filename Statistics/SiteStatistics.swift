@@ -34,7 +34,7 @@ class SiteStatistics {
         for post in posts {
             var postData = PostStatisticData(postItem: post)
             if post as? ImagePost != nil {
-                data.numberOfPhotos += 1
+                data.numberOfImages += 1
                 postData.imagePost = true
             }
             else {

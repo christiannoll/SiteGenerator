@@ -13,7 +13,7 @@ class TagItemPage : Page {
     
     var key: String {
         get {
-            let key = tagItem.key == Self.photoKey ? "" : tagItem.key
+            let key = isImage ? "" : tagItem.key
             return key
         }
     }
@@ -30,5 +30,9 @@ class TagItemPage : Page {
         
         mainChildren.append(newLine)
         return main(mainChildren)
+    }
+    
+    private var isImage: Bool {
+        tagItem.key == Self.photoKey || tagItem.key == "Digital Art"
     }
 }

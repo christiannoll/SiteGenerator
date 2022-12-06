@@ -27,7 +27,7 @@ class StatisticPage : Page {
         var pChildren: [SmlNode] = []
         pChildren.append(.text((SiteGeneratorEnv.forGerman() ? "Anzahl an Posts: " : "Number of posts: ") + String(data.numberOfPosts)))
         pChildren.append(br())
-        pChildren.append(.text((SiteGeneratorEnv.forGerman() ? "Anzahl davon Fotos: " : "Including number of photos: ") + String(data.numberOfPhotos)))
+        pChildren.append(.text((SiteGeneratorEnv.forGerman() ? "Anzahl davon Bilder: " : "Including number of images: ") + String(data.numberOfImages)))
         pChildren.append(br())
         pChildren.append(.text("Index: " + String(data.numberOfIndexItems)))
         pChildren.append(br())

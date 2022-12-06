@@ -72,7 +72,7 @@ class ImpressumPage: Page {
     }
     
     private func createCopyrightText() -> SmlNode {
-        let s = "Alle Inhalte dieses Internetangebotes, insbesondere Texte, Fotografien und Grafiken, sind urheberrechtlich geschützt. Das Urheberrecht liegt, soweit nicht ausdrücklich anders gekennzeichnet, bei Christian Noll. Bitte fragen Sie mich, falls Sie die Inhalte dieses Internetangebotes verwenden möchten."
+        let s = "Alle Inhalte dieses Internetangebotes, insbesondere Texte, Fotografien, Bilder und Grafiken sind urheberrechtlich geschützt. Das Urheberrecht liegt, soweit nicht ausdrücklich anders gekennzeichnet, bei Christian Noll. Bitte fragen Sie mich, falls Sie die Inhalte dieses Internetangebotes verwenden möchten."
         return p([.text(s)])
     }
 }
