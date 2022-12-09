@@ -2889,4 +2889,12 @@
 	<index><i type="Person">Jacob Boehme</i><i>Algorithm</i></index>
 	<tags><t>Physics</t><t>Philosophy</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>rainy_manhattan</name>
+	<title>Rainy Manhattan</title>
+	<data>manhattan_small.png</data>
+	<date>10.12.2022</date>
+	<index></index>
+	<tags><t>Digital Art</t></tags>
+</item>
 </content>

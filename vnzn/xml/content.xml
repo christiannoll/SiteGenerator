@@ -2886,4 +2886,12 @@
 	<index><i type="Person">Jacob Böhme</i><i>Algorithmus</i></index>
 	<tags><t>Physik</t><t>Philosophie</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>rainy_manhattan</name>
+	<title>Verregnetes Manhattan</title>
+	<data>manhattan_small.png</data>
+	<date>10.12.2022</date>
+	<index></index>
+	<tags><t>Digital Art</t></tags>
+</item>
 </content>
