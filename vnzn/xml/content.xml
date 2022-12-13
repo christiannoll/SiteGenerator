@@ -2894,4 +2894,13 @@
 	<index></index>
 	<tags><t>Digital Art</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>mahatma_gandhi</name>
+	<title>Mahatma Gandhi</title>
+	<data>"Ich werde nicht zulassen, dass jemand mit seinen schmutzigen Füßen durch meine Gedanken spaziert." - [Mahatma Gandhi](https://de.wikipedia.org/wiki/Mohandas_Karamchand_Gandhi)
+	Ich würde noch ergänzen: - und dort seine Spuren hinterlässt.</data>
+	<date>14.12.2022</date>
+	<index><i type="Person">Mahatma Gandhi</i><i>Bewusstsein</i></index>
+	<tags><t>Philosophie</t></tags>
+</item>
 </content>

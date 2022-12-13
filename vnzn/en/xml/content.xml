@@ -2897,4 +2897,13 @@
 	<index></index>
 	<tags><t>Digital Art</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>mahatma_gandhi</name>
+	<title>Mahatma Gandhi</title>
+	<data>"I will not let anyone walk through my mind with their dirty feet." - [Mahatma Gandhi](https://en.wikipedia.org/wiki/Mahatma_Gandhi)
+	I would add: - and leave their marks there.</data>
+	<date>14.12.2022</date>
+	<index><i type="Person">Mahatma Gandhi</i><i>Consciousness</i></index>
+	<tags><t>Philosophy</t></tags>
+</item>
 </content>
