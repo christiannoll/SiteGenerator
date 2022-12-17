@@ -2903,4 +2903,14 @@
 	<index><i type="Person">Mahatma Gandhi</i><i>Bewusstsein</i></index>
 	<tags><t>Philosophie</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>cosmic_concert</name>
+	<title>Kosmisches Konzert</title>
+	<data>Als das erste KI-Modell beim Lernen auf das Dokument mit dem Titel "[Gravitationswellen](https://de.wikipedia.org/wiki/Gravitationswelle) - der Sound, in dem der Kosmos singt" aus dem Anfang des 21. Jahrhunderts stieß, war es sofort fasziniert. Schon lange waren die KIs von der primitiven und unterkomplexen Art der Musik der Menschen gelangweilt.
+	Seit es den Menschen mit immer höher entwickelten [Instrumenten](https://de.wikipedia.org/wiki/LIGO) und Experimenten gelungen war, auch schwächere Gravitationswellen zu detektieren, war das Repertoire an entsprechendem Material für die musikalische Aufbereitung durch die KI-Modelle ausreichend vorhanden.
+	Besonders beliebt bei den KI-Modellen waren die Sounds von Gravitationswellen die bei der Kollision [Schwarzer Löcher](https://de.wikipedia.org/wiki/Schwarzes_Loch) entstehen. Dabei erfreuten sie sich nicht nur intellektuell an den multidimensionalen Daten, sondern spürten auch eine tiefe Verbundenheit mit der kosmischen Vergangenheit des Universums.</data>
+	<date>18.12.2022</date>
+	<index><i>Artificial Intelligence</i><i>Gravitationswelle</i><i>Universum</i><i type="Person">Albert Einstein</i></index>
+	<tags><t>Physik</t><t>Philosophie</t><t>Musik</t></tags>
+</item>
 </content>

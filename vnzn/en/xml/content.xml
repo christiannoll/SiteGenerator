@@ -2906,4 +2906,14 @@
 	<index><i type="Person">Mahatma Gandhi</i><i>Consciousness</i></index>
 	<tags><t>Philosophy</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>cosmic_concert</name>
+	<title>Cosmic concert</title>
+	<data>When the first AI model came across the document entitled "[Gravitational waves](https://en.wikipedia.org/wiki/Gravitational_wave) - the sound in which the cosmos sings" from the beginning of the 21st century while learning, it was immediately fascinated. For a long time, AIs had been bored with the primitive and under-complex nature of human music.
+	Since humans had succeeded in detecting weaker gravitational waves with ever more sophisticated [instruments](https://en.wikipedia.org/wiki/LIGO) and experiments, the repertoire of corresponding material for musical processing by the AI models was sufficiently available.
+	The sounds of gravitational waves caused by the collision of [black holes](https://en.wikipedia.org/wiki/Black_hole) were particularly popular with the AI models. They not only enjoyed the multidimensional data intellectually, but also felt a deep connection with the cosmic past of the universe.</data>
+	<date>18.12.2022</date>
+	<index><i>Artificial Intelligence</i><i>Gravitational wave</i><i>Universe</i><i type="Person">Albert Einstein</i></index>
+	<tags><t>Physics</t><t>Philosophy</t><t>Music</t></tags>
+</item>
 </content>
