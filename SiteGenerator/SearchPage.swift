@@ -37,4 +37,8 @@ class SearchPage : Page {
         let attributes = [onLoad => "startSearchWorker()"]
         return node("body", attributes, children)
     }
+    
+    func setTitle() {
+        setTitle(searchTitle)
+    }
 }

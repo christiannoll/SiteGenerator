@@ -20,6 +20,10 @@ class Page {
         get { "Index" }
     }
     
+    var searchTitle: String {
+        get { SiteGeneratorEnv.forGerman() ? "Suche" : "Search" }
+    }
+    
     var serialsTitle: String {
         get { SiteGeneratorEnv.forGerman() ? "Serien" : "Serials" }
     }

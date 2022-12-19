@@ -122,6 +122,7 @@ struct SiteGenerator {
         let searchItemsFactory = SearchItemsFactory()
         let searchItems = searchItemsFactory.createSearchItems(posts)
         let searchPage = SearchPage(searchItems)
+        searchPage.setTitle()
         writer.writeSearchPage(searchPage.render())
         
         let advancedSearchPage = AdvancedSearchPage(searchItems)
