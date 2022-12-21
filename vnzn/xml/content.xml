@@ -2913,4 +2913,12 @@
 	<index><i>Artificial Intelligence</i><i>Gravitationswelle</i><i>Universum</i><i type="Person">Albert Einstein</i></index>
 	<tags><t>Physik</t><t>Philosophie</t><t>Musik</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>dreaming_bauhaus</name>
+	<title>bauhaus Traum</title>
+	<data>bauhaus_dream_small.png</data>
+	<date>22.12.2022</date>
+	<index></index>
+	<tags><t>Digital Art</t></tags>
+</item>
 </content>
