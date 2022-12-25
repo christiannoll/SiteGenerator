@@ -2516,7 +2516,7 @@
 	<data>Der grundlegende Baustein unseres Universums ist die [Information](https://de.wikipedia.org/wiki/Information) und in diesem Sinn, kann das [Universum](https://de.wikipedia.org/wiki/Universum) als Computer, der Information erzeugt, verarbeitet und verändert, beschrieben werden.
 	Es gibt einen Punkt auf dem Weg in die Tiefe der [Realität](https://de.wikipedia.org/wiki/Realit%C3%A4t), wo die gewöhnliche Unterscheidung zwischen Geist und Materie nicht mehr möglich ist und in Information fusioniert.</data>
 	<date>10.07.2022</date>
-	<index><i>Universum</i></index>
+	<index><i>Universum</i><i>Information</i></index>
 	<tags><t>Physik</t><t>Philosophie</t></tags>
 </item>
 <item type="text" format="randomLinkColor">
@@ -2920,5 +2920,13 @@
 	<date>22.12.2022</date>
 	<index></index>
 	<tags><t>Digital Art</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>parasitic_information</name>
+	<title>Parasitäre Information</title>
+	<data>Wenn eine Droge, ein Virus und eine Religion strukturidentisch sind, nämlich Formen sich selbst reproduzierender parasitärer Information, dann ist generative AI, wie z.B. [ChatGPT](https://de.wikipedia.org/wiki/ChatGPT), der neue ultimative Drogendealer.</data>
+	<date>26.12.2022</date>
+	<index><i>Artificial Intelligence</i><i>Information</i></index>
+	<tags><t>Informatik</t><t>Philosophie</t></tags>
 </item>
 </content>
