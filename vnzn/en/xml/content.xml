@@ -2950,4 +2950,16 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>kant_questions</name>
+	<title>Kant's guiding principles of philosophy</title>
+	<data>In *1765* [Immanuel Kant](https://en.wikipedia.org/wiki/Immanuel_Kant) asked himself four questions, which later became famous as leitmotifs of philosophy:
+	1. What can I know?
+	2. What must I do?
+	3. What may I hope?
+	4. What is the human being?</data>
+	<date>07.01.2023</date>
+	<index><i type="Person">Immanuel Kant</i></index>
+	<tags><t>Philosophy</t></tags>
+</item>
 </content>

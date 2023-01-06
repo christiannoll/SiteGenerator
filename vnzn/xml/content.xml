@@ -2947,4 +2947,16 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>kant_questions</name>
+	<title>Kants Leitmotive der Philosophie</title>
+	<data>Vier Fragen stellte sich *1765* [Immanuel Kant](https://de.wikipedia.org/wiki/Immanuel_Kant), die später als Leitmotive der Philosophie berühmt geworden sind:
+	1. Was kann ich wissen? 
+	2. Was soll ich tun? 
+	3. Was darf ich hoffen? 
+	4. Was ist der Mensch?</data>
+	<date>07.01.2023</date>
+	<index><i type="Person">Immanuel Kant</i></index>
+	<tags><t>Philosophie</t></tags>
+</item>
 </content>
