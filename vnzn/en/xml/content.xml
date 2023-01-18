@@ -2978,4 +2978,12 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>laboratories_of_evolution</name>
+	<title>Laboratories of evolution</title>
+	<data>With the worldwide thawing of [permafrost](https://en.wikipedia.org/wiki/Permafrost) caused by [global warming](https://en.wikipedia.org/wiki/Climate_change), something is coming to light from the laboratories of evolution that was stored and conserved there in the ice for thousands of years. Something is emerging from this underworld that mankind is not prepared for.</data>
+	<date>19.01.2023</date>
+	<index><i>Evolution</i></index>
+	<tags><t>Biology</t></tags>
+</item>
 </content>
