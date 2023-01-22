@@ -2900,7 +2900,7 @@
 	<data>"Ich werde nicht zulassen, dass jemand mit seinen schmutzigen Füßen durch meine Gedanken spaziert." - [Mahatma Gandhi](https://de.wikipedia.org/wiki/Mohandas_Karamchand_Gandhi)
 	Ich würde noch ergänzen: - und dort seine Spuren hinterlässt.</data>
 	<date>14.12.2022</date>
-	<index><i type="Person">Mahatma Gandhi</i><i>Bewusstsein</i></index>
+	<index><i type="Person">Mahatma Gandhi</i><i>Bewusstsein</i><i>Gehirn</i></index>
 	<tags><t>Philosophie</t></tags>
 </item>
 <item type="text" format="normal">
@@ -2981,6 +2981,14 @@
 	<data>Mit dem weltweiten Auftauen des [Permafrosts](https://de.wikipedia.org/wiki/Permafrost), verursacht durch die [Erderwärmung](https://de.wikipedia.org/wiki/Globale_Erw%C3%A4rmung), gelangt etwas ans Licht aus den Laboren der Evolution, was dort im Eis für Tausende von Jahren eingelagert und konserviert war. Es steigt etwas aus dieser Unterwelt hervor, worauf die Menschheit nicht vorbereitet ist.</data>
 	<date>19.01.2023</date>
 	<index><i>Evolution</i></index>
+	<tags><t>Biologie</t></tags>
+</item>
+<item type="text" format="randomLinkColor">
+	<name>hypothesis_engine</name>
+	<title>Die Hypothesenmaschine</title>
+	<data>Unser  Gehirn ist ein autistisches System, das sich vorwiegend mit sich selber befasst und das was der Mensch wahrnimmt ist nicht die Realität, sondern das Bestätigen von [vorausgeträumten](#2020/07/29/thinking_as_simulation_of_mental_models/) [Hypothesen](#2021/01/21/map_and_territory/).</data>
+	<date>23.01.2023</date>
+	<index><i>Gehirn</i></index>
 	<tags><t>Biologie</t></tags>
 </item>
 </content>
