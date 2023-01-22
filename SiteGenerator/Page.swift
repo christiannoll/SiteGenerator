@@ -203,14 +203,6 @@ class Page {
         return para
     }
     
-    func createTwitterLine() -> [SmlNode] {
-        var nodes: [SmlNode] = []
-        nodes.append(.text("Twitter: "))
-        let address = "https://twitter.com/fr0schmidt"
-        nodes.append(a([href => (address)], ["@fr0schmidt"]))
-        return nodes
-    }
-    
     func createGithubLine() -> [SmlNode] {
         var nodes: [SmlNode] = []
         nodes.append(.text("GitHub: "))

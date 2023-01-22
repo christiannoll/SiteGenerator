@@ -32,8 +32,6 @@ class ContactPage: Page {
         pChildren.append(br())
         pChildren.append(contentsOf: createGithubLine())
         pChildren.append(br())
-        pChildren.append(contentsOf: createTwitterLine())
-        pChildren.append(br())
         pChildren.append(contentsOf: createMastodonLine())
         return p(pChildren)
     }

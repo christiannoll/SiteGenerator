@@ -9,7 +9,7 @@ class ImpressumPage: Page {
         mainChildren.append(newLine)
         mainChildren.append(createAddress())
         mainChildren.append(newLine)
-        mainChildren.append(createEmailAndTwitter())
+        mainChildren.append(createEmailAndGithub())
         
         mainChildren.append(newLine)
         
@@ -48,14 +48,12 @@ class ImpressumPage: Page {
         return p(pChildren)
     }
     
-    private func createEmailAndTwitter() -> SmlNode {
+    private func createEmailAndGithub() -> SmlNode {
         let email = "Email: webmaster (at) vnzn (punkt) de"
         var nodes: [SmlNode] = []
         nodes.append(.text(email))
         nodes.append(br())
         nodes.append(contentsOf: createGithubLine())
-        nodes.append(br())
-        nodes.append(contentsOf: createTwitterLine())
         nodes.append(br())
         nodes.append(contentsOf: createMastodonLine())
         return p(nodes)
