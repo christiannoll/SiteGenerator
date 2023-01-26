@@ -2991,4 +2991,12 @@
 	<index><i>Gehirn</i></index>
 	<tags><t>Biologie</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>the_reader</name>
+	<title>Die Leserin</title>
+	<data>reader_small.png</data>
+	<date>27.01.2023</date>
+	<index></index>
+	<tags><t>Digital Art</t></tags>
+</item>
 </content>

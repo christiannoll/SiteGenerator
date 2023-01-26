@@ -2994,4 +2994,12 @@
 	<index><i>Brain</i></index>
 	<tags><t>Biology</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>the_reader</name>
+	<title>The reader</title>
+	<data>reader_small.png</data>
+	<date>27.01.2023</date>
+	<index></index>
+	<tags><t>Digital Art</t></tags>
+</item>
 </content>
