@@ -2999,4 +2999,18 @@
 	<index></index>
 	<tags><t>Digital Art</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>cooperative_decisions</name>
+	<title>Kooperative Entscheidungen</title>
+	<data>In seinem *1987* erschienen Buch ["Die Evolution der Kooperation"](https://de.wikipedia.org/wiki/Die_Evolution_der_Kooperation) beschreibt [Robert Axelrod](https://de.wikipedia.org/wiki/Robert_Axelrod) die von ihm entwickelte Lösung für das [spieltheoretische](https://de.wikipedia.org/wiki/Spieltheorie) [Gefangenendilemma](https://de.wikipedia.org/wiki/Gefangenendilemma). Durch wiederholtes Spielen stellte er fest, dass kooperative Entscheidungen besser abschneiden als egoistische Entscheidungen. Die erfolgreichsten Entscheidungsansätze haben dabei vier Punkte gemeinsam: 
+	1. Man sollte nicht als erster den anderen verraten.
+	2. Man sollte auf das Verhalten des anderen Spielers reagieren. 
+	3. Man sollte nicht versuchen den anderen systematisch zu schlagen. 
+	4. Außerdem sollte man zu komplexe Strategien vermeiden.
+	Zusammengefasst kann man sagen, um im Leben erfolgreich zu sein: 
+	sollte man nett, reaktiv und nicht eifersüchtig sein. Außerdem sollte man nicht auf superschlau machen - das bestätigt uns die Mathematik.</data>
+	<date>31.01.2023</date>
+	<index><i>Gehirn</i></index>
+	<tags><t>Gesellschaft</t><t>Mathematik</t><t>Philosophie</t></tags>
+</item>
 </content>
