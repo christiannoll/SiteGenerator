@@ -3013,4 +3013,12 @@
 	<index><i>Gehirn</i></index>
 	<tags><t>Gesellschaft</t><t>Mathematik</t><t>Philosophie</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>math_curiosities_3</name>
+	<title>Mathematische Kuriositäten III</title>
+	<data>*1988* entdeckte [John Conway](https://de.wikipedia.org/wiki/John_Horton_Conway) diese seltsame Beinahe-Identität und bis heute wurde keine befriedigende Erklärung dafür gefunden, „warum“ sie wahr ist. {e&lt;sup&gt;π&lt;/sup&gt; - π ≈ 20}</data>
+	<date>04.02.2023</date>
+	<index><i>Zahlen</i><i type="Person">John Conway</i></index>
+	<tags><t>Mathematik</t></tags>
+</item>
 </content>

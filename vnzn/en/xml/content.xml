@@ -3017,4 +3017,12 @@
 	<index><i>Brain</i></index>
 	<tags><t>Society</t><t>Mathematics</t><t>Philosophy</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>math_curiosities_3</name>
+	<title>Mathematical curiosities III</title>
+	<data>In *1988*, [John Conway](https://en.wikipedia.org/wiki/John_Horton_Conway) discovered this curious near-identity and to this day no satisfying explanation as to "why" it's true has been discovered. {e&lt;sup&gt;π&lt;/sup&gt; - π ≈ 20}</data>
+	<date>04.02.2023</date>
+	<index><i>Numbers</i><i type="Person">John Conway</i><i>Pi</i></index>
+	<tags><t>Mathematics</t></tags>
+</item>
 </content>
