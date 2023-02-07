@@ -3021,4 +3021,12 @@
 	<index><i>Zahlen</i><i type="Person">John Conway</i></index>
 	<tags><t>Mathematik</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>concert</name>
+	<title>Konzert</title>
+	<data>concert_small.png</data>
+	<date>08.02.2023</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>

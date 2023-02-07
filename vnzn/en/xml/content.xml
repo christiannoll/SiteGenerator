@@ -3025,4 +3025,12 @@
 	<index><i>Numbers</i><i type="Person">John Conway</i><i>Pi</i></index>
 	<tags><t>Mathematics</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>concert</name>
+	<title>Concert</title>
+	<data>concert_small.png</data>
+	<date>08.02.2023</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
 </content>
