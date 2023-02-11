@@ -3029,4 +3029,12 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="randomLinksColor">
+	<name>vnzn_wordcloud</name>
+	<title>v.n.z.n - Wortwolke</title>
+	<data>Fragmente aus Vergangenheit, Gegenwart und Zukunft: [Wortwolke](#wordcloud/)</data>
+	<date>12.02.2023</date>
+	<index><i>Vergangenheit</i><i>Gegenwart</i><i>Zukunft</i></index>
+	<tags><t>Allgemein</t></tags>
+</item>
 </content>
