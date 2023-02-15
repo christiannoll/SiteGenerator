@@ -57,7 +57,7 @@ class IndexItem {
     }
     
     private func getStyleAttributeText() -> String {
-        let fontSizeText = "font-size:1.\(numberOfPosts)em;"
+        let fontSizeText = numberOfPosts < 10 ? "font-size:1.\(numberOfPosts)em;" : "font-size:\(Double(numberOfPosts + 10) / 10.0)em;"
         
         let color = FormatBuilder.randomColors[Int.random(in: 0 ..< FormatBuilder.randomColors.count)]
         let colorText = " color:\(color);"
