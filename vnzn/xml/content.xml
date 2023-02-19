@@ -3049,4 +3049,12 @@
 	<index><i>Gehirn</i></index>
 	<tags><t>Gesellschaft</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>not_finished</name>
+	<title>Not Finished</title>
+	<data>not_finished_small.png</data>
+	<date>20.02.2023</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>

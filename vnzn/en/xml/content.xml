@@ -2724,7 +2724,7 @@
 	<data>eyes_small.png</data>
 	<date>28.09.2022</date>
 	<index></index>
-	<tags><t>Foto</t></tags>
+	<tags><t>Photo</t></tags>
 </item>
 <item type="text" format="normal">
 	<name>infinite_loop</name>
@@ -3052,5 +3052,13 @@
 	<date>16.02.2023</date>
 	<index><i>Brain</i></index>
 	<tags><t>Society</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>not_finished</name>
+	<title>Not Finished</title>
+	<data>not_finished_small.png</data>
+	<date>20.02.2023</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
 </item>
 </content>
