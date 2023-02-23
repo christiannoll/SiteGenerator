@@ -3057,4 +3057,13 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>entropy_time_death_and_wrinkles</name>
+	<title>Entropie: Zeit, Tod und Falten</title>
+	<data>Im Allgemeinen nimmt die [Entropie](https://de.wikipedia.org/wiki/Entropie) eines biologischen Systems, einschließlich des menschlichen Körpers, im Laufe der Zeit zu, was bedeutet, dass die Ordnung abnimmt und das System zunehmend chaotisch wird. Dies liegt daran, dass biologische Systeme wie der menschliche Körper ständig Energie und Material austauschen und dabei Abfallprodukte erzeugen, die sich im Laufe der Zeit ansammeln und die Effizienz des Systems verringern.
+	Im menschlichen Körper führt dieser Prozess zu Alterungserscheinungen wie Faltenbildung, Verringerung der Muskel- und Knochenmasse, Abnahme der Sehkraft und des Gehörs sowie einer höheren Anfälligkeit für Krankheiten.</data>
+	<date>24.02.2023</date>
+	<index><i>Entropie</i></index>
+	<tags><t>Biologie</t><t>Physik</t></tags>
+</item>
 </content>

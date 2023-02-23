@@ -3061,4 +3061,13 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>entropy_time_death_and_wrinkles</name>
+	<title>Entropy: Time, Death and Wrinkles</title>
+	<data>In general, the [entropy](https://en.wikipedia.org/wiki/Entropy) of any biological system, including the human body, increases over time, meaning that order decreases and the system becomes increasingly chaotic. This is because biological systems like the human body are constantly exchanging energy and material, creating waste products in the process that accumulate over time and reduce the efficiency of the system.
+	In the human body, this process leads to signs of aging such as wrinkling, reduction in muscle and bone mass, decreased vision and hearing, and increased susceptibility to disease.</data>
+	<date>24.02.2023</date>
+	<index><i>Entropy</i></index>
+	<tags><t>Biology</t><t>Physics</t></tags>
+</item>
 </content>
