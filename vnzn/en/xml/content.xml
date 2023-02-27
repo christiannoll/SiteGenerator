@@ -3070,4 +3070,14 @@
 	<index><i>Entropy</i></index>
 	<tags><t>Biology</t><t>Physics</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>one_year_later</name>
+	<title>One year later</title>
+	<data>Even after a year, the war, which must not be called that, is not over.
+	From the novel ["1984"](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four) by [George Orwell](https://en.wikipedia.org/wiki/George_Orwell):
+	"War is peace. \ Freedom is slavery. \ Ignorance is strength."</data>
+	<date>28.02.2023</date>
+	<index><i type="Person">George Orwell</i><i type="Book" author="George Orwell">1984</i><i>War</i></index>
+	<tags><t>Society</t><t>Literature</t></tags>
+</item>
 </content>
