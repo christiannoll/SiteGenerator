@@ -3076,4 +3076,12 @@
 	<index><i type="Person">George Orwell</i><i type="Book" author="George Orwell">1984</i><i>Krieg</i></index>
 	<tags><t>Gesellschaft</t><t>Literatur</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>angela_merkel</name>
+	<title>Angela</title>
+	<data>merkel_small.png</data>
+	<date>04.03.2023</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
