@@ -34,7 +34,8 @@ class SiteStatistics {
         for post in posts {
             var postData = PostStatisticData(postItem: post)
             if post as? ImagePost != nil &&
-                (post.tags.contains("Foto") || post.tags.contains("Photo")) {
+                (post.tags.contains("Foto") || post.tags.contains("Photo")
+                 || post.tags.contains("Digital Art")) {
                 data.numberOfImages += 1
                 postData.imagePost = true
             }
