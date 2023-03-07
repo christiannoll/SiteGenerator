@@ -3088,4 +3088,12 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>world_as_prison</name>
+	<title>The world as a prison</title>
+	<data>Music does not free us from the prison of space and time. It does not release us from the here and now, unlike pictures, films or books.</data>
+	<date>08.03.2023</date>
+	<index><i>Time</i></index>
+	<tags><t>Music</t><t>Literature</t><t>Art</t><t>Movie</t></tags>
+</item>
 </content>

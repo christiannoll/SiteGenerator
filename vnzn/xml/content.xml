@@ -3084,4 +3084,12 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>world_as_prison</name>
+	<title>Die Welt als Gefängnis</title>
+	<data>Musik befreit uns nicht aus dem Gefängnis von Raum und Zeit. Sie erlöst uns nicht vom Hier und Jetzt, im Gegensatz zu Bildern, Filmen oder Büchern.</data>
+	<date>08.03.2023</date>
+	<index><i>Zeit</i></index>
+	<tags><t>Musik</t><t>Literatur</t><t>Kunst</t><t>Film</t></tags>
+</item>
 </content>
