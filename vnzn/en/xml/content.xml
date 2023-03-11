@@ -3096,4 +3096,23 @@
 	<index><i>Time</i></index>
 	<tags><t>Music</t><t>Literature</t><t>Art</t><t>Movie</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>reality_fork</name>
+	<title>Reality fork</title>
+	<data>META    
+	* [Statistics](#statistic/)
+	* [Timeline](#timeline/)
+	* [Persons](#persons/)
+	* [Movies](#movies/)
+	* [Books](#books/)
+	* [Photos](#tags/Photo/)
+	* [Word Cloud](#wordcloud/)
+	* [Short Stories](#tags/Short-Story/)
+	* [Experiments 🔬](#experiments/)
+	* [What's new?](https://github.com/christiannoll/SiteGenerator/commits/main)
+    </data>
+	<date>12.03.2023</date>
+	<index><i>Reality</i></index>
+	<tags><t>General</t></tags>
+</item>
 </content>
