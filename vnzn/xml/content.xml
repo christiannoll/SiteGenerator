@@ -3111,4 +3111,12 @@
 	<index><i>Realität</i></index>
 	<tags><t>Allgemein</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>spring_colors</name>
+	<title>Blütenzauber</title>
+	<data>spring_colors_small.png</data>
+	<date>16.03.2023</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>

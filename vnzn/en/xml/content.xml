@@ -3115,4 +3115,12 @@
 	<index><i>Reality</i></index>
 	<tags><t>General</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>spring_colors</name>
+	<title>Flower magic</title>
+	<data>spring_colors_small.png</data>
+	<date>16.03.2023</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
 </content>
