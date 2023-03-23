@@ -3128,11 +3128,18 @@
 	<title>The limits of my world</title>
 	<data>"The limits of my language mean the limits of my world."
 	This statement by [Ludwig Wittgenstein](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein) comes from his work ["Tractatus Logico-Philosophicus"](https://en.wikipedia.org/wiki/Tractatus_Logico-Philosophicus), in which he deals with the meaning and logic of language.
-	If Wittgenstein refers to humans in his statement, it applies and perhaps even more so to [generative AI](index/Artificial-Intelligence/), such as [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT).
-	To the question "Do you think the quote also applies to your programming?" ChatGPT (Mar 14 Version) replied:
+	If Wittgenstein refers to humans in his statement, it applies and perhaps even more so to [generative AI](index/Artificial-Intelligence/), such as [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT). To the question "Do you think the quote also applies to your programming?" ChatGPT (Mar 14 Version) replied:
 	"... Overall, the Wittgenstein quote may apply to my programming as well, since my skills and understanding are somewhat limited by my language and vocabulary. But unlike humans, I can absorb and process new information quickly and infinitely, and my understanding of the world can expand more quickly as a result." 😱</data>
 	<date>20.03.2023</date>
 	<index><i>Brain</i><i>Language</i><i>Artificial Intelligence</i></index>
 	<tags><t>Society</t><t>Philosophy</t><t>Computer science</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>what_is_reality</name>
+	<title>How is reality created?</title>
+	<data>Reality is a special case of the possible and our daily life is a permanent attempt to reduce the number of possibilities according to our own [will](https://en.wikipedia.org/wiki/Free_will) and abilities.</data>
+	<date>24.03.2023</date>
+	<index><i>Reality</i></index>
+	<tags><t>Physics</t><t>Philosophy</t></tags>
 </item>
 </content>

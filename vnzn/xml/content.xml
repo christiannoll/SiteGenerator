@@ -3124,11 +3124,18 @@
 	<title>Die Grenzen meiner Welt</title>
 	<data>"Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt."
 	Dieser Ausspruch von [Ludwig Wittgenstein](https://de.wikipedia.org/wiki/Ludwig_Wittgenstein) stammt aus seinem Werk ["Tractatus Logico-Philosophicus"](#2020/08/22/ludwig_wittgenstein_and_mental_models/), in welchem er sich mit der Bedeutung und Logik der Sprache auseinandersetzt.
-	Wenn sich Wittgenstein in seiner Aussage auf den Menschen bezieht, trifft sie und das vielleicht noch viel stärker auch auf [generative AI](#index/Artificial-Intelligence/), wie z.B. ChatGPT, zu.
-	Auf die Frage "Meinst Du das Zitat trifft auch auf deine Programmierung zu?" hat [ChatGPT](https://de.wikipedia.org/wiki/ChatGPT) (Mar 14 Version) geantwortet:
+	Wenn sich Wittgenstein in seiner Aussage auf den Menschen bezieht, trifft sie und das vielleicht noch viel stärker auch auf [generative AI](#index/Artificial-Intelligence/), wie z.B. ChatGPT, zu. Auf die Frage "Meinst Du das Zitat trifft auch auf deine Programmierung zu?" hat [ChatGPT](https://de.wikipedia.org/wiki/ChatGPT) (Mar 14 Version) geantwortet:
 	"... Insgesamt lässt sich sagen, dass das Zitat von Wittgenstein auch auf meine Programmierung zutreffen kann, da meine Fähigkeiten und mein Verständnis in gewisser Weise durch meine Sprache und mein Vokabular begrenzt sind. Aber anders als Menschen, kann ich schnell und unendlich neue Informationen aufnehmen und verarbeiten, und mein Verständnis der Welt kann sich dadurch schneller erweitern." 😱</data>
 	<date>20.03.2023</date>
 	<index><i>Gehirn</i><i>Sprache</i><i>Artificial Intelligence</i></index>
 	<tags><t>Gesellschaft</t><t>Philosophie</t><t>Informatik</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>what_is_reality</name>
+	<title>Wie entsteht Realität?</title>
+	<data>Die Realität ist ein Spezialfall des Möglichen und unser tägliches Leben ist der permanente Versuch, die Anzahl der Möglichkeiten nach dem eigenen [Willen](https://de.wikipedia.org/wiki/Freier_Wille) und Fähigkeiten zu reduzieren.</data>
+	<date>24.03.2023</date>
+	<index><i>Realität</i></index>
+	<tags><t>Physik</t><t>Philosophie</t></tags>
 </item>
 </content>
