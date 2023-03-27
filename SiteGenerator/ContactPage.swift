@@ -28,7 +28,7 @@ class ContactPage: Page {
         var pChildren: [SmlNode] = []
         pChildren.append(.text("v.n.z.n (Christian Noll)"))
         pChildren.append(br())
-        pChildren.append(.text("Email: webmaster (at) vnzn (punkt) de"))
+        pChildren.append(.text("Email: webmaster (at) vnzn (dot) de"))
         pChildren.append(br())
         pChildren.append(contentsOf: createGithubLine())
         pChildren.append(br())
