@@ -3138,4 +3138,12 @@
 	<index><i>Realität</i></index>
 	<tags><t>Physik</t><t>Philosophie</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>eye_contact</name>
+	<title>Blickwechsel</title>
+	<data>eye_contact_small.png</data>
+	<date>28.03.2023</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
