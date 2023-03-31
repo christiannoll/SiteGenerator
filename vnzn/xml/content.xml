@@ -3146,4 +3146,12 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>ideas_and_inspiration</name>
+	<title>Ideen und Inspiration</title>
+	<data>So wie der Fischer aufs Meer hinausfährt und hofft, dass sich in seinen Netzen viele Fische verfangen, so geht der schöpferische Mensch auf die Jagd nach Ideen und Inspiration. Dabei hat auch er nur wenig Einfluss darauf, ob und was sich in seinen Netzen verfängt.</data>
+	<date>01.04.2023</date>
+	<index><i>Kreativität</i></index>
+	<tags><t>Kunst</t><t>Literatur</t><t>Malerei</t><t>Fotografie</t></tags>
+</item>
 </content>

@@ -3150,4 +3150,12 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>ideas_and_inspiration</name>
+	<title>Ideas and inspiration</title>
+	<data>Just as the fisherman sets out to sea hoping to catch many fish in his net, so the creative person goes in search of ideas and inspiration. He also has little influence on whether and what gets caught in his nets.</data>
+	<date>01.04.2023</date>
+	<index><i>Creativity</i></index>
+	<tags><t>Art</t><t>Literature</t><t>Photography</t><t>Painting</t></tags>
+</item>
 </content>
