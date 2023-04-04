@@ -3158,4 +3158,15 @@
 	<index><i>Creativity</i></index>
 	<tags><t>Art</t><t>Literature</t><t>Photography</t><t>Painting</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>obsolete_brain</name>
+	<title>Is the brain obsolete?</title>
+	<data>Tech Specs of the human [brain](https://en.wikipedia.org/wiki/Brain):
+	The female brain weighs 1,245 g, the male 1,375 g. It consumes about 20-25% of all our energy and consists of around 86 billion nerve cells and 100 trillion synapses. The nerve tracts are a total of 5.8 million km long (= 145 times the circumference of the earth). A distinction is made between the cerebrum, cerebellum, diencephalon and brainstem.
+	Is that enough for the future of [mankind](https://en.wikipedia.org/wiki/Human), or is the brain an obsolete model of history?
+	</data>
+	<date>05.04.2023</date>
+	<index><i>Brain</i><i>Artificial Intelligence</i></index>
+	<tags><t>Society</t><t>Computer science</t><t>Biology</t></tags>
+</item>
 </content>

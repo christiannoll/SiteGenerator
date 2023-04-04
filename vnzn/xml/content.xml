@@ -3154,4 +3154,14 @@
 	<index><i>Kreativität</i></index>
 	<tags><t>Kunst</t><t>Literatur</t><t>Malerei</t><t>Fotografie</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>obsolete_brain</name>
+	<title>Ist das Gehirn ein Auslaufmodell?</title>
+	<data>Technische Daten des menschlichen [Gehirns](https://de.wikipedia.org/wiki/Gehirn):
+	Das weibliche Gehirn wiegt 1.245 g, das der Männer 1.375 g. Es verbraucht ca. 20-25% all unserer Energie und besteht aus rund 86 Milliarden Nervenzellen und 100 Billionen Synapsen. Die Nervenbahnen sind insgesamt 5,8 Mio. km lang (= 145-facher Erdumfang). Man unterscheidet Großhirn, Kleinhirn, Zwischenhirn und Hirnstamm.
+	Reicht das für die Zukunft der [Menschheit](https://de.wikipedia.org/wiki/Mensch), oder ist das Gehirn ein Auslaufmodell der Geschichte?</data>
+	<date>05.04.2023</date>
+	<index><i>Gehirn</i><i>Artificial Intelligence</i></index>
+	<tags><t>Gesellschaft</t><t>Informatik</t><t>Biologie</t></tags>
+</item>
 </content>
