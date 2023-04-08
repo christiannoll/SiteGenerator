@@ -3169,4 +3169,12 @@
 	<index><i>Brain</i><i>Artificial Intelligence</i></index>
 	<tags><t>Society</t><t>Computer science</t><t>Biology</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>coffee_time</name>
+	<title>Coffee time</title>
+	<data>coffee_time_small.png</data>
+	<date>09.04.2023</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
 </content>
