@@ -3177,4 +3177,13 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="randomLinksColor">
+	<name>outsider_art</name>
+	<title>Outsider Art</title>
+	<data>The [Prinzhorn Collection](https://en.wikipedia.org/wiki/Prinzhorn_Collection) in Heidelberg: Artworks as an [Art of Survival](https://en.wikipedia.org/wiki/Outsider_art) in Psychiatry.
+	The following are considered classics today: [Else Blankenhorn](https://de.wikipedia.org/wiki/Else_Blankenhorn), [Franz Karl Bühler](https://de.wikipedia.org/wiki/Franz_Karl_B%C3%BChler), [Karl Genzel](https://de.wikipedia.org/wiki/Karl_Brendel), [Paul Goesch](https://de.wikipedia.org/wiki/Paul_Goesch), [Emma Hauck](https://de.wikipedia.org/wiki/Emma_Hauck), [August Klett](https://de.wikipedia.org/wiki/August_Klett_(K%C3%BCnstler)), [Peter Meyer](https://de.wikipedia.org/wiki/Peter_Meyer_(K%C3%BCnstler)), [August Natterer](https://de.wikipedia.org/wiki/August_Natterer), [Agnes Richter](https://de.wikipedia.org/wiki/Agnes_Richter), Joseph Schneller, [Barbara Suckfüll](https://de.wikipedia.org/wiki/Barbara_Suckf%C3%BCll), Oskar Voll und [Adolf Wölfli](https://de.wikipedia.org/wiki/Adolf_W%C3%B6lfli).</data>
+	<date>13.04.2023</date>
+	<index><i>Creativity</i></index>
+	<tags><t>Art</t><t>Society</t><t>Painting</t></tags>
+</item>
 </content>
