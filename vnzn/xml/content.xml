@@ -3196,4 +3196,12 @@
 	<index><i type="Person">Pablo Picasso</i></index>
 	<tags><t>Kunst</t><t>Gesellschaft</t><t>Malerei</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>atelier</name>
+	<title>Das Atelier</title>
+	<data>atelier_small.png</data>
+	<date>21.04.2023</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>

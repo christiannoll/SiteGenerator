@@ -3200,4 +3200,12 @@
 	<index><i type="Person">Pablo Picasso</i></index>
 	<tags><t>Art</t><t>Society</t><t>Painting</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>atelier</name>
+	<title>The studio</title>
+	<data>atelier_small.png</data>
+	<date>21.04.2023</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
 </content>
