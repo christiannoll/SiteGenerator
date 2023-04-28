@@ -1036,7 +1036,7 @@
 	`It’s gonna rain / It’s gon' / It’s / Rain`
 	`Glory to God / God / Had been sealed / Couldn’t open the door / Oh Noah! / They cried / Just open the door / Couldn’t open the door / But sure enough / Hallelujah!`</data>
 	<date>16.12.2020</date>
-	<index><i type="Musiker">Steve Reich</i></index>
+	<index><i type="Musiker">Steve Reich</i><i>Minimalism</i></index>
 	<tags><t>Music</t></tags>
 </item>
 <item type="text" format="normal">
@@ -1284,7 +1284,7 @@
 	<title>Minimal Music</title>
 	<data>`==` [Steve Reich](https://en.wikipedia.org/wiki/Steve_Reich) `== :: ==` [Julius Eastman](https://en.wikipedia.org/wiki/Julius_Eastman) `== :: ==` [Terry Riley](https://en.wikipedia.org/wiki/Terry_Riley) `== :: ==` [Philip Glass](https://en.wikipedia.org/wiki/Philip_Glass) `== :: ==` [La Monte Young](https://en.wikipedia.org/wiki/La_Monte_Young) `==`</data>
 	<date>26.03.2021</date>
-	<index><i type="Musiker">Steve Reich</i><i type="Musiker">Julius Eastman</i><i type="Musiker">Terry Riley</i></index>
+	<index><i type="Musiker">Steve Reich</i><i type="Musiker">Julius Eastman</i><i type="Musiker">Terry Riley</i><i>Minimalism</i></index>
 	<tags><t>Music</t></tags>
 </item>
 <item type="image" height="200" width="200">
@@ -3216,5 +3216,19 @@
 	<date>25.04.2023</date>
 	<index><i>Artificial Intelligence</i></index>
 	<tags><t>Society</t><t>Computer science</t><t>Technology</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>minimalism_by_design</name>
+	<title>v.n.z.n - Minimalism by design</title>
+	<data>[v.n.z.n](#) - Principles:
+	1. The content is generated entirely from the blog posts.
+	2. The design is minimalistic and responsive.
+	3. All links work.
+	4. [JavaScript](https://en.wikipedia.org/wiki/JavaScript) is only used when necessary.
+	5. No cookies or other tracking techniques are used.
+	6. The pages contain no advertising.</data>
+	<date>29.04.2023</date>
+	<index><i>Minimalism</i></index>
+	<tags><t>Design</t><t>Computer science</t></tags>
 </item>
 </content>

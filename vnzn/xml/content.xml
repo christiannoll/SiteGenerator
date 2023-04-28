@@ -1039,7 +1039,7 @@
 	`It’s gonna rain / It’s gon' / It’s / Rain`
 	`Glory to God / God / Had been sealed / Couldn’t open the door / Oh Noah! / They cried / Just open the door / Couldn’t open the door / But sure enough / Hallelujah!`</data>
 	<date>16.12.2020</date>
-	<index><i type="Musiker">Steve Reich</i></index>
+	<index><i type="Musiker">Steve Reich</i><i>Minimalismus</i></index>
 	<tags><t>Musik</t></tags>
 </item>
 <item type="text" format="normal">
@@ -1287,7 +1287,7 @@
 	<title>Minimal Music</title>
 	<data>`==` [Steve Reich](https://de.wikipedia.org/wiki/Steve_Reich) `== :: ==` [Julius Eastman](https://de.wikipedia.org/wiki/Julius_Eastman) `== :: ==` [Terry Riley](https://de.wikipedia.org/wiki/Terry_Riley) `== :: ==` [Philip Glass](https://de.wikipedia.org/wiki/Philip_Glass) `== :: ==` [La Monte Young](https://de.wikipedia.org/wiki/La_Monte_Young) `==`</data>
 	<date>26.03.2021</date>
-	<index><i type="Musiker">Steve Reich</i><i type="Musiker">Julius Eastman</i><i type="Musiker">Terry Riley</i></index>
+	<index><i type="Musiker">Steve Reich</i><i type="Musiker">Julius Eastman</i><i type="Musiker">Terry Riley</i><i>Minimalismus</i></index>
 	<tags><t>Musik</t></tags>
 </item>
 <item type="image" height="200" width="200">
@@ -3212,5 +3212,19 @@
 	<date>25.04.2023</date>
 	<index><i>Artificial Intelligence</i></index>
 	<tags><t>Gesellschaft</t><t>Informatik</t><t>Technologie</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>minimalism_by_design</name>
+	<title>v.n.z.n - Minimalismus by Design</title>
+	<data>[v.n.z.n](#) - Prinzipien:
+	1. Der Inhalt wird vollständig aus den Blogeinträgen generiert.
+	2. Das Design ist minimalistisch und responsive.
+	3. Alle Links funktionieren.
+	4. [JavaScript](https://de.wikipedia.org/wiki/JavaScript) wird nur wenn notwendig verwendet.
+	5. Es werden keine Cookies oder andere Trackingtechniken eingesetzt.
+	6. Die Seiten enthalten keine Werbung.</data>
+	<date>29.04.2023</date>
+	<index><i>Minimalismus</i></index>
+	<tags><t>Design</t><t>Informatik</t></tags>
 </item>
 </content>
