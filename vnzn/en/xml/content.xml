@@ -3231,4 +3231,12 @@
 	<index><i>Minimalism</i></index>
 	<tags><t>Design</t><t>Computer science</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>shadow</name>
+	<title>Shadow</title>
+	<data>shadow_small.png</data>
+	<date>03.05.2023</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
 </content>
