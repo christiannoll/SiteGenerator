@@ -3239,4 +3239,23 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>rams_10_principles</name>
+	<title>10 principles of good design</title>
+	<data>[Dieter Rams](https://en.wikipedia.org/wiki/Dieter_Rams). 10 principles of good design.
+	Good design
+	* is innovative.
+	* makes a product useful.
+	* is aesthetic.
+	* makes a product understandable.
+	* is unobtrusive.
+	* is honest.
+	* is long-lasting.
+	* is thorough down to the last detail.
+	* is environmentally friendly.
+	* is as little design as possible.</data>
+	<date>07.05.2023</date>
+	<index><i>Minimalism</i><i type="Person">Dieter Rams</i></index>
+	<tags><t>Design</t></tags>
+</item>
 </content>

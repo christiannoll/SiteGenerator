@@ -3235,4 +3235,23 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>rams_10_principles</name>
+	<title>10 Thesen für gutes Design</title>
+	<data>[Dieter Rams](https://de.wikipedia.org/wiki/Dieter_Rams). 10 Thesen für gutes Design.
+	Gutes Design
+	* ist innovativ.
+	* macht ein Produkt brauchbar.
+	* ist ästhetisch.
+	* macht ein Produkt verständlich.
+	* ist unaufdringlich.
+	* ist ehrlich.
+	* ist langlebig.
+	* ist konsequent bis ins letzte Detail.
+	* ist umweltfreundlich.
+	* ist so wenig Design wie möglich.</data>
+	<date>07.05.2023</date>
+	<index><i>Minimalismus</i><i type="Person">Dieter Rams</i></index>
+	<tags><t>Design</t></tags>
+</item>
 </content>
