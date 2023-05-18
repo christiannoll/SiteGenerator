@@ -3275,4 +3275,15 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>prime_number_maze</name>
+	<title>Prime Number Maze</title>
+	<data>[Balaji Srinivasan](https://en.wikipedia.org/wiki/Balaji_Srinivasan) explains the concept of a "prime number maze" in an interview with [Lex Fridman](https://en.wikipedia.org/wiki/Lex_Fridman):
+	A rat can be taught to turn around at every even number or at every third number in a maze to get some cheese, but obviously you can't teach it to turn around at the prime numbers two, three, five, seven, eleven and so on to turn around.
+	This is just too abstract, and frankly, if most people were caught in a prime number maze, they probably wouldn't be able to figure it out either. You would have to start counting and it's actually quite difficult to figure out what the turning rule is. The rule is actually very simple, and that's why I think a lot about how many such patterns there are in life.
+	We're just like those rats, trapped in a prime number maze. If we had just a little bit more thinking ability, if we had a little bit more cognitive ability, a little bit more, whether it was through a brain-machine interface or just with better physics, we could just figure out the next step in this maze.</data>
+	<date>19.05.2023</date>
+	<index><i>Brain</i><i type="Person">Lex Fridman</i></index>
+	<tags><t>Biology</t><t>Philosophy</t><t>Mathematics</t></tags>
+</item>
 </content>

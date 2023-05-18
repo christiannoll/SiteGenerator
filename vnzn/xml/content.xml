@@ -3271,4 +3271,15 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>prime_number_maze</name>
+	<title>Das Labyrinth der Primzahlen</title>
+	<data>[Balaji Srinivasan](https://de.wikipedia.org/wiki/Balaji_Srinivasan) erklärt sein Konzept eines „Primzahlenlabyrinths“ in einem Interview mit [Lex Fridman](https://de.wikipedia.org/wiki/Lex_Fridman):
+	"Einer Ratte kann beigebracht werden, sich bei jeder geraden Zahl oder bei jeder dritten Zahl in einem Labyrinth umzudrehen, um etwas Käse zu bekommen, aber offensichtlich kann man ihr nicht beibringen, sich bei den Primzahlen zwei, drei, fünf, sieben, elf und so weiter, umzudrehen. 
+	Das ist einfach zu abstrakt, und ehrlich gesagt, wenn die meisten Menschen in ein Primzahlenlabyrinth geraten würden, wären sie wahrscheinlich auch nicht in der Lage, es herauszufinden. Sie müssten mit dem Zählen beginnen und es ist eigentlich ziemlich schwierig herauszufinden, was die Wenderegel ist. Dabei ist die Regel tatsächlich sehr einfach, und deshalb denke ich viel darüber nach, wie viele solcher Muster es im Leben gibt. 
+	Wir sind genau wie diese Ratten und in einem Primzahlenlabyrinth gefangen. Wenn wir nur ein bisschen mehr Denkvermögen hätten, wenn wir ein bisschen mehr kognitive Fähigkeiten hätten, ein bisschen mehr, sei es durch eine Gehirn-Maschine-Schnittstelle oder einfach nur mit besserer Physik, könnten wir einfach den nächsten Schritt in diesem Labyrinth herausfinden."</data>
+	<date>19.05.2023</date>
+	<index><i>Gehirn</i><i type="Person">Lex Fridman</i></index>
+	<tags><t>Biologie</t><t>Philosophie</t><t>Mathematik</t></tags>
+</item>
 </content>
