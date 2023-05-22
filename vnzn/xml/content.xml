@@ -3282,4 +3282,12 @@
 	<index><i>Gehirn</i><i type="Person">Lex Fridman</i></index>
 	<tags><t>Biologie</t><t>Philosophie</t><t>Mathematik</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>ministry_of_time</name>
+	<title>Zeitministerium</title>
+	<data>In der Welt von morgen war die Zeit keine unveränderliche Konstante mehr. Jeder konnte sie dehnen oder zusammenziehen, um seinen Alltag zu gestalten und seine Bedürfnisse zu erfüllen. Die Gesellschaft hatte diese Fähigkeit jedoch in eine Hierarchie umgewandelt, in der die Reichen und Mächtigen die Zeit kontrollierten und die Armen kaum genug hatten, um zu überleben.</data>
+	<date>23.05.2023</date>
+	<index><i>Zeit</i></index>
+	<tags><t>Gesellschaft</t><t>Philosophie</t></tags>
+</item>
 </content>

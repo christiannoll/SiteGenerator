@@ -3286,4 +3286,12 @@
 	<index><i>Brain</i><i type="Person">Lex Fridman</i></index>
 	<tags><t>Biology</t><t>Philosophy</t><t>Mathematics</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>ministry_of_time</name>
+	<title>Ministry of Time</title>
+	<data>In tomorrow's world, time was no longer an immutable constant. Everyone could stretch or contract them to shape their daily lives and meet their needs. However, society had turned this ability into a hierarchy where the rich and powerful controlled time and the poor barely had enough to survive.</data>
+	<date>23.05.2023</date>
+	<index><i>Time</i></index>
+	<tags><t>Society</t><t>Philosophy</t></tags>
+</item>
 </content>
