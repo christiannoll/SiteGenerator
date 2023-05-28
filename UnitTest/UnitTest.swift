@@ -32,6 +32,13 @@ class UnitTest: XCTestCase {
         XCTAssertEqual(text, "<ol><li>One</li><li><a href=\"url\">Two</a></li></ol>")
     }
     
+    func testExtendedOrderedListWithUrl() {
+        let s = "1. One\t 2. [Two](url)\t 3. Item\t 4. Item\t 5. Item\t 6. Item\t 7. Item\t 8. Item\t 9. Item\t 10. Item\t 11. Item\t 12. Item\t"
+        let text = smlBuilder.render(s)
+        
+        XCTAssertEqual(text, "<ol><li>One</li><li><a href=\"url\">Two</a></li><li>Item</li><li>Item</li><li>Item</li><li>Item</li><li>Item</li><li>Item</li><li>Item</li><li>Item</li><li>Item</li><li>Item</li></ol>")
+    }
+    
     func testOrderedListWithUrl2() {
         let s = "1. One\t 2. [Two](url)"
         let text = smlBuilder.render(s)

@@ -40,7 +40,7 @@ extension MarkdownToken: CustomStringConvertible {
 extension CharacterSet {
     static let delimiters = CharacterSet(charactersIn: "[](){}*_`")
     static let ulistDelimiters = CharacterSet(charactersIn: "*-+")
-    static let olistDelimiters = CharacterSet(charactersIn: "123456789")
+    static let olistDelimiters = CharacterSet(charactersIn: "0123456789")
     static let leftBraces = CharacterSet(charactersIn: "[({")
     static let rightBraces = CharacterSet(charactersIn: "])}")
     static let whitespaceAndPunctuation = CharacterSet.whitespacesAndNewlines
@@ -241,10 +241,17 @@ class MarkdownTokenizer {
             return nil
         }
         
+        let index = currentIndex
+        
+        while CharacterSet.olistDelimiters.contains(next ?? .space) {
+            advance()
+        }
+        
         let n = next ?? .space
         let nn = nextnext ?? .space
         
         guard CharacterSet.olistDelimiters.contains(delimiter) && n == .point && nn == .space else {
+            currentIndex = index
             return nil
         }
         
