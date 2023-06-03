@@ -3320,4 +3320,15 @@
 	<index><i type="Musik">The Queen Is Dead</i><i type="Musiker">The Smiths</i></index>
 	<tags><t>Music</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>train_metaphor</name>
+	<title>A train to nowhere</title>
+	<data>With our birth, the train of life sets itself in motion. Are the switches already set at that moment, or do we have an influence on the switch setting?
+	At the beginning, the parents still control the train, but eventually they get off and we continue without them. At various stations, people board and accompany us. Sometimes, someone also leaves the train.
+	With each passing year, another carriage is added to the train for new passengers, further experiences, and adventures. Along the way, the train may occasionally come to a halt for a certain period of time. In the worst case, our journey ends when the train derails or gets stuck on a siding.
+	In the end, the question remains: where is the journey going, is there even a destination?</data>
+	<date>04.06.2023</date>
+	<index><i>Time</i><i>Future</i></index>
+	<tags><t>General</t><t>Philosophy</t></tags>
+</item>
 </content>

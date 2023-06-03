@@ -3316,4 +3316,15 @@
 	<index><i type="Musik">The Queen Is Dead</i><i type="Musiker">The Smiths</i></index>
 	<tags><t>Musik</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>train_metaphor</name>
+	<title>Ein Zug nach Nirgendwo</title>
+	<data>Mit unserer Geburt setzt sich der Zug des Lebens in Bewegung. Sind die Weichen in diesem Moment schon gestellt oder haben wir Einfluss auf die Weichenstellung? 
+	Am Anfang steuern noch die Eltern den Zug, irgendwann steigen sie dann aus und man fährt ohne sie weiter. An verschiedenen Stationen steigen Menschen dazu und begleiten uns. Mitunter verlässt auch jemand wieder den Zug. 
+	Mit jedem Jahr wird ein weiterer Wagon für neue Passagiere, weitere Erfahrungen und Erlebnisse, an den Zug gehängt. Unterwegs kann der Zug auch mal für eine gewisse Zeit stehen bleiben. Schlimmstenfalls wird unsere Reise beendet, wenn der Zug entgleist oder auf einem Abstellgleis stecken bleibt. 
+	Bleibt am Ende die Frage: wohin geht die Reise, gibt es überhaupt ein Ziel?</data>
+	<date>04.06.2023</date>
+	<index><i>Zeit</i><i>Zukunft</i></index>
+	<tags><t>Allgemein</t><t>Philosophie</t></tags>
+</item>
 </content>
