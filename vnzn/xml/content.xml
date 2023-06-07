@@ -3327,4 +3327,12 @@
 	<index><i>Zeit</i><i>Zukunft</i></index>
 	<tags><t>Allgemein</t><t>Philosophie</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>dressed</name>
+	<title>Schaufenster</title>
+	<data>dressed_small.png</data>
+	<date>08.06.2023</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
