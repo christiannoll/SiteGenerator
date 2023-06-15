@@ -3353,4 +3353,16 @@
 	<index><i>Dogma 95</i><i type="Person">Lars von Trier</i></index>
 	<tags><t>Film</t></tags>
 </item>
+<item type="text" format="randomLinkColor">
+	<name>top_4_lars_von_trier</name>
+	<title>Top Four - Lars von Trier Filme</title>
+	<data>1. [Antichrist](https://de.wikipedia.org/wiki/Antichrist_(Film))
+	2. [Melancholia](https://de.wikipedia.org/wiki/Melancholia_(2011))
+	3. [Breaking the Waves](https://de.wikipedia.org/wiki/Breaking_the_Waves)
+	4. [Dancer in the Dark](https://de.wikipedia.org/wiki/Dancer_in_the_Dark)</data>
+	<date>16.06.2023</date>
+	<index><i type="Person">Lars von Trier</i></index>
+	<tags><t>Film</t></tags>
+	<serial>Top Four</serial>
+</item>
 </content>
