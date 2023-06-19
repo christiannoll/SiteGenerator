@@ -3369,4 +3369,12 @@
 	<tags><t>Movie</t></tags>
 	<serial>Top Four</serial>
 </item>
+<item type="image" height="200" width="200">
+	<name>the_stain</name>
+	<title>The stain</title>
+	<data>stain_small.png</data>
+	<date>20.06.2023</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
 </content>
