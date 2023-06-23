@@ -3377,4 +3377,12 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>ai_evolution</name>
+	<title>AI-Evolution</title>
+	<data>Once we have fed the AI models with all available text, images and videos, we will probably take the next step and train the AI models with genetic data to breed new AI-generated organisms.</data>
+	<date>24.06.2023</date>
+	<index><i>Evolution</i><i>Artificial Intelligence</i></index>
+	<tags><t>Society</t><t>Computer science</t><t>Biology</t></tags>
+</item>
 </content>
