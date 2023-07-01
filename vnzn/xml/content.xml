@@ -3391,4 +3391,12 @@
 	<index><i>Evolution</i><i>Zeit</i><i type="Person">Alexander Kluge</i></index>
 	<tags><t>Gesellschaft</t><t>Philosophie</t><t>Biologie</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>wall</name>
+	<title>Wall</title>
+	<data>wall_small.png</data>
+	<date>02.07.2023</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
