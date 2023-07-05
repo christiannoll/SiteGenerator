@@ -3402,4 +3402,13 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>five_minute_rule</name>
+	<title>The Five-Minute Rule</title>
+	<data>Everyone knows it, things that need to be done get postponed. The reasons for this can vary widely. Perhaps it's an unpleasant task or a very time-consuming one. Sometimes it's also not clear how exactly the task can be accomplished. One possible strategy to overcome chronic [procrastination](https://en.wikipedia.org/wiki/Procrastination) is the 5-minute method.
+	The method is based on the idea of keeping the hurdle for starting as low as possible. Five minutes is a time period that most people can easily oversee and are willing to invest without much effort into something they don't feel like doing. It's important to decide on the first step you want to tackle in those 5 minutes beforehand. Then, set a timer for five minutes and start. Once you've gained momentum, you can simply continue after the time has elapsed. However, it's also okay to stop with the good feeling of having taken the first step.</data>
+	<date>06.07.2023</date>
+	<index><i>Time</i></index>
+	<tags><t>General</t></tags>
+</item>
 </content>

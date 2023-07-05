@@ -3399,4 +3399,13 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>five_minute_rule</name>
+	<title>Die Fünf-Minuten-Methode</title>
+	<data>Jeder kennt das, Dinge die erledigt werden müssen werden aufgeschoben. Die Gründe dafür können ganz verschieden sein. Vielleicht ist es eine unangenehme Aufgabe oder eine sehr zeitaufwendige. Manchmal ist auch nicht klar wie genau die Aufgabe erledigt werden kann. Eine mögliche Strategie um das [ständige Aufschieben](https://de.wikipedia.org/wiki/Prokrastination) zu überwinden ist die 5-Minuten-Methode. 
+	Die Methode basiert auf der Idee, die Hürde für das Anfangen so niedrig wie möglich zu halten. Fünf Minuten ist für die meisten Menschen ein Zeitraum der leicht zu überschauen ist und den man ohne viel Überwindung bereit ist für etwas, worauf man keine Lust hat, zu investieren. Wichtig ist sich vorher den ersten Teilschritt, den man in den 5 Minuten angehen möchte, zu überlegen. Dann stellt man sich einen Timer auf fünf Minuten und startet. Ist man erst mal in Schwung gekommen, kann man nach der abgelaufenen Zeit einfach weitermachen. Es ist aber auch okay, mit dem guten Gefühl den ersten Schritt gemacht zu haben, aufzuhören.</data>
+	<date>06.07.2023</date>
+	<index><i>Zeit</i></index>
+	<tags><t>Allgemein</t></tags>
+</item>
 </content>
