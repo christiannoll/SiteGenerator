@@ -3411,4 +3411,16 @@
 	<index><i>Time</i></index>
 	<tags><t>General</t></tags>
 </item>
+<item type="text" format="randomLinksColor">
+	<name>knowledge_dilemma</name>
+	<title>What can I know?</title>
+	<data>* [Known knowns](https://en.wikipedia.org/wiki/Knowledge) - e.g. known cause-effect relationships
+	* [Known unknowns](https://en.wikipedia.org/wiki/Uncertainty) - e.g. known knowledge gaps, estimates
+	* [Unknown knowns](https://en.wikipedia.org/wiki/Prediction) - e.g. forecasts of events that are relatively accurate for larger numbers of events, but cannot be precisely predicted for individual cases
+	* [Unknown unknowns](https://en.wikipedia.org/wiki/There_are_unknown_unknowns) - e.g. risks arising from situations that are so unexpected that they cannot be taken into account</data>
+	<date>10.07.2023</date>
+	<index><i>Complexity</i></index>
+	<tags><t>Philosophy</t></tags>
+	<serial>Complexity</serial>
+</item>
 </content>

@@ -3403,9 +3403,22 @@
 	<name>five_minute_rule</name>
 	<title>Die Fünf-Minuten-Methode</title>
 	<data>Jeder kennt das, Dinge die erledigt werden müssen werden aufgeschoben. Die Gründe dafür können ganz verschieden sein. Vielleicht ist es eine unangenehme Aufgabe oder eine sehr zeitaufwendige. Manchmal ist auch nicht klar wie genau die Aufgabe erledigt werden kann. Eine mögliche Strategie um das [ständige Aufschieben](https://de.wikipedia.org/wiki/Prokrastination) zu überwinden ist die 5-Minuten-Methode. 
-	Die Methode basiert auf der Idee, die Hürde für das Anfangen so niedrig wie möglich zu halten. Fünf Minuten ist für die meisten Menschen ein Zeitraum der leicht zu überschauen ist und den man ohne viel Überwindung bereit ist für etwas, worauf man keine Lust hat, zu investieren. Wichtig ist sich vorher den ersten Teilschritt, den man in den 5 Minuten angehen möchte, zu überlegen. Dann stellt man sich einen Timer auf fünf Minuten und startet. Ist man erst mal in Schwung gekommen, kann man nach der abgelaufenen Zeit einfach weitermachen. Es ist aber auch okay, mit dem guten Gefühl den ersten Schritt gemacht zu haben, aufzuhören.</data>
+	Die Methode basiert auf der Idee, die Hürde für das Anfangen so niedrig wie möglich zu halten. Fünf Minuten ist für die meisten Menschen ein Zeitraum der leicht zu überschauen ist und den man ohne viel Überwindung bereit ist für etwas, worauf man keine Lust hat, zu investieren. Wichtig ist sich vorher den ersten Teilschritt, den man in den 5 Minuten angehen möchte, zu überlegen. Dann stellt man sich einen Timer auf fünf Minuten und startet. Ist man erst mal in Schwung gekommen, kann man nach der abgelaufenen Zeit einfach weitermachen. Es ist aber auch okay, mit dem guten Gefühl den ersten Schritt gemacht zu haben, aufzuhören.
+	</data>
 	<date>06.07.2023</date>
 	<index><i>Zeit</i></index>
 	<tags><t>Allgemein</t></tags>
+</item>
+<item type="text" format="randomLinksColor">
+	<name>knowledge_dilemma</name>
+	<title>Was kann ich wissen?</title>
+	<data>* [Bekanntes Wissen](https://de.wikipedia.org/wiki/Wissen) - z.B. bekannte Ursache-Wirkungs-Zusammenhänge
+	* [Bekanntes Unwissen](https://de.wikipedia.org/wiki/Ungewissheit) - z.B. bekannte Wissenslücken, Schätzungen
+	* [Unbekanntes Wissen](https://de.wikipedia.org/wiki/Prognose) - z.B. Prognosen von Ereignissen die für größere Mengen von Ereignissen relativ genau, für den Einzelfall aber nicht exakt vorhersagbar sind
+	* [Unbekanntes Unwissen](https://de.wikipedia.org/wiki/There_are_known_knowns) - z.B. Risiken, die aus Situationen entstehen, die so unerwartet sind, dass sie nicht berücksichtigt werden können</data>
+	<date>10.07.2023</date>
+	<index><i>Komplexität</i></index>
+	<tags><t>Philosophie</t></tags>
+	<serial>Komplexität</serial>
 </item>
 </content>
