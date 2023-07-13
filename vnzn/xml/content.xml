@@ -3421,4 +3421,12 @@
 	<tags><t>Philosophie</t></tags>
 	<serial>Komplexität</serial>
 </item>
+<item type="image" height="200" width="200">
+	<name>material</name>
+	<title>Material</title>
+	<data>material_small.png</data>
+	<date>14.07.2023</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
