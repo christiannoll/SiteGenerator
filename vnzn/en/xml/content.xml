@@ -3431,4 +3431,20 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>demagogic_tricks</name>
+	<title>Demagogic tactics</title>
+	<data>In an interview in *1969*, the social philosopher [Max Horkheimer](https://en.wikipedia.org/wiki/Max_Horkheimer) highlights demagogic characteristics, which can be summarized as follows:
+	* Excessive use of superlatives
+	* Division into "the good" (the "us") and "the bad" (the "others")
+	* Focus on an absolute and virtuous goal
+	* Rejection of any doubts
+	* Establishing camaraderie with the audience (identification)
+	* Conviction that there is a conspiracy against "us"
+	* Repetition of these tactics
+	Horkheimer emphasizes the importance of teaching these tricks in schools and universities to make people more resilient against demagoguery.</data>
+	<date>18.07.2023</date>
+	<index><i type="Person">Max Horkheimer</i></index>
+	<tags><t>Society</t><t>Philosophy</t></tags>
+</item>
 </content>

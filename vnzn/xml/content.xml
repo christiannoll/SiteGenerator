@@ -3429,4 +3429,20 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>demagogic_tricks</name>
+	<title>Demagogische Tricks</title>
+	<data>Der Sozialphilosoph [Max Horkheimer](https://de.wikipedia.org/wiki/Max_Horkheimer) listet in einem Interview *1969* demagogische Merkmale auf, die wie folgt zusammengefasst werden können:
+	* Übermäßiger Gebrauch von Superlativen
+	* Einteilung in "die Guten" (das Wir) und "die Schlechten" (die Anderen)
+	* Fokussierung auf ein absolut gutes Ziel
+	* Ablehnung jeglichen Zweifels
+	* Verbrüderung mit dem Publikum (Identifikation)
+	* Überzeugung, dass eine Verschwörung gegen "uns" im Gange ist
+	* Wiederholung dieser Taktiken
+	Horkheimer betont die Wichtigkeit, diese Tricks in Schulen und Universitäten zu lehren, um die Menschen gegen Demagogie widerstandsfähiger zu machen.</data>
+	<date>18.07.2023</date>
+	<index><i type="Person">Max Horkheimer</i></index>
+	<tags><t>Gesellschaft</t><t>Philosophie</t></tags>
+</item>
 </content>
