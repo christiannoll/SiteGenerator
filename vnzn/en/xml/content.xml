@@ -3447,4 +3447,18 @@
 	<index><i type="Person">Max Horkheimer</i></index>
 	<tags><t>Society</t><t>Philosophy</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>waking_up</name>
+	<title>The process of waking up</title>
+	<data>1. Powering on the body: When you wake up in the morning, your body systems are activated, and your body is supplied with additional energy.
+	2. Physical self-test (Waking-up test): Upon waking up, your body performs a "self-test" to ensure that your basic functions are working normally. This could involve stretching, yawning, or moving your limbs.
+	3. Initialization of organs: After the waking-up test, your body initializes the organs and functions important for morning functioning, such as the cardiovascular system, respiration, and digestion.
+	4. Activation of the brain: When you wake up, your brain is activated and starts sending signals to the rest of the body to control various functions and movements.
+	5. Loading of memories: Your brain loads your memories from long-term memory so that you know who you are and what you have experienced before.
+	6. Consciousness initialization: Your consciousness fully awakens, and you become consciously aware of your surroundings and thoughts.
+	7. Starting the day: Once your body and mind are ready, the day begins. You get up and start your daily activities.</data>
+	<date>22.07.2023</date>
+	<index><i>Machine</i></index>
+	<tags><t>Biology</t></tags>
+</item>
 </content>
