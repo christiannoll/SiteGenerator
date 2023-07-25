@@ -3459,4 +3459,12 @@
 	<index><i>Maschine</i></index>
 	<tags><t>Biologie</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>seagull2</name>
+	<title>Möwe</title>
+	<data>seagull2_small.png</data>
+	<date>26.07.2023</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
