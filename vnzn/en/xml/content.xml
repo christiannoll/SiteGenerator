@@ -3489,4 +3489,13 @@
 	<index><i>Artificial Intelligence</i></index>
 	<tags><t>Technology</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>2001_aesthetics</name>
+	<title>2001: A Space Odyssey: Aesthetics</title>
+	<data>The [film](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey) is dominated by an aesthetic of purity, machines, technology, and coldness. The viewer witnesses a meticulously planned choreography of form, light, movement, and colors, down to the tiniest detail. Here, everything unnecessary is omitted, and the viewer is taken on an aesthetic and meditative journey to the origins of humanity and its potential future.</data>
+	<date>03.08.2023</date>
+	<index><i type="Movie">2001: A Space Odyssey</i><i type="Person">Stanley Kubrick</i><i>Time</i></index>
+	<tags><t>Movie</t></tags>
+	<serial>2001: A Space Odyssey</serial>
+</item>
 </content>
