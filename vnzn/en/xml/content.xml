@@ -3498,4 +3498,12 @@
 	<tags><t>Movie</t></tags>
 	<serial>2001: A Space Odyssey</serial>
 </item>
+<item type="image" height="200" width="200">
+	<name>abstract_11</name>
+	<title>Abstract 11</title>
+	<data>abstract11_small.png</data>
+	<date>07.08.2023</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
 </content>
