@@ -3506,4 +3506,22 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>the_eight_stages</name>
+	<title>The eight stages of life</title>
+	<data>[The psychosocial development model](https://en.wikipedia.org/wiki/Erikson%27s_stages_of_psychosocial_development) is a developmental psychological concept developed by the psychoanalyst Erik H. Erikson and his wife Joan Erikson. 
+	It consists of different life stages, known as "psychosocial stages," each associated with specific developmental tasks. Each stage represents a challenge that must be successfully overcome to achieve a healthy psychosocial development. The way a person handles these challenges influences their later personality development and identity.
+	* Hope: trust vs. mistrust (oral-sensory, infancy, under 1 year) _"Can I Trust the World?"_
+	* Will: autonomy vs. shame/doubt (muscular-anal, toddlerhood, 1–2 years) _"Is It Okay to Be Me?"_
+	* Purpose: initiative vs. guilt (locomotor-genital, early childhood, 3–6 years) _"Is it Okay for Me to Do, Move, and Act?"_
+	* Competence: industry vs. inferiority (latency, late childhood, 7–10 years) _"Can I Make it in the World of People and Things?"_
+	* Fidelity: identity vs. role confusion (adolescence, 11-19 years) _"Who Am I and What Can I Be?"_
+	* Love: intimacy vs. isolation (early adulthood, 20–45 years) _"Can I Love?"_
+	* Care: generativity vs. stagnation (middle adulthood, 45–64 years) _"Can I Make My Life Count?"_
+	* Wisdom: ego integrity vs. despair (late adulthood, 65 years and above) _"Is it Okay to Have Been Me?"_
+	</data>
+	<date>11.08.2023</date>
+	<index><i>Brain</i></index>
+	<tags><t>Biology</t><t>Society</t></tags>
+</item>
 </content>

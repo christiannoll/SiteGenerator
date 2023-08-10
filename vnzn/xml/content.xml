@@ -3504,4 +3504,22 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>the_eight_stages</name>
+	<title>Die acht Lebensstufen</title>
+	<data>Das [Stufenmodell der psychosozialen Entwicklung](https://de.wikipedia.org/wiki/Stufenmodell_der_psychosozialen_Entwicklung) ist ein entwicklungspsychologisches Konzept, das vom Psychoanalytiker Erik H. Erikson und seiner Ehefrau Joan Erikson entwickelt wurde. 
+	Es besteht aus verschiedenen Lebensabschnitten, sogenannten "psychosozialen Stufen", die jeweils mit spezifischen Entwicklungsaufgaben verbunden sind. Jede Stufe repräsentiert eine Herausforderung, die erfolgreich bewältigt werden muss, um eine gesunde psychosoziale Entwicklung zu erreichen. Die Art und Weise, wie eine Person diese Herausforderungen bewältigt, beeinflusst ihre spätere Persönlichkeitsentwicklung und Identität.
+	* Stadium 1: Ur-Vertrauen vs. Ur-Misstrauen (1. Lebensjahr) _"Ich bin, was man mir gibt."_
+	* Stadium 2: Autonomie vs. Scham und Zweifel (2. bis 3. Lebensjahr) _"Ich bin, was ich will."_
+	* Stadium 3: Initiative vs. Schuldgefühl (4. bis 6. Lebensjahr) _"Ich bin, was ich mir vorstellen kann, zu werden."_
+	* Stadium 4: Werksinn vs. Minderwertigkeitsgefühl (6. Lebensjahr bis Pubertät) _"Ich bin, was ich lerne."_
+	* Stadium 5: Identität vs. Identitätsdiffusion (Jugendalter) _"Ich bin, was ich bin."_
+	* Stadium 6: Intimität und Solidarität vs. Isolation (frühes Erwachsenenalter) _"Wir sind, was wir lieben."_
+	* Stadium 7: Generativität vs. Stagnation und Selbstabsorption (Erwachsenenalter) _"Ich bin, was ich bereit bin zu geben."_
+	* Stadium 8: Ich-Integrität vs. Verzweiflung (reifes Erwachsenenalter) _"Ich bin, was ich mir angeeignet habe."_
+	</data>
+	<date>11.08.2023</date>
+	<index><i>Gehirn</i></index>
+	<tags><t>Biologie</t><t>Gesellschaft</t></tags>
+</item>
 </content>
