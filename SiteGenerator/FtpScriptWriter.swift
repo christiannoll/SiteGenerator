@@ -45,6 +45,7 @@ class FtpScriptWriter {
     private func generatePutCommands() {
         script.append("put index.html\n")
         script.append("put styles.css\n")
+        script.append("put robots.txt\n")
         
         for folderName in folderNames {
             let files = getFolderContent(folderName, false)
