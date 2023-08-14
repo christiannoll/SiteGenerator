@@ -3524,4 +3524,14 @@
 	<index><i>Brain</i></index>
 	<tags><t>Biology</t><t>Society</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>fight_for_data</name>
+	<title>The Battle for Data</title>
+	<data>Currently, many companies are attempting to get tighter control over access to their collected data, which could be of interest for training [Large Language Models (LLMs)](https://en.wikipedia.org/wiki/Large_language_model). For instance, APIs are being shut down or equipped with paywalls. This trend has been observed in the past months with X/Twitter, Reddit, and StackOverflow. However, this trend also extends in the opposite direction. Companies aim to prevent their databases from being flooded with generated nonsense from [LLMs](https://en.wikipedia.org/wiki/Large_language_model), rendering them worthless.
+	Everywhere, efforts are being made to collect as much data as possible. Many might not realize the immense volume of data processed and stored in, for example, an electric vehicle. Not only is the entire environment of the car constantly scanned and evaluated using cameras and other sensors, but also all driver actions are captured and stored in data centers.
+	In the past, data was sold to the advertising industry, and today, it also serves as the foundation for LLMs' existence.</data>
+	<date>15.08.2023</date>
+	<index><i>Artificial Intelligence</i></index>
+	<tags><t>Technology</t><t>Society</t></tags>
+</item>
 </content>

@@ -3522,4 +3522,14 @@
 	<index><i>Gehirn</i></index>
 	<tags><t>Biologie</t><t>Gesellschaft</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>fight_for_data</name>
+	<title>Der Kampf um die Daten</title>
+	<data>Momentan versuchen viele Firmen den Zugang zu ihren gesammelten Daten, die für das Trainieren von [Large Language Models (LLMs)](https://en.wikipedia.org/wiki/Large_language_model) interessant sein könnten, viel strenger zu kontrollieren. Da werden z.B. APIs einfach abgeschaltet oder mit Bezahlschranken versehen. Beobachten konnte man das in den vergangenen Monaten bei X/Twitter, Reddit und StackOverflow. Das gilt aber auch in die entgegengesetzte Richtung. Die Firmen wollen verhindern, dass ihre Datenbanken mit generiertem Unsinn der [LLMs](https://en.wikipedia.org/wiki/Large_language_model) überschwemmt und so wertlos gemacht werden. 
+	Überall wird versucht, so viel Daten wie möglich zu sammeln. Vielen ist wahrscheinlich nicht bewusst, welche gigantische Menge an Daten z.B. in einem E-Auto verarbeitet und gespeichert werden. Hier wird nicht nur ständig die gesamte Umgebung des Autos mit Kameras und anderen Sensoren gescannt und ausgewertet, auch alle Aktionen des Fahrers werden erfasst und in Datencentern gespeichert.
+	Früher wurden die Daten an die Werbeindustrie verkauft und heute sind sie auch die Existenzgrundlage für die [LLMs](https://en.wikipedia.org/wiki/Large_language_model).</data>
+	<date>15.08.2023</date>
+	<index><i>Artificial Intelligence</i></index>
+	<tags><t>Technologie</t><t>Gesellschaft</t></tags>
+</item>
 </content>
