@@ -3532,4 +3532,12 @@
 	<index><i>Artificial Intelligence</i></index>
 	<tags><t>Technologie</t><t>Gesellschaft</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>poster_7</name>
+	<title>Poster</title>
+	<data>poster7_small.png</data>
+	<date>19.08.2023</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
