@@ -3540,4 +3540,13 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>el_kirchner_art</name>
+	<title>Ernst Ludwig Kirchner</title>
+	<data>"Es ist nicht richtig meine Bilder mit dem Maßstab der naturgetreuen Richtigkeit zu beurteilen, denn sie sind keine Abbildungen bestimmter Dinge oder Wesen, sondern selbstständige Organismen aus Linien, Flächen und Farben, die Naturformen nur soweit enthalten, als sie als Schlüssel zum Verständnis nötig sind. Meine Bilder sind Gleichnisse, nicht Abbildungen." 
+	[Ernst Ludwig Kirchner](https://de.wikipedia.org/wiki/Ernst_Ludwig_Kirchner)</data>
+	<date>23.08.2023</date>
+	<index><i type="Person">Ernst Ludwig Kirchner</i></index>
+	<tags><t>Kunst</t></tags>
+</item>
 </content>

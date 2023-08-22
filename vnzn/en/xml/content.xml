@@ -3542,4 +3542,13 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>el_kirchner_art</name>
+	<title>Ernst Ludwig Kirchner</title>
+	<data>"Judging my paintings by the scale of naturalistic accuracy is not correct, as they are not representations of specific things or beings, but independent organisms made of lines, shapes, and colors, containing natural forms only to the extent necessary as keys to understanding. My paintings are analogies, not representations."
+	[Ernst Ludwig Kirchner](https://en.wikipedia.org/wiki/Ernst_Ludwig_Kirchner)</data>
+	<date>23.08.2023</date>
+	<index><i type="Person">Ernst Ludwig Kirchner</i></index>
+	<tags><t>Art</t></tags>
+</item>
 </content>
