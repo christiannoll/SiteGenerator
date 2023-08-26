@@ -2903,7 +2903,7 @@
 	<data>"I will not let anyone walk through my mind with their dirty feet." - [Mahatma Gandhi](https://en.wikipedia.org/wiki/Mahatma_Gandhi)
 	I would add: - and leave their marks there.</data>
 	<date>14.12.2022</date>
-	<index><i type="Person">Mahatma Gandhi</i><i>Consciousness</i></index>
+	<index><i type="Person">Mahatma Gandhi</i><i>Consciousness</i><i>Brain</i></index>
 	<tags><t>Philosophy</t></tags>
 </item>
 <item type="text" format="normal">
@@ -3550,5 +3550,35 @@
 	<date>23.08.2023</date>
 	<index><i type="Person">Ernst Ludwig Kirchner</i></index>
 	<tags><t>Art</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>thoughts_about_the_brain</name>
+	<title>Thoughts about the Brain</title>
+	<data>* [The eight stages of life](#2023/08/11/the_eight_stages/)
+	* [Prime Number Maze](#2023/05/19/prime_number_maze/)
+	* [Are Dreams Immortal?](#2023/05/11/immortal_dreams/)
+	* [Is the brain obsolete?](#2023/04/05/obsolete_brain/)
+	* [The limits of my world](#2023/03/20/limits_language/)
+	* [Blue pill or red pill?](#2023/02/16/tv_and_youtube/)
+	* [Cooperative decisions](#2023/01/31/cooperative_decisions/)
+	* [The hypothesis engine](#2023/01/23/hypothesis_engine/)
+	* [Mahatma Gandhi](#2022/12/14/mahatma_gandhi/)
+	* [Free will](#2022/11/24/chomsky_on_free_will/)
+	* [Leibniz's mill argument](#2022/11/07/muehlengleichnis/)
+	* [Neural Möbius strip](#2022/10/02/infinite_loop/)
+	* [Language and abstraction](#2022/09/20/language_and_abstraction/)
+	* [Hanlon's razor](#2022/01/16/hanlons_razor/)
+	* [Where do thoughts come from?](#2021/11/29/origin_of_thoughts/)
+	* [Praise the hand](#2021/11/21/hand/)
+	* [Hurray, our child is lying!](#2021/09/06/kids_and_lies/)
+	* [Dream Store](#2021/04/19/dream_store/)
+	* [Map and territory](#2021/01/21/map_and_territory/)
+	* [Thinking as simulation of mental models](#2020/07/29/thinking_as_simulation_of_mental_models/)
+	* [Why do we sleep](#2020/07/01/warum_wir_schlafen/)
+	* [Free Energy Principle](#2020/06/01/free_energy_principle/)
+	* [The brain as a noise filter](#2020/03/16/brain_noise_filter/)</data>
+	<date>27.08.2023</date>
+	<index><i>Brain</i></index>
+	<tags><t>Biology</t><t>Society</t></tags>
 </item>
 </content>
