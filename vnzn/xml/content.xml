@@ -3579,4 +3579,12 @@
 	<index><i>Gehirn</i></index>
 	<tags><t>Biologie</t><t>Gesellschaft</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>new_street_art</name>
+	<title>N-E-W</title>
+	<data>new_street_small.png</data>
+	<date>31.08.2023</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
