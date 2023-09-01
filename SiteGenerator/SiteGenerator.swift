@@ -98,7 +98,7 @@ struct SiteGenerator {
         let serialItems = serials.tagItems
         for serialItem in serialItems {
             let page = TagItemPage(serialItem)
-            page.setTitle(page.key)
+            page.setTitle(serialItem.key)
             writer.writeSerialItemPage(serialItem, page.render())
         }
         

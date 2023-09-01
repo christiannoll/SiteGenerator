@@ -33,6 +33,6 @@ class TagItemPage : Page {
     }
     
     private var isImage: Bool {
-        tagItem.key == Self.photoKey || tagItem.key == "Digital Art"
+        tagItem.key.starts(with: Self.photoKey) || tagItem.key == "Digital Art"
     }
 }
