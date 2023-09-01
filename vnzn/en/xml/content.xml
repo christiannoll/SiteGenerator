@@ -262,6 +262,7 @@
 	<date>20.02.2020</date>
 	<index></index>
 	<tags><t>Photo</t></tags>
+	<serial>Photos: Abstract</serial>
 </item>
 <item type="text" format="normal">
 	<name>daten_hypochondrie</name>
@@ -321,6 +322,7 @@
 	<date>05.03.2020</date>
 	<index></index>
 	<tags><t>Photo</t></tags>
+	<serial>Photos: Poster</serial>
 </item>
 <item type="text" format="normal">
 	<name>paul_klee_2</name>
@@ -377,6 +379,7 @@
 	<date>22.03.2020</date>
 	<index></index>
 	<tags><t>Photo</t></tags>
+	<serial>Photos: Poster</serial>
 </item>
 <item type="text" format="normal">
 	<name>2001_zeit_monolith</name>
@@ -435,6 +438,7 @@
 	<date>09.04.2020</date>
 	<index></index>
 	<tags><t>Photo</t></tags>
+	<serial>Photos: Poster</serial>
 </item>
 <item type="text" format="normal">
 	<name>stanley_kubrick</name>
@@ -643,6 +647,7 @@
 	<date>27.06.2020</date>
 	<index></index>
 	<tags><t>Photo</t></tags>
+	<serial>Photos: Abstract</serial>
 </item>
 <item type="text" format="normal">
 	<name>warum_wir_schlafen</name>
@@ -697,6 +702,7 @@
 	<date>21.07.2020</date>
 	<index></index>
 	<tags><t>Photo</t></tags>
+	<serial>Photos: Abstract</serial>
 </item>
 <item type="text" format="normal">
 	<name>complexity_and_science</name>
@@ -754,6 +760,7 @@
 	<date>14.08.2020</date>
 	<index></index>
 	<tags><t>Photo</t></tags>
+	<serial>Photos: Abstract</serial>
 </item>
 <item type="text" format="normal">
 	<name>bauhaus_hannes_meyer</name>
@@ -1089,6 +1096,7 @@
 	<date>05.01.2021</date>
 	<index></index>
 	<tags><t>Photo</t></tags>
+	<serial>Photos: Abstract</serial>
 </item>
 <item type="text" format="randomWordColor">
 	<name>blue_lines</name>
@@ -1171,6 +1179,7 @@
 	<date>10.02.2021</date>
 	<index></index>
 	<tags><t>Photo</t></tags>
+	<serial>Photos: Poster</serial>
 </item>
 <item type="text" format="normal">
 	<name>great_filter</name>
@@ -1208,6 +1217,7 @@
 	<date>22.02.2021</date>
 	<index></index>
 	<tags><t>Photo</t></tags>
+	<serial>Photos: Poster</serial>
 </item>
 <item type="text" format="randomLinkColor">
 	<name>requiem_for_a_dream</name>
@@ -1454,6 +1464,7 @@
 	<date>29.05.2021</date>
 	<index></index>
 	<tags><t>Photo</t></tags>
+	<serial>Photos: Abstract</serial>
 </item>
 <item type="text" format="normal">
 	<name>skin</name>
@@ -1543,6 +1554,7 @@
 	<date>04.07.2021</date>
 	<index></index>
 	<tags><t>Photo</t></tags>
+	<serial>Photos: Abstract</serial>
 </item>
 <item type="text" format="randomLinkColor">
 	<name>Aguirre-wrath-of-God</name>
@@ -1701,6 +1713,7 @@
 	<date>02.09.2021</date>
 	<index></index>
 	<tags><t>Photo</t></tags>
+	<serial>Photos: Abstract</serial>
 </item>
 <item type="text" format="normal">
 	<name>kids_and_lies</name>
@@ -1822,6 +1835,7 @@
 	<date>20.10.2021</date>
 	<index></index>
 	<tags><t>Photo</t></tags>
+	<serial>Photos: Poster</serial>
 </item>
 <item type="text" format="normal">
 	<name>man_and_machine</name>
@@ -2223,6 +2237,7 @@
 	<date>20.03.2022</date>
 	<index></index>
 	<tags><t>Photo</t></tags>
+	<serial>Photos: Abstract</serial>
 </item>
 <item type="text" format="randomLinkColor">
 	<name>forty_two</name>
@@ -2253,6 +2268,7 @@
 	<date>01.04.2022</date>
 	<index></index>
 	<tags><t>Photo</t></tags>
+	<serial>Photos: Abstract</serial>
 </item>
 <item type="text" format="normal">
 	<name>prostetnik_vogon_jeltz</name>
@@ -2654,6 +2670,7 @@
 	<date>04.09.2022</date>
 	<index></index>
 	<tags><t>Photo</t></tags>
+	<serial>Photos: Poster</serial>
 </item>
 <item type="text" format="normal">
 	<name>fragments_and_comments</name>
@@ -3505,6 +3522,7 @@
 	<date>07.08.2023</date>
 	<index></index>
 	<tags><t>Photo</t></tags>
+	<serial>Photos: Abstract</serial>
 </item>
 <item type="text" format="normal">
 	<name>the_eight_stages</name>
@@ -3541,6 +3559,7 @@
 	<date>19.08.2023</date>
 	<index></index>
 	<tags><t>Photo</t></tags>
+	<serial>Photos: Poster</serial>
 </item>
 <item type="text" format="normal">
 	<name>el_kirchner_art</name>
