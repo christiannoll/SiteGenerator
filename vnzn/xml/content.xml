@@ -3606,4 +3606,14 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="randomLinksColor">
+	<name>new_photo_series</name>
+	<title>v.n.z.n - Neue Fotoserien</title>
+	<data>Zwei neue Fotoserien:
+	* [Serie: Abstrakt](#serials/Fotos--Abstrakt/)
+	* [Serie: Poster](#serials/Fotos--Poster/)</data>
+	<date>04.09.2023</date>
+	<index><i>Minimalismus</i></index>
+	<tags><t>Kunst</t></tags>
+</item>
 </content>

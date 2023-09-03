@@ -3608,4 +3608,14 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="randomLinksColor">
+	<name>new_photo_series</name>
+	<title>v.n.z.n - New photo series</title>
+	<data>Two new photo series:
+	* [Series: Abstract](#serials/Photos--Abstract/)
+	* [Series: Poster](#serials/Photos--Poster/)</data>
+	<date>04.09.2023</date>
+	<index><i>Minimalism</i></index>
+	<tags><t>Art</t></tags>
+</item>
 </content>
