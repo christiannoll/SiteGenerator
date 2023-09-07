@@ -3616,4 +3616,21 @@
 	<index><i>Minimalismus</i></index>
 	<tags><t>Kunst</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>thoughts_about_complexity</name>
+	<title>Über Komplexität</title>
+	<data>* [Was kann ich wissen?](#2023/07/10/knowledge_dilemma/)
+	* [Sprache und Abstraktion](#2022/09/20/language_and_abstraction/)
+	* [Hanlons Rasiermesser](#2022/01/16/hanlons_razor/)
+	* [Symmetrie als universelles Prinzip](#2021/08/01/symmetry_and_order/)
+	* [Die wunderbare Welt der Zahlen](#2021/05/09/wonderful_numbers/)
+	* [Ockhams Rasiermesser](#2021/01/01/occams_razor/)
+	* [Kolmogorow-Komplexität](#2020/10/09/kolmogorov_complexity/)
+	* [Komplexität in der Programmiersprache Swift](#2020/09/27/comlexity_in_swift/)
+	* [Spiel des Lebens](#2020/02/16/spiel_des_lebens/)
+	* [Kunst der Fuge](#2020/01/21/kunst_der_fuge/)</data>
+	<date>08.09.2023</date>
+	<index><i>Komplexität</i></index>
+	<tags><t>Allgemein</t></tags>
+</item>
 </content>
