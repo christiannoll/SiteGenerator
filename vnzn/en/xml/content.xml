@@ -3635,4 +3635,12 @@
 	<index><i>Complexity</i></index>
 	<tags><t>General</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>stripes_3</name>
+	<title>Stripes 3</title>
+	<data>stripes3_small.png</data>
+	<date>12.09.2023</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
 </content>
