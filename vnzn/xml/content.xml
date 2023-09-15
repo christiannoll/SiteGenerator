@@ -3641,4 +3641,12 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>future_not_found</name>
+	<title>404 - Future not found</title>
+	<data>Die Menschen haben eine große Zukunft hinter sich. \ Machts gut und danke für die Bytes.</data>
+	<date>16.09.2023</date>
+	<index><i>Zukunft</i></index>
+	<tags><t>Gesellschaft</t></tags>
+</item>
 </content>
