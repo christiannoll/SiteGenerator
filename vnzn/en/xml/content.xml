@@ -3651,4 +3651,13 @@
 	<index><i>Future</i></index>
 	<tags><t>Society</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>spinozas_metaphysics</name>
+	<title>Spinoza: God as a singular substance</title>
+	<data>The Dutch philosopher [Baruch de Spinoza](https://en.wikipedia.org/wiki/Baruch_Spinoza) (*1632* - *1677*) on God as a singular substance:
+	"God is the infinite, substantively constant in its attributes, unified, and eternal substance. By substance, I mean that which is in itself and is conceived through itself, that is, that whose concept does not require the concept of another thing in order to be formed. A substance cannot be produced by another substance."</data>
+	<date>20.09.2023</date>
+	<index><i type="Person">Baruch de Spinoza</i></index>
+	<tags><t>Philosophy</t></tags>
+</item>
 </content>
