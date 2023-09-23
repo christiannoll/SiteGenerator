@@ -3660,4 +3660,12 @@
 	<index><i type="Person">Baruch de Spinoza</i></index>
 	<tags><t>Philosophy</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>dance</name>
+	<title>Dance</title>
+	<data>dance_small.png</data>
+	<date>24.09.2023</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
 </content>

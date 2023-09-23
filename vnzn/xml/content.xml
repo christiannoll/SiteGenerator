@@ -3658,4 +3658,12 @@
 	<index><i type="Person">Baruch de Spinoza</i></index>
 	<tags><t>Philosophie</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>dance</name>
+	<title>Dance</title>
+	<data>dance_small.png</data>
+	<date>24.09.2023</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
