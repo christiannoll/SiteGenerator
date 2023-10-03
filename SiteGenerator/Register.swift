@@ -8,7 +8,8 @@ struct Register {
         var divChildren: [SmlNode] = []
         
         for registerItem in registerItems {
-            let h_4 = h4([.text(registerItem.content)])
+            let h_4 = h4([.text(registerItem.content)], 
+                         idString: registerItem.content.convertToUrlPath())
             divChildren.append(h_4)
             divChildren.append(newLine)
             divChildren.append(registerItem.renderPostListItem())

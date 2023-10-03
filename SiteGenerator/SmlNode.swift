@@ -79,6 +79,10 @@ func h4(_ children: [SmlNode]) -> SmlNode {
     return node("h4", [], children)
 }
 
+func h4(_ children: [SmlNode], idString: String) -> SmlNode {
+    return node("h4", [id => idString], children)
+}
+
 func div(_ attribs: [SmlAttribute], _ children: [SmlNode]) -> SmlNode {
     return node("div", attribs, children)
 }
