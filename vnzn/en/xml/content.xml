@@ -3696,4 +3696,13 @@
 	<index><i>Creativity</i></index>
 	<tags><t>Literature</t><t>Music</t><t>Movie</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>poster8</name>
+	<title>Poster</title>
+	<data>poster8_small.png</data>
+	<date>06.10.2023</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+	<serial>Photos: Poster</serial>
+</item>
 </content>
