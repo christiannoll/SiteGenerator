@@ -168,6 +168,10 @@ struct SiteGenerator {
         let personsRegisterPage = PersonsRegisterPage(personsRegister)
         personsRegisterPage.setTitle()
         writer.writePersonsRegisterPage(personsRegisterPage.render())
+        
+        let personCloudPage = PersonCloudPage(personsRegister)
+        personCloudPage.setTitle()
+        writer.writePersonCloudPage(personCloudPage.render())
     }
     
     private func writeMoviesRegisterPage(_ writer: PageWriter) {

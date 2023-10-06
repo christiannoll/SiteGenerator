@@ -64,6 +64,10 @@ class Page {
         get { SiteGeneratorEnv.forGerman() ? "Wortwolke" : "Word Cloud" }
     }
     
+    var personCloudTitle: String {
+        get { SiteGeneratorEnv.forGerman() ? "Personenwolke" : "Person Cloud" }
+    }
+    
     var storiesTitle: String {
         get { SiteGeneratorEnv.forGerman() ? "Kurzgeschichten" : "Short Stories"}
     }
@@ -221,6 +225,15 @@ class Page {
     
     func createMastodonRelMeLink() -> SmlNode {
         link([rel => "me", href => "https://mas.to/@vnzn"])
+    }
+    
+    static func getStyleAttributeText(_ numberOfPosts: Int) -> String {
+        let fontSizeText = numberOfPosts < 10 ? "font-size:1.\(numberOfPosts)em;" : "font-size:\(Double(numberOfPosts + 10) / 10.0)em;"
+        
+        let color = FormatBuilder.randomColors[Int.random(in: 0 ..< FormatBuilder.randomColors.count)]
+        let colorText = " color:\(color);"
+        
+        return fontSizeText + colorText
     }
     
     private func renderBurgerButton() -> SmlNode {

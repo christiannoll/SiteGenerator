@@ -42,6 +42,9 @@ class BetaPage : Page {
         ulChildren.append(renderItem(wordCloudTitle, "wordcloud"))
         ulChildren.append(newLine)
         
+        ulChildren.append(renderItem(personCloudTitle, "personcloud"))
+        ulChildren.append(newLine)
+        
         ulChildren.append(renderItem(storiesTitle, "tags/" + TagItemPage.storyKey))
         ulChildren.append(newLine)
         

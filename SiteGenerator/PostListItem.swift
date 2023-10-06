@@ -5,6 +5,10 @@ class PostListItem {
     private let postBuilder = PostBuilder()
     private var posts: [Item] = []
     
+    var numberOfPosts: Int {
+        get { return posts.count }
+    }
+    
     func addPost(_ post: Item) {
         if !containsPost(post) {
             posts.append(post)

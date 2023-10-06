@@ -8,6 +8,11 @@ struct PersonsRegister {
         register.renderRegister()
     }
     
+    func renderRegisterCloud() -> SmlNode {
+        let headerText = SiteGeneratorEnv.forGerman() ? "Personenwolke" : "Person Cloud"
+        return register.renderRegisterCloud(headerText: headerText)
+    }
+    
     fileprivate mutating func sort() {
         register.sort()
     }
