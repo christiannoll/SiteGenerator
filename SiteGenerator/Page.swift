@@ -61,7 +61,7 @@ class Page {
     }
     
     var wordCloudTitle: String {
-        get { SiteGeneratorEnv.forGerman() ? "Wortwolke" : "Word Cloud" }
+        get { SiteGeneratorEnv.forGerman() ? "Themenwolke" : "Topics Cloud" }
     }
     
     var personCloudTitle: String {

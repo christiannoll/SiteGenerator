@@ -48,7 +48,7 @@ class Index {
     }
     
     func renderWordCloud() -> SmlNode {
-        let headerText = SiteGeneratorEnv.forGerman() ? "Wortwolke" : "Word Cloud"
+        let headerText = SiteGeneratorEnv.forGerman() ? "Themenwolke" : "Topics Cloud"
         
         var divChildren: [SmlNode] = []
         divChildren.append(newLine)
