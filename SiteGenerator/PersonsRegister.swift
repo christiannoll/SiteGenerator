@@ -9,7 +9,7 @@ struct PersonsRegister {
     }
     
     func renderRegisterCloud() -> SmlNode {
-        let headerText = SiteGeneratorEnv.forGerman() ? "Personenwolke" : "Person Cloud"
+        let headerText = SiteGeneratorEnv.forGerman() ? "Personenwolke" : "People Cloud"
         return register.renderRegisterCloud(headerText: headerText)
     }
     

@@ -45,7 +45,7 @@ class Page {
     }
     
     var personsTitle: String {
-        get { SiteGeneratorEnv.forGerman() ? "Personen" : "Persons" }
+        get { SiteGeneratorEnv.forGerman() ? "Personen" : "People" }
     }
     
     var moviesTitle: String {
@@ -65,7 +65,7 @@ class Page {
     }
     
     var personCloudTitle: String {
-        get { SiteGeneratorEnv.forGerman() ? "Personenwolke" : "Person Cloud" }
+        get { SiteGeneratorEnv.forGerman() ? "Personenwolke" : "People Cloud" }
     }
     
     var storiesTitle: String {
