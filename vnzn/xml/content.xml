@@ -3703,4 +3703,14 @@
 	<tags><t>Foto</t></tags>
 	<serial>Fotos: Poster</serial>
 </item>
+<item type="text" format="normal">
+	<name>topics_and_people</name>
+	<title>v.n.z.n - Themen und Personen</title>
+	<data>Alle wichtigen Themen und Personen auf [v.n.z.n](#) :
+	* [Themen](#wordcloud/)
+	* [Personen](#personcloud/)</data>
+	<date>10.10.2023</date>
+	<index></index>
+	<tags><t>Allgemein</t></tags>
+</item>
 </content>

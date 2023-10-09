@@ -3705,4 +3705,14 @@
 	<tags><t>Photo</t></tags>
 	<serial>Photos: Poster</serial>
 </item>
+<item type="text" format="normal">
+	<name>topics_and_people</name>
+	<title>v.n.z.n - Topics and People</title>
+	<data>All important topics and people on [v.n.z.n](#) :
+	* [Topics](#wordcloud/)
+	* [People](#personcloud/)</data>
+	<date>10.10.2023</date>
+	<index></index>
+	<tags><t>General</t></tags>
+</item>
 </content>
