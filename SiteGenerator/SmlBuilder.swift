@@ -6,7 +6,7 @@ public class SmlBuilder {
     
     public static func buildUrl(_ urlString: String) -> String {
         if urlString.starts(with: "#") {
-            return urlString.replacingOccurrences(of: "#", with: Page.baseUrl)
+            return urlString.replaceFirst(of: "#", with: Page.baseUrl)
         }
         return urlString
     }
@@ -116,5 +116,16 @@ public class SmlBuilder {
             }
         }
         return s
+    }
+}
+
+extension String {
+    
+    public func replaceFirst(of pattern: String, with replacement: String) -> String {
+        if let range = self.range(of: pattern) {
+            self.replacingCharacters(in: range, with: replacement)
+        } else {
+            self
+        }
     }
 }
