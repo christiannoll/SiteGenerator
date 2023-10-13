@@ -3715,4 +3715,12 @@
 	<index></index>
 	<tags><t>General</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>conways_cat</name>
+	<title>Conway's Cat</title>
+	<data>"You know, people think mathematics is complicated. Mathematics is the simple bit. It's the stuff we can understand. It's cats that are complicated." [John Conway](#persons/#John-Conway) (*1937* - *2020*)</data>
+	<date>14.10.2023</date>
+	<index><i type="Person">John Conway</i></index>
+	<tags><t>Mathematics</t></tags>
+</item>
 </content>

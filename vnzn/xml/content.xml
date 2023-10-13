@@ -3713,4 +3713,12 @@
 	<index></index>
 	<tags><t>Allgemein</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>conways_cat</name>
+	<title>Conways Katze</title>
+	<data>"Wissen Sie, die Leute denken, Mathematik sei kompliziert. Mathematik ist das Einfache. Es ist das, was wir verstehen können. Es sind Katzen, die kompliziert sind." [John Conway](#persons/#John-Conway) (*1937* - *2020*)</data>
+	<date>14.10.2023</date>
+	<index><i type="Person">John Conway</i></index>
+	<tags><t>Mathematik</t></tags>
+</item>
 </content>
