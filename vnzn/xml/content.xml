@@ -3721,4 +3721,12 @@
 	<index><i type="Person">John Conway</i></index>
 	<tags><t>Mathematik</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>package</name>
+	<title>Package</title>
+	<data>package_small.png</data>
+	<date>18.10.2023</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
