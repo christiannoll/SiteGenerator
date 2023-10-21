@@ -3731,4 +3731,13 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>our_mission_in_life</name>
+	<title>Our mission in life</title>
+	<data>It is not meaningful to look for a [purpose](#2022/11/11/the_mission) for your own life.
+	"Our most important and dignified work is to live properly." - [Michel de Montaigne](https://en.wikipedia.org/wiki/Michel_de_Montaigne) (*1533* - *1592*)</data>
+	<date>22.10.2023</date>
+	<index><i type="Person">Michel de Montaigne</i></index>
+	<tags><t>General</t><t>Philosophy</t></tags>
+</item>
 </content>
