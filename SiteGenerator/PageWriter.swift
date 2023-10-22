@@ -102,6 +102,10 @@ class PageWriter {
         writeHtmlFile(content, "personcloud/", "index.html")
     }
     
+    public func writeErrorPage(_ content: String, errorNumber: String) {
+        writeHtmlFile(content, "error/", "error_" + errorNumber + ".html")
+    }
+    
     public func writeBetaPage(_ content: String) {
         writeHtmlFile(content, "beta/", "index.html")
     }

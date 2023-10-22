@@ -92,6 +92,10 @@ class Page {
         get { SiteGeneratorEnv.forGerman() ? "Ein langer Strom" : "A long stream" }
     }
     
+    var errorTitle: String {
+        get { SiteGeneratorEnv.forGerman() ? "Fehler" : "Error" }
+    }
+    
     var metaDescriptionContent: String {
         get { SiteGeneratorEnv.forGerman() ? "Fragmente aus der Vergangenheit, Gegenwart und Zukunft." : "Fragments from the past, present and future." }
     }

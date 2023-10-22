@@ -140,6 +140,7 @@ struct SiteGenerator {
         writeMoviesRegisterPage(writer)
         writeBooksRegisterPage(writer)
         writeWordCloudPage(writer)
+        writeErrorPages(writer)
         
         let betaPage = BetaPage()
         betaPage.setTitle()
@@ -196,6 +197,37 @@ struct SiteGenerator {
         let wordCloudPage = WordCloudPage(index)
         wordCloudPage.setTitle()
         writer.writeWordCloudPage(wordCloudPage.render())
+    }
+    
+    private func writeErrorPages(_ writer: PageWriter) {
+        write401Page(writer)
+        write403Page(writer)
+        write404Page(writer)
+        write500Page(writer)
+    }
+    
+    private func write401Page(_ writer: PageWriter) {
+        let errorPage = ErrorPage(errorText: "401 " + (SiteGeneratorEnv.forGerman() ? "Nicht authorisiert" : "Unauthorized"))
+        errorPage.setTitle()
+        writer.writeErrorPage(errorPage.render(), errorNumber: "401")
+    }
+    
+    private func write403Page(_ writer: PageWriter) {
+        let errorPage = ErrorPage(errorText: "403 " + (SiteGeneratorEnv.forGerman() ? "Gesperrt" : "Forbidden"))
+        errorPage.setTitle()
+        writer.writeErrorPage(errorPage.render(), errorNumber: "403")
+    }
+    
+    private func write404Page(_ writer: PageWriter) {
+        let errorPage = ErrorPage(errorText: "404 " + (SiteGeneratorEnv.forGerman() ? "Nicht gefunden" : "Not Found"))
+        errorPage.setTitle()
+        writer.writeErrorPage(errorPage.render(), errorNumber: "404")
+    }
+    
+    private func write500Page(_ writer: PageWriter) {
+        let errorPage = ErrorPage(errorText: "500 " + (SiteGeneratorEnv.forGerman() ? "Serverfehler" : "Internal Server Error"))
+        errorPage.setTitle()
+        writer.writeErrorPage(errorPage.render(), errorNumber: "500")
     }
     
     private func shuffledPosts() -> [Item] {
