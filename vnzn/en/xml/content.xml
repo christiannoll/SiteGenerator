@@ -3740,4 +3740,25 @@
 	<index><i type="Person">Michel de Montaigne</i></index>
 	<tags><t>General</t><t>Philosophy</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>our_mission_in_life</name>
+	<title>Lebensaufgabe</title>
+	<data>Es ist nicht sinnvoll, nach einer [Aufgabe](#2022/11/11/the_mission) für das eigene Leben zu suchen.
+	"Wir dürfen niemals vergessen: Unsere vornehmste Aufgabe ist es zu leben." - [Michel de Montaigne](https://de.wikipedia.org/wiki/Michel_de_Montaigne) (*1533* - *1592*)</data>
+	<date>22.10.2023</date>
+	<index><i type="Person">Michel de Montaigne</i></index>
+	<tags><t>Allgemein</t><t>Philosophie</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>einsteins_brain</name>
+	<title>Einstein's Brain</title>
+	<data>[Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) is not only considered a genius who revolutionized physics through the [theory of relativity](https://en.wikipedia.org/wiki/Theory_of_relativity), he may also have unintentionally made a decisive contribution to a better understanding of how our brain works.
+	When pathologist Thomas Harvey autopsied Einstein's body in Princeton Hospital on April 18, *1955*, he secretly removed his brain and eyes without permission. After hiding Einstein's brain in his home for 27 years, Harvey allows other scientists to study it. Now it was possible to investigate why Albert Einstein was so intelligent.
+	During the examination it turned out that the number and size of the neurons were completely normal. However, neuroanatomist Marian C. Diamond discovered an unusually large number of so-called [astrocytes](https://en.wikipedia.org/wiki/Astrocyte) in Einstein's associative cortex, the region responsible for higher thought processes - significantly more than would be expected in the brain of an average human.
+	Astrocytes are a subtype of [glial cells](https://en.wikipedia.org/wiki/Glia) and only in recent years have scientists realized that they play a much more complex role than previously thought. Astrocytes have many functions, they control synapses, blood flow to the brain, they provide nutrients to neurons and respond to injury. Through these tasks they are able to control the neurons.
+	Experiments have shown that astrocytes support memory and the ability to learn. They therefore play a key role in our [intelligence](https://en.wikipedia.org/wiki/Intelligence).</data>
+	<date>26.10.2023</date>
+	<index><i type="Person">Albert Einstein</i><i>Intelligence</i></index>
+	<tags><t>Biology</t></tags>
+</item>
 </content>

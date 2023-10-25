@@ -3738,4 +3738,16 @@
 	<index><i type="Person">Michel de Montaigne</i></index>
 	<tags><t>Allgemein</t><t>Philosophie</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>einsteins_brain</name>
+	<title>Einsteins Gehirn</title>
+	<data>[Albert Einstein](https://de.wikipedia.org/wiki/Albert_Einstein) gilt nicht nur als Genie, das die Physik durch die [Relativitätstheorie](https://de.wikipedia.org/wiki/Relativit%C3%A4tstheorie) revolutionierte, vielleicht hat er auch ungewollt einen entscheidenden Beitrag zum besseren Verständnis der Funktionsweise unseres Gehirns beigetragen.
+	Als am 18. April *1955* der Pathologe Thomas Harvey im Krankenhauses von Princeton die Leiche Einsteins obduzierte, entnahm er heimlich und ohne Genehmigung dessen Gehirn und Augen. Nachdem Harvey Einsteins Gehirn 27 Jahre bei sich zu Hause versteckt hatte, erlaubt er es anderen Wissenschaftlern es zu untersuchen. Jetzt konnte versucht werden, herauszufinden warum Albert Einstein so intelligent war.
+	Bei der Untersuchung stellte sich heraus, dass die Anzahl und die Größe der Neuronen völlig normal war. Die Neuroanatomin Marian C. Diamond entdeckte jedoch in Einsteins assoziativem Kortex, der für höhere Denkprozesse zuständigen Region, ungewöhnlich viele sogenannte [Astrozyten](https://de.wikipedia.org/wiki/Astrozyt) - signifikant mehr als im Gehirn eines durchschnittlichen Menschen zu erwarten wären.
+	Astrozyten sind ein Subtyp der [Gliazellen](https://de.wikipedia.org/wiki/Gliazelle) und erst in den letzen Jahren haben Wissenschaftler erkannt, dass sie eine weitaus komplexere Rolle spielen als gedacht. Astrozyten haben viele Funktionen, sie kontrollieren die Synapsen, die Durchblutung des Gehirns, sie liefern Nährstoffe für die Neuronen und reagieren auf Verletzungen. Durch diese Aufgaben sind sie in der Lage, die Neuronen zu kontrollieren. 
+	Experimente haben gezeigt, dass die Astrozyten das Erinnerungsvermögen und die Lernfähigkeit unterstützen. Sie spielen also eine Schlüsselrolle für unsere [Intelligenz](https://de.wikipedia.org/wiki/Intelligenz).</data>
+	<date>26.10.2023</date>
+	<index><i type="Person">Albert Einstein</i><i>Intelligenz</i></index>
+	<tags><t>Biologie</t></tags>
+</item>
 </content>
