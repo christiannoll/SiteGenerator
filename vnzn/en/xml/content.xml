@@ -3741,15 +3741,6 @@
 	<tags><t>General</t><t>Philosophy</t></tags>
 </item>
 <item type="text" format="normal">
-	<name>our_mission_in_life</name>
-	<title>Lebensaufgabe</title>
-	<data>Es ist nicht sinnvoll, nach einer [Aufgabe](#2022/11/11/the_mission) für das eigene Leben zu suchen.
-	"Wir dürfen niemals vergessen: Unsere vornehmste Aufgabe ist es zu leben." - [Michel de Montaigne](https://de.wikipedia.org/wiki/Michel_de_Montaigne) (*1533* - *1592*)</data>
-	<date>22.10.2023</date>
-	<index><i type="Person">Michel de Montaigne</i></index>
-	<tags><t>Allgemein</t><t>Philosophie</t></tags>
-</item>
-<item type="text" format="normal">
 	<name>einsteins_brain</name>
 	<title>Einstein's Brain</title>
 	<data>[Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) is not only considered a genius who revolutionized physics through the [theory of relativity](https://en.wikipedia.org/wiki/Theory_of_relativity), he may also have unintentionally made a decisive contribution to a better understanding of how our brain works.
@@ -3760,5 +3751,13 @@
 	<date>26.10.2023</date>
 	<index><i type="Person">Albert Einstein</i><i>Intelligence</i></index>
 	<tags><t>Biology</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>hoodie</name>
+	<title>Hoodie</title>
+	<data>hoodie_small.png</data>
+	<date>30.10.2023</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
 </item>
 </content>

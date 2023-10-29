@@ -3750,4 +3750,12 @@
 	<index><i type="Person">Albert Einstein</i><i>Intelligenz</i></index>
 	<tags><t>Biologie</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>hoodie</name>
+	<title>Hoodie</title>
+	<data>hoodie_small.png</data>
+	<date>30.10.2023</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
