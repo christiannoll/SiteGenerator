@@ -3760,4 +3760,14 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>dinosaur</name>
+	<title>Dinosaurs vs. Humans</title>
+	<data>[Dinosaurs](https://en.wikipedia.org/wiki/Dinosaur) lived on earth from about *245* million years ago to about *66* million years ago.
+	[Homo sapiens](https://en.wikipedia.org/wiki/Human) lived about *315* thousand years ago until about *???* on earth.
+	The scientific study of dinosaurs began in England in the 19th century. The group name "Dinosauria" was coined in *1842* by the anatomist Richard Owen. Historical people who knew nothing about dinosaurs: [Johann Wolfgang von Goethe](https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe), [Immanuel Kant](https://en.wikipedia.org/wiki/Immanuel_Kant), [Franz Schubert](https://en.wikipedia.org/wiki/Franz_Schubert), [Georg Wilhelm Friedrich Hegel](https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel)</data>
+	<date>03.11.2023</date>
+	<index><i>Future</i></index>
+	<tags><t>Biology</t></tags>
+</item>
 </content>

@@ -3758,4 +3758,14 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>dinosaur</name>
+	<title>Dinosaurier vs. Mensch</title>
+	<data>[Dinosaurier](https://de.wikipedia.org/wiki/Dinosaurier) lebten vor etwa *245* Millionen Jahren bis etwa vor *66* Millionen Jahren auf der Erde.
+	[Homo Sapiens](https://de.wikipedia.org/wiki/Mensch) lebten vor etwa *315* Tausend Jahren bis etwa *???* auf der Erde.
+	Die wissenschaftliche Erforschung der Dinosaurier begann im 19. Jahrhundert in England. Die Gruppenbezeichnung "Dinosauria" wurde *1842* von dem Anatomen Richard Owen geprägt. Historische Personen die nichts von den Dinosauriern wussten: [Johann Wolfgang von Goethe](https://de.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe), [Immanuel Kant](https://de.wikipedia.org/wiki/Immanuel_Kant), [Franz Schubert](https://de.wikipedia.org/wiki/Franz_Schubert), [Georg Wilhelm Friedrich Hegel](https://de.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel)</data>
+	<date>03.11.2023</date>
+	<index><i>Zukunft</i></index>
+	<tags><t>Biologie</t></tags>
+</item>
 </content>
