@@ -3768,4 +3768,12 @@
 	<index><i>Zukunft</i></index>
 	<tags><t>Biologie</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>field_of_evil</name>
+	<title>Der Acker des Bösen</title>
+	<data>Tag für Tag wird der Acker bestellt, \ Korn für Korn \ und wenn die Saat des Bösen aufgeht, \ wächst und gedeiht, \ kommt irgendwann die Zeit der Ernte - \ und es ist [KRIEG](#index/Krieg/).</data>
+	<date>07.11.2023</date>
+	<index><i>Krieg</i></index>
+	<tags><t>Gesellschaft</t></tags>
+</item>
 </content>

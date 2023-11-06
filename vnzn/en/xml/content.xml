@@ -3770,4 +3770,12 @@
 	<index><i>Future</i></index>
 	<tags><t>Biology</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>field_of_evil</name>
+	<title>The Field of Evil</title>
+	<data>Day by day, the field is tended, \ grain by grain, \ and when the seed of evil sprouts, \ grows and thrives, \ eventually comes the time of harvest - \ and it is [WAR](#index/War/).</data>
+	<date>07.11.2023</date>
+	<index><i>War</i></index>
+	<tags><t>Society</t></tags>
+</item>
 </content>
