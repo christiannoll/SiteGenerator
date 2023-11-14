@@ -3786,4 +3786,13 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>placebo</name>
+	<title>The placebo effect</title>
+	<data>When a patient is prescribed a [placebo](https://en.wikipedia.org/wiki/Placebo) by a doctor and assured that it works, his body will release endogenous opiates, dopamine, and other substances. So the consequences of the placebo are real.
+	People live in the world they believe in.</data>
+	<date>15.11.2023</date>
+	<index><i>Brain</i></index>
+	<tags><t>Society</t><t>Biology</t></tags>
+</item>
 </content>
