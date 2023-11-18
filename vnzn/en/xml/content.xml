@@ -2723,7 +2723,7 @@
 	<name>2001_posts</name>
 	<title>2001: A Space Odyssey</title>
 	<data>* [Time is an illusion](#2020/01/27/2001_zeit_visualisierung/)
-	* [The dawn of Man](2020/02/02/2001_dawn_of_man/)
+	* [The dawn of Man](#2020/02/02/2001_dawn_of_man/)
 	* [The Monolith -I-](#2020/03/25/2001_zeit_monolith/)
 	* [HAL 9000](#2020/06/23/hal_9000/)
 	* [Rhythm](#2020/10/05/2001_rhythmus/)
@@ -3145,7 +3145,7 @@
 	<title>The limits of my world</title>
 	<data>"The limits of my language mean the limits of my world."
 	This statement by [Ludwig Wittgenstein](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein) comes from his work ["Tractatus Logico-Philosophicus"](https://en.wikipedia.org/wiki/Tractatus_Logico-Philosophicus), in which he deals with the meaning and logic of language.
-	If Wittgenstein refers to humans in his statement, it applies and perhaps even more so to [generative AI](index/Artificial-Intelligence/), such as [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT). To the question "Do you think the quote also applies to your programming?" ChatGPT (Mar 14 Version) replied:
+	If Wittgenstein refers to humans in his statement, it applies and perhaps even more so to [generative AI](#index/Artificial-Intelligence/), such as [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT). To the question "Do you think the quote also applies to your programming?" ChatGPT (Mar 14 Version) replied:
 	"... Overall, the Wittgenstein quote may apply to my programming as well, since my skills and understanding are somewhat limited by my language and vocabulary. But unlike humans, I can absorb and process new information quickly and infinitely, and my understanding of the world can expand more quickly as a result." 😱</data>
 	<date>20.03.2023</date>
 	<index><i>Brain</i><i>Language</i><i>Artificial Intelligence</i></index>
@@ -3794,5 +3794,19 @@
 	<date>15.11.2023</date>
 	<index><i>Brain</i></index>
 	<tags><t>Society</t><t>Biology</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>november_2022</name>
+	<title>November a year ago</title>
+	<data>* [Photo: Peeled Face](#2022/11/28/peeled_face/)
+	* [Free will](#2022/11/24/chomsky_on_free_will/)
+	* [Top Four - Philip K. Dick movies](#2022/11/20/top_4_philip_k_dick_movies/)
+	* [Photo: The seagull](#2022/11/15/the_seagull/)
+	* [Short story: The mission](#2022/11/11/the_mission/)
+	* [Leibniz's mill argument](#2022/11/07/muehlengleichnis/)
+	* [Photo: Red Circle](#2022/11/03/red_circle/)</data>
+	<date>19.11.2023</date>
+	<index><i>Past</i></index>
+	<tags><t>General</t></tags>
 </item>
 </content>
