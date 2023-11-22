@@ -3807,4 +3807,12 @@
 	<index><i>Vergangenheit</i></index>
 	<tags><t>Allgemein</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>abstract_12</name>
+	<title>Abstract 12</title>
+	<data>abstract12_small.png</data>
+	<date>23.11.2023</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
