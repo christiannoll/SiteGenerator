@@ -3817,4 +3817,13 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>moby_dick</name>
+	<title>Moby-Dick's opening lines</title>
+	<data>The first lines of [Herman Melville's](https://en.wikipedia.org/wiki/Herman_Melville) novel [Moby-Dick](https://en.wikipedia.org/wiki/Moby-Dick), published in *1851*:
+	"Call me Ishmael. Some years ago-never mind how long precisely-having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world. It is a way I have of driving off the spleen and regulating the circulation. Whenever I find myself growing grim about the mouth; whenever it is a damp, drizzly November in my soul; whenever I find myself involuntarily pausing before coffin warehouses, and bringing up the rear of every funeral I meet; and especially whenever my hypos get such an upper hand of me, that it requires a strong moral principle to prevent me from deliberately stepping into the street, and methodically knocking people's hats off-then, I account it high time to get to sea as soon as I can. This is my substitute for pistol and ball. With a philosophical flourish, Cato throws himself upon his sword; I quietly take to the ship."</data>
+	<date>27.11.2023</date>
+	<index><i type="Person">Herman Melville</i><i type="Book" author="Herman Melville">Moby-Dick</i></index>
+	<tags><t>Literature</t></tags>
+</item>
 </content>

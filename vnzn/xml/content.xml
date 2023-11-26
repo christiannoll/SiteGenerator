@@ -3815,4 +3815,13 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>moby_dick</name>
+	<title>Moby-Dick - Der Anfang</title>
+	<data>Die ersten Zeilen des *1851* von [Herman Melville](https://de.wikipedia.org/wiki/Herman_Melville) erschienen Romans [Moby-Dick](https://de.wikipedia.org/wiki/Moby-Dick):
+	"Nennt mich Ishmael. Als ich vor ein paar Jahren - ohne Belang, wie lange genau her - wenig oder gar kein Geld im Beutel hatte und mich an Land nichts Besonderes reizte, dachte ich, ich wollt ein wenig herumsegeln und den wäßrigen Teil der Erde besehen. Das ist so meine Art, die Trübsal zu vertreiben und die Blutzirkulation zu regulieren. Wann immer ich bemerke, daß ich um den Mund herum grämlich werde; wann immer in meiner Seele ein nasser, niesliger November herrscht; wann immer ich bemerke, daß ich vor Sarglagern stehenbleibe und bei jedem Leichenzug, der mir begegnet die Nachhut bilde; und inbesonderheit, wann immer meine Chondrien so sehr die Oberhand über mich gewinnen, daß nur starke moralische Grundsätze mich davon abhalten können, mit Vorsatz auf die Straße zu treten und systematisch den Leuten die Hüte runterzuschlagen - immer dann ist es höchste Zeit, sobald ich kann zur See zu gehen. Das ist mein Ersatz für Pistole und Kugel. Mit einer philosophischen Sentenz stürzt sich Cato in sein Schwert; ich gehe still aufs Schiff."</data>
+	<date>27.11.2023</date>
+	<index><i type="Person">Herman Melville</i><i type="Book" author="Herman Melville">Moby-Dick</i></index>
+	<tags><t>Literatur</t></tags>
+</item>
 </content>
