@@ -3826,4 +3826,18 @@
 	<index><i type="Person">Herman Melville</i><i type="Book" author="Herman Melville">Moby-Dick</i></index>
 	<tags><t>Literature</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>modernity_in_transition</name>
+	<title>Modernity in transition</title>
+	<data>The period of the [Weimar Republic](https://en.wikipedia.org/wiki/Weimar_Republic) from *1918* to *1933* was a highly productive epoch in Germany for the emergence of new and groundbreaking ideas and concepts:
+	* [Frankfurt School](https://en.wikipedia.org/wiki/Frankfurt_School)
+	* [Bauhaus](#serials/Bauhaus/)
+	* [Twelve-tone technique](https://en.wikipedia.org/wiki/Twelve-tone_technique)
+	* [New Objectivity](https://en.wikipedia.org/wiki/New_Objectivity)
+	* [Dada](https://en.wikipedia.org/wiki/Dada)
+	A general objectification of aesthetic expressions emerged as a new cross-genre stylistic direction and spread beyond the borders of Germany.</data>
+	<date>01.12.2023</date>
+	<index><i>Weimar Republic</i></index>
+	<tags><t>Society</t><t>Art</t><t>Architecture</t></tags>
+</item>
 </content>
