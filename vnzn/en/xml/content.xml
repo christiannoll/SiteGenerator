@@ -3840,4 +3840,12 @@
 	<index><i>Weimar Republic</i></index>
 	<tags><t>Society</t><t>Art</t><t>Architecture</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>abstract_13</name>
+	<title>Abstract 13</title>
+	<data>abstract13_small.png</data>
+	<date>05.12.2023</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
 </content>
