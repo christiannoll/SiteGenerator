@@ -3846,4 +3846,16 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>top_4_edgar_allan_poe</name>
+	<title>Top Four - Werke von Edgar Allan Poe</title>
+	<data>1. [Der Rabe](https://de.wikipedia.org/wiki/Der_Rabe_(Poe))
+	2. [Der Untergang des Hauses Usher](https://de.wikipedia.org/wiki/Der_Untergang_des_Hauses_Usher)
+	3. [William Wilson](https://de.wikipedia.org/wiki/William_Wilson_(Poe))
+	4. [Das verräterische Herz](https://de.wikipedia.org/wiki/Das_verr%C3%A4terische_Herz)</data>
+	<date>09.12.2023</date>
+	<index><i type="Person">Edgar Allan Poe</i></index>
+	<tags><t>Literatur</t></tags>
+	<serial>Top Four</serial>
+</item>
 </content>

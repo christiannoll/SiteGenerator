@@ -3848,4 +3848,16 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>top_4_edgar_allan_poe</name>
+	<title>Top Four - Works by Edgar Allan Poe</title>
+	<data>1. [The Raven](https://en.wikipedia.org/wiki/The_Raven)
+	2. [The Fall of the House of Usher](https://en.wikipedia.org/wiki/The_Fall_of_the_House_of_Usher)
+	3. [William Wilson](https://en.wikipedia.org/wiki/William_Wilson_(short_story))
+	4. [The Tell-Tale Heart](https://en.wikipedia.org/wiki/The_Tell-Tale_Heart)</data>
+	<date>09.12.2023</date>
+	<index><i type="Person">Edgar Allan Poe</i></index>
+	<tags><t>Literature</t></tags>
+	<serial>Top Four</serial>
+</item>
 </content>
