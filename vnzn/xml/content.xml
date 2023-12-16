@@ -3870,4 +3870,12 @@
 	<index><i>Sprache</i></index>
 	<tags><t>Literatur</t><t>Short Story</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>corner</name>
+	<title>Corner</title>
+	<data>corner_small.png</data>
+	<date>17.12.2023</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
