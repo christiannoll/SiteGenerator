@@ -3878,4 +3878,13 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>goethe_and_bach</name>
+	<title>Goethe über Bach</title>
+	<data>[Johann Wolfgang Goethe](https://de.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe) beschrieb *1827* in einem Brief an [Carl Friedrich Zelter](https://de.wikipedia.org/wiki/Carl_Friedrich_Zelter) seine Gefühle beim Hören der Musik von [Johann Sebastian Bach](https://de.wikipedia.org/wiki/Johann_Sebastian_Bach) so: 
+	"Ich sprach mir’s aus: als wenn die ewige Harmonie sich mit sich selbst unterhielte, wie sich’s etwa in Gottes Busen kurz vor der Weltschöpfung, möchte zugetragen haben, so bewegte sich’s auch in meinem Innern, und es war mir, als wenn ich weder Ohren, am wenigsten Augen und weiter keine übrigen Sinne besäße noch brauchte."</data>
+	<date>21.12.2023</date>
+	<index><i type="Person">Johann Wolfgang von Goethe</i><i type="Person">Johann Sebastian Bach</i></index>
+	<tags><t>Musik</t></tags>
+</item>
 </content>

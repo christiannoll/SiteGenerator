@@ -3880,4 +3880,13 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>goethe_and_bach</name>
+	<title>Goethe and Bach</title>
+	<data>[Johann Wolfgang Goethe](https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe) described his feelings when listening to the music of [Johann Sebastian Bach](https://en.wikipedia.org/wiki/Johann_Sebastian_Bach) in a letter to [Carl Friedrich Zelter](https://en.wikipedia.org/wiki/Carl_Friedrich_Zelter) in *1827*:
+	"I said to myself, it is as if the eternal harmony were conversing with itself, as it may have done in God's breast before the creation of the world; that is the way it move deep within me, and it was if I neither possessed or needed ears, nor any other sense—least of all, the eyes."</data>
+	<date>21.12.2023</date>
+	<index><i type="Person">Johann Wolfgang von Goethe</i><i type="Person">Johann Sebastian Bach</i></index>
+	<tags><t>Music</t></tags>
+</item>
 </content>
