@@ -3887,4 +3887,19 @@
 	<index><i type="Person">Johann Wolfgang von Goethe</i><i type="Person">Johann Sebastian Bach</i></index>
 	<tags><t>Musik</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>short_stories</name>
+	<title>Kurzgeschichten</title>
+	<data>* [Winterspaziergang](#2021/10/04/winter_walk/)
+	* [Die Schwäne](#2021/11/05/the_swans/)
+	* [Der Apparat](#2022/01/28/the_device/)
+	* [Advanced Dreaming](#2022/04/21/advanced_dreaming/)
+	* [Die Kollektiv-KI](#2022/08/19/the_collective_ai/)
+	* [Der Auftrag](#2022/11/11/the_mission/)
+	* [Der Wanderzirkus](#2023/09/28/the_traveling_circus/)
+	* [Der Wörtersammler](#2023/12/13/the_word_collector/)</data>
+	<date>25.12.2023</date>
+	<index><i>Rückblick</i><i>Realität</i></index>
+	<tags><t>Literatur</t></tags>
+</item>
 </content>
