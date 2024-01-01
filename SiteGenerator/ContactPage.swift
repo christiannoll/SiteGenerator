@@ -10,7 +10,7 @@ class ContactPage: Page {
         mainChildren.append(createAddress())
         mainChildren.append(newLine)
         
-        let h_C = h4([.text("© Copyright 2019-2023 – Copyright notice")])
+        let h_C = h4([.text("© Copyright 2019-2024 – Copyright notice")])
         mainChildren.append(h_C)
         mainChildren.append(newLine)
         mainChildren.append(createCopyrightText())

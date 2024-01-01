@@ -22,7 +22,7 @@ class ImpressumPage: Page {
         
         mainChildren.append(newLine)
         
-        let h_C = h4([.text("© Copyright 2019-2023 – Urheberrechtshinweis")])
+        let h_C = h4([.text("© Copyright 2019-2024 – Urheberrechtshinweis")])
         mainChildren.append(h_C)
         mainChildren.append(newLine)
         mainChildren.append(createCopyrightText())
