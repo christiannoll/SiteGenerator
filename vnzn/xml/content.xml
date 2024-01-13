@@ -3936,4 +3936,13 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>infinities</name>
+	<title>Unendlichkeiten</title>
+	<data>Wer schon einmal in [Hilberts Hotel](https://de.wikipedia.org/wiki/Hilberts_Hotel) ein Zimmer gebucht hat, kennt das Problem mit den Unendlichkeiten. Es gibt nämlich verschiedene [Unendlichkeiten](https://de.wikipedia.org/wiki/Unendlichkeit). Mathematiker haben erstmals bewiesen, dass die zehn bekannten Unendlichkeiten verschieden sind und eine [Hierarchie](https://de.wikipedia.org/wiki/Cicho%C5%84-Diagramm) haben, also unterschiedlich groß sind. So ist z.B die Unendlichkeit der reellen Zahlen größer als die Unendlichkeit der natürlichen Zahlen.
+	Vielleicht ist auch die Menge der mathematischen Rätsel rund um die Unendlichkeit unendlich groß.</data>
+	<date>14.01.2024</date>
+	<index><i>Unendlichkeit</i><i type="Person">David Hilbert</i><i type="Person">Georg Cantor</i></index>
+	<tags><t>Mathematik</t></tags>
+</item>
 </content>

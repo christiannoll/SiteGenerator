@@ -3938,4 +3938,13 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>infinities</name>
+	<title>Infinities</title>
+	<data>Anyone who has ever booked a room in [Hilbert's Hotel](https://en.wikipedia.org/wiki/Hilbert%27s_paradox_of_the_Grand_Hotel) knows the problem with infinities. There are different [infinities](https://en.wikipedia.org/wiki/Infinity). Mathematicians have proven for the first time that the ten known infinities are different and have a [hierarchy](https://en.wikipedia.org/wiki/Cicho%C5%84%27s_diagram), i.e. they are different sizes. For example, the infinity of real numbers is greater than the infinity of natural numbers.
+	Perhaps the number of mathematical puzzles surrounding infinity is infinitely large.</data>
+	<date>14.01.2024</date>
+	<index><i>infinity</i><i type="Person">David Hilbert</i><i type="Person">Georg Cantor</i></index>
+	<tags><t>Mathematics</t></tags>
+</item>
 </content>
