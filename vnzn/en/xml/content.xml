@@ -3956,4 +3956,12 @@
 	<index><i>Religion</i><i type="Person">Albert Camus</i></index>
 	<tags><t>Philosophy</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>libeskind_dresden</name>
+	<title>Daniel Libeskind in Dresden</title>
+	<data>libeskind_small.png</data>
+	<date>22.01.2024</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
 </content>
