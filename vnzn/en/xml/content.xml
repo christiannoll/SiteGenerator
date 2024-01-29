@@ -3983,4 +3983,14 @@
 	<index><i>Review</i></index>
 	<tags><t>Architecture</t><t>Art</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>random_collection</name>
+	<title>I'm Feeling Lucky</title>
+	<data>* [A random post from the archive](#random/)
+	* [Keyword random](#index/Random/)
+	* [Random timeline](#shuffled/)</data>
+	<date>30.01.2024</date>
+	<index><i>Review</i></index>
+	<tags><t>General</t></tags>
+</item>
 </content>
