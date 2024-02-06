@@ -3999,4 +3999,16 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>offended_mankind</name>
+	<title>Die großen Kränkungen des Menschen</title>
+	<data>1. _Die kosmologische Kränkung_: [Nikolaus Kopernikus](https://de.wikipedia.org/wiki/Nikolaus_Kopernikus) beschreibt *1543* ein [heliozentrisches Weltbild](https://de.wikipedia.org/wiki/Heliozentrisches_Weltbild), nach dem die Erde ein Planet sei, der sich um seine eigene Achse dreht und sich zudem wie die anderen Planeten um die Sonne bewegt. Der Mensch stand nun nicht mehr im Mittelpunkt der Schöpfung. Das erschütterte die Menschen nicht nur in ihrem Glauben sondern stellte auch die geltende Gesellschaftsordnung in Frage.
+	2. _Die biologische Kränkung_: *1859* erschien das Buch "Über die Entstehung der Arten" von [Charles Darwin](https://de.wikipedia.org/wiki/Charles_Darwin). Damit legte er den Grundstein für seine [Evolutionstheorie](https://de.wikipedia.org/wiki/Evolutionstheorie) und der Mensch wurde als Krönung der Schöpfung von seinem Sockel gestoßen. 
+	3. _Die psychologische Kränkung_: Die *1899* von [Sigmund Freud](https://de.wikipedia.org/wiki/Sigmund_Freud) aufgestellte Lehre des Unbewussten stellt nach seiner eigenen Meinung die dritte Kränkung der Menschheit dar. Demnach entzieht sich ein beträchtlicher Teil des Seelenlebens der Kenntnis und der Herrschaft des bewussten Willens. Die [Psychoanalyse](https://de.wikipedia.org/wiki/Psychoanalyse) konfrontiert uns mit der Einsicht, dass das Ich nicht Herr sei im eigenen Haus. Unbewusste Handlungen, Traumwelten, Triebe, insbesondere der Sexualtrieb, Obsessionen und Wünsche bestimmen unsere Handlungen, angefangen von Neurosen, Zwangsvorstellungen und – handlungen bis hin zum Fanatismus. 
+	4. _Die technologische Kränkung_: Die vierte große Kränkung der Menschheit stellen die Technologien dar, mit denen der Mensch eine Welt erschaffen hat, die wir nicht mehr beherrschen können. Dazu zählen u.a. Erderwärmung, Atomenergie und [künstliche Intelligenz](#index/Artificial-Intelligence/). Der Mensch schafft sich am Ende vielleicht selber ab.
+	</data>
+	<date>07.02.2024</date>
+	<index><i>Artificial Intelligence</i><i type="Person">Nikolaus Kopernikus</i><i type="Person">Charles Darwin</i><i type="Person">Sigmund Freud</i></index>
+	<tags><t>Gesellschaft</t><t>Technologie</t></tags>
+</item>
 </content>

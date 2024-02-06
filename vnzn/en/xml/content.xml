@@ -4001,4 +4001,15 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>offended_mankind</name>
+	<title>The Great Affronts to Humanity</title>
+	<data>1. _The cosmological affront_: In *1543*, [Nicolaus Copernicus](https://en.wikipedia.org/wiki/Nicolaus_Copernicus) described a [heliocentric model](https://en.wikipedia.org/wiki/Heliocentrism) in which the Earth is a planet rotating on its own axis and, like other planets, orbiting the sun. This displaced humanity from the center of creation, shaking not only their beliefs but also challenging the prevailing social order.
+	2. _The biological affront_: In *1859*, [Charles Darwin's](https://en.wikipedia.org/wiki/Charles_Darwin) book "On the Origin of Species" laid the foundation for his theory of [evolution](https://en.wikipedia.org/wiki/Evolution), dethroning humanity as the pinnacle of creation.
+	3. _The psychological affront_: [Sigmund Freud's](https://en.wikipedia.org/wiki/Sigmund_Freud) *1899* theory of the unconscious is considered by him as the third affront to humanity. According to Freud, a considerable part of the inner life eludes the knowledge and control of conscious will. [Psychoanalysis](https://en.wikipedia.org/wiki/Psychoanalysis) confronts us with the realization that the ego is not the master in its own house. Unconscious actions, dream worlds, instincts, especially the sexual drive, obsessions, and desires determine our actions, ranging from neuroses and compulsions to fanaticism.
+	4. _The technological affront_: The fourth great affront to humanity is represented by the technologies through which humans have created a world they can no longer control. This includes issues such as global warming, nuclear energy, and [artificial intelligence](#index/Artificial-Intelligence/). In the end, humanity might be the architect of its own demise.</data>
+	<date>07.02.2024</date>
+	<index><i>Artificial Intelligence</i><i type="Person">Nikolaus Kopernikus</i><i type="Person">Charles Darwin</i><i type="Person">Sigmund Freud</i></index>
+	<tags><t>Society</t><t>Technology</t></tags>
+</item>
 </content>
