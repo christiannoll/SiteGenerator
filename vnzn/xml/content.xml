@@ -4011,4 +4011,12 @@
 	<index><i>Artificial Intelligence</i><i type="Person">Nikolaus Kopernikus</i><i type="Person">Charles Darwin</i><i type="Person">Sigmund Freud</i></index>
 	<tags><t>Gesellschaft</t><t>Technologie</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>certified_human</name>
+	<title>Certified Human</title>
+	<data>Jemand musste K verleumdet haben, denn ohne das er etwas unmenschliches getan hätte, wurde ihm eines Morgens mitgeteilt, dass ihm seine Zertifizierung als [Mensch](https://de.wikipedia.org/wiki/Mensch) entzogen wurde.</data>
+	<date>11.02.2024</date>
+	<index><i>Artificial Intelligence</i><i type="Person">Franz Kafka</i></index>
+	<tags><t>Gesellschaft</t><t>Technologie</t><t>Literatur</t></tags>
+</item>
 </content>

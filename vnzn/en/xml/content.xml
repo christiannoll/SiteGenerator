@@ -4012,4 +4012,12 @@
 	<index><i>Artificial Intelligence</i><i type="Person">Nikolaus Kopernikus</i><i type="Person">Charles Darwin</i><i type="Person">Sigmund Freud</i></index>
 	<tags><t>Society</t><t>Technology</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>certified_human</name>
+	<title>Certified Human</title>
+	<data>Someone must have slandered K, because without him doing anything inhumane, he was informed one morning that his certification as a [human](https://en.wikipedia.org/wiki/Human) had been revoked.</data>
+	<date>11.02.2024</date>
+	<index><i>Artificial Intelligence</i><i type="Person">Franz Kafka</i></index>
+	<tags><t>Society</t><t>Technology</t><t>Literature</t></tags>
+</item>
 </content>
