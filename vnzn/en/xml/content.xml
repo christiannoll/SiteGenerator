@@ -4020,4 +4020,12 @@
 	<index><i>Artificial Intelligence</i><i type="Person">Franz Kafka</i></index>
 	<tags><t>Society</t><t>Technology</t><t>Literature</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>faces</name>
+	<title>Faces</title>
+	<data>faces_small.png</data>
+	<date>15.02.2024</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
 </content>

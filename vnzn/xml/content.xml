@@ -3783,6 +3783,7 @@
 	<date>11.11.2023</date>
 	<index></index>
 	<tags><t>Foto</t></tags>
+	<serial>Fotos: Poster</serial>
 </item>
 <item type="text" format="normal">
 	<name>placebo</name>
@@ -3935,6 +3936,7 @@
 	<date>10.01.2024</date>
 	<index></index>
 	<tags><t>Foto</t></tags>
+	<serial>Fotos: Poster</serial>
 </item>
 <item type="text" format="normal">
 	<name>infinities</name>
@@ -4018,5 +4020,13 @@
 	<date>11.02.2024</date>
 	<index><i>Artificial Intelligence</i><i type="Person">Franz Kafka</i></index>
 	<tags><t>Gesellschaft</t><t>Technologie</t><t>Literatur</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>faces</name>
+	<title>Gesichter</title>
+	<data>faces_small.png</data>
+	<date>15.02.2024</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
 </item>
 </content>
