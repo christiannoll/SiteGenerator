@@ -86,19 +86,20 @@ class Serials : Tags {
     
     fileprivate override func getTagItems(_ post: Item) -> [TagItem] {
         var tagItems: [TagItem] = []
-        let tag = post.serial
-        if tag.count > 0 {
-            var found = false
-            for tagItem in _tagItems {
-                if tag == tagItem.key {
-                    tagItems.append(tagItem)
-                    found = true
+        for serial in post.serials {
+            if serial.count > 0 {
+                var found = false
+                for tagItem in _tagItems {
+                    if serial == tagItem.key {
+                        tagItems.append(tagItem)
+                        found = true
+                    }
                 }
-            }
-            if !found {
-                let tagItem = TagItem(tag, "serials/")
-                tagItems.append(tagItem)
-                _tagItems.append(tagItem)
+                if !found {
+                    let tagItem = TagItem(serial, "serials/")
+                    tagItems.append(tagItem)
+                    _tagItems.append(tagItem)
+                }
             }
         }
         return tagItems

@@ -47,7 +47,7 @@ class SiteStatistics {
                 numberOfAllWords += postData.wordCount
             }
             postData.publishDate = convertDateToString(post)
-            postData.serialPost = post.serial.count > 0
+            postData.serialPost = post.serials.count > 0
             data.postsData.append(postData)
             data.numberOfAllLinks = numberOfAllLinks
         }

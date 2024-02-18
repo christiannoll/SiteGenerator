@@ -90,7 +90,7 @@ class ContentParser : NSObject, XMLParserDelegate {
                 item.books.insert(trimmedText)
             }
         case "serial":
-            item.serial = trimmedText
+            item.serials.insert(trimmedText)
         case "item":
             items.append(item)
         default:

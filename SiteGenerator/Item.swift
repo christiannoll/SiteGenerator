@@ -13,7 +13,7 @@ public class Item {
     var date: Date?
     var tags: Set<String> = []
     var indices: Set<String> = []
-    var serial = ""
+    var serials: Set<String> = []
     var links: [String: String] = [:]
     var years: [Int] = []
     var persons: Set<String> = []
