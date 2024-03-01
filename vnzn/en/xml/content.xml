@@ -4093,5 +4093,22 @@
 	<date>27.02.2024</date>
 	<index></index>
 	<tags><t>Photo</t></tags>
+	<serial>Photos: Abstract</serial>
+</item>
+<item type="text" format="normal">
+	<name>wirths_law</name>
+	<title>Wirth's law</title>
+	<data>[Wirth's law](https://en.wikipedia.org/wiki/Wirth%27s_law) is generally understood to mean the statement made by [Niklaus Wirth](https://en.wikipedia.org/wiki/Niklaus_Wirth) in *1995*:
+	"Software is getting slower more rapidly than hardware becomes faster."
+	Niklaus Wirth was a Swiss computer scientist who won the [Turing Award](https://en.wikipedia.org/wiki/Turing_Award) in *1984* for the development of a number of innovative computer languages, such as:
+	* [EULER](https://en.wikipedia.org/wiki/Euler_(programming_language))
+	* [ALGOL-W](https://en.wikipedia.org/wiki/ALGOL_W)
+	* [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language))
+	* [MODULA](https://en.wikipedia.org/wiki/Modula-2)
+	* [Oberon](https://en.wikipedia.org/wiki/Oberon_(programming_language))
+	</data>
+	<date>02.03.2024</date>
+	<index><i>Programming</i><i type="Person">Alan Turing</i></index>
+	<tags><t>Computer science</t></tags>
 </item>
 </content>

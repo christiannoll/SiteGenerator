@@ -4086,5 +4086,22 @@
 	<date>27.02.2024</date>
 	<index></index>
 	<tags><t>Foto</t></tags>
+	<serial>Fotos: Abstrakt</serial>
+</item>
+<item type="text" format="normal">
+	<name>wirths_law</name>
+	<title>Wirthsches Gesetz</title>
+	<data>Unter dem [Wirthschen Gesetz](https://de.wikipedia.org/wiki/Wirthsches_Gesetz) versteht man im allgemeinen die *1995* von [Niklaus Wirth](https://de.wikipedia.org/wiki/Niklaus_Wirth) gemachte Aussage:
+	"Die Software wird schneller langsamer, als die Hardware schneller wird."
+	Niklaus Wirth war ein deutschsprachige Informatiker der *1984* den [Turing Award](https://de.wikipedia.org/wiki/Turing_Award) für die Entwicklung einer Reihe von innovativen Computersprachen gewonnen hat, wie z.B.:
+	* [EULER](https://de.wikipedia.org/wiki/Euler_(Programmiersprache))
+	* [ALGOL-W](https://de.wikipedia.org/wiki/Algol_W)
+	* [Pascal](https://de.wikipedia.org/wiki/Pascal_(Programmiersprache))
+	* [MODULA](https://de.wikipedia.org/wiki/Modula) 
+	* [Oberon](https://de.wikipedia.org/wiki/Oberon_(Programmiersprache)) 
+	</data>
+	<date>02.03.2024</date>
+	<index><i>Programmierung</i><i type="Person">Alan Turing</i></index>
+	<tags><t>Informatik</t></tags>
 </item>
 </content>
