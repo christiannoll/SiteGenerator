@@ -4120,4 +4120,13 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>john_cage_on_andy_warhol</name>
+	<title>John Cage - Andy Warhol</title>
+	<data>"Die Bedeutung Warhols liegt darin, mit den Mitteln der [Wiederholung](#2019/12/23/variation/) gezeigt zu haben, daß es keine [Wiederholung](#2019/12/23/variation/) in der Kunst gibt." 
+	[John Cage](https://de.wikipedia.org/wiki/John_Cage) über [Andy Warhol](https://de.wikipedia.org/wiki/Andy_Warhol)</data>
+	<date>14.03.2024</date>
+	<index><i type="Person">Andy Warhol</i><i type="Person">John Cage</i></index>
+	<tags><t>Kunst</t></tags>
+</item>
 </content>

@@ -4127,4 +4127,13 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>john_cage_on_andy_warhol</name>
+	<title>John Cage - Andy Warhol</title>
+	<data>"Andy has fought by [repetition](#2019/12/23/variation/) to show us that there is no [repetition](#2019/12/23/variation/) really, that everything we look at is worthy of our attention. That's been a major direction for the twentieth century, it seems to me."
+	[John Cage](https://en.wikipedia.org/wiki/John_Cage) comments on [Andy Warhol](https://en.wikipedia.org/wiki/Andy_Warhol)</data>
+	<date>14.03.2024</date>
+	<index><i type="Person">Andy Warhol</i><i type="Person">John Cage</i></index>
+	<tags><t>Art</t></tags>
+</item>
 </content>
