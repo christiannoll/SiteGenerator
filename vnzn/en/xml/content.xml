@@ -4136,4 +4136,17 @@
 	<index><i type="Person">Andy Warhol</i><i type="Person">John Cage</i></index>
 	<tags><t>Art</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>fundamental_forces</name>
+	<title>The four fundamental forces</title>
+	<data>Individually or in combination, the four [fundamental forces](https://en.wikipedia.org/wiki/Fundamental_interaction) of nature produce all known physical processes throughout the universe.
+	1. [Gravity](https://en.wikipedia.org/wiki/Gravity), was identified and mathematically described as a force of nature by [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) in the 17th century. It is the weakest of the four interactions at the atomic scale.
+	2. [Electromagnetic interaction](https://en.wikipedia.org/wiki/Electromagnetism) was identified as a fundamental force of nature from the mid-19th century, after James Clerk Maxwell formulated the [Maxwell's equations](https://en.wikipedia.org/wiki/Maxwell%27s_equations) named after him.
+	3. The [weak interaction](https://en.wikipedia.org/wiki/Weak_interaction), also known as the weak nuclear force, was discovered and described by [Enrico Fermi](https://en.wikipedia.org/wiki/Enrico_Fermi) in *1934* as the new fundamental interaction.
+	4. The [strong interaction](https://en.wikipedia.org/wiki/Strong_interaction), also known as the strong nuclear force, binds the quarks together. It thus brings about the internal cohesion of the [hadrons](https://en.wikipedia.org/wiki/Hadron), e.g. the proton and neutron.
+	I wonder which of these forces is responsible for [love](https://en.wikipedia.org/wiki/Love).</data>
+	<date>18.03.2024</date>
+	<index><i>Love</i><i type="Person">Isaac Newton</i><i type="Person">Enrico Fermi</i></index>
+	<tags><t>Physics</t></tags>
+</item>
 </content>

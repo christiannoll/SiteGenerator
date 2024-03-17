@@ -4129,4 +4129,17 @@
 	<index><i type="Person">Andy Warhol</i><i type="Person">John Cage</i></index>
 	<tags><t>Kunst</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>fundamental_forces</name>
+	<title>Die vier Grundkräfte</title>
+	<data>Einzeln oder in Kombination bringen die vier [fundamentalen Naturkräfte](https://de.wikipedia.org/wiki/Fundamentale_Wechselwirkung) sämtliche bekannten physikalischen Prozesse im gesamten Universum hervor. 
+	1. Die [Gravitation](https://de.wikipedia.org/wiki/Gravitation), auch Schwerkraft genannt, wurde im 17. Jahrhundert von [Isaac Newton](https://de.wikipedia.org/wiki/Isaac_Newton) als Naturkraft identifiziert und mathematisch beschrieben.
+	2. Die [elektromagnetische Wechselwirkung](https://de.wikipedia.org/wiki/Elektromagnetische_Wechselwirkung) wurde ab Mitte des 19. Jahrhunderts als eine Grundkraft der Natur identifiziert, nachdem James Clerk Maxwell die nach ihm benannten [Maxwell-Gleichungen](https://de.wikipedia.org/wiki/Maxwell-Gleichungen) aufgestellt hatte.
+	3. Die auch als schwache Kernkraft bezeichnete [schwache Wechselwirkung](https://de.wikipedia.org/wiki/Schwache_Wechselwirkung) wurde *1934* von [Enrico Fermi](https://de.wikipedia.org/wiki/Enrico_Fermi) als die neue fundamentale Wechselwirkung entdeckt und beschrieben.
+	4. Die [starke Wechselwirkung](https://de.wikipedia.org/wiki/Starke_Wechselwirkung), auch starke Kernkraft genannt, bindet die Quarks aneinander. Sie bewirkt damit den inneren Zusammenhalt der [Hadronen](https://de.wikipedia.org/wiki/Hadron), z.B. des Protons und Neutrons.
+	Ich frage mich, welche von diesen Kräften für die [Liebe](https://de.wikipedia.org/wiki/Liebe) verantwortlich ist.</data>
+	<date>18.03.2024</date>
+	<index><i>Liebe</i><i type="Person">Isaac Newton</i><i type="Person">Enrico Fermi</i></index>
+	<tags><t>Physik</t></tags>
+</item>
 </content>
