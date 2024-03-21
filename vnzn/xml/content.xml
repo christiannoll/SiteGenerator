@@ -4142,4 +4142,13 @@
 	<index><i>Liebe</i><i type="Person">Isaac Newton</i><i type="Person">Enrico Fermi</i></index>
 	<tags><t>Physik</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>poster11</name>
+	<title>Poster</title>
+	<data>poster11_small.png</data>
+	<date>22.03.2024</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+	<serial>Fotos: Poster</serial>
+</item>
 </content>

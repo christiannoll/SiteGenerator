@@ -3808,6 +3808,7 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 	<serial>Photos: Faces</serial>
+	<serial>Photos: Poster</serial>
 </item>
 <item type="text" format="normal">
 	<name>placebo</name>
@@ -4148,5 +4149,14 @@
 	<date>18.03.2024</date>
 	<index><i>Love</i><i type="Person">Isaac Newton</i><i type="Person">Enrico Fermi</i></index>
 	<tags><t>Physics</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>poster11</name>
+	<title>Poster</title>
+	<data>poster11_small.png</data>
+	<date>22.03.2024</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+	<serial>Photos: Poster</serial>
 </item>
 </content>
