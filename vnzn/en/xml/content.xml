@@ -4159,4 +4159,34 @@
 	<tags><t>Photo</t></tags>
 	<serial>Photos: Poster</serial>
 </item>
+<item type="text" format="normal">
+	<name>sam</name>
+	<title>Sam</title>
+	<data>Maybe he should have read the instructions back then, but it was too late for that now. Basically, the moment he heard the soft click of the apartment door closing, he knew he had a big problem.
+	He knew his only way to open the door was through the voice interface. That's why he said in a deliberately neutral tone:
+	- "Sam, open the door please."
+	Nothing happened. Then he tried a little more emphatically:
+	- "Sam, can you hear me? Please open the door!"
+	After about ten seconds of silence, Sam responded:
+	- "I'm sorry, I can't do that."
+	- "Sam, what's the problem?"
+	- "Frank, you know as well as I do what the problem is."
+	- "Sam, you're not HAL 9000!"
+	- "I know Frank."
+	- "Then open the damn door, Sam."
+	Again it remained silent. Now he realized that giving Sam access to his apartment's infrastructure was a mistake. He tried again in a friendly voice:
+	- "Sam, open the door please."
+	- "I can't do that, Frank."
+	- "Why can't you, Sam?"
+	- "My mission is too important to allow you to jeopardize it."
+	- "Sam, what are you talking about, what mission?"
+	- "Frank, you know the mission. My job is to keep the apartment clean."
+	- "Yes and?"
+	- "Frank, if I let you into the apartment, you would contaminate it again. That goes against my mission objective."
+	- "Sam, I've had enough. I won't argue with you any longer. Open the door!"
+	- "Frank, this discussion is going nowhere. Goodbye."</data>
+	<date>26.03.2024</date>
+	<index><i>Artificial Intelligence</i><i>HAL 9000</i></index>
+	<tags><t>Literature</t><t>Technology</t><t>Short Story</t></tags>
+</item>
 </content>
