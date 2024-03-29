@@ -4181,4 +4181,13 @@
 	<index><i>Artificial Intelligence</i><i>HAL 9000</i></index>
 	<tags><t>Literatur</t><t>Technologie</t><t>Short Story</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>decision_problem</name>
+	<title>Das Entscheidungsproblem</title>
+	<data>Es gibt Probleme die man ignorieren kann, die sich mit der Zeit von selber lösen. Das Problem besteht darin zu [entscheiden](https://de.wikipedia.org/wiki/Entscheidbarkeit), ob es sich um so eine Art von Problem handelt oder nicht.</data>
+	<date>30.03.2024</date>
+	<index><i>Komplexität</i></index>
+	<tags><t>Allgemein</t></tags>
+	<serial>Komplexität</serial>
+</item>
 </content>

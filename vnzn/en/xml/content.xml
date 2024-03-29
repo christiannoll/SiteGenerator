@@ -4189,4 +4189,13 @@
 	<index><i>Artificial Intelligence</i><i>HAL 9000</i></index>
 	<tags><t>Literature</t><t>Technology</t><t>Short Story</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>decision_problem</name>
+	<title>Decision problem</title>
+	<data>There are problems that you can ignore and that will resolve themselves over time. The problem is [deciding](https://en.wikipedia.org/wiki/Decision_problem) whether or not it is this type of problem.</data>
+	<date>30.03.2024</date>
+	<index><i>Complexity</i></index>
+	<tags><t>General</t></tags>
+	<serial>Complexity</serial>
+</item>
 </content>
