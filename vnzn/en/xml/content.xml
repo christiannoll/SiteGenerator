@@ -4206,4 +4206,16 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>series</name>
+	<title>Series</title>
+	<data>* [2001: A Space Odyssey](#serials/2001--A-Space-Odyssey/)
+	* [Bauhaus](#serials/Bauhaus/)
+	* [Complexity](#serials/Complexity/)
+	* [The Hitchhiker's Guide to the Galaxy](#serials/The-Hitchhiker-s-Guide-to-the-Galaxy/)
+	* [Top Four](#serials/Top-Four/)</data>
+	<date>07.04.2024</date>
+	<index><i>Past</i></index>
+	<tags><t>General</t></tags>
+</item>
 </content>

@@ -4198,4 +4198,16 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>series</name>
+	<title>Serien</title>
+	<data>* [2001: Odyssee im Weltraum](#serials/2001--Odyssee-im-Weltraum/)
+	* [Bauhaus](#serials/Bauhaus/)
+	* [Komplexität](#serials/Komplexitat/)
+	* [Per Anhalter durch die Galaxis](#serials/Per-Anhalter-durch-die-Galaxis/)
+	* [Top Four](#serials/Top-Four/)</data>
+	<date>07.04.2024</date>
+	<index><i>Vergangenheit</i></index>
+	<tags><t>Allgemein</t></tags>
+</item>
 </content>
