@@ -1291,7 +1291,7 @@
 		* Mit [Bitcoin](https://de.wikipedia.org/wiki/Bitcoin) wurde *2009* die erste [Kryptowährung](https://de.wikipedia.org/wiki/Kryptow%C3%A4hrung) als digitales Zahlungsmittel eingeführt.
 		Einer der treibenden Faktoren für diese Entwicklung von der Muschel bis zu Kryptowährungen ist der gesellschaftliche Wunsch nach einem sicheren, skalierbaren und dezentralen Zahlungsmittel.</data>
 	<date>22.03.2021</date>
-	<index><i>Bitcoin</i></index>
+	<index><i>Bitcoin</i><i>Geld</i></index>
 	<tags><t>Allgemein</t><t>Technologie</t><t>Gesellschaft</t></tags>
 </item>
 <item type="text" format="randomLinkColor">
@@ -4163,7 +4163,7 @@
 	- "Es tut mir leid, das kann ich nicht tun." 
 	- "Sam, was ist das Problem?"
 	- "Frank du weißt so gut wie ich was das Problem ist."
-	- "Sam, du bist nicht HAL 9000!"
+	- "Sam, du bist nicht [HAL 9000](#2020/06/23/hal_9000/)!"
 	- "Ich weiß Frank."
 	- "Dann mach die verdammte Tür auf, Sam."
 	Wieder blieb es still. Jetzt wurde ihm klar, dass es ein Fehler war, Sam Zugriff zu der Infrastruktur seiner Wohnung zu geben. Er versuchte es nochmal mit freundlicher Stimme:
@@ -4209,5 +4209,14 @@
 	<date>07.04.2024</date>
 	<index><i>Vergangenheit</i></index>
 	<tags><t>Allgemein</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>compute_currency</name>
+	<title>Rechenzeit als neue Währung</title>
+	<data>Die von den Menschen verwendeten [Tausch- und Zahlungsmittel](#2021/03/22/money_and_technology/) spiegelten schon immer den technologischen Entwicklungsstand einer Gesellschaft wieder.
+	Wenn man davon ausgeht, dass der Einsatz von [künstlicher Intelligenz](#index/Artificial-Intelligence/) in allen Bereichen der Gesellschaft stark zunehmen wird und die dafür notwendige Rechenpower ebenfalls kontinuierlich ansteigt, ist es nicht unwahrscheinlich, dass sich in Zukunft Rechenzeit als neue Währung etablieren wird.</data>
+	<date>11.04.2024</date>
+	<index><i>Zukunft</i><i>Geld</i><i>Artificial Intelligence</i></index>
+	<tags><t>Gesellschaft</t><t>Technologie</t></tags>
 </item>
 </content>

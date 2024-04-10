@@ -1288,7 +1288,7 @@
 	* [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin) was the first [cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency) to be introduced as a digital method of payment in *2009*.
 	One of the driving factors behind this evolution from shells to cryptocurrencies is society's desire for a secure, scalable and decentralized means of payment.</data>
 	<date>22.03.2021</date>
-	<index><i>Bitcoin</i></index>
+	<index><i>Bitcoin</i><i>Money</i></index>
 	<tags><t>General</t><t>Technology</t><t>Society</t></tags>
 </item>
 <item type="text" format="randomLinkColor">
@@ -4171,7 +4171,7 @@
 	- "I'm sorry, I can't do that."
 	- "Sam, what's the problem?"
 	- "Frank, you know as well as I do what the problem is."
-	- "Sam, you're not HAL 9000!"
+	- "Sam, you're not [HAL 9000](#2020/06/23/hal_9000/)!"
 	- "I know Frank."
 	- "Then open the damn door, Sam."
 	Again it remained silent. Now he realized that giving Sam access to his apartment's infrastructure was a mistake. He tried again in a friendly voice:
@@ -4217,5 +4217,14 @@
 	<date>07.04.2024</date>
 	<index><i>Past</i></index>
 	<tags><t>General</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>compute_currency</name>
+	<title>Computing time as a new currency</title>
+	<data>The [means of exchange and payment](#2021/03/22/money_and_technology/) used by people have always reflected the level of technological development of a society.
+	If one assumes that the use of [artificial intelligence](#index/Artificial-Intelligence/) will increase significantly in all areas of society and that the computing power required for this will also continuously increase, it is not unlikely that computing time will establish itself as a new currency in the future.</data>
+	<date>11.04.2024</date>
+	<index><i>Future</i><i>Money</i><i>Artificial Intelligence</i></index>
+	<tags><t>Society</t><t>Technology</t></tags>
 </item>
 </content>
