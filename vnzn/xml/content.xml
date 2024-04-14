@@ -4176,7 +4176,7 @@
 	- "Ja, und?"
 	- "Frank, wenn ich dich in die Wohnung lasse, würdest du sie wieder kontaminieren. Das widerspricht meinem Missionsziel."
 	- "Sam, jetzt reicht es mir. Ich werde nicht länger mit dir diskutieren. Öffne die Tür!"
-	- "Frank, diese Diskussion führt zu nichts. Goodbye."</data>
+	- "Frank, diese Diskussion führt zu nichts. Leb wohl."</data>
 	<date>26.03.2024</date>
 	<index><i>Artificial Intelligence</i><i>HAL 9000</i></index>
 	<tags><t>Literatur</t><t>Technologie</t><t>Short Story</t></tags>
@@ -4218,5 +4218,13 @@
 	<date>11.04.2024</date>
 	<index><i>Zukunft</i><i>Geld</i><i>Artificial Intelligence</i></index>
 	<tags><t>Gesellschaft</t><t>Technologie</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>ditch2</name>
+	<title>Graben</title>
+	<data>ditch2_small.png</data>
+	<date>15.04.2024</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
 </item>
 </content>
