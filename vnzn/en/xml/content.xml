@@ -4235,4 +4235,13 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>drone_warfare</name>
+	<title>The Era of Drones</title>
+	<data>[Drones](https://en.wikipedia.org/wiki/Unmanned_aerial_vehicle) have become synonymous with surveillance, control, and potential threat. They can operate discreetly and from a distance, making it difficult to notice their presence or evade them. As a result, people lose their sense of security and privacy knowing they could be observed from above, whether by governmental authorities or other actors.
+	The fact that drones can also be armed and capable of conducting [targeted attacks](https://en.wikipedia.org/wiki/Drone_warfare) amplifies this sense of threat. The sky, once a place of peace and freedom, is now associated with the potential danger of death and destruction. A constant feeling of insecurity emerges as the sky can turn into a stage for violent conflicts at any moment.</data>
+	<date>19.04.2024</date>
+	<index><i>War</i></index>
+	<tags><t>Society</t><t>Technology</t></tags>
+</item>
 </content>

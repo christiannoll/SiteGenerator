@@ -4227,4 +4227,13 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>drone_warfare</name>
+	<title>Die Ära der Drohnen</title>
+	<data>[Drohnen](https://de.wikipedia.org/wiki/Unbemanntes_Luftfahrzeug) sind heute ein Synonym für Überwachung, Kontrolle und potenzielle Bedrohung geworden. Sie können unauffällig und aus der Ferne operieren, was es schwierig macht, ihre Präsenz zu bemerken oder ihnen zu entkommen. Dadurch verlieren Menschen das Gefühl der Sicherheit und Privatsphäre, wenn sie wissen, dass sie von oben beobachtet werden könnten, sei es von staatlichen Behörden oder von anderen Akteuren.
+	Die Tatsache, dass Drohnen auch bewaffnet sein können und in der Lage sind, [gezielte Angriffe](https://de.wikipedia.org/wiki/Drohnenkrieg) durchzuführen, verstärkt dieses Gefühl der Bedrohung. Der Himmel, der einst ein Ort der Ruhe und Freiheit war, wird nun mit der potenziellen Gefahr von Tod und Zerstörung assoziiert. Es entsteht ein ständiges Gefühl der Unsicherheit, da der Himmel jederzeit zur Bühne für gewaltsame Auseinandersetzungen werden kann.</data>
+	<date>19.04.2024</date>
+	<index><i>Krieg</i></index>
+	<tags><t>Gesellschaft</t><t>Technologie</t></tags>
+</item>
 </content>
