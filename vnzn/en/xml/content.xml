@@ -4244,4 +4244,12 @@
 	<index><i>War</i></index>
 	<tags><t>Society</t><t>Technology</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>proof_of_god</name>
+	<title>Proof of God</title>
+	<data>Countless philosophers and theologians have searched for [proof of God](https://en.wikipedia.org/wiki/Existence_of_God), and yet it was the composer [Johann Sebastian Bach](https://en.wikipedia.org/wiki/Johann_Sebastian_Bach) who came closest to the goal with his [music](https://en.wikipedia.org/wiki/Bach-Werke-Verzeichnis).</data>
+	<date>23.04.2024</date>
+	<index><i>God</i><i type="Person">Johann Sebastian Bach</i></index>
+	<tags><t>Music</t><t>Philosophy</t></tags>
+</item>
 </content>

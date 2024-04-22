@@ -4236,4 +4236,12 @@
 	<index><i>Krieg</i></index>
 	<tags><t>Gesellschaft</t><t>Technologie</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>proof_of_god</name>
+	<title>Gottesbeweis</title>
+	<data>Ungezählte Philosophen und Theologen haben schon nach einem [Gottesbeweis](https://de.wikipedia.org/wiki/Gottesbeweis) gesucht und doch war es der Komponist [Johann Sebastian Bach](https://de.wikipedia.org/wiki/Johann_Sebastian_Bach), der mit seiner [Musik](https://de.wikipedia.org/wiki/Bach-Werke-Verzeichnis) dem Ziel am nächsten kam.</data>
+	<date>23.04.2024</date>
+	<index><i>Gott</i><i type="Person">Johann Sebastian Bach</i></index>
+	<tags><t>Musik</t><t>Philosophie</t></tags>
+</item>
 </content>
