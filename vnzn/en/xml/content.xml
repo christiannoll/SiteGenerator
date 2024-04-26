@@ -4252,4 +4252,12 @@
 	<index><i>God</i><i type="Person">Johann Sebastian Bach</i></index>
 	<tags><t>Music</t><t>Philosophy</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>poster12</name>
+	<title>Poster</title>
+	<data>poster12_small.png</data>
+	<date>27.04.2024</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
 </content>
