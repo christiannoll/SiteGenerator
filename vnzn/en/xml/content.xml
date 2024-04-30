@@ -4260,4 +4260,13 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>thomas_man_and_love</name>
+	<title>Thomas Mann and Love</title>
+	<data>The fundamental principle of love according to [Thomas Mann](https://en.wikipedia.org/wiki/Thomas_Mann):
+	If I love you, what does it matter to you. Love resides in the lover, not in the beloved.</data>
+	<date>01.05.2024</date>
+	<index><i>Love</i><i type="Person">Thomas Mann</i></index>
+	<tags><t>Literature</t></tags>
+</item>
 </content>
