@@ -4269,4 +4269,14 @@
 	<index><i>Love</i><i type="Person">Thomas Mann</i></index>
 	<tags><t>Literature</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>invention_of_the_future</name>
+	<title>The invention of the future</title>
+	<data>Until the 17th century, time seemed to stand still. The children followed in their parents' footsteps and experienced the same things as their parents, the ever-repeating sequence of seasons, the always same routine of sowing and harvesting. The present seemed to never end.
+	From the 17th century onwards, the time horizon began to shift from the present to the future due to discoveries in the natural sciences and technological progress. This gave people an increasing feeling of holding the future in their own hands. The mood fluctuated between [utopian](https://en.wikipedia.org/wiki/Utopia) and [dystopian](https://en.wikipedia.org/wiki/Dystopia) ideas about the future.
+	In the end the question remains: is the [future](#index/Future/) ahead of us or already behind us?</data>
+	<date>05.05.2024</date>
+	<index><i>Future</i></index>
+	<tags><t>Society</t></tags>
+</item>
 </content>
