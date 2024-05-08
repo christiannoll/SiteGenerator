@@ -1015,7 +1015,7 @@
 	<name>el_kirchner_death</name>
 	<title>Ernst Ludwig Kirchner</title>
 	<data>"The pure necessity to bring art and life in harmony."
-	This is how [Ernst Ludwig Kirchner](https://en.wikipedia.org/wiki/Ernst_Ludwig_Kirchner) formulated the maxim of his existence. When he was no longer able to achieve this unity of art and life, in *1938*, at the age of 58, he put an end to his restless life, which was always marked by highlights and serious crises, with two bullets straight in his hart.</data>
+	This is how [Ernst Ludwig Kirchner](https://en.wikipedia.org/wiki/Ernst_Ludwig_Kirchner) formulated the maxim of his existence. When he was no longer able to achieve this unity of art and life, in *1938*, at the age of 58, he put an end to his restless life, which was always marked by highlights and serious crises, with two bullets straight in his heart.</data>
 	<date>04.12.2020</date>
 	<index><i type="Person">Ernst Ludwig Kirchner</i></index>
 	<tags><t>Art</t></tags>
@@ -4278,5 +4278,14 @@
 	<date>05.05.2024</date>
 	<index><i>Future</i></index>
 	<tags><t>Society</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>architecture2</name>
+	<title>Structure</title>
+	<data>architecture2_small.png</data>
+	<date>09.05.2024</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+	<serial>Photos: Architecture</serial>
 </item>
 </content>
