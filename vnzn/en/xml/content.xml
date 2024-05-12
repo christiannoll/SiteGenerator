@@ -4288,4 +4288,21 @@
 	<tags><t>Photo</t></tags>
 	<serial>Photos: Architecture</serial>
 </item>
+<item type="text" format="normal">
+	<name>top_10_topics</name>
+	<title>Top 10 Topics</title>
+	<data>1. [Brain](#index/Brain/)
+	2. [Artificial Intelligence](#index/Artificial-Intelligence/)
+	3. [Future](#index/Future/)
+	4. [Bauhaus](#index/Bauhaus/)
+	5. [Complexity](#index/Complexity/)
+	6. [Stanley Kubrick](#index/Stanley-Kubrick/)
+	7. [2001: A Space Odyssey](#index/2001--A-Space-Odyssey/)
+	8. [Douglas Adams](#index/Douglas-Adams/)
+	9. [Dream](#index/Dream/)
+	10. [Time](#index/Time/)</data>
+	<date>13.05.2024</date>
+	<index><i>Review</i></index>
+	<tags><t>General</t></tags>
+</item>
 </content>
