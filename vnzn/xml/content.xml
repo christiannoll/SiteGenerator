@@ -4306,4 +4306,12 @@
 	<index><i>Evolution</i><i>Immunsystem</i></index>
 	<tags><t>Biologie</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>yellow_field</name>
+	<title>Rapsfeld</title>
+	<data>yellow_field_small.png</data>
+	<date>21.05.2024</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
