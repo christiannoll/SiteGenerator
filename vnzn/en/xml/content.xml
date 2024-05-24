@@ -4322,4 +4322,12 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>body_and_soul</name>
+	<title>Body and Soul</title>
+	<data>During [sleep](#index/Sleep/), the body and [mind](#index/Dream/) separate, each minding its own business. When they wake up, they slowly come back together - usually.</data>
+	<date>25.05.2024</date>
+	<index><i>Sleep</i><i>Dream</i></index>
+	<tags><t>Biology</t></tags>
+</item>
 </content>
