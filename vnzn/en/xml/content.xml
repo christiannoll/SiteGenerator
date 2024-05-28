@@ -4330,4 +4330,20 @@
 	<index><i>Sleep</i><i>Dream</i></index>
 	<tags><t>Biology</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>kafkas_last_will</name>
+	<title>Kafka's last will</title>
+	<data>
+	[Franz Kafka](https://en.wikipedia.org/wiki/Franz_Kafka): My last request - to burn everything that is in my estate of diaries, manuscripts, letters, other people's and my own drawings, completely and unread. Of everything I have ever written, only these books and stories are valid:
+	* [The Judgment](https://en.wikipedia.org/wiki/The_Judgment)
+	* [The Stoker](https://en.wikipedia.org/wiki/The_Stoker)
+	* [The Metamorphosis](https://en.wikipedia.org/wiki/The_Metamorphosis)
+	* [In the Penal Colony](https://en.wikipedia.org/wiki/In_the_Penal_Colony)
+	* [A Country Doctor](https://en.wikipedia.org/wiki/A_Country_Doctor_(short_story))
+	* [A Hunger Artist](https://en.wikipedia.org/wiki/A_Hunger_Artist)
+	He demands this from his friend [Max Brod](https://en.wikipedia.org/wiki/Max_Brod), who does not comply with his request.</data>
+	<date>29.05.2024</date>
+	<index><i type="Person">Franz Kafka</i></index>
+	<tags><t>Literature</t></tags>
+</item>
 </content>

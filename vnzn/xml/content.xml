@@ -4322,4 +4322,19 @@
 	<index><i>Schlaf</i><i>Traum</i></index>
 	<tags><t>Biologie</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>kafkas_last_will</name>
+	<title>Kafkas letzter Wille</title>
+	<data>[Franz Kafka](https://de.wikipedia.org/wiki/Franz_Kafka): Meine letzte Bitte - Alles was sich in meinem Nachlass an Tagebüchern, Manuskripten, Briefen, fremden und eigenen, Gezeichnetem findet, restlos und ungelesen zu verbrennen. Von allem was ich je geschrieben habe gelten nur die Bücher und Erzählungen: 
+	* [Das Urteil](https://de.wikipedia.org/wiki/Das_Urteil_(Kafka)) 
+	* [Der Heizer](https://de.wikipedia.org/wiki/Der_Heizer) 
+	* [Die Verwandlung](https://de.wikipedia.org/wiki/Die_Verwandlung) 
+	* [In der Strafkolonie](https://de.wikipedia.org/wiki/In_der_Strafkolonie)
+	* [Ein Landarzt](https://de.wikipedia.org/wiki/Ein_Landarzt)
+	* [Ein Hungerkünstler](https://de.wikipedia.org/wiki/Ein_Hungerk%C3%BCnstler)
+	Das verlangt er von seinem Freund [Max Brod](https://de.wikipedia.org/wiki/Max_Brod), der seiner Bitte nicht nachkommt.</data>
+	<date>29.05.2024</date>
+	<index><i type="Person">Franz Kafka</i></index>
+	<tags><t>Literatur</t></tags>
+</item>
 </content>
