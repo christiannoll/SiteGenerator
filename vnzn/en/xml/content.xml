@@ -4346,4 +4346,13 @@
 	<index><i type="Person">Franz Kafka</i></index>
 	<tags><t>Literature</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>void</name>
+	<title>Void</title>
+	<data>void_small.png</data>
+	<date>02.06.2024</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+	<serial>Photos: Poster</serial>
+</item>
 </content>
