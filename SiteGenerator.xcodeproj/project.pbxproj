@@ -89,6 +89,62 @@
 		D6F6D4A0266225BB00B98789 /* Timeline.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F6D49F266225BB00B98789 /* Timeline.swift */; };
 		D6F6FF7B238875BB0049F171 /* PostBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F6FF7A238875BB0049F171 /* PostBuilder.swift */; };
 		D6F92EC4238320D900FCAAC1 /* MarkdownParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F92EC3238320D900FCAAC1 /* MarkdownParser.swift */; };
+		D6FF02772C0C7712003CA2EC /* FormatBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F4BF9023EE02FA005D9402 /* FormatBuilder.swift */; };
+		D6FF02782C0C7745003CA2EC /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = D69221C323818FEB0007E774 /* Item.swift */; };
+		D6FF02792C0C7766003CA2EC /* PostBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F6FF7A238875BB0049F171 /* PostBuilder.swift */; };
+		D6FF027A2C0C77CF003CA2EC /* LinkParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = D69D533D24535669005F618E /* LinkParser.swift */; };
+		D6FF027B2C0C77D7003CA2EC /* YearParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = D64A730526615D780088D8C6 /* YearParser.swift */; };
+		D6FF027C2C0C7875003CA2EC /* SiteGenerator.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6E1929B23A77A82006A7A5C /* SiteGenerator.swift */; };
+		D6FF027D2C0C78CC003CA2EC /* PageWriter.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6CAB6FE2398488A00C4D2EF /* PageWriter.swift */; };
+		D6FF027E2C0C78F3003CA2EC /* AdvancedSearchPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6C42DF628A8E2B30066D47D /* AdvancedSearchPage.swift */; };
+		D6FF027F2C0C78F6003CA2EC /* Archive.swift in Sources */ = {isa = PBXBuildFile; fileRef = D699D538239AADCC006FE271 /* Archive.swift */; };
+		D6FF02802C0C78FA003CA2EC /* ArchiveMonth.swift in Sources */ = {isa = PBXBuildFile; fileRef = D63B510B23996704001E7E7B /* ArchiveMonth.swift */; };
+		D6FF02812C0C790D003CA2EC /* MaxHomePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D63BBEED29142763008AF236 /* MaxHomePage.swift */; };
+		D6FF02822C0C790D003CA2EC /* SearchItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6E8D2A1244B3A1500605EEF /* SearchItem.swift */; };
+		D6FF02832C0C790D003CA2EC /* Register.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6EC3FAF2792140C00B0BD45 /* Register.swift */; };
+		D6FF02842C0C790D003CA2EC /* MoviesRegisterPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6EC3FB327921DFE00B0BD45 /* MoviesRegisterPage.swift */; };
+		D6FF02852C0C790D003CA2EC /* PersonsRegister.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6D4902226BDA3B60001D9AB /* PersonsRegister.swift */; };
+		D6FF02862C0C790D003CA2EC /* ExperimentsPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6C42DF428A8DA6A0066D47D /* ExperimentsPage.swift */; };
+		D6FF02872C0C790D003CA2EC /* SearchPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6E8D29D244B384C00605EEF /* SearchPage.swift */; };
+		D6FF02882C0C790D003CA2EC /* TimelinePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D69AF70B26624C6B0010D67C /* TimelinePage.swift */; };
+		D6FF02892C0C790D003CA2EC /* IndexItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = D699D536239AACAF006FE271 /* IndexItem.swift */; };
+		D6FF028A2C0C790D003CA2EC /* RegisterItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6D4901E26BD9E5E0001D9AB /* RegisterItem.swift */; };
+		D6FF028B2C0C790D003CA2EC /* FtpScriptWriter.swift in Sources */ = {isa = PBXBuildFile; fileRef = D690C72323DA315C00975E72 /* FtpScriptWriter.swift */; };
+		D6FF028C2C0C790D003CA2EC /* BetaPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6E0279B264E0E840064DC6A /* BetaPage.swift */; };
+		D6FF028D2C0C790D003CA2EC /* PostListItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6D4902026BD9FF10001D9AB /* PostListItem.swift */; };
+		D6FF028E2C0C790D003CA2EC /* Timeline.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F6D49F266225BB00B98789 /* Timeline.swift */; };
+		D6FF028F2C0C790D003CA2EC /* IndexItemPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6C26E6C23C0AF1B0014634C /* IndexItemPage.swift */; };
+		D6FF02902C0C790D003CA2EC /* RandomEntriesBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = D65B17AF2598C42C0008F88E /* RandomEntriesBuilder.swift */; };
+		D6FF02912C0C790D003CA2EC /* BooksRegisterPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6A0A65127D34A4500783635 /* BooksRegisterPage.swift */; };
+		D6FF02922C0C790D003CA2EC /* ImpressumPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D65AD6B9239D4BD800BFA862 /* ImpressumPage.swift */; };
+		D6FF02932C0C790D003CA2EC /* PostPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D60667602396E2A100F7B79E /* PostPage.swift */; };
+		D6FF02942C0C790D003CA2EC /* ContactPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6A8CB7E24D9ED7500252182 /* ContactPage.swift */; };
+		D6FF02952C0C790D003CA2EC /* MoviesRegister.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6EC3FB127921D0000B0BD45 /* MoviesRegister.swift */; };
+		D6FF02962C0C790D003CA2EC /* SearchIndexBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = D69D533B24533AAC005F618E /* SearchIndexBuilder.swift */; };
+		D6FF02972C0C790D003CA2EC /* ContentParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = D69221C5238196740007E774 /* ContentParser.swift */; };
+		D6FF02982C0C790D003CA2EC /* TagsPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D699D53C239AB88D006FE271 /* TagsPage.swift */; };
+		D6FF02992C0C790D003CA2EC /* RssParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = D63CB6FE240AFF4A00D1BA79 /* RssParser.swift */; };
+		D6FF029A2C0C790D003CA2EC /* PersonCloudPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D696DDB02AD05B2500ED4EF3 /* PersonCloudPage.swift */; };
+		D6FF029B2C0C790D003CA2EC /* HomePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D650F35023930EBB00B2320E /* HomePage.swift */; };
+		D6FF029C2C0C790D003CA2EC /* Tags.swift in Sources */ = {isa = PBXBuildFile; fileRef = D699D53A239AAFCD006FE271 /* Tags.swift */; };
+		D6FF029D2C0C790D003CA2EC /* TimelineItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F6D49D2662226E00B98789 /* TimelineItem.swift */; };
+		D6FF029E2C0C790D003CA2EC /* WordCloudPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6511F9C28099EDE0001C1FA /* WordCloudPage.swift */; };
+		D6FF029F2C0C790D003CA2EC /* SearchItems.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6E8D29F244B38FA00605EEF /* SearchItems.swift */; };
+		D6FF02A02C0C790D003CA2EC /* RssFeed.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6D736CD2404777500FE2FD4 /* RssFeed.swift */; };
+		D6FF02A12C0C790D003CA2EC /* ArchiveMonthPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D699D530239A4A01006FE271 /* ArchiveMonthPage.swift */; };
+		D6FF02A22C0C790D003CA2EC /* Sitemap.swift in Sources */ = {isa = PBXBuildFile; fileRef = D65456A428E828FF0088F018 /* Sitemap.swift */; };
+		D6FF02A42C0C790D003CA2EC /* SitemapWriter.swift in Sources */ = {isa = PBXBuildFile; fileRef = D65456A628E82B4F0088F018 /* SitemapWriter.swift */; };
+		D6FF02A52C0C790D003CA2EC /* ArchiveYear.swift in Sources */ = {isa = PBXBuildFile; fileRef = D63B510D2399673E001E7E7B /* ArchiveYear.swift */; };
+		D6FF02A62C0C790D003CA2EC /* ErrorPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6EA574B2AE54DB700187AF5 /* ErrorPage.swift */; };
+		D6FF02A72C0C790D003CA2EC /* BooksRegister.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6A0A64F27D3496000783635 /* BooksRegister.swift */; };
+		D6FF02A82C0C790D003CA2EC /* SerialsPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6B1D68623F1F1AA00BE317E /* SerialsPage.swift */; };
+		D6FF02A92C0C790D003CA2EC /* ArchivePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D63B510F239997FA001E7E7B /* ArchivePage.swift */; };
+		D6FF02AA2C0C790D003CA2EC /* Index.swift in Sources */ = {isa = PBXBuildFile; fileRef = D699D532239A8000006FE271 /* Index.swift */; };
+		D6FF02AB2C0C790D003CA2EC /* IndexPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D699D534239AA695006FE271 /* IndexPage.swift */; };
+		D6FF02AC2C0C790D003CA2EC /* PersonsRegisterPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6D4902426BDA6AD0001D9AB /* PersonsRegisterPage.swift */; };
+		D6FF02AD2C0C790D003CA2EC /* TagItemPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D699D53E239AE808006FE271 /* TagItemPage.swift */; };
+		D6FF02AE2C0C790D003CA2EC /* TagItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = D699D540239AEBAE006FE271 /* TagItem.swift */; };
+		D6FF02AF2C0C790D003CA2EC /* FeedWriter.swift in Sources */ = {isa = PBXBuildFile; fileRef = D667BB1324070C6C00B8789F /* FeedWriter.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -496,12 +552,68 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D6FF02812C0C790D003CA2EC /* MaxHomePage.swift in Sources */,
+				D6FF02822C0C790D003CA2EC /* SearchItem.swift in Sources */,
+				D6FF02832C0C790D003CA2EC /* Register.swift in Sources */,
+				D6FF02842C0C790D003CA2EC /* MoviesRegisterPage.swift in Sources */,
+				D6FF02852C0C790D003CA2EC /* PersonsRegister.swift in Sources */,
+				D6FF02862C0C790D003CA2EC /* ExperimentsPage.swift in Sources */,
+				D6FF02872C0C790D003CA2EC /* SearchPage.swift in Sources */,
+				D6FF02882C0C790D003CA2EC /* TimelinePage.swift in Sources */,
+				D6FF02892C0C790D003CA2EC /* IndexItem.swift in Sources */,
+				D6FF028A2C0C790D003CA2EC /* RegisterItem.swift in Sources */,
+				D6FF028B2C0C790D003CA2EC /* FtpScriptWriter.swift in Sources */,
+				D6FF028C2C0C790D003CA2EC /* BetaPage.swift in Sources */,
+				D6FF028D2C0C790D003CA2EC /* PostListItem.swift in Sources */,
+				D6FF028E2C0C790D003CA2EC /* Timeline.swift in Sources */,
+				D6FF028F2C0C790D003CA2EC /* IndexItemPage.swift in Sources */,
+				D6FF02902C0C790D003CA2EC /* RandomEntriesBuilder.swift in Sources */,
+				D6FF02912C0C790D003CA2EC /* BooksRegisterPage.swift in Sources */,
+				D6FF02922C0C790D003CA2EC /* ImpressumPage.swift in Sources */,
+				D6FF02932C0C790D003CA2EC /* PostPage.swift in Sources */,
+				D6FF02942C0C790D003CA2EC /* ContactPage.swift in Sources */,
+				D6FF02952C0C790D003CA2EC /* MoviesRegister.swift in Sources */,
+				D6FF02962C0C790D003CA2EC /* SearchIndexBuilder.swift in Sources */,
+				D6FF02972C0C790D003CA2EC /* ContentParser.swift in Sources */,
+				D6FF02982C0C790D003CA2EC /* TagsPage.swift in Sources */,
+				D6FF02992C0C790D003CA2EC /* RssParser.swift in Sources */,
+				D6FF029A2C0C790D003CA2EC /* PersonCloudPage.swift in Sources */,
+				D6FF029B2C0C790D003CA2EC /* HomePage.swift in Sources */,
+				D6FF029C2C0C790D003CA2EC /* Tags.swift in Sources */,
+				D6FF029D2C0C790D003CA2EC /* TimelineItem.swift in Sources */,
+				D6FF029E2C0C790D003CA2EC /* WordCloudPage.swift in Sources */,
+				D6FF029F2C0C790D003CA2EC /* SearchItems.swift in Sources */,
+				D6FF02A02C0C790D003CA2EC /* RssFeed.swift in Sources */,
+				D6FF02A12C0C790D003CA2EC /* ArchiveMonthPage.swift in Sources */,
+				D6FF02A22C0C790D003CA2EC /* Sitemap.swift in Sources */,
+				D6FF02A42C0C790D003CA2EC /* SitemapWriter.swift in Sources */,
+				D6FF02A52C0C790D003CA2EC /* ArchiveYear.swift in Sources */,
+				D6FF02A62C0C790D003CA2EC /* ErrorPage.swift in Sources */,
+				D6FF02A72C0C790D003CA2EC /* BooksRegister.swift in Sources */,
+				D6FF02A82C0C790D003CA2EC /* SerialsPage.swift in Sources */,
+				D6FF02A92C0C790D003CA2EC /* ArchivePage.swift in Sources */,
+				D6FF02AA2C0C790D003CA2EC /* Index.swift in Sources */,
+				D6FF02AB2C0C790D003CA2EC /* IndexPage.swift in Sources */,
+				D6FF02AC2C0C790D003CA2EC /* PersonsRegisterPage.swift in Sources */,
+				D6FF02AD2C0C790D003CA2EC /* TagItemPage.swift in Sources */,
+				D6FF02AE2C0C790D003CA2EC /* TagItem.swift in Sources */,
+				D6FF02AF2C0C790D003CA2EC /* FeedWriter.swift in Sources */,
 				D6F303B023AC31B10012F659 /* SmlPrinter.swift in Sources */,
+				D6FF02802C0C78FA003CA2EC /* ArchiveMonth.swift in Sources */,
+				D6FF02792C0C7766003CA2EC /* PostBuilder.swift in Sources */,
 				D6F303AB23AC31170012F659 /* SmlBuilder.swift in Sources */,
 				D63C253123EB5AF700545A18 /* Page.swift in Sources */,
+				D6FF027C2C0C7875003CA2EC /* SiteGenerator.swift in Sources */,
+				D6FF027D2C0C78CC003CA2EC /* PageWriter.swift in Sources */,
 				D6F303A523AC30220012F659 /* UnitTest.swift in Sources */,
+				D6FF027B2C0C77D7003CA2EC /* YearParser.swift in Sources */,
+				D6FF02772C0C7712003CA2EC /* FormatBuilder.swift in Sources */,
 				D6F303AF23AC31AC0012F659 /* MarkdownTokenizer.swift in Sources */,
+				D6FF027F2C0C78F6003CA2EC /* Archive.swift in Sources */,
+				D6FF027A2C0C77CF003CA2EC /* LinkParser.swift in Sources */,
+				D6FF02782C0C7745003CA2EC /* Item.swift in Sources */,
 				D6F303AE23AC31410012F659 /* MarkdownNode.swift in Sources */,
+				D6FF027E2C0C78F3003CA2EC /* AdvancedSearchPage.swift in Sources */,
 				D6F303AD23AC31250012F659 /* SmlNode.swift in Sources */,
 				D6578DDB257120E00029C761 /* SiteGeneratorEnv.swift in Sources */,
 				D6F303AC23AC311E0012F659 /* MarkdownParser.swift in Sources */,

@@ -255,4 +255,11 @@ class UnitTest: XCTestCase {
         
         XCTAssertEqual(text, "<div style=\"text-align:center\"><code>***</code></div>")
     }
+    
+    func testEscapeList() {
+        let s = "\\1. Punkt1 2. Punkt2"
+        let text = smlBuilder.render(s)
+        
+        XCTAssertEqual(text, "1. Punkt1 2. Punkt2")
+    }
 }

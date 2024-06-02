@@ -4,6 +4,7 @@ enum MarkdownToken {
     case end
     case tab
     case newline
+    case escape
     case text(String)
     case olistDelimiter(UnicodeScalar)
     case ulistDelimiter(UnicodeScalar)
@@ -17,6 +18,8 @@ extension MarkdownToken: CustomStringConvertible {
     var description: String {
         switch self {
         case .end:
+            return ""
+        case .escape:
             return ""
         case .tab:
             fallthrough
@@ -112,6 +115,10 @@ class MarkdownTokenizer {
         }
         else if c == UnicodeScalar.backslash {
             token = scanNewline()
+            if token == nil {
+                token = .escape
+                advance()
+            }
         }
         else {
             token = scanText()
@@ -240,8 +247,12 @@ class MarkdownTokenizer {
         guard atBeginOfLine else {
             return nil
         }
-        
+        let p = previous ?? .space
         let index = currentIndex
+        
+        if p == UnicodeScalar.backslash {
+            return nil
+        }
         
         while CharacterSet.olistDelimiters.contains(next ?? .space) {
             advance()
