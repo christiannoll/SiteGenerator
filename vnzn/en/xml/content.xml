@@ -4371,4 +4371,13 @@
 	<index><i type="Person">Heiner Müller</i></index>
 	<tags><t>Literature</t><t>Philosophy</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>kunsthalle_hamburg</name>
+	<title>Kunsthalle</title>
+	<data>kunsthalle_small.png</data>
+	<date>14.06.2024</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+	<serial>Ptotos: Architecture</serial>
+</item>
 </content>
