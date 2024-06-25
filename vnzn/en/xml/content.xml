@@ -4400,4 +4400,12 @@
 	<index><i>Fragment</i></index>
 	<tags><t>Society</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>blossom2</name>
+	<title>Blossom</title>
+	<data>blossom2_small.png</data>
+	<date>26.06.2024</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
 </content>
