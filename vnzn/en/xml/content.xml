@@ -4435,4 +4435,18 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>quotes_2020</name>
+	<title>Quotes (2020)</title>
+	<data>* [Paul Klee on Art](#2020/03/07/paul_klee_2/)
+	* [Thomas Mann about Franz Kafka](#2020/04/16/thomas_mann_ueber_franz_kafka/)
+	* [Paul Klee on drawing](#2020/06/11/paul_klee_zeichnen/)
+	* [Memento Mori](#2020/08/30/memento_mori/)
+	* [Thomas Mann about Marcel Proust](#2020/09/15/thomas_mann_ueber_proust/)
+	* [1999: David Bowie's insights into the internet](#2020/11/14/bowie_internet/)
+	* [Ernst Ludwig Kirchner](#2020/12/04/el_kirchner_death/)</data>
+	<date>12.07.2024</date>
+	<index><i>Fragment</i></index>
+	<tags><t>General</t></tags>
+</item>
 </content>
