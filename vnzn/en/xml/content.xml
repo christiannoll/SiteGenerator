@@ -4449,4 +4449,12 @@
 	<index><i>Fragment</i></index>
 	<tags><t>General</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>thomas_aquinas</name>
+	<title>Thomas Aquinas</title>
+	<data>For [Thomas Aquinas](https://en.wikipedia.org/wiki/Thomas_Aquinas), [reason](https://en.wikipedia.org/wiki/Reason), [free will](https://en.wikipedia.org/wiki/Free_will), knowledge and insight are the sources of the greatest happiness on earth.</data>
+	<date>16.07.2024</date>
+	<index><i type="Person">Thomas Aquinas</i><i>Free will</i></index>
+	<tags><t>Society</t><t>Philosophy</t></tags>
+</item>
 </content>
