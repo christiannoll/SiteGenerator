@@ -4457,4 +4457,12 @@
 	<index><i type="Person">Thomas Aquinas</i><i>Free will</i></index>
 	<tags><t>Society</t><t>Philosophy</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>staircase</name>
+	<title>Staircase</title>
+	<data>staircase_small.png</data>
+	<date>20.07.2024</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
 </content>
