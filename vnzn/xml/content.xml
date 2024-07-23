@@ -4456,4 +4456,12 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>law_of_causality</name>
+	<title>Kritik des Kausalgesetzes</title>
+	<data>[Werner Heisenberg](https://de.wikipedia.org/wiki/Werner_Heisenberg), *1927*: "An der scharfen Formulierung des Kausalgesetzes Wenn wir die Gegenwart genau kennen, können wir die Zukunft berechnen, ist nicht der Nachsatz, sondern die Voraussetzung falsch. Wir können die Gegenwart in allen Bestimmungsstücken prinzipiell nicht kennen lernen. Deshalb ist alles Wahrnehmen eine Auswahl aus einer Fülle von Möglichkeiten und eine Beschränkung des zukünftig [Möglichen](#2022/12/02/entropy_of_life/)."</data>
+	<date>24.07.2024</date>
+	<index><i type="Person">Werner Heisenberg</i><i>Heisenbergsche Unschärferelation</i><i>Zitat</i></index>
+	<tags><t>Physik</t><t>Philosophie</t></tags>
+</item>
 </content>

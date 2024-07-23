@@ -4465,4 +4465,12 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>law_of_causality</name>
+	<title>Critique of the Law of Causality</title>
+	<data>[Werner Heisenberg](https://en.wikipedia.org/wiki/Werner_Heisenberg), *1927*: "In the sharp formulation of the law of causality - if we know the present exactly, we can calculate the future - it is not the conclusion that is wrong but the premise. Even in principle we cannot know the present in all detail. For that reason everything observed is a selection from a plenitude of [possibilities](#2022/12/02/entropy_of_life/) and a limitation on what is possible in the future."</data>
+	<date>24.07.2024</date>
+	<index><i type="Person">Werner Heisenberg</i><i>Uncertainty principle</i><i>Quote</i></index>
+	<tags><t>Physics</t><t>Philosophy</t></tags>
+</item>
 </content>
