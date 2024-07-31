@@ -4473,4 +4473,13 @@
 	<index><i>Vergangenheit</i></index>
 	<tags><t>Allgemein</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>eyes2</name>
+	<title>Kontakt</title>
+	<data>eyes2_small.png</data>
+	<date>01.08.2024</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+	<serial>Fotos: Gesichter</serial>
+</item>
 </content>
