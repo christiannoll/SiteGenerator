@@ -4491,4 +4491,13 @@
 	<tags><t>Photo</t></tags>
 	<serial>Photos: Faces</serial>
 </item>
+<item type="text" format="normal">
+	<name>reality_machine</name>
+	<title>The Reality Machine</title>
+	<data>Technology can be viewed as a reality machine that constructs a system world to reduce [complexity](#serials/Complexity/) and make [risks](#2022/12/02/entropy_of_life/) manageable or at least limit them.</data>
+	<date>05.08.2024</date>
+	<index><i>Reality</i><i>Future</i><i>Complexity</i></index>
+	<tags><t>Technology</t><t>Society</t></tags>
+	<serial>Complexity</serial>
+</item>
 </content>

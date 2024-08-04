@@ -4482,4 +4482,13 @@
 	<tags><t>Foto</t></tags>
 	<serial>Fotos: Gesichter</serial>
 </item>
+<item type="text" format="normal">
+	<name>reality_machine</name>
+	<title>Die Wirklichkeitsmaschine</title>
+	<data>Technologie kann als eine Wirklichkeitsmaschine betrachtet werden, die eine Systemwelt konstruiert, um [Komplexität](#serials/Komplexitat/) zu reduzieren und [Risiken](#2022/12/02/entropy_of_life/) beherschbar zu machen oder wenigstens zu begrenzen.</data>
+	<date>05.08.2024</date>
+	<index><i>Realität</i><i>Zukunft</i><i>Komplexität</i></index>
+	<tags><t>Technologie</t><t>Gesellschaft</t></tags>
+	<serial>Komplexität</serial>
+</item>
 </content>
