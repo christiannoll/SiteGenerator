@@ -4491,4 +4491,13 @@
 	<tags><t>Technologie</t><t>Gesellschaft</t></tags>
 	<serial>Komplexität</serial>
 </item>
+<item type="text" format="normal">
+	<name>escher_sentences</name>
+	<title>Escher-Sätze</title>
+	<data>In Anlehnung an den niederländischen Grafiker [M. C. Escher](https://de.wikipedia.org/wiki/M._C._Escher) sind Escher-Sätze Sätze, die auf den ersten Blick grammatikalisch korrekt klingen und aussehen, aber bei genauerem Hinsehen keinen richtigen Sinn ergeben. 
+	Es waren mehr Leute in Berlin als ich.</data>
+	<date>09.08.2024</date>
+	<index><i type="Book" author="Douglas R. Hofstadter">Gödel, Escher, Bach</i><i>Sprache</i><i type="Person">M. C. Escher</i></index>
+	<tags><t>Allgemein</t></tags>
+</item>
 </content>

@@ -4500,4 +4500,13 @@
 	<tags><t>Technology</t><t>Society</t></tags>
 	<serial>Complexity</serial>
 </item>
+<item type="text" format="normal">
+	<name>escher_sentences</name>
+	<title>Escher sentences</title>
+	<data>Inspired by the Dutch graphic artist [M. C. Escher](https://en.wikipedia.org/wiki/M._C._Escher), Escher sentences are sentences that sound and look grammatically correct at first glance, but do not make any real sense upon closer inspection.
+	More people have been to Berlin than I have.</data>
+	<date>09.08.2024</date>
+	<index><i type="Book" author="Douglas R. Hofstadter">Gödel, Escher, Bach</i><i>Language</i><i type="Person">M. C. Escher</i></index>
+	<tags><t>General</t></tags>
+</item>
 </content>
