@@ -4251,6 +4251,7 @@
 	<date>27.04.2024</date>
 	<index></index>
 	<tags><t>Foto</t></tags>
+	<serial>Fotos: Poster</serial>
 </item>
 <item type="text" format="normal">
 	<name>thomas_man_and_love</name>
@@ -4481,6 +4482,7 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 	<serial>Fotos: Gesichter</serial>
+	<serial>Fotos: Poster</serial>
 </item>
 <item type="text" format="normal">
 	<name>reality_machine</name>
@@ -4499,5 +4501,14 @@
 	<date>09.08.2024</date>
 	<index><i type="Book" author="Douglas R. Hofstadter">Gödel, Escher, Bach</i><i>Sprache</i><i type="Person">M. C. Escher</i></index>
 	<tags><t>Allgemein</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>poster13</name>
+	<title>Poster</title>
+	<data>poster13_small.png</data>
+	<date>13.08.2024</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+	<serial>Fotos: Poster</serial>
 </item>
 </content>
