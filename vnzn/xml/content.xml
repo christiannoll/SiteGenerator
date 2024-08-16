@@ -4511,4 +4511,12 @@
 	<tags><t>Foto</t></tags>
 	<serial>Fotos: Poster</serial>
 </item>
+<item type="text" format="normal">
+	<name>infinite_math</name>
+	<title>Infinite Math</title>
+	<data>"God has particular languages, and one of them is music and one of them is mathematics." - [David Foster Wallace](https://de.wikipedia.org/wiki/David_Foster_Wallace), The Boston Globe, *2003*</data>
+	<date>17.08.2024</date>
+	<index><i>Sprache</i><i type="Person">David Foster Wallace</i><i>Zitat</i><i>Gott</i></index>
+	<tags><t>Literatur</t><t>Musik</t><t>Mathematik</t></tags>
+</item>
 </content>
