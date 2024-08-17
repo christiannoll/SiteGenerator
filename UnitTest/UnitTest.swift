@@ -95,6 +95,13 @@ class UnitTest: XCTestCase {
         XCTAssertEqual(text, "(<a href=\"url\">title</a>)")
     }
     
+    func testLinkWithinItalicText() {
+        let s = "_Das ist ein [Link](url)_"
+        let text = smlBuilder.render(s)
+        
+        XCTAssertEqual(text, "<em>Das ist ein <a href=\"url\">Link</a></em>")
+    }
+    
     func testLinkWithinParenthesisWithPreAndPost() {
         let s = "(pre [title](url) post)"
         let text = smlBuilder.render(s)
