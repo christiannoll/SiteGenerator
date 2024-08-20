@@ -4519,4 +4519,16 @@
 	<index><i>Sprache</i><i type="Person">David Foster Wallace</i><i>Zitat</i><i>Gott</i></index>
 	<tags><t>Literatur</t><t>Musik</t><t>Mathematik</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>Goldbachs_weak_conjecture</name>
+	<title>Schwache Goldbach-Vermutung</title>
+	<data>Die [Golbachsche Vermutung](https://de.wikipedia.org/wiki/Goldbachsche_Vermutung) wurde von [Christian Goldbach](https://de.wikipedia.org/wiki/Christian_Goldbach) in einem Brief an [Leonhard Euler](https://de.wikipedia.org/wiki/Leonhard_Euler) am 7. Juni *1742* formuliert. Sie zählt zu den  bekanntesten [ungelösten Problemen der Mathematik](https://de.wikipedia.org/wiki/Ungel%C3%B6ste_Probleme_der_Mathematik). 
+	_Jede gerade Zahl, die größer als 2 ist, ist Summe zweier [Primzahlen](https://de.wikipedia.org/wiki/Primzahl)._
+	Die [schwache Goldbach-Vermutung](https://de.wikipedia.org/wiki/Goldbachsche_Vermutung#Schwache_%28oder_tern%C3%A4re%29_Goldbachsche_Vermutung) heißt schwach, weil wenn die ursprüngliche Goldbachsche Vermutung bewiesen werden kann, diese auch wahr wäre.
+	_Jede ungerade Zahl, die größer als 5 ist, ist Summe dreier Primzahlen._
+	{15 = 3 + 5 + 7}</data>
+	<date>21.08.2024</date>
+	<index><i type="Person">Christian Goldbach</i></index>
+	<tags><t>Mathematik</t></tags>
+</item>
 </content>

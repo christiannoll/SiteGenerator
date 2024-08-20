@@ -4528,4 +4528,16 @@
 	<index><i>Language</i><i type="Person">David Foster Wallace</i><i>Quote</i><i>God</i></index>
 	<tags><t>Literature</t><t>Music</t><t>Mathematics</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>Goldbachs_weak_conjecture</name>
+	<title>Goldbach's weak conjecture</title>
+	<data>The [Golbach conjecture](https://en.wikipedia.org/wiki/Goldbach%27s_conjecture) was formulated by [Christian Goldbach](https://en.wikipedia.org/wiki/Christian_Goldbach) in a letter to [Leonhard Euler](https://de.wikipedia.org/wiki/Leonhard_Euler) on June 7, *1742*. It is one of the most [famous unsolved problems in mathematics](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics).
+	_Every positive even integer can be written as the sum of two [primes](https://en.wikipedia.org/wiki/Prime_number)._
+	The [weak Goldbach conjecture](https://en.wikipedia.org/wiki/Goldbach%27s_weak_conjecture) is called "weak" because if the original Goldbach conjecture can be proven, it would also be true.
+	_Every odd number greater than 5 can be expressed as the sum of three primes._
+	{15 = 3 + 5 + 7}</data>
+	<date>21.08.2024</date>
+	<index><i type="Person">Christian Goldbach</i></index>
+	<tags><t>Mathematics</t></tags>
+</item>
 </content>
