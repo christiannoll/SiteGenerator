@@ -4531,4 +4531,12 @@
 	<index><i type="Person">Christian Goldbach</i></index>
 	<tags><t>Mathematik</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>dike</name>
+	<title>Haus auf dem Deich</title>
+	<data>dike_small.png</data>
+	<date>25.08.2024</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>

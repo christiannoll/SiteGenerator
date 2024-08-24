@@ -4540,4 +4540,12 @@
 	<index><i type="Person">Christian Goldbach</i></index>
 	<tags><t>Mathematics</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>dike</name>
+	<title>House on the dike</title>
+	<data>dike_small.png</data>
+	<date>25.08.2024</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
 </content>
