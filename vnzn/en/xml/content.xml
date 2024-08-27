@@ -4548,4 +4548,17 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>surrealist_manifesto</name>
+	<title>100 years of the Surrealist Manifesto</title>
+	<data>In *1924*, the French writer [André Breton](https://en.wikipedia.org/wiki/Andr%C3%A9_Breton) wrote the [Surrealist Manifesto](https://en.wikipedia.org/wiki/Surrealist_Manifesto). {`***`}
+	We reject the values ​​of conventional logic and reason and call for a return to spontaneous creativity.
+	We question and reject traditional moral and aesthetic norms.
+	We seek and test methods to artistically explore the unconscious layers of the mind.
+	We want to release the unconscious and dissolve the boundaries between dream and reality.
+	It is about creating a new way of looking at the world and discovering a deeper truth through the power of imagination. {`***`}</data>
+	<date>29.08.2024</date>
+	<index><i type="Person">André Breton</i><i>Surrealism</i></index>
+	<tags><t>Literature</t><t>Painting</t></tags>
+</item>
 </content>
