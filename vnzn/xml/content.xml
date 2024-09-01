@@ -4552,4 +4552,14 @@
 	<index><i type="Person">André Breton</i><i>Surrealismus</i></index>
 	<tags><t>Literatur</t><t>Malerei</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>brain_complexity_limit</name>
+	<title>Die "Komplexitätsgrenze" des Gehirns</title>
+	<data>Ist das [Gehirn](https://de.wikipedia.org/wiki/Gehirn) in der Lage, seine eigene Funktionsweise vollständig zu verstehen?
+	Nicht ich weiß, sondern etwas ist in mir, welches weiß und dass kann sich leider nicht sprachlich artikulieren.</data>
+	<date>02.09.2024</date>
+	<index><i>Gehirn</i><i>Komplexität</i></index>
+	<tags><t>Biologie</t><t>Philosophie</t></tags>
+	<serial>Komplexität</serial>
+</item>
 </content>

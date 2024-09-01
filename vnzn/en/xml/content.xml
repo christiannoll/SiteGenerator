@@ -4379,7 +4379,7 @@
 	<date>14.06.2024</date>
 	<index></index>
 	<tags><t>Photo</t></tags>
-	<serial>Ptotos: Architecture</serial>
+	<serial>Photos: Architecture</serial>
 </item>
 <item type="text" format="normal">
 	<name>when_the_punks_arrived</name>
@@ -4560,5 +4560,15 @@
 	<date>29.08.2024</date>
 	<index><i type="Person">André Breton</i><i>Surrealism</i></index>
 	<tags><t>Literature</t><t>Painting</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>brain_complexity_limit</name>
+	<title>The “complexity limit” of the brain</title>
+	<data>Is the [brain](https://en.wikipedia.org/wiki/Brain) capable of fully understanding its own functioning?
+	It is not me who knows, but something inside me that knows and unfortunately cannot articulate itself linguistically.</data>
+	<date>02.09.2024</date>
+	<index><i>Brain</i><i>Complexity</i></index>
+	<tags><t>Biology</t><t>Philosophy</t></tags>
+	<serial>Complexity</serial>
 </item>
 </content>
