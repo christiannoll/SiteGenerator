@@ -97,7 +97,7 @@ class Page {
     }
     
     var metaDescriptionContent: String {
-        get { SiteGeneratorEnv.forGerman() ? "Fragmente aus der Vergangenheit, Gegenwart und Zukunft." : "Fragments from the past, present and future." }
+        get { SiteGeneratorEnv.forGerman() ? "Fragmente und Kommentare aus Vergangenheit, Gegenwart und Zukunft" : "Fragments and comments from the past, present and future" }
     }
     
     public func render() -> String {
