@@ -4570,4 +4570,14 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>einsteins_blunder</name>
+	<title>Albert Einsteins "Eselei"</title>
+	<data>Als [Albert Einstein](https://de.wikipedia.org/wiki/Albert_Einstein) *1915* die [Feldgleichungen](https://de.wikipedia.org/wiki/Einsteinsche_Feldgleichungen) der [allgemeinen Relativitätstheorie](https://de.wikipedia.org/wiki/Allgemeine_Relativit%C3%A4tstheorie) aufstellte, ging man davon aus, dass das Universum statisch sei. Damit sich das auch in den Feldgleichungen wiederspiegelt, führte Einstein *1917* die sogenannte [Kosmologische Konstante](https://de.wikipedia.org/wiki/Kosmologische_Konstante) ein.
+	Nachdem [Edwin Hubble](https://de.wikipedia.org/wiki/Edwin_Hubble) *1929* nachweisen konnte, dass das Universum expandiert, bezeichnete Einstein die Kosmologische Konstante "als größte Eselei seines Lebens" und verwarf die Idee wieder.
+	Ab *1998* hat die kosmologische Konstante eine Renaissance erlebt, denn mittlerweile geht man davon aus, dass sich das Universum beschleunigt ausdehnt, was sich sehr gut mit einer kosmologischen Konstante beschreiben lässt.</data>
+	<date>10.09.2024</date>
+	<index><i type="Person">Albert Einstein</i></index>
+	<tags><t>Physik</t></tags>
+</item>
 </content>

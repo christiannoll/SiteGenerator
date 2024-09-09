@@ -4579,4 +4579,14 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>einsteins_blunder</name>
+	<title>Albert Einstein's "blunder"</title>
+	<data>When [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) formulated the [field equations](https://en.wikipedia.org/wiki/Einstein_field_equations) of [the general theory of relativity](https://en.wikipedia.org/wiki/General_relativity) in *1915*, it was assumed that the universe was static. In order to ensure that this was also reflected in the field equations, Einstein introduced the so-called [cosmological constant](https://en.wikipedia.org/wiki/Cosmological_constant) in *1917*.
+	After [Edwin Hubble](https://en.wikipedia.org/wiki/Edwin_Hubble) was able to prove in *1929* that the universe was expanding, Einstein described the cosmological constant as "the biggest stupidity of his life" and rejected the idea again.
+	Since *1998*, the cosmological constant has experienced a renaissance, because it is now assumed that the universe is expanding at an accelerated rate, which can be described very well with a cosmological constant.</data>
+	<date>10.09.2024</date>
+	<index><i type="Person">Albert Einstein</i></index>
+	<tags><t>Physics</t></tags>
+</item>
 </content>
