@@ -4607,4 +4607,13 @@
 	<index><i>Fragment</i></index>
 	<tags><t>General</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>poster14</name>
+	<title>Poster</title>
+	<data>poster14_small.png</data>
+	<date>18.09.2024</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+	<serial>Photos: Poster</serial>
+</item>
 </content>
