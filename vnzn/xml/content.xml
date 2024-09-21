@@ -4607,4 +4607,12 @@
 	<tags><t>Foto</t></tags>
 	<serial>Fotos: Poster</serial>
 </item>
+<item type="text" format="normal">
+	<name>know_yourself</name>
+	<title>Erkenne Dich selbst</title>
+	<data>"Was weiß ein Fisch von dem Wasser, in dem er sein ganzes Leben lang schwimmt?" - [Albert Einstein](https://de.wikipedia.org/wiki/Albert_Einstein)</data>
+	<date>22.09.2024</date>
+	<index><i type="Person">Albert Einstein</i><i>Zitat</i></index>
+	<tags><t>Philosophie</t></tags>
+</item>
 </content>

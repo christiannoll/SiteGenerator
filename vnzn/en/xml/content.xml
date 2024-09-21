@@ -4616,4 +4616,12 @@
 	<tags><t>Photo</t></tags>
 	<serial>Photos: Poster</serial>
 </item>
+<item type="text" format="normal">
+	<name>know_yourself</name>
+	<title>Know yourself</title>
+	<data>"What does the fish know about the water which it swims life-long around in?" - [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein)</data>
+	<date>22.09.2024</date>
+	<index><i type="Person">Albert Einstein</i><i>Quote</i></index>
+	<tags><t>Philosophy</t></tags>
+</item>
 </content>
