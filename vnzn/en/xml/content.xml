@@ -3908,7 +3908,7 @@
 	<name>goethe_and_bach</name>
 	<title>Goethe and Bach</title>
 	<data>[Johann Wolfgang Goethe](https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe) described his feelings when listening to the music of [Johann Sebastian Bach](https://en.wikipedia.org/wiki/Johann_Sebastian_Bach) in a letter to [Carl Friedrich Zelter](https://en.wikipedia.org/wiki/Carl_Friedrich_Zelter) in *1827*:
-	"I said to myself, it is as if the eternal harmony were conversing with itself, as it may have done in God's breast before the creation of the world; that is the way it move deep within me, and it was if I neither possessed or needed ears, nor any other sense—least of all, the eyes."</data>
+	"I said to myself, it is as if the eternal harmony were conversing with itself, as it may have done in God's breast before the creation of the world; that is the way it move deep within me, and it was if I neither possessed or needed ears, nor any other sense-least of all, the eyes."</data>
 	<date>21.12.2023</date>
 	<index><i type="Person">Johann Wolfgang von Goethe</i><i type="Person">Johann Sebastian Bach</i></index>
 	<tags><t>Music</t></tags>
@@ -3969,7 +3969,7 @@
 	<data>Anyone who has ever booked a room in [Hilbert's Hotel](https://en.wikipedia.org/wiki/Hilbert%27s_paradox_of_the_Grand_Hotel) knows the problem with infinities. There are different [infinities](https://en.wikipedia.org/wiki/Infinity). Mathematicians have proven for the first time that the ten known infinities are different and have a [hierarchy](https://en.wikipedia.org/wiki/Cicho%C5%84%27s_diagram), i.e. they are different sizes. For example, the infinity of real numbers is greater than the infinity of natural numbers.
 	Perhaps the number of mathematical puzzles surrounding infinity is infinitely large.</data>
 	<date>14.01.2024</date>
-	<index><i>infinity</i><i type="Person">David Hilbert</i><i type="Person">Georg Cantor</i></index>
+	<index><i>Infinity</i><i type="Person">David Hilbert</i><i type="Person">Georg Cantor</i></index>
 	<tags><t>Mathematics</t></tags>
 </item>
 <item type="text" format="normal">
@@ -4623,5 +4623,14 @@
 	<date>22.09.2024</date>
 	<index><i type="Person">Albert Einstein</i><i>Quote</i></index>
 	<tags><t>Philosophy</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>immortal_cells</name>
+	<title>Immortal Cells</title>
+	<data>With each cell division, a portion of the [telomeres](https://en.wikipedia.org/wiki/Telomere), the end segments of the [chromosomes](https://en.wikipedia.org/wiki/Chromosome), is lost. The number of cell divisions a cell can undergo is limited, as [programmed cell death](https://en.wikipedia.org/wiki/Programmed_cell_death) is triggered once the telomeres reach a critical length. This limit is known as the [Hayflick limit](https://en.wikipedia.org/wiki/Hayflick_limit), named after its discoverer. [Leonard Hayflick](https://en.wikipedia.org/wiki/Leonard_Hayflick) demonstrated that normal human cells divide approximately 52 times before cell aging sets in.
+	However, there are [cells](https://en.wikipedia.org/wiki/Cell_(biology)) that can divide infinitely. In these cells, the enzyme [telomerase](https://en.wikipedia.org/wiki/Telomerase) is active, which prevents the chromosomes from becoming shorter with each division by restoring the telomeres. These "immortal" cells include [germ cells](https://en.wikipedia.org/wiki/Gamete), [stem cells](https://en.wikipedia.org/wiki/Stem_cell), certain [immune cells](https://en.wikipedia.org/wiki/White_blood_cell), and [cancer cells](https://en.wikipedia.org/wiki/Cancer).</data>
+	<date>26.09.2024</date>
+	<index><i>Infinity</i></index>
+	<tags><t>Biology</t></tags>
 </item>
 </content>

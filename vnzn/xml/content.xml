@@ -4615,4 +4615,13 @@
 	<index><i type="Person">Albert Einstein</i><i>Zitat</i></index>
 	<tags><t>Philosophie</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>immortal_cells</name>
+	<title>Unsterbliche Zellen</title>
+	<data>Bei jeder Zellteilung geht ein Stück der [Telomere](https://de.wikipedia.org/wiki/Telomer), der Endstücke der [Chromosomen](https://de.wikipedia.org/wiki/Chromosom), verloren. Die Anzahl der [Zellteilungen](https://de.wikipedia.org/wiki/Zellteilung), die eine Zelle durchlaufen kann, ist begrenzt, da der [programmierte Zelltod](https://de.wikipedia.org/wiki/Programmierter_Zelltod) eingeleitet wird, sobald die Telomere eine kritische Länge erreicht haben. Diese Grenze wird nach seinem Entdecker als [Hayflick-Grenze](https://de.wikipedia.org/wiki/Hayflick-Grenze) bezeichnet. [Leonard Hayflick](https://de.wikipedia.org/wiki/Leonard_Hayflick) bewies, dass sich normale menschliche Zellen ca. 52-mal teilen, bevor schließlich die Zellalterung einsetzt. 
+	Es gibt jedoch [Zellen](https://de.wikipedia.org/wiki/Zelle_(Biologie)), die sich unendlich oft teilen können. Hier ist das Enzym [Telomerase](https://de.wikipedia.org/wiki/Telomerase) aktiv, das durch die Wiederherstellung der Telomere verhindert, dass die Chromosomen mit jeder Zellteilung kürzer werden. Zu diesen "unsterblichen" Zellen gehören u.a. [Keimzellen](https://de.wikipedia.org/wiki/Keimzelle), [Stammzellen](https://de.wikipedia.org/wiki/Stammzelle), bestimmte [Immunzellen](https://de.wikipedia.org/wiki/Immunzelle) und [Krebszellen](https://de.wikipedia.org/wiki/Krebs_(Medizin)).</data>
+	<date>26.09.2024</date>
+	<index><i>Unendlichkeit</i></index>
+	<tags><t>Biologie</t></tags>
+</item>
 </content>
