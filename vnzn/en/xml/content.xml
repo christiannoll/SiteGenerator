@@ -4633,4 +4633,13 @@
 	<index><i>Infinity</i></index>
 	<tags><t>Biology</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>abstract_15</name>
+	<title>Abstract 15</title>
+	<data>abstract15_small.png</data>
+	<date>30.09.2024</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+	<serial>Photos: Abstract</serial>
+</item>
 </content>
