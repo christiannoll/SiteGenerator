@@ -4642,4 +4642,21 @@
 	<tags><t>Photo</t></tags>
 	<serial>Photos: Abstract</serial>
 </item>
+<item type="text" format="normal">
+	<name>drake_equation</name>
+	<title>Drake equation</title>
+	<data>The [Drake equation](https://en.wikipedia.org/wiki/Drake_equation) is used to estimate how many intelligent civilizations with the ability to communicate there might be in our galaxy, the [Milky Way](https://en.wikipedia.org/wiki/Milky_Way). It was formulated by [Frank Drake](https://en.wikipedia.org/wiki/Frank_Drake) in *1961*. 
+	`N = R* • fp • ne • fl • fi • fc • L`
+	* R* = the average rate of star formation in our Galaxy
+	* fp = the fraction of those stars that have planets
+	* ne = the average number of planets that can potentially support life per star that has planets
+	* fl = the fraction of planets that could support life that actually develop life at some point
+	* fi = the fraction of planets with life that go on to develop intelligent life
+	* fc = the fraction of planets with intelligent life and interstellar communication
+	* L = Lifespan of a technical civilization in years
+	The American astronomer and exobiologist [Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan) estimated the number of civilizations at ten.</data>
+	<date>04.10.2024</date>
+	<index><i type="Person">Frank Drake</i><i type="Person">Carl Sagan</i><i>Fermi Paradox</i></index>
+	<tags><t>Biology</t><t>Astronomy</t></tags>
+</item>
 </content>

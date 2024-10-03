@@ -4578,7 +4578,7 @@
 	Ab *1998* hat die kosmologische Konstante eine Renaissance erlebt, denn mittlerweile geht man davon aus, dass sich das Universum beschleunigt ausdehnt, was sich sehr gut mit einer kosmologischen Konstante beschreiben lässt.</data>
 	<date>10.09.2024</date>
 	<index><i type="Person">Albert Einstein</i></index>
-	<tags><t>Physik</t></tags>
+	<tags><t>Physik</t><t>Astronomie</t></tags>
 </item>
 <item type="text" format="normal">
 	<name>quotes_2021</name>
@@ -4632,5 +4632,22 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 	<serial>Fotos: Abstrakt</serial>
+</item>
+<item type="text" format="normal">
+	<name>drake_equation</name>
+	<title>Drake-Gleichung</title>
+	<data>Die [Drake-Gleichung](https://de.wikipedia.org/wiki/Drake-Gleichung) wird verwendet, um abzuschätzen, wie viele intelligenten Zivilisationen mit der Fähigkeit zur Kommunikation es in unserer [Galaxie](https://de.wikipedia.org/wiki/Galaxie), der [Milchstraße](https://de.wikipedia.org/wiki/Milchstra%C3%9Fe), geben könnte. Sie wurde *1961* von [Frank Drake](https://de.wikipedia.org/wiki/Frank_Drake) aufgestellt. 
+	`N = R* • fp • ne • fl • fi • fc • L`
+	* R* = Anzahl der neuen Sterne, die jedes Jahr in der Milchstraße entstehen
+	* fp = Anteil der Sterne, die Planeten haben
+	* ne = Anzahl der Planeten pro Stern, auf denen Leben im Prinzip möglich ist
+	* fl = Anteil von Planeten in ne, auf denen Leben entsteht
+	* fi = Anteil bewohnbarer Planeten mit Leben, auf denen intelligentes Leben entsteht
+	* fc = Anteil von Planeten mit intelligentem Leben und interstellarer Kommunikation
+	* L = Lebensdauer einer technischen Zivilisation in Jahren
+	Der amerikanische Astronom und Exobiologe [Carl Sagan](https://de.wikipedia.org/wiki/Carl_Sagan) schätzte die Anzahl an Zivilisationen auf zehn.</data>
+	<date>04.10.2024</date>
+	<index><i type="Person">Frank Drake</i><i type="Person">Carl Sagan</i><i>Fermi Paradoxon</i></index>
+	<tags><t>Biologie</t><t>Astronomie</t></tags>
 </item>
 </content>
