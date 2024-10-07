@@ -4659,4 +4659,12 @@
 	<index><i type="Person">Frank Drake</i><i type="Person">Carl Sagan</i><i>Fermi Paradox</i></index>
 	<tags><t>Biology</t><t>Astronomy</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>chance_for_future</name>
+	<title>Chance for a future</title>
+	<data>Has humanity [over-evolved](#2020/11/26/human_evolution_ai/)? We cannot continue at this rate without destroying all other species on this planet, including ourselves. Nothing in nature grows exponentially forever, except [cancer](#2024/09/26/immortal_cells/), and in the long run it kills its host.</data>
+	<date>08.10.2024</date>
+	<index><i>Future</i></index>
+	<tags><t>Society</t><t>Technology</t></tags>
+</item>
 </content>
