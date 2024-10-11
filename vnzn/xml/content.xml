@@ -4658,4 +4658,12 @@
 	<index><i>Zukunft</i></index>
 	<tags><t>Gesellschaft</t><t>Technologie</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>reflections5</name>
+	<title>Reflexionen</title>
+	<data>reflections5_small.png</data>
+	<date>12.10.2024</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
