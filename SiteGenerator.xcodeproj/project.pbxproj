@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 51;
+	objectVersion = 77;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -32,6 +32,8 @@
 		D65D75BD23ABED9F00490D17 /* SmlBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = D65D75BC23ABED9F00490D17 /* SmlBuilder.swift */; };
 		D667BB1424070C6C00B8789F /* FeedWriter.swift in Sources */ = {isa = PBXBuildFile; fileRef = D667BB1324070C6C00B8789F /* FeedWriter.swift */; };
 		D676120D237F43960042F55D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D676120C237F43960042F55D /* main.swift */; };
+		D67A74F72CBEEB8200FCB917 /* AppWriter.swift in Sources */ = {isa = PBXBuildFile; fileRef = D67A74F62CBEEB7700FCB917 /* AppWriter.swift */; };
+		D67A74F82CBEEB8200FCB917 /* AppWriter.swift in Sources */ = {isa = PBXBuildFile; fileRef = D67A74F62CBEEB7700FCB917 /* AppWriter.swift */; };
 		D690C72423DA315C00975E72 /* FtpScriptWriter.swift in Sources */ = {isa = PBXBuildFile; fileRef = D690C72323DA315C00975E72 /* FtpScriptWriter.swift */; };
 		D69221C423818FEB0007E774 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = D69221C323818FEB0007E774 /* Item.swift */; };
 		D69221C6238196740007E774 /* ContentParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = D69221C5238196740007E774 /* ContentParser.swift */; };
@@ -184,6 +186,7 @@
 		D667BB1324070C6C00B8789F /* FeedWriter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedWriter.swift; sourceTree = "<group>"; };
 		D6761209237F43960042F55D /* SiteGenerator */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SiteGenerator; sourceTree = BUILT_PRODUCTS_DIR; };
 		D676120C237F43960042F55D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		D67A74F62CBEEB7700FCB917 /* AppWriter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppWriter.swift; sourceTree = "<group>"; };
 		D690C72323DA315C00975E72 /* FtpScriptWriter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FtpScriptWriter.swift; sourceTree = "<group>"; };
 		D69221C323818FEB0007E774 /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		D69221C5238196740007E774 /* ContentParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentParser.swift; sourceTree = "<group>"; };
@@ -280,6 +283,7 @@
 		D676120B237F43960042F55D /* SiteGenerator */ = {
 			isa = PBXGroup;
 			children = (
+				D67A74F62CBEEB7700FCB917 /* AppWriter.swift */,
 				D6C42DF628A8E2B30066D47D /* AdvancedSearchPage.swift */,
 				D699D538239AADCC006FE271 /* Archive.swift */,
 				D63B510B23996704001E7E7B /* ArchiveMonth.swift */,
@@ -423,8 +427,9 @@
 		D6761201237F43960042F55D /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				BuildIndependentTargetsInParallel = YES;
 				LastSwiftUpdateCheck = 1010;
-				LastUpgradeCheck = 1410;
+				LastUpgradeCheck = 1600;
 				ORGANIZATIONNAME = Christian;
 				TargetAttributes = {
 					D6761208237F43960042F55D = {
@@ -439,7 +444,6 @@
 				};
 			};
 			buildConfigurationList = D6761204237F43960042F55D /* Build configuration list for PBXProject "SiteGenerator" */;
-			compatibilityVersion = "Xcode 10.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -447,6 +451,7 @@
 				Base,
 			);
 			mainGroup = D6761200237F43960042F55D;
+			preferredProjectObjectVersion = 77;
 			productRefGroup = D676120A237F43960042F55D /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -486,6 +491,7 @@
 				D6EC3FB427921DFE00B0BD45 /* MoviesRegisterPage.swift in Sources */,
 				D65545B02389B37A00D18FD2 /* SmlNode.swift in Sources */,
 				D6E1929C23A77A82006A7A5C /* SiteGenerator.swift in Sources */,
+				D67A74F82CBEEB8200FCB917 /* AppWriter.swift in Sources */,
 				D6C26E6D23C0AF1B0014634C /* IndexItemPage.swift in Sources */,
 				D690C72423DA315C00975E72 /* FtpScriptWriter.swift in Sources */,
 				D63BBEEE29142763008AF236 /* MaxHomePage.swift in Sources */,
@@ -554,6 +560,7 @@
 			files = (
 				D6FF02812C0C790D003CA2EC /* MaxHomePage.swift in Sources */,
 				D6FF02822C0C790D003CA2EC /* SearchItem.swift in Sources */,
+				D67A74F72CBEEB8200FCB917 /* AppWriter.swift in Sources */,
 				D6FF02832C0C790D003CA2EC /* Register.swift in Sources */,
 				D6FF02842C0C790D003CA2EC /* MoviesRegisterPage.swift in Sources */,
 				D6FF02852C0C790D003CA2EC /* PersonsRegister.swift in Sources */,
@@ -662,6 +669,7 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -726,6 +734,7 @@
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
@@ -752,7 +761,7 @@
 				CODE_SIGN_STYLE = Manual;
 				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = "";
-				MACOSX_DEPLOYMENT_TARGET = "$(RECOMMENDED_MACOSX_DEPLOYMENT_TARGET)";
+				MACOSX_DEPLOYMENT_TARGET = 14.6;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
@@ -767,7 +776,7 @@
 				CODE_SIGN_STYLE = Manual;
 				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = "";
-				MACOSX_DEPLOYMENT_TARGET = "$(RECOMMENDED_MACOSX_DEPLOYMENT_TARGET)";
+				MACOSX_DEPLOYMENT_TARGET = 14.6;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
@@ -789,7 +798,7 @@
 					"@executable_path/../Frameworks",
 					"@loader_path/../Frameworks",
 				);
-				MACOSX_DEPLOYMENT_TARGET = "$(RECOMMENDED_MACOSX_DEPLOYMENT_TARGET)";
+				MACOSX_DEPLOYMENT_TARGET = 14.6;
 				PRODUCT_BUNDLE_IDENTIFIER = com.noll.UnitTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -812,7 +821,7 @@
 					"@executable_path/../Frameworks",
 					"@loader_path/../Frameworks",
 				);
-				MACOSX_DEPLOYMENT_TARGET = "$(RECOMMENDED_MACOSX_DEPLOYMENT_TARGET)";
+				MACOSX_DEPLOYMENT_TARGET = 14.6;
 				PRODUCT_BUNDLE_IDENTIFIER = com.noll.UnitTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";

@@ -153,6 +153,9 @@ struct SiteGenerator {
         let sitemap = Sitemap(posts: posts, relativePagePaths: writer.relativePagePaths)
         let sitemapWriter = SitemapWriter()
         sitemapWriter.writeSitemap(sitemap.render())
+        
+        let appWriter = AppWriter()
+        appWriter.writeLastUpdateFile()
     }
     
     private func writeTimelinePage(_ writer: PageWriter) {
