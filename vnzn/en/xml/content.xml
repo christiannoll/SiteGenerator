@@ -4686,4 +4686,12 @@
 	<index><i>Fragment</i></index>
 	<tags><t>Literature</t><t>Short Story</t><t>Biology</t></tags>
 </item>
+<item type="text" format="randomLinksColor">
+	<name>ai_slop</name>
+	<title>AI Slop</title>
+	<data>Is [AI slop](https://en.wikipedia.org/wiki/Slop_(artificial_intelligence)) the [end of the Internet](https://en.wikipedia.org/wiki/Dead_Internet_theory) and can only [Shrimp Jesus](https://en.wikipedia.org/wiki/Slop_(artificial_intelligence)#/media/File:Facebook_AI_slop,_%22Shrimp_Jesus%22_1.jpg) save us?</data>
+	<date>20.10.2024</date>
+	<index><i>Artificial Intelligence</i></index>
+	<tags><t>Technology</t><t>Society</t></tags>
+</item>
 </content>
