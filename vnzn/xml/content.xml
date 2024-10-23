@@ -4685,4 +4685,14 @@
 	<index><i>Artificial Intelligence</i></index>
 	<tags><t>Technologie</t><t>Gesellschaft</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>faces2</name>
+	<title>Gesichter</title>
+	<data>faces2_small.png</data>
+	<date>24.10.2024</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+	<serial>Fotos: Poster</serial>
+	<serial>Fotos: Gesichter</serial>
+</item>
 </content>

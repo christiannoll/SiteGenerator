@@ -4694,4 +4694,14 @@
 	<index><i>Artificial Intelligence</i></index>
 	<tags><t>Technology</t><t>Society</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>faces2</name>
+	<title>Faces</title>
+	<data>faces2_small.png</data>
+	<date>24.10.2024</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+	<serial>Photos: Poster</serial>
+	<serial>Photos: Faces</serial>
+</item>
 </content>
