@@ -1411,7 +1411,7 @@
 		* den [Goldenen Schnitt](https://de.wikipedia.org/wiki/Goldener_Schnitt) Φ = `1,61803 39887 49894 84820 …`
 		</data>
 	<date>09.05.2021</date>
-	<index><i>Komplexität</i><i>Universum</i><i>Zahlen</i></index>
+	<index><i>Komplexität</i><i>Universum</i><i>Zahlen</i><i type="Person">Leonhard Euler</i></index>
 	<tags><t>Mathematik</t><t>Allgemein</t></tags>
 	<serial>Komplexität</serial>
 </item>
@@ -4528,7 +4528,7 @@
 	_Jede ungerade Zahl, die größer als 5 ist, ist Summe dreier Primzahlen._
 	{15 = 3 + 5 + 7}</data>
 	<date>21.08.2024</date>
-	<index><i type="Person">Christian Goldbach</i></index>
+	<index><i type="Person">Christian Goldbach</i><i type="Person">Leonhard Euler</i></index>
 	<tags><t>Mathematik</t></tags>
 </item>
 <item type="image" height="200" width="200">
@@ -4694,5 +4694,13 @@
 	<tags><t>Foto</t></tags>
 	<serial>Fotos: Poster</serial>
 	<serial>Fotos: Gesichter</serial>
+</item>
+<item type="text" format="normal">
+	<name>math_curiosities_4</name>
+	<title>Mathematische Kuriositäten IV</title>
+	<data>Die [Eulersche Identität](https://de.wikipedia.org/wiki/Eulersche_Formel) wird auch als die "schönste Formel der Mathematik" bezeichnet: {e&lt;sup&gt;iπ&lt;/sup&gt; + 1 = 0}</data>
+	<date>28.10.2024</date>
+	<index><i>Zahlen</i><i type="Person">Leonhard Euler</i></index>
+	<tags><t>Mathematik</t></tags>
 </item>
 </content>

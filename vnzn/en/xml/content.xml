@@ -1409,7 +1409,7 @@
 		* The [golden ratio](https://en.wikipedia.org/wiki/Golden_ratio) Φ = `1.61803 39887 49894 84820 …`
 	</data>
 	<date>09.05.2021</date>
-	<index><i>Complexity</i><i>Universe</i><i>Numbers</i></index>
+	<index><i>Complexity</i><i>Universe</i><i>Numbers</i><i type="Person">Leonhard Euler</i></index>
 	<tags><t>Mathematics</t><t>General</t></tags>
 	<serial>Complexity</serial>
 </item>
@@ -4537,7 +4537,7 @@
 	_Every odd number greater than 5 can be expressed as the sum of three primes._
 	{15 = 3 + 5 + 7}</data>
 	<date>21.08.2024</date>
-	<index><i type="Person">Christian Goldbach</i></index>
+	<index><i type="Person">Christian Goldbach</i><i type="Person">Leonhard Euler</i></index>
 	<tags><t>Mathematics</t></tags>
 </item>
 <item type="image" height="200" width="200">
@@ -4703,5 +4703,13 @@
 	<tags><t>Photo</t></tags>
 	<serial>Photos: Poster</serial>
 	<serial>Photos: Faces</serial>
+</item>
+<item type="text" format="normal">
+	<name>math_curiosities_4</name>
+	<title>Mathematical curiosities IV</title>
+	<data>[Euler’s identity](https://en.wikipedia.org/wiki/Euler%27s_identity) is also called the "most beautiful formula in mathematics": {e&lt;sup&gt;iπ&lt;/sup&gt; + 1 = 0}</data>
+	<date>28.10.2024</date>
+	<index><i>Numbers</i><i type="Person">Leonhard Euler</i></index>
+	<tags><t>Mathematics</t></tags>
 </item>
 </content>
