@@ -4703,4 +4703,12 @@
 	<index><i>Zahlen</i><i type="Person">Leonhard Euler</i></index>
 	<tags><t>Mathematik</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>nothing</name>
+	<title>Nichts</title>
+	<data>[Nichts](https://de.wikipedia.org/wiki/Nichts) ist [nichts](https://de.wikipedia.org/wiki/Nichts).</data>
+	<date>01.11.2024</date>
+	<index><i>Nichts</i></index>
+	<tags><t>Philosophie</t></tags>
+</item>
 </content>
