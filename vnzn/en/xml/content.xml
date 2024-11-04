@@ -4720,4 +4720,13 @@
 	<index><i>Nothing</i></index>
 	<tags><t>Philosophy</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>two-faced</name>
+	<title>Two-faced</title>
+	<data>two-faced_small.png</data>
+	<date>05.11.2024</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+	<serial>Photos: Faces</serial>
+</item>
 </content>

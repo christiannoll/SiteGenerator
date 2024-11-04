@@ -4711,4 +4711,13 @@
 	<index><i>Nichts</i></index>
 	<tags><t>Philosophie</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>two-faced</name>
+	<title>Doppelgesichtig</title>
+	<data>two-faced_small.png</data>
+	<date>05.11.2024</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+	<serial>Fotos: Gesichter</serial>
+</item>
 </content>
