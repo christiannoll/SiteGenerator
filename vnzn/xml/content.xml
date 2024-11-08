@@ -4720,4 +4720,18 @@
 	<tags><t>Foto</t></tags>
 	<serial>Fotos: Gesichter</serial>
 </item>
+<item type="text" format="normal">
+	<name>code_is_data</name>
+	<title>Code is data</title>
+	<data>Durch einfachste Programme können [komplexe](#serials/Komplexitat/) Systeme entstehen. Auf dieser Idee basiert auch die *1958* von [John McCarthy](https://de.wikipedia.org/wiki/John_McCarthy) entwickelte Programmiersprache [LISP](https://de.wikipedia.org/wiki/Lisp). Die Sprache konzentriert sich auf Rekursion und symbolische Berechnung und macht es möglich, mit nur wenigen Operatoren und Lambdas (anonyme Funktionen) fast alles problemlos zu implementieren. 
+	In Lisp folgt alles derselben Struktur und kann auf dieselbe Weise verarbeitet werden. Diese Flexibilität ist der Grund warum in Lisp, Code genauso verarbeitet werden kann wie alle anderen Daten und deshalb wird Lisp auch als eine programmierbare Programmiersprache bezeichnet.
+	Weil Lisp eine so elegante und expressive Sprache ist, kann man einen Lisp-Compiler in weniger als 50 Zeilen [Pythoncode](https://github.com/zserge/tinylangs/blob/main/lisp.py) implementieren. Durch die leichte Erweiterbarkeit lässt sich z.B. die fehlende Unterstützung des float-Types ganz einfach ergänzen:
+	`(label float (lambda (a b) (/ a b)))
+	(label add (lambda (a b) (+ a b)))
+	(add (float 5 2) (float 3 2))`</data>
+	<date>09.11.2024</date>
+	<index><i>Algorithmus</i><i>Programmierung</i></index>
+	<tags><t>Informatik</t></tags>
+	<serial>Komplexität</serial>
+</item>
 </content>
