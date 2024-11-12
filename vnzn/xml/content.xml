@@ -4734,4 +4734,12 @@
 	<tags><t>Informatik</t></tags>
 	<serial>Komplexität</serial>
 </item>
+<item type="text" format="normal">
+	<name>last_hope</name>
+	<title>Letzte Hoffnung</title>
+	<data>Die Wahlen in den [USA](https://de.wikipedia.org/wiki/Vereinigte_Staaten) haben es mal wieder gezeigt, der gesellschaftliche Fortschritt ist keine Gesetzmäßigkeit in der Geschichte. Wollen wir hoffen, dass vier Jahre nicht ausreichen werden die [Demokratie](https://de.wikipedia.org/wiki/Demokratie) zu zerstören.</data>
+	<date>13.11.2024</date>
+	<index><i>USA</i></index>
+	<tags><t>Gesellschaft</t></tags>
+</item>
 </content>

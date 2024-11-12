@@ -4743,4 +4743,12 @@
 	<tags><t>Computer science</t></tags>
 	<serial>Complexity</serial>
 </item>
+<item type="text" format="normal">
+	<name>last_hope</name>
+	<title>Last hope</title>
+	<data>The elections in the [USA](https://en.wikipedia.org/wiki/United_States) have shown once again that social progress is not a law of history. Let us hope that four years will not be enough to destroy [democracy](https://en.wikipedia.org/wiki/Democracy).</data>
+	<date>13.11.2024</date>
+	<index><i>USA</i></index>
+	<tags><t>Society</t></tags>
+</item>
 </content>
