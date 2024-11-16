@@ -4742,4 +4742,14 @@
 	<index><i>USA</i></index>
 	<tags><t>Gesellschaft</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>face</name>
+	<title>Face</title>
+	<data>face2_small.png</data>
+	<date>17.11.2024</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+	<serial>Fotos: Gesichter</serial>
+	<serial>Fotos: Poster</serial>
+</item>
 </content>
