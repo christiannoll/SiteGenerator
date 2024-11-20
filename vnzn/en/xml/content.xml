@@ -4361,7 +4361,7 @@
 	<title>Hope</title>
 	<data>\1. [Guilty](https://en.wikipedia.org/wiki/Prosecution_of_Donald_Trump_in_New_York#) 2. [Guilty](https://en.wikipedia.org/wiki/Prosecution_of_Donald_Trump_in_New_York#) 3. [Guilty](https://en.wikipedia.org/wiki/Prosecution_of_Donald_Trump_in_New_York#) 4. [Guilty](https://en.wikipedia.org/wiki/Prosecution_of_Donald_Trump_in_New_York#) 5. [Guilty](https://en.wikipedia.org/wiki/Prosecution_of_Donald_Trump_in_New_York#) 6. [Guilty](https://en.wikipedia.org/wiki/Prosecution_of_Donald_Trump_in_New_York#) 7. [Guilty](https://en.wikipedia.org/wiki/Prosecution_of_Donald_Trump_in_New_York#) 8. [Guilty](https://en.wikipedia.org/wiki/Prosecution_of_Donald_Trump_in_New_York#) 9. [Guilty](https://en.wikipedia.org/wiki/Prosecution_of_Donald_Trump_in_New_York#) 10. [Guilty](https://en.wikipedia.org/wiki/Prosecution_of_Donald_Trump_in_New_York#) 11. [Guilty](https://en.wikipedia.org/wiki/Prosecution_of_Donald_Trump_in_New_York#) 12. [Guilty](https://en.wikipedia.org/wiki/Prosecution_of_Donald_Trump_in_New_York#) 13. [Guilty](https://en.wikipedia.org/wiki/Prosecution_of_Donald_Trump_in_New_York#) 14. [Guilty](https://en.wikipedia.org/wiki/Prosecution_of_Donald_Trump_in_New_York#) 15. [Guilty](https://en.wikipedia.org/wiki/Prosecution_of_Donald_Trump_in_New_York#) 16. [Guilty](https://en.wikipedia.org/wiki/Prosecution_of_Donald_Trump_in_New_York#) 17. [Guilty](https://en.wikipedia.org/wiki/Prosecution_of_Donald_Trump_in_New_York#) 18. [Guilty](https://en.wikipedia.org/wiki/Prosecution_of_Donald_Trump_in_New_York#) 19. [Guilty](https://en.wikipedia.org/wiki/Prosecution_of_Donald_Trump_in_New_York#) 20. [Guilty](https://en.wikipedia.org/wiki/Prosecution_of_Donald_Trump_in_New_York#) 21. [Guilty](https://en.wikipedia.org/wiki/Prosecution_of_Donald_Trump_in_New_York#) 22. [Guilty](https://en.wikipedia.org/wiki/Prosecution_of_Donald_Trump_in_New_York#) 23. [Guilty](https://en.wikipedia.org/wiki/Prosecution_of_Donald_Trump_in_New_York#) 24. [Guilty](https://en.wikipedia.org/wiki/Prosecution_of_Donald_Trump_in_New_York#) 25. [Guilty](https://en.wikipedia.org/wiki/Prosecution_of_Donald_Trump_in_New_York#) 26. [Guilty](https://en.wikipedia.org/wiki/Prosecution_of_Donald_Trump_in_New_York#) 27. [Guilty](https://en.wikipedia.org/wiki/Prosecution_of_Donald_Trump_in_New_York#) 28. [Guilty](https://en.wikipedia.org/wiki/Prosecution_of_Donald_Trump_in_New_York#) 29. [Guilty](https://en.wikipedia.org/wiki/Prosecution_of_Donald_Trump_in_New_York#) 30. [Guilty](https://en.wikipedia.org/wiki/Prosecution_of_Donald_Trump_in_New_York#) 31. [Guilty](https://en.wikipedia.org/wiki/Prosecution_of_Donald_Trump_in_New_York#) 32. [Guilty](https://en.wikipedia.org/wiki/Prosecution_of_Donald_Trump_in_New_York#) 33. [Guilty](https://en.wikipedia.org/wiki/Prosecution_of_Donald_Trump_in_New_York#) 34. [Guilty](https://en.wikipedia.org/wiki/Prosecution_of_Donald_Trump_in_New_York#)</data>
 	<date>06.06.2024</date>
-	<index><i>USA</i></index>
+	<index><i>USA</i><i>Hope</i></index>
 	<tags><t>Society</t></tags>
 </item>
 <item type="text" format="normal">
@@ -4748,7 +4748,7 @@
 	<title>Last hope</title>
 	<data>The elections in the [USA](https://en.wikipedia.org/wiki/United_States) have shown once again that social progress is not a law of history. Let us hope that four years will not be enough to destroy [democracy](https://en.wikipedia.org/wiki/Democracy).</data>
 	<date>13.11.2024</date>
-	<index><i>USA</i></index>
+	<index><i>USA</i><i>Hope</i></index>
 	<tags><t>Society</t></tags>
 </item>
 <item type="image" height="200" width="200">
@@ -4760,5 +4760,29 @@
 	<tags><t>Photo</t></tags>
 	<serial>Photos: Poster</serial>
 	<serial>Photos: Faces</serial>
+</item>
+<item type="text" format="normal">
+	<name>borges_taxonomy_of_animals</name>
+	<title>The Order of Things</title>
+	<data>In an essay, [Jorge Luis Borges](https://en.wikipedia.org/wiki/Jorge_Luis_Borges) quotes from an old Chinese encyclopedia with the self-made title ["Celestial Emporium of Benevolent Knowledge"](https://en.wikipedia.org/wiki/Celestial_Emporium_of_Benevolent_Knowledge):
+	All known animals can be grouped under the following classification scheme:
+	* a) those belonging to the Emperor ,
+	* b) embalmed ones,
+	* c) trained ones,
+	* d) suckling pigs,
+	* e) mermaids (or sirens),
+	* f) fabled ones,
+	* g) stray dogs,
+	* h) those included in this classification,
+	* i) those that tremble as if they were mad,
+	* j) innumerable ones
+	* k) those drawn with a very fine camel hair brush,
+	* l) et cetera,
+	* m) those that have just broken the vase,
+	* n) those that from afar look like flies.
+	This text by Borges inspired the French philosopher [Michel Foucault](https://en.wikipedia.org/wiki/Michel_Foucault) to write his book ["The Order of Things"](https://en.wikipedia.org/wiki/The_Order_of_Things), published in *1966*.</data>
+	<date>21.11.2024</date>
+	<index><i type="Person">Jorge Luis Borges</i><i type="Person">Michel Foucault</i><i type="Book" author="Michel Foucault">The Order of Things</i></index>
+	<tags><t>Philosophy</t><t>Literature</t></tags>
 </item>
 </content>

@@ -4352,7 +4352,7 @@
 	<title>Hoffnung</title>
 	<data>\1. [Guilty](https://de.wikipedia.org/wiki/The_People_of_the_State_of_New_York_v._Donald_J._Trump) 2. [Guilty](https://de.wikipedia.org/wiki/The_People_of_the_State_of_New_York_v._Donald_J._Trump) 3. [Guilty](https://de.wikipedia.org/wiki/The_People_of_the_State_of_New_York_v._Donald_J._Trump) 4. [Guilty](https://de.wikipedia.org/wiki/The_People_of_the_State_of_New_York_v._Donald_J._Trump) 5. [Guilty](https://de.wikipedia.org/wiki/The_People_of_the_State_of_New_York_v._Donald_J._Trump) 6. [Guilty](https://de.wikipedia.org/wiki/The_People_of_the_State_of_New_York_v._Donald_J._Trump) 7. [Guilty](https://de.wikipedia.org/wiki/The_People_of_the_State_of_New_York_v._Donald_J._Trump) 8. [Guilty](https://de.wikipedia.org/wiki/The_People_of_the_State_of_New_York_v._Donald_J._Trump) 9. [Guilty](https://de.wikipedia.org/wiki/The_People_of_the_State_of_New_York_v._Donald_J._Trump) 10. [Guilty](https://de.wikipedia.org/wiki/The_People_of_the_State_of_New_York_v._Donald_J._Trump) 11. [Guilty](https://de.wikipedia.org/wiki/The_People_of_the_State_of_New_York_v._Donald_J._Trump) 12. [Guilty](https://de.wikipedia.org/wiki/The_People_of_the_State_of_New_York_v._Donald_J._Trump) 13. [Guilty](https://de.wikipedia.org/wiki/The_People_of_the_State_of_New_York_v._Donald_J._Trump) 14. [Guilty](https://de.wikipedia.org/wiki/The_People_of_the_State_of_New_York_v._Donald_J._Trump) 15. [Guilty](https://de.wikipedia.org/wiki/The_People_of_the_State_of_New_York_v._Donald_J._Trump) 16. [Guilty](https://de.wikipedia.org/wiki/The_People_of_the_State_of_New_York_v._Donald_J._Trump) 17. [Guilty](https://de.wikipedia.org/wiki/The_People_of_the_State_of_New_York_v._Donald_J._Trump) 18. [Guilty](https://de.wikipedia.org/wiki/The_People_of_the_State_of_New_York_v._Donald_J._Trump) 19. [Guilty](https://de.wikipedia.org/wiki/The_People_of_the_State_of_New_York_v._Donald_J._Trump) 20. [Guilty](https://de.wikipedia.org/wiki/The_People_of_the_State_of_New_York_v._Donald_J._Trump) 21. [Guilty](https://de.wikipedia.org/wiki/The_People_of_the_State_of_New_York_v._Donald_J._Trump) 22. [Guilty](https://de.wikipedia.org/wiki/The_People_of_the_State_of_New_York_v._Donald_J._Trump) 23. [Guilty](https://de.wikipedia.org/wiki/The_People_of_the_State_of_New_York_v._Donald_J._Trump) 24. [Guilty](https://de.wikipedia.org/wiki/The_People_of_the_State_of_New_York_v._Donald_J._Trump) 25. [Guilty](https://de.wikipedia.org/wiki/The_People_of_the_State_of_New_York_v._Donald_J._Trump) 26. [Guilty](https://de.wikipedia.org/wiki/The_People_of_the_State_of_New_York_v._Donald_J._Trump) 27. [Guilty](https://de.wikipedia.org/wiki/The_People_of_the_State_of_New_York_v._Donald_J._Trump) 28. [Guilty](https://de.wikipedia.org/wiki/The_People_of_the_State_of_New_York_v._Donald_J._Trump) 29. [Guilty](https://de.wikipedia.org/wiki/The_People_of_the_State_of_New_York_v._Donald_J._Trump) 30. [Guilty](https://de.wikipedia.org/wiki/The_People_of_the_State_of_New_York_v._Donald_J._Trump) 31. [Guilty](https://de.wikipedia.org/wiki/The_People_of_the_State_of_New_York_v._Donald_J._Trump) 32. [Guilty](https://de.wikipedia.org/wiki/The_People_of_the_State_of_New_York_v._Donald_J._Trump) 33. [Guilty](https://de.wikipedia.org/wiki/The_People_of_the_State_of_New_York_v._Donald_J._Trump) 34. [Guilty](https://de.wikipedia.org/wiki/The_People_of_the_State_of_New_York_v._Donald_J._Trump)</data>
 	<date>06.06.2024</date>
-	<index><i>USA</i></index>
+	<index><i>USA</i><i>Hoffnung</i></index>
 	<tags><t>Gesellschaft</t></tags>
 </item>
 <item type="text" format="normal">
@@ -4739,7 +4739,7 @@
 	<title>Letzte Hoffnung</title>
 	<data>Die Wahlen in den [USA](https://de.wikipedia.org/wiki/Vereinigte_Staaten) haben es mal wieder gezeigt, der gesellschaftliche Fortschritt ist keine Gesetzmäßigkeit in der Geschichte. Wollen wir hoffen, dass vier Jahre nicht ausreichen werden die [Demokratie](https://de.wikipedia.org/wiki/Demokratie) zu zerstören.</data>
 	<date>13.11.2024</date>
-	<index><i>USA</i></index>
+	<index><i>USA</i><i>Hoffnung</i></index>
 	<tags><t>Gesellschaft</t></tags>
 </item>
 <item type="image" height="200" width="200">
@@ -4751,5 +4751,30 @@
 	<tags><t>Foto</t></tags>
 	<serial>Fotos: Gesichter</serial>
 	<serial>Fotos: Poster</serial>
+</item>
+<item type="text" format="normal">
+	<name>borges_taxonomy_of_animals</name>
+	<title>Die Ordnung der Dinge</title>
+	<data>[Jorge Luis Borges](https://de.wikipedia.org/wiki/Jorge_Luis_Borges) zitiert in einem Essay aus einer alten chinesischen Enzyklopädie mit dem selbst ausgedachten Titel "Himmlischer Warenschatz wohltätiger Erkenntnisse":
+	Sämtliche bekannte Tiere lassen sich unter folgendes Ordnungsschema gruppieren:
+	* a) Tiere, die dem Kaiser gehören,
+	* b) einbalsamierte Tiere,
+	* c) gezähmte,
+	* d) Milchschweine,
+	* e) Sirenen,
+	* f) Fabeltiere,
+	* g) herrenlose Hunde,
+	* h) in diese Gruppierung gehörige,
+	* i) die sich wie Tolle gebärden,
+	* j) unzählbare,
+	* k) die mit einem ganz feinen Pinsel aus Kamelhaar gezeichnet sind,
+	* l) und so weiter,
+	* m) die den Wasserkrug zerbrochen haben,
+	* n) die von weitem wie Fliegen aussehen.
+	Dieser Text von Borges inspirierte den französischen Philosophen [Michel Foucault](https://de.wikipedia.org/wiki/Michel_Foucault) zu seinem *1966* erschienenen Buch ["Die Ordnung der Dinge"](https://de.wikipedia.org/wiki/Die_Ordnung_der_Dinge). 
+	</data>
+	<date>21.11.2024</date>
+	<index><i type="Person">Jorge Luis Borges</i><i type="Person">Michel Foucault</i><i type="Book" author="Michel Foucault">Die Ordnung der Dinge</i></index>
+	<tags><t>Philosophie</t><t>Literatur</t></tags>
 </item>
 </content>
