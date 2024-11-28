@@ -4785,4 +4785,13 @@
 	<index><i type="Musik">Untrue</i><i type="Musiker">Burial</i></index>
 	<tags><t>Musik</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>abstract_16</name>
+	<title>Abstract 16</title>
+	<data>abstract16_small.png</data>
+	<date>29.11.2024</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+	<serial>Fotos: Abstrakt</serial>
+</item>
 </content>
