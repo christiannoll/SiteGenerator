@@ -4487,7 +4487,7 @@
 <item type="text" format="normal">
 	<name>reality_machine</name>
 	<title>Die Wirklichkeitsmaschine</title>
-	<data>Technologie kann als eine Wirklichkeitsmaschine betrachtet werden, die eine Systemwelt konstruiert, um [Komplexität](#serials/Komplexitat/) zu reduzieren und [Risiken](#2022/12/02/entropy_of_life/) beherschbar zu machen oder wenigstens zu begrenzen.</data>
+	<data>Technologie kann als eine Wirklichkeitsmaschine betrachtet werden, die eine Systemwelt konstruiert, um [Komplexität](#serials/Komplexitat/) zu reduzieren und [Risiken](#2022/12/02/entropy_of_life/) beherschbar zu machen oder wenigstens zu begrenzen. Die Frage ist, wer kontrolliert diese Machine.</data>
 	<date>05.08.2024</date>
 	<index><i>Realität</i><i>Zukunft</i><i>Komplexität</i></index>
 	<tags><t>Technologie</t><t>Gesellschaft</t></tags>
@@ -4793,5 +4793,26 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 	<serial>Fotos: Abstrakt</serial>
+</item>
+<item type="text" format="normal">
+	<name>five_years_vnzn</name>
+	<title>Fünf Jahre - v.n.z.n</title>
+	<data>* [Archiv](#archive) 
+	* [Serien](#serials/)
+	* [Statistik](#statistic/)
+	* [Timeline](#timeline/)
+	* [Personen](#persons/)
+	* [Filme](#movies/)
+	* [Bücher](#books/)
+	* [Fotos](#tags/Foto/)
+	* [Themenwolke](#wordcloud/)
+	* [Personenwolke](#personcloud) 
+	* [Kurzgeschichten](#tags/Short-Story/)
+	* [Experimente 🔬](#experiments/)
+	* [Zufall](#random/)
+	</data>
+	<date>03.12.2024</date>
+	<index><i>Vergangenheit</i><i>Gegenwart</i><i>Zukunft</i></index>
+	<tags><t>Allgemein</t></tags>
 </item>
 </content>

@@ -4496,7 +4496,7 @@
 <item type="text" format="normal">
 	<name>reality_machine</name>
 	<title>The Reality Machine</title>
-	<data>Technology can be viewed as a reality machine that constructs a system world to reduce [complexity](#serials/Complexity/) and make [risks](#2022/12/02/entropy_of_life/) manageable or at least limit them.</data>
+	<data>Technology can be viewed as a reality machine that constructs a system world to reduce [complexity](#serials/Complexity/) and make [risks](#2022/12/02/entropy_of_life/) manageable or at least limit them. The question is who controls this machine.</data>
 	<date>05.08.2024</date>
 	<index><i>Reality</i><i>Future</i><i>Complexity</i></index>
 	<tags><t>Technology</t><t>Society</t></tags>
@@ -4801,5 +4801,26 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 	<serial>Photos: Abstract</serial>
+</item>
+<item type="text" format="normal">
+	<name>five_years_vnzn</name>
+	<title>Five Years - v.n.z.n</title>
+	<data>* [Archive](#archive) 
+	* [Serials](#serials/)
+	* [Statistics](#statistic/)
+	* [Timeline](#timeline/)
+	* [People](#persons/)
+	* [Movies](#movies/)
+	* [Books](#books/)
+	* [Photos](#tags/Photo/)
+	* [Topics Cloud](#wordcloud/)
+	* [People Cloud](#personcloud) 
+	* [Short Stories](#tags/Short-Story/)
+	* [Experiments 🔬](#experiments/)
+	* [Random](#random/)
+	</data>
+	<date>03.12.2024</date>
+	<index><i>Past</i><i>Present</i><i>Future</i></index>
+	<tags><t>General</t></tags>
 </item>
 </content>
