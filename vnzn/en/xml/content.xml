@@ -4823,4 +4823,14 @@
 	<index><i>Past</i><i>Present</i><i>Future</i></index>
 	<tags><t>General</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>boltzmann_brain</name>
+	<title>Am I a Boltzmann Brain?</title>
+	<data>The [Boltzmann brain](https://en.wikipedia.org/wiki/Boltzmann_brain) is named after physicist [Ludwig Boltzmann](https://en.wikipedia.org/wiki/Ludwig_Boltzmann), who proposed the theory that the universe undergoes random fluctuations between states of high and low entropy. A Boltzmann brain is the concept of a hypothetical, self-aware brain that arises randomly through quantum fluctuations or thermal fluctuations in the vacuum of space.
+	The emergence of a Boltzmann brain is extremely unlikely, but over an infinite period of time, it remains more probable than the formation of a “normal” [brain](https://en.wikipedia.org/wiki/Brain) through the evolution of life.
+	It is fundamentally impossible to rule out the possibility that we are Boltzmann brains. If our memories and experiences have arisen randomly, they could also deceive us about the nature of reality.</data>
+	<date>07.12.2024</date>
+	<index><i>Brain</i><i>Time</i><i>Random</i><i type="Person">Ludwig Boltzmann</i></index>
+	<tags><t>Physics</t><t>Philosophy</t></tags>
+</item>
 </content>
