@@ -4825,4 +4825,13 @@
 	<index><i>Gehirn</i><i>Zeit</i><i>Zufall</i><i type="Person">Ludwig Boltzmann</i></index>
 	<tags><t>Physik</t><t>Philosophie</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>shower</name>
+	<title>in the shower</title>
+	<data>shower_small.png</data>
+	<date>11.12.2024</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+	<serial>Fotos: Poster</serial>
+</item>
 </content>

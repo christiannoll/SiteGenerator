@@ -4833,4 +4833,13 @@
 	<index><i>Brain</i><i>Time</i><i>Random</i><i type="Person">Ludwig Boltzmann</i></index>
 	<tags><t>Physics</t><t>Philosophy</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>shower</name>
+	<title>in the shower</title>
+	<data>shower_small.png</data>
+	<date>11.12.2024</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+	<serial>Photos: Poster</serial>
+</item>
 </content>
