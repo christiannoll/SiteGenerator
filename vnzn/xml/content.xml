@@ -4834,4 +4834,13 @@
 	<tags><t>Foto</t></tags>
 	<serial>Fotos: Poster</serial>
 </item>
+<item type="text" format="normal">
+	<name>negative_entropy</name>
+	<title>Schrödingers negative Entropie</title>
+	<data>Den Begriff der [negativen Energie](https://de.wikipedia.org/wiki/Negentropie) hat der Physiker [Erwin Schrödinger](https://de.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger) in seinem *1944* erschienenen Buch ["Was ist Leben"](https://en.wikipedia.org/wiki/What_Is_Life%3F) geprägt. Darin definiert Schrödinger Leben als etwas, das negative Entropie aufnimmt und speichert. [Leben](https://de.wikipedia.org/wiki/Leben) ist also etwas, das [Entropie](https://de.wikipedia.org/wiki/Entropie) exportiert und seine [Entropie](#index/Entropie/) niedrig hält.
+	Ordnung ist das halbe Leben.</data>
+	<date>15.12.2024</date>
+	<index><i>Entropie</i><i>Leben</i><i type="Person">Erwin Schrödinger</i></index>
+	<tags><t>Physik</t><t>Philosophie</t><t>Biologie</t></tags>
+</item>
 </content>

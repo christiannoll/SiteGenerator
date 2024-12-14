@@ -4842,4 +4842,12 @@
 	<tags><t>Photo</t></tags>
 	<serial>Photos: Poster</serial>
 </item>
+<item type="text" format="normal">
+	<name>negative_entropy</name>
+	<title>Schrödinger's Negative Entropy</title>
+	<data>The concept of [negative entropy](https://en.wikipedia.org/wiki/Negentropy) was introduced by physicist [Erwin Schrödinger](https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger) in his *1944* book ["What is Life?"](https://en.wikipedia.org/wiki/What_Is_Life%3F). In it, Schrödinger defines life as something that absorbs and stores negative entropy. [Life](https://en.wikipedia.org/wiki/Life), therefore, is something that exports [entropy](https://en.wikipedia.org/wiki/Entropy) and keeps its own [entropy](#index/Entropy/) low.</data>
+	<date>15.12.2024</date>
+	<index><i>Entropy</i><i>Life</i><i type="Person">Erwin Schrödinger</i></index>
+	<tags><t>Physics</t><t>Philosophy</t><t>Biology</t></tags>
+</item>
 </content>
