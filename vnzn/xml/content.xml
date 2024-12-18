@@ -4843,4 +4843,16 @@
 	<index><i>Entropie</i><i>Leben</i><i type="Person">Erwin Schrödinger</i></index>
 	<tags><t>Physik</t><t>Philosophie</t><t>Biologie</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>cities_and_mushrooms</name>
+	<title>Städte und Pilze</title>
+	<data>[Pilze](https://de.wikipedia.org/wiki/Pilze) bilden eine eigene Art von Lebewesen, da sie weder zu den Pflanzen noch zu den Tieren gehören. Diese Sonderstellung als Organismus haben sie mit den [Städten](https://de.wikipedia.org/wiki/Stadt) gemeinsam. Darüber hinaus haben Pilze und Städte noch viele andere Gemeinsamkeiten.
+	* Beide können sich über eine große Fläche ausbreiten. Eine der größten Städte der Erde, die chinesische Stadt [Shanghai](https://de.wikipedia.org/wiki/Shanghai), erstreckt sich z.B. über eine Fläche von ca. 6.340 Quadratkilometern und im Jahr 2000 wurde in Oregon, USA ein [Dunkler Hallimasch](https://de.wikipedia.org/wiki/Hallimasche#Wachstum,_Alter_und_Gr%C3%B6%C3%9Fe_von_Hallimaschen) entdeckt, dessen Fläche auf ca 10 Quadratkilometer geschätzt wird.
+	* Bei den Pilzen befindet sich der größte Teil des Organismus, das [Myzel](https://de.wikipedia.org/wiki/Mycel), unter der Erde, nur der eigentliche Fruchtkörper ragt heraus. Auch bei den Städten befindet sich ein großer Teil, hauptsächlich Infrastruktur, unterirdisch. Dazu zählen u.a. Kanalisation, Transportmittel wie U-Bahnen, Versorgungsleitungen für Wasser, Gas, Strom oder Internet, aber auch Fundamente für die Gebäude.
+	* Städte und Pilze sind in Netzwerkstrukturen organisiert. Pilze bilden ein unterirdisches Netzwerk aus feinen Fäden (Hyphen), das Nährstoffe transportiert und den Pilz mit seiner Umgebung verbindet. Städte haben Verkehrsinfrastrukturen wie Straßen, U-Bahnen und Stromnetze, die Menschen, Güter und Informationen miteinander verbinden.
+	* Sowohl Pilze als auch Städte expandieren radial, indem sie neue [Hyphen](https://de.wikipedia.org/wiki/Hyphe) ausbilden, bzw. neue Stadtteile entwickeln. Dabei agieren sie als selbstorganisierte Systeme, die ohne zentrale Steuerung funktionieren, indem sie auf lokale Bedingungen reagieren.</data>
+	<date>19.12.2024</date>
+	<index><i>Selbstorganisation</i></index>
+	<tags><t>Gesellschaft</t><t>Biologie</t><t>Technologie</t></tags>
+</item>
 </content>

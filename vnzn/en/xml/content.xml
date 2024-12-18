@@ -4850,4 +4850,16 @@
 	<index><i>Entropy</i><i>Life</i><i type="Person">Erwin Schrödinger</i></index>
 	<tags><t>Physics</t><t>Philosophy</t><t>Biology</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>cities_and_mushrooms</name>
+	<title>Cities and Mushrooms</title>
+	<data>[Fungi](https://en.wikipedia.org/wiki/Fungus) are a unique species of living organism, as they are neither plants nor animals. This special status as organisms is something they share with [cities](https://en.wikipedia.org/wiki/City). Beyond that, fungi and cities exhibit many other striking similarities.
+	* Both can spread over vast areas. One of the largest cities in the world, [Shanghai](https://en.wikipedia.org/wiki/Shanghai), China, covers an area of about 6,340 square kilometers. In comparison, in 2000, a specimen of [Armillaria ostoyae](https://en.wikipedia.org/wiki/Armillaria) (dark honey fungus) was discovered in Oregon, USA, with an estimated area of around 10 square kilometers.
+	* Most of the organism lies beneath the surface. For fungi, the largest part of the organism, the [mycelium](https://en.wikipedia.org/wiki/Mycelium), resides underground, with only the fruiting body visible above the surface. Similarly, a significant portion of cities-primarily infrastructure-is located underground. This includes sewers, transportation systems like subways, utility lines for water, gas, electricity, and internet, as well as building foundations.
+	* Cities and fungi are organized in network structures. Fungi create an underground network of fine filaments (hyphae) that transport nutrients and connect the fungus to its environment. Cities have transportation infrastructures such as roads, subways, and power grids, which connect people, goods, and information.
+	* Both expand radially. Fungi grow by forming new hyphae, while cities expand by developing new districts. Both operate as self-organized systems that function without central control, adapting to local conditions in the process.</data>
+	<date>19.12.2024</date>
+	<index><i>Self-organization</i></index>
+	<tags><t>Society</t><t>Biology</t><t>Technology</t></tags>
+</item>
 </content>
