@@ -4862,4 +4862,12 @@
 	<index><i>Self-organization</i></index>
 	<tags><t>Society</t><t>Biology</t><t>Technology</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>records</name>
+	<title>Records</title>
+	<data>records_small.png</data>
+	<date>23.12.2024</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
 </content>

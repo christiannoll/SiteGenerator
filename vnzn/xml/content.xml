@@ -4855,4 +4855,12 @@
 	<index><i>Selbstorganisation</i></index>
 	<tags><t>Gesellschaft</t><t>Biologie</t><t>Technologie</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>records</name>
+	<title>Schallplatten</title>
+	<data>records_small.png</data>
+	<date>23.12.2024</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
