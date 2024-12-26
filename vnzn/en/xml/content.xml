@@ -4870,4 +4870,13 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>thomas_mann_on_hitler</name>
+	<title>Thomas Mann on Hitler</title>
+	<data>From "Diaries 1937-1939" by [Thomas Mann](https://en.wikipedia.org/wiki/Thomas_Mann) on October 19, *1937*:
+	"No, Hitler is not a coincidence, not an illegitimate misfortune, not a derailment. From him 'light' falls back on Luther, and one must largely recognize [Luther](https://en.wikipedia.org/wiki/Martin_Luther) in him. He is a genuinely German phenomenon."</data>
+	<date>27.12.2024</date>
+	<index><i type="Person">Thomas Mann</i><i type="Person">Martin Luther</i><i>Quote</i></index>
+	<tags><t>Society</t><t>Literature</t></tags>
+</item>
 </content>
