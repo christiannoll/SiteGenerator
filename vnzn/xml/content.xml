@@ -4891,4 +4891,12 @@
 	<tags><t>Foto</t></tags>
 	<serial>Fotos: Poster</serial>
 </item>
+<item type="text" format="normal">
+	<name>2025_prompt</name>
+	<title>2025 - Prompt</title>
+	<data>Ich hoffe, dass wer oder was sich auch immer den [Prompt](https://de.wikipedia.org/wiki/Prompt_Engineering) für das Jahr [2024](https://de.wikipedia.org/wiki/2024) ausgedacht hat, den für [2025](https://de.wikipedia.org/wiki/2025) besser gewählt hat.</data>
+	<date>08.01.2025</date>
+	<index><i>Zukunft</i><i>Artificial Intelligence</i></index>
+	<tags><t>Gesellschaft</t></tags>
+</item>
 </content>

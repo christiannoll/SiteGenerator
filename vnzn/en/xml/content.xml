@@ -4898,4 +4898,12 @@
 	<tags><t>Photo</t></tags>
 	<serial>Photos: Poster</serial>
 </item>
+<item type="text" format="normal">
+	<name>2025_prompt</name>
+	<title>2025 - Prompt</title>
+	<data>I hope that whoever or whatever came up with the [prompt](https://en.wikipedia.org/wiki/Prompt_engineering) for [2024](https://en.wikipedia.org/wiki/2024) chose a better one for [2025](https://en.wikipedia.org/wiki/2025).</data>
+	<date>08.01.2025</date>
+	<index><i>Future</i><i>Artificial Intelligence</i></index>
+	<tags><t>Society</t></tags>
+</item>
 </content>
