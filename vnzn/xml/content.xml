@@ -4899,4 +4899,12 @@
 	<index><i>Zukunft</i><i>Artificial Intelligence</i></index>
 	<tags><t>Gesellschaft</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>einstein_problem_solving</name>
+	<title>Das Einsteinprinzip</title>
+	<data>Probleme lösen wie [Albert Einstein](#index/Albert-Einstein/): "Wenn ich eine Stunde Zeit hätte, um ein Problem zu lösen, würde ich 55 Minuten damit verbringen, über das Problem nachzudenken und 5 Minuten über die Lösung."</data>
+	<date>12.01.2025</date>
+	<index><i type="Person">Albert Einstein</i></index>
+	<tags><t>Allgemein</t><t>Philosophie</t></tags>
+</item>
 </content>

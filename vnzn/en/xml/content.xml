@@ -4906,4 +4906,12 @@
 	<index><i>Future</i><i>Artificial Intelligence</i></index>
 	<tags><t>Society</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>einstein_problem_solving</name>
+	<title>The Einstein Strategy</title>
+	<data>Solving problems like [Albert Einstein](#index/Albert-Einstein/): "If I had an hour to solve a problem I'd spend 55 minutes thinking about the problem and 5 minutes thinking about solutions."</data>
+	<date>12.01.2025</date>
+	<index><i type="Person">Albert Einstein</i></index>
+	<tags><t>General</t><t>Philosophy</t></tags>
+</item>
 </content>
