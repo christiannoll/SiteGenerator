@@ -4907,4 +4907,12 @@
 	<index><i type="Person">Albert Einstein</i></index>
 	<tags><t>Allgemein</t><t>Philosophie</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>chair_arrangement</name>
+	<title>Chairs</title>
+	<data>chairs_small.png</data>
+	<date>16.01.2025</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
