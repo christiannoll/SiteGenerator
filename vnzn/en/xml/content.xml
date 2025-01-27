@@ -4950,4 +4950,13 @@
 	<index><i>Virus</i><i>Evolution</i></index>
 	<tags><t>Biology</t><t>Society</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>poster16</name>
+	<title>Poster</title>
+	<data>poster16_small.png</data>
+	<date>28.01.2025</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+	<serial>Photos: Poster</serial>
+</item>
 </content>
