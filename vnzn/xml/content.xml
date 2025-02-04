@@ -4960,4 +4960,13 @@
 	<index><i>Gehirn</i><i>Freier Wille</i><i>Bewusstsein</i></index>
 	<tags><t>Biologie</t><t>Philosophie</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>law_and_statute</name>
+	<title>Recht und Gesetz</title>
+	<data>Wer beschützt den Menschen vor dem Menschen?
+	Nur das durchgesetzte Recht basierend auf Gesetzen, die die Freiheit und Würde aller Menschen zur Grundlage haben, ist in der Lage den Menschen zu zivilisieren und vor der Barbarei zu bewahren. Die [Rechtsprechung](https://de.wikipedia.org/wiki/Judikative) ist heute mehr denn je ein entscheidender Gestaltungsfaktor der Gesellschaft und *niemand* sollte über dem Recht stehen.</data>
+	<date>05.02.2025</date>
+	<index><i>Gesetz</i></index>
+	<tags><t>Gesellschaft</t></tags>
+</item>
 </content>
