@@ -4969,4 +4969,12 @@
 	<index><i>Gesetz</i></index>
 	<tags><t>Gesellschaft</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>reader2</name>
+	<title>Leser</title>
+	<data>reader2_small.png</data>
+	<date>09.02.2025</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
