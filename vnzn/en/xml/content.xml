@@ -4984,4 +4984,15 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>planck_length</name>
+	<title>Planck Length</title>
+	<data>The [Planck length](https://en.wikipedia.org/wiki/Planck_units#Planck_length) is a physical constant discovered by [Max Planck](https://en.wikipedia.org/wiki/Max_Planck), where gravity and quantum theory can no longer be treated separately.
+	{1.616255(18)•10&lt;sup&gt;-35&lt;/sup&gt; m}
+	In an analogy, you can imagine this value roughly like this - if you imagine a human cell as large as a Planck length, then the size of the real cell would correspond to that of our [galaxy](https://en.wikipedia.org/wiki/Milky_Way).
+	Perhaps the fabric of our [universe](https://en.wikipedia.org/wiki/Universe) is made on the structural size of the Planck length.</data>
+	<date>13.02.2025</date>
+	<index><i type="Person">Max Planck</i><i>Universe</i></index>
+	<tags><t>Physics</t></tags>
+</item>
 </content>

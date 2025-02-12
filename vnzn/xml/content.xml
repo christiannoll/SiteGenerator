@@ -3050,7 +3050,8 @@
 <item type="text" format="normal">
 	<name>math_curiosities_3</name>
 	<title>Mathematische Kuriositäten III</title>
-	<data>*1988* entdeckte [John Conway](https://de.wikipedia.org/wiki/John_Horton_Conway) diese seltsame Beinahe-Identität und bis heute wurde keine befriedigende Erklärung dafür gefunden, „warum“ sie wahr ist. {e&lt;sup&gt;π&lt;/sup&gt; - π ≈ 20}</data>
+	<data>*1988* entdeckte [John Conway](https://de.wikipedia.org/wiki/John_Horton_Conway) diese seltsame Beinahe-Identität und bis heute wurde keine befriedigende Erklärung dafür gefunden, „warum“ sie wahr ist. 
+	{e&lt;sup&gt;π&lt;/sup&gt; - π ≈ 20}</data>
 	<date>04.02.2023</date>
 	<index><i>Zahlen</i><i type="Person">John Conway</i></index>
 	<tags><t>Mathematik</t></tags>
@@ -4698,7 +4699,8 @@
 <item type="text" format="normal">
 	<name>math_curiosities_4</name>
 	<title>Mathematische Kuriositäten IV</title>
-	<data>Die [Eulersche Identität](https://de.wikipedia.org/wiki/Eulersche_Formel) wird auch als die "schönste Formel der Mathematik" bezeichnet: {e&lt;sup&gt;iπ&lt;/sup&gt; + 1 = 0}</data>
+	<data>Die [Eulersche Identität](https://de.wikipedia.org/wiki/Eulersche_Formel) wird auch als die "schönste Formel der Mathematik" bezeichnet: 
+	{e&lt;sup&gt;iπ&lt;/sup&gt; + 1 = 0}</data>
 	<date>28.10.2024</date>
 	<index><i>Zahlen</i><i type="Person">Leonhard Euler</i></index>
 	<tags><t>Mathematik</t></tags>
@@ -4976,5 +4978,16 @@
 	<date>09.02.2025</date>
 	<index></index>
 	<tags><t>Foto</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>planck_length</name>
+	<title>Planck-Länge</title>
+	<data>Die [Planck-Länge](https://de.wikipedia.org/wiki/Planck-L%C3%A4nge) ist eine von [Max Planck](https://de.wikipedia.org/wiki/Max_Planck) entdeckte physikalische Konstante bei der Gravitation und Quantentheorie nicht mehr separat behandelt werden können. 
+	{1.616255(18)•10&lt;sup&gt;-35&lt;/sup&gt; m} 
+	In einer Analogie kann man sich diesen Wert ungefähr so vorstellen - wenn man sich eine menschliche Zelle so groß wie eine Plank-Länge denkt, dann entspreche die Größe der wahren Zelle die unserer [Galaxie](https://de.wikipedia.org/wiki/Milchstra%C3%9Fe).
+	Vielleicht wird auf der Strukturgröße der Plank-Länge das Gewebe unseres [Universums](https://de.wikipedia.org/wiki/Universum) gefertigt.</data>
+	<date>13.02.2025</date>
+	<index><i type="Person">Max Planck</i><i>Universum</i></index>
+	<tags><t>Physik</t></tags>
 </item>
 </content>
