@@ -5004,4 +5004,13 @@
 	<index><i>Language</i><i>Brain</i><i>Infinity</i></index>
 	<tags><t>Biology</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>poster17</name>
+	<title>Poster</title>
+	<data>poster17_small.png</data>
+	<date>21.02.2025</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+	<serial>Photos: Poster</serial>
+</item>
 </content>
