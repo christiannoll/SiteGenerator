@@ -5008,4 +5008,13 @@
 	<tags><t>Foto</t></tags>
 	<serial>Fotos: Poster</serial>
 </item>
+<item type="text" format="normal">
+	<name>crisis_of_sisyphus</name>
+	<title>Die Krise des Sisyphos</title>
+	<data>In seinem *1942* erschienenen philosophischen Essay [Der Mythos des Sisyphos](https://de.wikipedia.org/wiki/Der_Mythos_des_Sisyphos) erklärt [Albert Camus](https://de.wikipedia.org/wiki/Albert_Camus) im letzten Satz, dass wir uns [Sisyphos](https://de.wikipedia.org/wiki/Sisyphos) als einen glücklichen Menschen vorstellen müssen. Jetzt frage ich mich:
+	Was macht Sisyphos wenn ihm sein Stein abhanden kommt?</data>
+	<date>25.02.2025</date>
+	<index><i>Sisyphos</i><i type="Person">Albert Camus</i></index>
+	<tags><t>Philosophie</t></tags>
+</item>
 </content>

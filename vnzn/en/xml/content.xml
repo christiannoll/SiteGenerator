@@ -5013,4 +5013,13 @@
 	<tags><t>Photo</t></tags>
 	<serial>Photos: Poster</serial>
 </item>
+<item type="text" format="normal">
+	<name>crisis_of_sisyphus</name>
+	<title>The Crisis of Sisyphus</title>
+	<data>In his *1942* philosophical essay [The Myth of Sisyphus](https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus), [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus) states in the final sentence that we must imagine [Sisyphus](https://en.wikipedia.org/wiki/Sisyphus) as a happy man. Now I wonder:
+	What does Sisyphus do when he loses his rock?</data>
+	<date>25.02.2025</date>
+	<index><i>Sisyphus</i><i type="Person">Albert Camus</i></index>
+	<tags><t>Philosophy</t></tags>
+</item>
 </content>
