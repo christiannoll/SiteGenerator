@@ -5017,4 +5017,13 @@
 	<index><i>Sisyphos</i><i type="Person">Albert Camus</i></index>
 	<tags><t>Philosophie</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>design_and_complexity</name>
+	<title>Design und Komplexität</title>
+	<data>Gutes Design versteckt Komplexität hinter einem einfachen Interface. Das gilt nicht nur für [Software-Design](#2020/04/03/everything_is_a_file/).</data>
+	<date>01.03.2025</date>
+	<index><i>Abstraktion</i><i>Komplexität</i></index>
+	<tags><t>Technologie</t><t>Design</t></tags>
+	<serial>Komplexität</serial>
+</item>
 </content>

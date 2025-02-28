@@ -5022,4 +5022,13 @@
 	<index><i>Sisyphus</i><i type="Person">Albert Camus</i></index>
 	<tags><t>Philosophy</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>design_and_complexity</name>
+	<title>Design and Complexity</title>
+	<data>Good design hides complexity behind a simple interface. This applies not only to [software design](#2020/04/03/everything_is_a_file/).</data>
+	<date>01.03.2025</date>
+	<index><i>Abstraction</i><i>Complexity</i></index>
+	<tags><t>Technology</t><t>Design</t></tags>
+	<serial>Complexity</serial>
+</item>
 </content>
