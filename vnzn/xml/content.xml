@@ -5026,4 +5026,12 @@
 	<tags><t>Technologie</t><t>Design</t></tags>
 	<serial>Komplexität</serial>
 </item>
+<item type="image" height="200" width="200">
+	<name>door</name>
+	<title>Die Tür</title>
+	<data>door_small.png</data>
+	<date>05.03.2025</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
