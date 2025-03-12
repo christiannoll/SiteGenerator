@@ -5047,4 +5047,16 @@
 	<index><i>Time</i></index>
 	<tags><t>Philosophy</t></tags>
 </item>
+<item type="text" format="randomLinksColor">
+	<name>top_4_kafka_stories</name>
+	<title>Top Four - Stories by Franz Kafka</title>
+	<data>1. [Before the Law](https://en.wikipedia.org/wiki/Before_the_Law)
+	2. [In the Penal Colony](https://en.wikipedia.org/wiki/In_the_Penal_Colony)
+	3. [The Metamorphosis](https://en.wikipedia.org/wiki/The_Metamorphosis)
+	4. [The Burrow](#2019/11/08/kafka_bau/)</data>
+	<date>13.03.2025</date>
+	<index><i type="Person">Franz Kafka</i></index>
+	<tags><t>Literature</t></tags>
+	<serial>Top Four</serial>
+</item>
 </content>
