@@ -5059,4 +5059,13 @@
 	<tags><t>Literature</t></tags>
 	<serial>Top Four</serial>
 </item>
+<item type="image" height="200" width="200">
+	<name>womens_day</name>
+	<title>March 8</title>
+	<data>march8_small.png</data>
+	<date>17.03.2025</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+	<serial>Photos: Poster</serial>
+</item>
 </content>

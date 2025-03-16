@@ -5054,4 +5054,13 @@
 	<tags><t>Literatur</t></tags>
 	<serial>Top Four</serial>
 </item>
+<item type="image" height="200" width="200">
+	<name>womens_day</name>
+	<title>8. März</title>
+	<data>march8_small.png</data>
+	<date>17.03.2025</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+	<serial>Fotos: Poster</serial>
+</item>
 </content>
