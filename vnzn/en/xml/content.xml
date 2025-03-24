@@ -4947,7 +4947,7 @@
 	_What exactly do you mean by that?_ \ For instance, when a virus enters a human cell, it can lead to the emergence of either a [Mozart](https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart) or a tumor.
 	_Are humans and their technology a threat to the survival of viruses?_ \ No, we existed long before humans, and we will still be here long after they’re gone.</data>
 	<date>24.01.2025</date>
-	<index><i>Virus</i><i>Evolution</i></index>
+	<index><i>Virus</i><i>Evolution</i><i>Interview</i><i type="Person">Alexander Kluge</i></index>
 	<tags><t>Biology</t><t>Society</t></tags>
 </item>
 <item type="image" height="200" width="200">
@@ -5075,5 +5075,16 @@
 	<date>21.03.2025</date>
 	<index><i>Future</i></index>
 	<tags><t>Society</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>interview_with_a_cardiologist</name>
+	<title>Interview with a Cardiologist</title>
+	<data>"At night, the heart dreams of love"
+	_Please explain this sentence to us._ \ This sentence is best understood when you close your eyes, look inward, and try to listen to your heart, to feel it...
+	_What does the heart know about love?_ \ The heart spreads the feeling of love throughout the body, from the toes to the fingertips.
+	_And does the heart dream at night?_ \ Yes, at night, when body and mind separate, the heart can enter a [dream-like](#index/Dream/) state.</data>
+	<date>25.03.2025</date>
+	<index><i>Dream</i><i type="Person">Alexander Kluge</i><i>Interview</i></index>
+	<tags><t>Literature</t></tags>
 </item>
 </content>

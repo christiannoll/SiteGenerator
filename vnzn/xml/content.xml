@@ -4942,7 +4942,7 @@
 	_Wie genau meinen Sie das?_ \ Wenn z.B. ein Virus in eine menschliche Zelle eindringt, kann es dazu führen, dass entweder ein [Mozart](https://de.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart) oder ein Tumor entsteht.
 	_Sind die Menschen und ihre Technologie eine Gefahr für das Fortbestehen der Viren?_ \ Nein, uns gab es schon lange vor den Menschen und es wird uns auch noch lange Zeit nach den Menschen geben.</data>
 	<date>24.01.2025</date>
-	<index><i>Virus</i><i>Evolution</i></index>
+	<index><i>Virus</i><i>Evolution</i><i type="Person">Alexander Kluge</i><i>Interview</i></index>
 	<tags><t>Biologie</t><t>Gesellschaft</t></tags>
 </item>
 <item type="image" height="200" width="200">
@@ -5070,5 +5070,16 @@
 	<date>21.03.2025</date>
 	<index><i>Zukunft</i></index>
 	<tags><t>Gesellschaft</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>interview_with_a_cardiologist</name>
+	<title>Interview mit einem Kardiologen</title>
+	<data>"Nachts träumt das Herz von der Liebe"
+	_Erläutern sie uns doch bitte einmal diesen Satz._ \ Am besten versteht man diesen Satz wenn man die Augen schließt, den Blick nach innen wendet und versucht auf sein Herz zu hören, es zu spüren ... 
+	_Was weiß das Herz von der Liebe?_ \ Das Herz verteilt das Gefühl der Liebe im ganzen Körper von den Fußzehen bis in die Fingerspitzen.
+	_Und nachts träumt das Herz?_ \ Ja, in der Nacht wenn sich Körper und Geist von einander trennen, kann das Herz in einen [traumähnlichen](#index/Traum/) Zustand gebracht werden.</data>
+	<date>25.03.2025</date>
+	<index><i>Traum</i><i type="Person">Alexander Kluge</i><i>Interview</i></index>
+	<tags><t>Literatur</t></tags>
 </item>
 </content>
