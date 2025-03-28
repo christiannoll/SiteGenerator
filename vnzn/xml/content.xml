@@ -5082,4 +5082,13 @@
 	<index><i>Traum</i><i type="Person">Alexander Kluge</i><i>Interview</i></index>
 	<tags><t>Literatur</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>illusion</name>
+	<title>Illusion</title>
+	<data>illusion_small.png</data>
+	<date>29.03.2025</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+	<serial>Fotos: Poster</serial>
+</item>
 </content>
