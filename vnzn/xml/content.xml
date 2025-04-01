@@ -2304,6 +2304,7 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 	<serial>Fotos: Gesichter</serial>
+	<serial>Fotos: Augen</serial>
 </item>
 <item type="text" format="normal">
 	<name>einstein_1905</name>
@@ -2753,6 +2754,7 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 	<serial>Fotos: Gesichter</serial>
+	<serial>Fotos: Augen</serial>
 </item>
 <item type="text" format="normal">
 	<name>infinite_loop</name>
@@ -3181,6 +3183,7 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 	<serial>Fotos: Gesichter</serial>
+	<serial>Fotos: Augen</serial>
 </item>
 <item type="text" format="normal">
 	<name>ideas_and_inspiration</name>
@@ -4484,6 +4487,7 @@
 	<tags><t>Foto</t></tags>
 	<serial>Fotos: Gesichter</serial>
 	<serial>Fotos: Poster</serial>
+	<serial>Fotos: Augen</serial>
 </item>
 <item type="text" format="normal">
 	<name>reality_machine</name>
@@ -4721,6 +4725,7 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 	<serial>Fotos: Gesichter</serial>
+	<serial>Fotos: Augen</serial>
 </item>
 <item type="text" format="normal">
 	<name>code_is_data</name>
@@ -4753,6 +4758,7 @@
 	<tags><t>Foto</t></tags>
 	<serial>Fotos: Gesichter</serial>
 	<serial>Fotos: Poster</serial>
+	<serial>Fotos: Augen</serial>
 </item>
 <item type="text" format="normal">
 	<name>borges_taxonomy_of_animals</name>
@@ -5062,6 +5068,7 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 	<serial>Fotos: Poster</serial>
+	<serial>Fotos: Augen</serial>
 </item>
 <item type="text" format="normal">
 	<name>climate_and_world_order</name>
@@ -5090,5 +5097,13 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 	<serial>Fotos: Poster</serial>
+</item>
+<item type="text" format="randomLinksColor">
+	<name>eyes_photo_series</name>
+	<title>Augen - Fenster zur Seele</title>
+	<data>Wir lesen einen Menschen über sein Gesicht und dabei konzentrieren wir uns ganz wesentlich auf die [Augen](#serials/Fotos--Augen/). Auf diese Art der Kommunikation sind wir evolutionär geschult.</data>
+	<date>02.04.2025</date>
+	<index><i>Augen</i><i>Evolution</i></index>
+	<tags><t>Biologie</t></tags>
 </item>
 </content>

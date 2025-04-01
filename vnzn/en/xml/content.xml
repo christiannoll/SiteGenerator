@@ -2306,6 +2306,7 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 	<serial>Photos: Faces</serial>
+	<serial>Photos: Eyes</serial>
 </item>
 <item type="text" format="normal">
 	<name>einstein_1905</name>
@@ -2758,6 +2759,7 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 	<serial>Photos: Faces</serial>
+	<serial>Photos: Eyes</serial>
 </item>
 <item type="text" format="normal">
 	<name>infinite_loop</name>
@@ -3184,6 +3186,7 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 	<serial>Photos: Faces</serial>
+	<serial>Photos: Eyes</serial>
 </item>
 <item type="text" format="normal">
 	<name>ideas_and_inspiration</name>
@@ -4492,6 +4495,7 @@
 	<tags><t>Photo</t></tags>
 	<serial>Photos: Faces</serial>
 	<serial>Photos: Poster</serial>
+	<serial>Photos: Eyes</serial>
 </item>
 <item type="text" format="normal">
 	<name>reality_machine</name>
@@ -4728,6 +4732,7 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 	<serial>Photos: Faces</serial>
+	<serial>Photos: Eyes</serial>
 </item>
 <item type="text" format="normal">
 	<name>code_is_data</name>
@@ -4760,6 +4765,7 @@
 	<tags><t>Photo</t></tags>
 	<serial>Photos: Poster</serial>
 	<serial>Photos: Faces</serial>
+	<serial>Photos: Eyes</serial>
 </item>
 <item type="text" format="normal">
 	<name>borges_taxonomy_of_animals</name>
@@ -5067,6 +5073,7 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 	<serial>Photos: Poster</serial>
+	<serial>Photos: Eyes</serial>
 </item>
 <item type="text" format="normal">
 	<name>climate_and_world_order</name>
@@ -5095,5 +5102,13 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 	<serial>Photos: Poster</serial>
+</item>
+<item type="text" format="randomLinksColor">
+	<name>eyes_photo_series</name>
+	<title>Eyes - Windows to the Soul</title>
+	<data>We read a person through their face, focusing primarily on their [eyes](#serials/Photos--Eyes/). This way of communication is something we have been evolutionarily trained for.</data>
+	<date>02.04.2025</date>
+	<index><i>Eyes</i><i>Evolution</i></index>
+	<tags><t>Biology</t></tags>
 </item>
 </content>
