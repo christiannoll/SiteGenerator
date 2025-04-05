@@ -5111,4 +5111,13 @@
 	<index><i>Eyes</i><i>Evolution</i></index>
 	<tags><t>Biology</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>agi_and_enlightenment</name>
+	<title>AGI and Enlightenment</title>
+	<data>*1784*: "Enlightenment is man's emergence from his self-imposed immaturity. Immaturity is the inability to use one's understanding without guidance from another. This immaturity is self-imposed when its cause lies not in lack of understanding, but in lack of resolve and courage to use it without guidance from another. Sapere Aude! Have courage to use your own understanding! — that is the motto of enlightenment." - [Immanuel Kant](https://en.wikipedia.org/wiki/Immanuel_Kant)
+	*2025*: Is [AGI](https://en.wikipedia.org/wiki/Artificial_general_intelligence) the path to the reversed (negative) [Enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment)?</data>
+	<date>06.04.2025</date>
+	<index><i>Artificial Intelligence</i><i type="Person">Immanuel Kant</i><i>Quote</i></index>
+	<tags><t>Technology</t><t>Society</t><t>Philosophy</t></tags>
+</item>
 </content>

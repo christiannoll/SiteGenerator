@@ -5106,4 +5106,13 @@
 	<index><i>Augen</i><i>Evolution</i></index>
 	<tags><t>Biologie</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>agi_and_enlightenment</name>
+	<title>AGI und Aufklärung</title>
+	<data>*1784*: "Aufklärung ist der Ausgang des Menschen aus seiner selbst verschuldeten Unmündigkeit. Unmündigkeit ist das Unvermögen, sich seines Verstandes ohne Leitung eines anderen zu bedienen. Selbstverschuldet ist diese Unmündigkeit, wenn die Ursache derselben nicht am Mangel des Verstandes, sondern der Entschließung und des Mutes liegt, sich seiner ohne Leitung eines anderen zu bedienen. Sapere aude! Habe Mut dich deines eigenen Verstandes zu bedienen! ist also der Wahlspruch der Aufklärung." - [Immanuel Kant](https://de.wikipedia.org/wiki/Immanuel_Kant)
+	*2025*: Ist [AGI](https://de.wikipedia.org/wiki/Artificial_General_Intelligence) der Weg in die umgekehrte (negative) [Aufklärung](https://de.wikipedia.org/wiki/Aufkl%C3%A4rung)?</data>
+	<date>06.04.2025</date>
+	<index><i>Artificial Intelligence</i><i type="Person">Immanuel Kant</i><i>Zitat</i></index>
+	<tags><t>Technologie</t><t>Gesellschaft</t><t>Philosophie</t></tags>
+</item>
 </content>
