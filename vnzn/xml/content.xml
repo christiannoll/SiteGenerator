@@ -5115,4 +5115,12 @@
 	<index><i>Artificial Intelligence</i><i type="Person">Immanuel Kant</i><i>Zitat</i></index>
 	<tags><t>Technologie</t><t>Gesellschaft</t><t>Philosophie</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>station</name>
+	<title>Bahnhof</title>
+	<data>station_small.png</data>
+	<date>10.04.2025</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>

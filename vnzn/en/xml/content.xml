@@ -5048,7 +5048,7 @@
 <item type="text" format="normal">
 	<name>interim</name>
 	<title>Interim</title>
-	<data>When what was is no longer \ and what will be is not yet, \ then nothing is \ [and the angels dance the head of a pin](https://en.wikipedia.org/wiki/How_many_angels_can_dance_on_the_head_of_a_pin%3F).</data>
+	<data>When what was is no longer \ and what will be is not yet, \ then nothing is \ [and the angels dance on the head of a pin](https://en.wikipedia.org/wiki/How_many_angels_can_dance_on_the_head_of_a_pin%3F).</data>
 	<date>09.03.2025</date>
 	<index><i>Time</i></index>
 	<tags><t>Philosophy</t></tags>
@@ -5119,5 +5119,13 @@
 	<date>06.04.2025</date>
 	<index><i>Artificial Intelligence</i><i type="Person">Immanuel Kant</i><i>Quote</i></index>
 	<tags><t>Technology</t><t>Society</t><t>Philosophy</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>station</name>
+	<title>Station</title>
+	<data>station_small.png</data>
+	<date>10.04.2025</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
 </item>
 </content>
