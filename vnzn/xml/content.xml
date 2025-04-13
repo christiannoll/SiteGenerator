@@ -5123,4 +5123,13 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name><item type="text" format="normal">
+	<name>dialectical_discourse_model</name>
+	<title>Dialektisches Diskursmodell</title>
+	<data>Das Ziel eines [dialektischen Diskurses](https://de.wikipedia.org/wiki/Dialektik) ist es, in einem Prozess von der These und der Antithese zu einer Synthese zu kommen. Das ist nicht mit einem Kompromiss zu verwechseln, denn die Synthese ist nicht die Summe aus Teilaspekten oder lediglich die Schnittmenge, sondern etwas gänzlich Neues.</data>
+	<date>14.04.2025</date>
+	<index><i>Dialektik</i></index>
+	<tags><t>Philosophie</t></tags>
+</item>
 </content>

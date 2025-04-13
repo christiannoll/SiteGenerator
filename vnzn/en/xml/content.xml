@@ -5128,4 +5128,13 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name><item type="text" format="normal">
+	<name>dialectical_discourse_model</name>
+	<title>Dialectical Discourse Model</title>
+	<data>The goal of a [dialectical discourse](https://en.wikipedia.org/wiki/Dialectic) is to move from thesis and antithesis to a synthesis. This should not be confused with a compromise, as the synthesis is not merely a sum of partial aspects or just an intersection, but rather something entirely new.</data>
+	<date>14.04.2025</date>
+	<index><i>Dialectic</i></index>
+	<tags><t>Philosophy</t></tags>
+</item>
 </content>
