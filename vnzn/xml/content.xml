@@ -5132,4 +5132,14 @@
 	<index><i>Dialektik</i></index>
 	<tags><t>Philosophie</t></tags>
 </item>
+<item type="text" format="normal">
+	<name><item type="text" format="normal">
+	<name>decision_making</name>
+	<title>Entscheidungsfindung</title>
+	<data>Die Wahrscheinlichkeit die richtige Entscheidung zu treffen bei Vorhandensein aller notwendigen Informationen liegt bei 100 Prozent, aber die Wahrscheinlichkeit das alle notwendigen Informationen zum Zeitpunkt der Entscheidung vorliegen ist 0 Prozent.
+	Die schlechteste Entscheidung ist allerdings die, keine Entscheidung zu treffen.</data>
+	<date>18.04.2025</date>
+	<index><i>Entscheidung</i></index>
+	<tags><t>Allgemein</t></tags>
+</item>
 </content>

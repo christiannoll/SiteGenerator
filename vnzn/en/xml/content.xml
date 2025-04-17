@@ -5137,4 +5137,14 @@
 	<index><i>Dialectic</i></index>
 	<tags><t>Philosophy</t></tags>
 </item>
+<item type="text" format="normal">
+	<name><item type="text" format="normal">
+	<name>decision_making</name>
+	<title>Decision-Making</title>
+	<data>The probability of making the right decision when all necessary information is available is 100 percent. However, the probability that all necessary information is available at the time of the decision is 0 percent.
+	The worst decision, however, is to make no decision at all.</data>
+	<date>18.04.2025</date>
+	<index><i>Decision</i></index>
+	<tags><t>General</t></tags>
+</item>
 </content>
