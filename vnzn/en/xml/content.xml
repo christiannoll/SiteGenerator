@@ -5156,4 +5156,17 @@
 	<tags><t>Photo</t></tags>
 	<serial>Photos: Poster</serial>
 </item>
+<item type="text" format="normal">
+	<name><item type="text" format="normal">
+	<name>circus_of_ideas</name>
+	<title>Circus of Ideas</title>
+	<data>_You are the founder of the first Circus of Ideas. How did you come up with this idea?_ \ I’ve always enjoyed juggling different ideas. Ideas just come to me, but I can’t implement all of them. That’s how I came up with the idea of founding a Circus of Ideas.
+	_Where does your circus perform?_ \ Well, I’ve been almost everywhere in the world with my circus. People love ideas, they find them inspiring, and often take one or two home with them.
+	_How big is your circus troupe at the moment?_ \ Right now, we are ten idea artists in total.
+	_Which acts are especially popular with your audience?_ \ Interactive performances are very popular - for example, when we toss ideas back and forth with the audience. This often results in completely new and surprising ideas.
+	_I saw an advertisement for a daring idea performance at dizzying heights. What’s that all about?_ \ It’s about leaving Earth and looking at it from the perspective of an extraterrestrial intelligence that has traveled light-years through the dark universe and stumbled upon our blue planet. What would they see then?</data>
+	<date>26.04.2025</date>
+	<index><i>Interview</i></index>
+	<tags><t>General</t><t>Literature</t></tags>
+</item>
 </content>
