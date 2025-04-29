@@ -4950,6 +4950,7 @@
 	<date>24.01.2025</date>
 	<index><i>Virus</i><i>Evolution</i><i type="Person">Alexander Kluge</i><i>Interview</i></index>
 	<tags><t>Biologie</t><t>Gesellschaft</t></tags>
+	<serial>Interviews</serial>
 </item>
 <item type="image" height="200" width="200">
 	<name>poster16</name>
@@ -5088,6 +5089,7 @@
 	<date>25.03.2025</date>
 	<index><i>Traum</i><i type="Person">Alexander Kluge</i><i>Interview</i></index>
 	<tags><t>Literatur</t></tags>
+	<serial>Interviews</serial>
 </item>
 <item type="image" height="200" width="200">
 	<name>illusion</name>
@@ -5163,5 +5165,14 @@
 	<date>26.04.2025</date>
 	<index><i>Interview</i></index>
 	<tags><t>Allgemein</t><t>Literatur</t></tags>
+	<serial>Interviews</serial>
+</item>
+<item type="text" format="randomLinksColor">
+	<name>new_interview_series</name>
+	<title>v.n.z.n - Neue Serie mit Interviews</title>
+	<data>Imaginierte Interviews und Gespräche, inspiriert durch die Bücher und Filme von [Alexander Kluge](https://de.wikipedia.org/wiki/Alexander_Kluge), zusammengefasst in einer neuen Serie - [Interviews](#serials/Interviews/).</data>
+	<date>30.04.2025</date>
+	<index><i>Interview</i><i type="Person">Alexander Kluge</i></index>
+	<tags><t>Literatur</t></tags>
 </item>
 </content>
