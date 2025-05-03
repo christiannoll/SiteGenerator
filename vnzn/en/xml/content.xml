@@ -5180,4 +5180,12 @@
 	<index><i>Interview</i><i type="Person">Alexander Kluge</i></index>
 	<tags><t>Literature</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>young_and_old</name>
+	<title>Young and Old</title>
+	<data>young_and_old_small.png</data>
+	<date>04.05.2025</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
 </content>
