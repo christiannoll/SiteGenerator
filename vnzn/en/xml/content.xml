@@ -5188,4 +5188,16 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>Interview_with_my_self</name>
+	<title>Interview with My SELF</title>
+	<data>_Who are you?_ \ I am you.
+	_What do you mean by that?_ \ I am what you believe yourself to be. 
+	_I don’t understand._ \ I believe that - because the self cannot fully understand itself.
+	_So you’re saying you’re the other side of the same coin?_ \ No, more like this: in every moment, you are only one of many facets of your self.</data>
+	<date>08.05.2025</date>
+	<index><i>Interview</i><i>Identity</i></index>
+	<tags><t>Philosophy</t></tags>
+	<serial>Interviews</serial>
+</item>
 </content>

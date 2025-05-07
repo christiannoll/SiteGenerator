@@ -5183,4 +5183,16 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>Interview_with_my_self</name>
+	<title>Interview mit meinem ICH</title>
+	<data>_Wer bist Du?_ \ Ich bin Du.
+	_Wie meinst Du das?_ \ Ich bin das von dem Du glaubst, Du zu sein.
+	_Das verstehe ich nicht._ \ Das glaube ich, denn das Ich kann sich nicht selber verstehen.
+	_Du meinst also, Du bist die andere Seite derselben Medaille?_ \ Nein, eher so: Du bist in jedem Augenblick nur eine von vielen Facetten Deines Ichs.</data>
+	<date>08.05.2025</date>
+	<index><i>Interview</i><i>Identität</i></index>
+	<tags><t>Philosophie</t></tags>
+	<serial>Interviews</serial>
+</item>
 </content>
