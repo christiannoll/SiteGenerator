@@ -5076,7 +5076,7 @@
 	<title>Klima und Weltordnung</title>
 	<data>Die globale Erwärmung hat nicht nur Auswirkungen auf das Klima, sondern auch auf die Gesellschaftssysteme. Lang bestehende Strukturen werden destabilisiert oder aufgelöst. Es kommt zu gesellschaftlichen und geopolitischen Anpassungsprozessen. Das ist das, was man derzeit beobachten kann. Es ist das Ringen um eine neue Weltordnung, in der Antizipation der zukünftigen Auswirkungen des [Klimawandels](https://de.wikipedia.org/wiki/Klimawandel), mit allen Mitteln.</data>
 	<date>21.03.2025</date>
-	<index><i>Zukunft</i></index>
+	<index><i>Zukunft</i><i>Klimawandel</i></index>
 	<tags><t>Gesellschaft</t></tags>
 </item>
 <item type="text" format="normal">
@@ -5194,5 +5194,14 @@
 	<index><i>Interview</i><i>Identität</i></index>
 	<tags><t>Philosophie</t></tags>
 	<serial>Interviews</serial>
+</item>
+<item type="text" format="normal">
+	<name>boiling_frog</name>
+	<title>Der gekochte Frosch</title>
+	<data>Jeder kann sich vorstellen, was passiert, wenn man einen Frosch in sehr heißes Wasser wirft: Er versucht so schnell wie möglich wieder herauszukommen. Aber was passiert, wenn man einen Frosch in lauwarmes Wasser setzt und die Temperatur ganz allmählich erhöht? Überraschenderweise passiert nichts. Der Frosch gibt alle Anzeichen des Wohlgefühls von sich und beginnt, bei lebendigem Leib zu kochen, ohne es auch nur zu merken. Der Frosch ist nicht in der Lage, die für ihn bedrohliche allmähliche Veränderung seiner Umwelt wahrzunehmen, weil er keine Möglichkeiten hat, ein lauwarmes Wasser von einem etwas wärmeren Wasser zu unterscheiden.
+	Wird die [Menschheit](#2025/03/21/climate_and_world_order/) das gleiche Schicksal wie der [gekochte Frosch](https://en.wikipedia.org/wiki/Boiling_frog) erleben?</data>
+	<date>12.05.2025</date>
+	<index><i>Zukunft</i><i>Klimawandel</i></index>
+	<tags><t>Biologie</t><t>Gesellschaft</t></tags>
 </item>
 </content>

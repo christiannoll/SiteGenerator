@@ -5081,7 +5081,7 @@
 	<title>Climate and World Order</title>
 	<data>Global warming impacts not only the climate, but also social systems. Long-standing structures are being destabilized or dissolved. Social and geopolitical adaptation processes are taking place. This is what we are currently witnessing. It is a struggle for a new world order in anticipation of the future impacts of [climate change](https://en.wikipedia.org/wiki/Climate_change), by any means necessary.</data>
 	<date>21.03.2025</date>
-	<index><i>Future</i></index>
+	<index><i>Future</i><i>Climate Change</i></index>
 	<tags><t>Society</t></tags>
 </item>
 <item type="text" format="normal">
@@ -5199,5 +5199,14 @@
 	<index><i>Interview</i><i>Identity</i></index>
 	<tags><t>Philosophy</t></tags>
 	<serial>Interviews</serial>
+</item>
+<item type="text" format="normal">
+	<name>boiling_frog</name>
+	<title>The Boiled Frog</title>
+	<data>Everyone can imagine what happens when you throw a frog into very hot water: it tries to jump out as quickly as possible. But what happens if you place a frog in lukewarm water and gradually increase the temperature? Surprisingly, nothing happens. The frog shows every sign of comfort and begins to cook alive without even noticing it. The frog is unable to perceive the gradual change in its environment as a threat because it has no way of distinguishing lukewarm water from slightly warmer water.
+	Will [humanity](#2025/03/21/climate_and_world_order/) suffer the same fate as the [boiled frog](https://en.wikipedia.org/wiki/Boiling_frog)?</data>
+	<date>12.05.2025</date>
+	<index><i>Future</i><i>Climate Change</i></index>
+	<tags><t>Biology</t><t>Society</t></tags>
 </item>
 </content>
