@@ -79,7 +79,11 @@ class Page {
     var whatsNewTitle: String {
         get { "What's new?" }
     }
-    
+
+    var vnznAppTitle: String {
+        get { "vnzn.App" }
+    }
+
     var advancedSearchTitle: String {
         get { SiteGeneratorEnv.forGerman() ? "Erweiterte Suche" : "Advanced Search"}
     }

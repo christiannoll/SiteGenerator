@@ -21,7 +21,9 @@ class ExperimentsPage: BetaPage {
         
         ulChildren.append(renderItem(maxHomepageTitle, "max/"))
         ulChildren.append(newLine)
-        
+
+        ulChildren.append(renderExternalItem(vnznAppTitle, "https://vnzn.dev"))
+
         return ulChildren
     }
     
