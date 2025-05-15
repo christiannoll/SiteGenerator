@@ -5204,4 +5204,13 @@
 	<index><i>Zukunft</i><i>Klimawandel</i></index>
 	<tags><t>Biologie</t><t>Gesellschaft</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>poster_19</name>
+	<title>Poster</title>
+	<data>poster19_small.png</data>
+	<date>16.05.2025</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+	<serial>Fotos: Poster</serial>
+</item>
 </content>

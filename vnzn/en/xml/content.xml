@@ -5209,4 +5209,13 @@
 	<index><i>Future</i><i>Climate Change</i></index>
 	<tags><t>Biology</t><t>Society</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>poster19</name>
+	<title>Poster</title>
+	<data>poster19_small.png</data>
+	<date>16.05.2025</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+	<serial>Photos: Poster</serial>
+</item>
 </content>
