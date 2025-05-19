@@ -5218,4 +5218,13 @@
 	<tags><t>Photo</t></tags>
 	<serial>Photos: Poster</serial>
 </item>
+<item type="text" format="normal">
+	<name>questions_upon_questions</name>
+	<title>Questions upon Questions</title>
+	<data>Anyone who wants to [understand](https://en.wikipedia.org/wiki/Epistemology) the world must ask the right questions. But that raises the question: what are the right questions? Important questions make us think, shift our perspective, and challenge our usual ways of thinking.
+	Sometimes the question is already the answer, or is it the other way around?</data>
+	<date>20.05.2025</date>
+	<index><i>Brain</i><i>Intelligence</i></index>
+	<tags><t>Philosophy</t></tags>
+</item>
 </content>

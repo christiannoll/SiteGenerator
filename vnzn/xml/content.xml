@@ -5213,4 +5213,13 @@
 	<tags><t>Foto</t></tags>
 	<serial>Fotos: Poster</serial>
 </item>
+<item type="text" format="normal">
+	<name>questions_upon_questions</name>
+	<title>Fragen über Fragen</title>
+	<data>Wer die Welt [verstehen](https://de.wikipedia.org/wiki/Erkenntnistheorie) will, muss die richtigen Fragen stellen. Bleibt die Frage, was sind die richtigen Fragen? Wichtige Fragen regen zum Nachdenken an, bewirken einen Perspektivwechsel und stellen gewohnte Denkmuster in Frage. 
+	Manchmal ist die Frage auch schon die Antwort, oder ist es doch eher umgekehrt?</data>
+	<date>20.05.2025</date>
+	<index><i>Gehirn</i><i>Intelligenz</i></index>
+	<tags><t>Philosophie</t></tags>
+</item>
 </content>
