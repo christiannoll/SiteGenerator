@@ -5227,4 +5227,13 @@
 	<index><i>Brain</i><i>Intelligence</i></index>
 	<tags><t>Philosophy</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>agi_black_hole</name>
+	<title>AGI Singularity</title>
+	<data>When we reach the point of the [AGI singularity](https://en.wikipedia.org/wiki/Technological_singularity), we may have created a black hole whose hunger for information and energy will be immeasurable, and like a cosmic [black hole](https://en.wikipedia.org/wiki/Black_hole), we will have no way of knowing what's happening inside.
+	What this means for humanity is written in the stars.</data>
+	<date>24.05.2025</date>
+	<index><i>Artificial Intelligence</i><i>Black Hole</i><i>Singularity</i></index>
+	<tags><t>Astronomy</t><t>Technology</t></tags>
+</item>
 </content>
