@@ -5271,4 +5271,16 @@
 	<serial>Fotos: Gesichter</serial>
 	<serial>Fotos: Poster</serial>
 </item>
+<item type="text" format="normal">
+	<name>get_things_done</name>
+	<title>Erledige Dinge wie ein Programmierer</title>
+	<data>1. Erstelle eine [Liste](https://de.wikipedia.org/wiki/Liste)
+	2. Zerlege Probleme in kleinere Teilaufgaben
+	3. Füge diese Teilaufgaben der Liste hinzu
+	4. Erledige die Aufgaben und hake sie ab
+	5. Erstelle die nächste Liste</data>
+	<date>13.06.2025</date>
+	<index><i>Algorithmus</i></index>
+	<tags><t>Allgemein</t></tags>
+</item>
 </content>

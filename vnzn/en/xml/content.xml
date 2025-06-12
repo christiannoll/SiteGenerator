@@ -5276,4 +5276,16 @@
 	<serial>Photos: Faces</serial>
 	<serial>Photos: Poster</serial>
 </item>
+<item type="text" format="normal">
+	<name>get_things_done</name>
+	<title>Get things done like a programmer</title>
+	<data>1. Make a [list](https://en.wikipedia.org/wiki/List)
+	2. Break problems down into smaller tasks
+	3. Add those items to the list
+	4. Complete the tasks and check them off
+	5. Make the next list</data>
+	<date>13.06.2025</date>
+	<index><i>Algorithm</i></index>
+	<tags><t>General</t></tags>
+</item>
 </content>
