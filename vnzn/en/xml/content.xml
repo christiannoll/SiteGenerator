@@ -5288,4 +5288,17 @@
 	<index><i>Algorithm</i></index>
 	<tags><t>General</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>museum_of_alternative_facts</name>
+	<title>Museum of Alternative Truths</title>
+	<data>"Truth is a social construct, not a physical reality."
+	_You are the director of the Museum of Alternative Truths. Could you explain this sentence to us?_ \ Well, you see, up until the Middle Ages, many people considered what was written in the Bible to be the ultimate truth. Over time, the Bible was gradually replaced by scientists and experts as the primary source of truth. Today, everyone defines their own personal truth to confirm their individual worldview.
+	_Are you a [nihilist](https://en.wikipedia.org/wiki/Nihilism)?_ \ No, I would rather describe myself as a collector.
+	_What do you mean by that?_ \ I collect artifacts of memetic evolution for our museum.
+	_What do you mean by memetic evolution?_ \ It refers to the idea that concepts, belief systems, and language evolve according to evolutionary principles - variation, selection, and replication.</data>
+	<date>17.06.2025</date>
+	<index><i>Interview</i><i>Evolution</i></index>
+	<tags><t>Society</t></tags>
+	<serial>Interviews</serial>
+</item>
 </content>

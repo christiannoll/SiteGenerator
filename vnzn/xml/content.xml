@@ -5283,4 +5283,17 @@
 	<index><i>Algorithmus</i></index>
 	<tags><t>Allgemein</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>museum_of_alternative_facts</name>
+	<title>Museum für alternative Wahrheiten</title>
+	<data>"Die Wahrheit ist ein gesellschaftliches Konstrukt und keine physikalische Realität."
+	_Sie sind Direktor des Museums für alternative Wahrheiten. Können Sie uns diesen Satz einmal erläutern?_ \ Sehen Sie, bis ins Mittelalter hinein haben viele Menschen das, was in der Bibel steht für wahr gehalten. Dann wurde die Bibel allmählich von Wissenschaftlern und Experten als Wahrheitsquelle abgelöst. Heute definiert jeder seine persönliche Wahrheit, um das eigene Weltbild zu bestätigen.
+	_Sind Sie ein [Nihilist](https://de.wikipedia.org/wiki/Nihilismus)?_ \ Nein, ich würde mich eher als Sammler bezeichnen.
+	_Wie meinen Sie das?_ \ Ich sammle für unser Museum Artefakte der memetischen Evolution.
+	_Was verstehen Sie unter memetischer Evolution?_ \ Dabei geht es darum, dass Ideen, Glaubenssysteme und Sprache sich nach evolutionären Prinzipien (Variation, Selektion, Replikation) entwickeln.</data>
+	<date>17.06.2025</date>
+	<index><i>Interview</i><i>Evolution</i></index>
+	<tags><t>Gesellschaft</t></tags>
+	<serial>Interviews</serial>
+</item>
 </content>
