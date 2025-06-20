@@ -5301,4 +5301,13 @@
 	<tags><t>Society</t></tags>
 	<serial>Interviews</serial>
 </item>
+<item type="image" height="200" width="200">
+	<name>berlin3</name>
+	<title>Berlin</title>
+	<data>berlin3_small.png</data>
+	<date>21.06.2025</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+	<serial>Photos: Architecture</serial>
+</item>
 </content>
