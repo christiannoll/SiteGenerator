@@ -5314,4 +5314,17 @@
 	<index><i>Chaos</i><i>Struktur</i></index>
 	<tags><t>Gesellschaft</t><t>Kunst</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>structure_and_function</name>
+	<title>Struktur und Funktion</title>
+	<data>Der Ausdruck [Form follows function](https://de.wikipedia.org/wiki/Form_follows_function) ist nicht nur im Design und der Architektur wichtig, sondern auch in der Biologie. Das zeigt sich besonders bei den [Proteinen](https://de.wikipedia.org/wiki/Protein), die zu den Grundbausteinen allen Lebens gehören. Proteine sind große, komplexe Moleküle, die aus Aminosäuren bestehen und viele verschiedene Aufgaben im Körper übernehmen.
+	Das Falten der Proteine ist ein komplexer Prozess, der notwendig ist, da die Funktion eines Proteins an seine 3D-Struktur gebunden ist. Bisher war es nicht möglich die Faltung eines Proteins basierend auf seiner [Aminosäuresequenz](https://de.wikipedia.org/wiki/Prim%C3%A4rstruktur) vorherzusagen. Mit der Software [AlphaFold](https://de.wikipedia.org/wiki/AlphaFold), die auf neuronalen Netzen beruht, ist das jedoch seit *2018* möglich.
+	Beispiele für die Bedeutung der 3D-Strukur der Proteine:
+	* Enzyme müssen ein aktives Zentrum formen, um Substrate zu binden.
+	* Antikörper brauchen eine bestimmte Form, um Antigene zu erkennen.
+	* Transportproteine (z. B. Hämoglobin) binden Stoffe nur in gefalteter Form.</data>
+	<date>29.06.2025</date>
+	<index><i>Struktur</i><i>Bauhaus</i></index>
+	<tags><t>Biologie</t><t>Architektur</t><t>Design</t></tags>
+</item>
 </content>

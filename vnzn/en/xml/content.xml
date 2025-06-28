@@ -5319,4 +5319,17 @@
 	<index><i>Chaos</i><i>Structure</i></index>
 	<tags><t>Society</t><t>Art</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>structure_and_function</name>
+	<title>Structure und Function</title>
+	<data>The expression [form follows function](https://en.wikipedia.org/wiki/Form_follows_function) is not only important in design and architecture, but also in biology. This is especially evident in [proteins](https://en.wikipedia.org/wiki/Protein), which are among the fundamental building blocks of all life. Proteins are large, complex molecules made up of [amino acids](https://en.wikipedia.org/wiki/Protein_primary_structure), and they perform a wide variety of functions in the body.
+	The folding of proteins is a complex process that is essential because a protein’s function depends on its three-dimensional structure. Until recently, it was not possible to predict how a protein would fold based solely on its amino acid sequence. However, this became possible in *2018* with [AlphaFold](https://en.wikipedia.org/wiki/AlphaFold), a software based on neural networks.
+	Examples of the importance of protein 3D structure:
+	* Enzymes must form an active site in order to bind substrates.
+	* Antibodies need a specific shape to recognize antigens.
+	* Transport proteins (e.g., hemoglobin) can only bind substances in their folded form.</data>
+	<date>29.06.2025</date>
+	<index><i>Structure</i><i>Bauhaus</i></index>
+	<tags><t>Biology</t><t>Architecture</t><t>Design</t></tags>
+</item>
 </content>
