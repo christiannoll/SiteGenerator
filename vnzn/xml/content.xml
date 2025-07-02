@@ -5327,4 +5327,14 @@
 	<index><i>Struktur</i><i>Bauhaus</i></index>
 	<tags><t>Biologie</t><t>Architektur</t><t>Design</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>marlene_dietrich</name>
+	<title>Marlene Dietrich</title>
+	<data>marlene_small.png</data>
+	<date>03.07.2025</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+	<serial>Fotos: Poster</serial>
+	<serial>Fotos: Gesichter</serial>
+</item>
 </content>
