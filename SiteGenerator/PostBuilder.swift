@@ -34,9 +34,16 @@ class PostBuilder {
         let postBody = createTextPostBody(elements)
         
         let postDateline = createTextPostDateline(item)
-        
-        let post = article_post([newLine, tab, postTitle, newLine, tab, postBody, newLine, tab, postDateline, newLine])
-        return post
+
+        if item.inSingleMode {
+            let postIndexline = createTextPostIndexline(item)
+
+            let post = article_post([newLine, tab, postTitle, newLine, tab, postBody, newLine, tab, postDateline, newLine, tab, postIndexline, newLine])
+            return post
+        } else {
+            let post = article_post([newLine, tab, postTitle, newLine, tab, postBody, newLine, tab, postDateline, newLine])
+            return post
+        }
     }
     
     public func createImageArticle(_ item: ImagePost) -> SmlNode {
@@ -95,7 +102,28 @@ class PostBuilder {
         let div = div_postDateline([link, newLine, tab])
         return div
     }
-    
+
+    private func createTextPostIndexline(_ item: Item) -> SmlNode {
+        var nodes: [SmlNode] = []
+        for index in item.indices {
+            if nodes.isEmpty == false {
+                nodes.append(space)
+            }
+            let urlTitle: SmlNode = .text("#" + index)
+            let link = a([href => createIndexUrl(index)], [urlTitle])
+            nodes.append(link)
+        }
+        nodes.append(newLine)
+        nodes.append(tab)
+
+        let div = div_postIndexline(nodes)
+        return div
+    }
+
+    private func createIndexUrl(_ index: String) -> String {
+        Page.baseUrl + "index/" + index.convertToUrlPath() + "/"
+    }
+
     private func createImagePostDateline(_ item: Item) -> SmlNode {
         let urlTitle: SmlNode = .text(createPostDate(item))
         let link = a([href => PostBuilder.createPostUrl(item)], [urlTitle])

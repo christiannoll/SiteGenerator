@@ -44,8 +44,9 @@ extension SmlNode {
     }
 }
 
-let newLine: SmlNode  = .text("\n")
-let tab: SmlNode  = .text("\t")
+let newLine: SmlNode = .text("\n")
+let tab: SmlNode = .text("\t")
+let space: SmlNode = .text(" ")
 
 func node(_ name: String, _ attribs: [SmlAttribute], _ children: [SmlNode]?) -> SmlNode {
     return .element(.init(name, attribs, children))
@@ -99,6 +100,10 @@ func div_postBody(_ children: [SmlNode]) -> SmlNode {
 
 func div_postDateline(_ children: [SmlNode]) -> SmlNode {
     return div([css_class => "postDateline"], children)
+}
+
+func div_postIndexline(_ children: [SmlNode]) -> SmlNode {
+    return div([css_class => "postIndexline"], children)
 }
 
 func div_postStyledDateline(_ children: [SmlNode]) -> SmlNode {

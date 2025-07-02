@@ -19,7 +19,9 @@ public class Item {
     var persons: Set<String> = []
     var movies: Set<String> = []
     var books: Set<String> = []
-    
+
+    var inSingleMode = false
+
     let smlBuilder = PostBuilder()
     
     init(_ id: Int) {
@@ -29,8 +31,14 @@ public class Item {
     func renderUrlTitle() -> SmlNode {return .text(title)}
     
     func renderPost() -> SmlNode {return .text("")}
-    func renderPostInSingleMode() -> SmlNode { return renderPost() }
-    
+
+    func renderPostInSingleMode() -> SmlNode {
+        inSingleMode = true
+        let post = renderPost()
+        inSingleMode = false
+        return post
+    }
+
     func renderRss() -> SmlNode { return .text("") }
     
     func itemType() -> ItemType { return .text }
@@ -76,9 +84,11 @@ class ImagePost : Item {
         let origHeight = height
         width = 300
         height = 300
-        
+
+        inSingleMode = true
         let post = renderPost()
-        
+        inSingleMode = false
+
         width = origWidth
         height = origHeight
         return post

@@ -114,6 +114,17 @@ nav {
 .postDateline a:hover {
 	color: rgba(70, 140, 220, 1.0);
 }
+.postIndexline {
+	font-size: 0.8em;
+	margin-top: 1.5em;
+}
+.postIndexline, .postIndexline a:link, .postIndexline a:visited {
+	color: rgba(110, 153, 139, 1.0);
+	font-weight: medium;
+}
+.postIndexline a:hover {
+	color: rgba(70, 140, 220, 1.0);
+}
 .menuLine {
   width: 35px;
   height: 5px;
