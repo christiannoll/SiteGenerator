@@ -5342,4 +5342,12 @@
 	<serial>Photos: Poster</serial>
 	<serial>Photos: Faces</serial>
 </item>
+<item type="text" format="normal">
+	<name>vnzn_similar_posts</name>
+	<title>v.n.z.n - Similar Posts</title>
+	<data>On the [details page](#2025/07/07/vnzn_similar_posts/), topics are now linked under each post, making it possible to find similar posts.</data>
+	<date>07.07.2025</date>
+	<index><i>Past</i><i>Present</i><i>Future</i></index>
+	<tags><t>General</t></tags>
+</item>
 </content>

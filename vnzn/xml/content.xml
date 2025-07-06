@@ -5337,4 +5337,12 @@
 	<serial>Fotos: Poster</serial>
 	<serial>Fotos: Gesichter</serial>
 </item>
+<item type="text" format="normal">
+	<name>vnzn_similar_posts</name>
+	<title>v.n.z.n - Ähnliche Posts</title>
+	<data>Auf der [Detailseite](#2025/07/07/vnzn_similar_posts/) werden jetzt unter jedem Post Themen verlinkt, über die es möglich ist ähnliche Posts zu finden.</data>
+	<date>07.07.2025</date>
+	<index><i>Vergangenheit</i><i>Gegenwart</i><i>Zukunft</i></index>
+	<tags><t>Allgemein</t></tags>
+</item>
 </content>
