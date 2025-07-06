@@ -178,3 +178,35 @@ code, pre {
 		min-width: 311px;
 		}
 }
+* {
+  box-sizing: border-box;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  font-size: 30px;
+  text-align: center;
+}
+
+.flex-item-left {
+  padding: 20px;
+  flex: 33%;
+}
+
+.flex-item-middle {
+  padding: 20px;
+  flex: 33%;
+}
+
+.flex-item-right {
+  padding: 20px;
+  flex: 33%;
+}
+
+/* Responsive layout - makes a one column-layout instead of two-column layout */
+@media (max-width: 800px) {
+  .flex-container {
+    flex-direction: column;
+  }
+}

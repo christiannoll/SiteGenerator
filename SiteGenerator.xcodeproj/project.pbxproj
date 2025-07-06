@@ -58,6 +58,8 @@
 		D6A981A523B0B7A7007F3CBF /* StatisticData.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6A981A423B0B7A7007F3CBF /* StatisticData.swift */; };
 		D6ADD6542385DAF9005C0495 /* MarkdownNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6ADD6532385DAF9005C0495 /* MarkdownNode.swift */; };
 		D6B1D68723F1F1AA00BE317E /* SerialsPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6B1D68623F1F1AA00BE317E /* SerialsPage.swift */; };
+		D6B4299B2E1A9B53003C10C7 /* ArtPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6B4299A2E1A9B4C003C10C7 /* ArtPage.swift */; };
+		D6B4299C2E1A9B53003C10C7 /* ArtPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6B4299A2E1A9B4C003C10C7 /* ArtPage.swift */; };
 		D6C26E6D23C0AF1B0014634C /* IndexItemPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6C26E6C23C0AF1B0014634C /* IndexItemPage.swift */; };
 		D6C42DF528A8DA6A0066D47D /* ExperimentsPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6C42DF428A8DA6A0066D47D /* ExperimentsPage.swift */; };
 		D6C42DF728A8E2B30066D47D /* AdvancedSearchPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6C42DF628A8E2B30066D47D /* AdvancedSearchPage.swift */; };
@@ -211,6 +213,7 @@
 		D6A981A423B0B7A7007F3CBF /* StatisticData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatisticData.swift; sourceTree = "<group>"; };
 		D6ADD6532385DAF9005C0495 /* MarkdownNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarkdownNode.swift; sourceTree = "<group>"; };
 		D6B1D68623F1F1AA00BE317E /* SerialsPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SerialsPage.swift; sourceTree = "<group>"; };
+		D6B4299A2E1A9B4C003C10C7 /* ArtPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtPage.swift; sourceTree = "<group>"; };
 		D6C26E6C23C0AF1B0014634C /* IndexItemPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IndexItemPage.swift; sourceTree = "<group>"; };
 		D6C42DF428A8DA6A0066D47D /* ExperimentsPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExperimentsPage.swift; sourceTree = "<group>"; };
 		D6C42DF628A8E2B30066D47D /* AdvancedSearchPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdvancedSearchPage.swift; sourceTree = "<group>"; };
@@ -283,13 +286,14 @@
 		D676120B237F43960042F55D /* SiteGenerator */ = {
 			isa = PBXGroup;
 			children = (
-				D67A74F62CBEEB7700FCB917 /* AppWriter.swift */,
 				D6C42DF628A8E2B30066D47D /* AdvancedSearchPage.swift */,
+				D67A74F62CBEEB7700FCB917 /* AppWriter.swift */,
 				D699D538239AADCC006FE271 /* Archive.swift */,
 				D63B510B23996704001E7E7B /* ArchiveMonth.swift */,
 				D699D530239A4A01006FE271 /* ArchiveMonthPage.swift */,
 				D63B510F239997FA001E7E7B /* ArchivePage.swift */,
 				D63B510D2399673E001E7E7B /* ArchiveYear.swift */,
+				D6B4299A2E1A9B4C003C10C7 /* ArtPage.swift */,
 				D6E0279B264E0E840064DC6A /* BetaPage.swift */,
 				D6A0A64F27D3496000783635 /* BooksRegister.swift */,
 				D6A0A65127D34A4500783635 /* BooksRegisterPage.swift */,
@@ -513,6 +517,7 @@
 				D6EA574C2AE54DB700187AF5 /* ErrorPage.swift in Sources */,
 				D6A981A323B0AFE7007F3CBF /* SiteStatistics.swift in Sources */,
 				D6F92EC4238320D900FCAAC1 /* MarkdownParser.swift in Sources */,
+				D6B4299C2E1A9B53003C10C7 /* ArtPage.swift in Sources */,
 				D65456A728E82B4F0088F018 /* SitemapWriter.swift in Sources */,
 				D6E1929F23A77E4D006A7A5C /* PageVerifier.swift in Sources */,
 				D65B17B02598C42C0008F88E /* RandomEntriesBuilder.swift in Sources */,
@@ -603,6 +608,7 @@
 				D6FF02AB2C0C790D003CA2EC /* IndexPage.swift in Sources */,
 				D6FF02AC2C0C790D003CA2EC /* PersonsRegisterPage.swift in Sources */,
 				D6FF02AD2C0C790D003CA2EC /* TagItemPage.swift in Sources */,
+				D6B4299B2E1A9B53003C10C7 /* ArtPage.swift in Sources */,
 				D6FF02AE2C0C790D003CA2EC /* TagItem.swift in Sources */,
 				D6FF02AF2C0C790D003CA2EC /* FeedWriter.swift in Sources */,
 				D6F303B023AC31B10012F659 /* SmlPrinter.swift in Sources */,

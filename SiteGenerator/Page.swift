@@ -31,7 +31,11 @@ class Page {
     var metaTitle: String {
         get { "Meta" }
     }
-    
+
+    var artTitle: String {
+        get { "Art" }
+    }
+
     var impressumTitle: String {
         get { SiteGeneratorEnv.forGerman() ? "Impressum" : "Contact" }
     }

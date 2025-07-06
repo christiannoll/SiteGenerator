@@ -145,7 +145,11 @@ struct SiteGenerator {
         let betaPage = BetaPage()
         betaPage.setTitle()
         writer.writeBetaPage(betaPage.render())
-        
+
+        let artPage = ArtPage(posts)
+        artPage.setTitle()
+        writer.writeArtPage(artPage.render())
+
         let experimentsPage = ExperimentsPage()
         experimentsPage.setTitle()
         writer.writeExperimentsPage(experimentsPage.render())

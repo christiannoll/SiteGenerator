@@ -32,6 +32,8 @@ public class Item {
     
     func renderPost() -> SmlNode {return .text("")}
 
+    func renderArtPost() -> SmlNode {return .text("")}
+
     func renderPostInSingleMode() -> SmlNode {
         inSingleMode = true
         let post = renderPost()
@@ -74,7 +76,11 @@ class ImagePost : Item {
     override func renderPost() -> SmlNode {
         return smlBuilder.createImageArticle(self)
     }
-    
+
+    override func renderArtPost() -> SmlNode {
+        return smlBuilder.createImageArt(self)
+    }
+
     override func renderRss() -> SmlNode {
         return smlBuilder.createRssImageArticle(self)
     }

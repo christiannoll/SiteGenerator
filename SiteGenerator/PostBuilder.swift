@@ -53,7 +53,12 @@ class PostBuilder {
         let post = article_post([newLine, tab, postBody, newLine, tab, postDateline, newLine])
         return post
     }
-    
+
+    public func createImageArt(_ item: ImagePost) -> SmlNode {
+        let artBody = createImageArtBody(item)
+        return artBody
+    }
+
     func createRssTextArticle(_ item: TextPost) -> SmlNode {
         return createRssArticle(item, createRssTextPostDescription)
     }
@@ -89,7 +94,16 @@ class PostBuilder {
         let postBody = div_postBody([newLine, tab, tab, para, newLine, tab])
         return postBody
     }
-    
+
+    private func createImageArtBody(_ item: ImagePost) -> SmlNode {
+        let imgNode: SmlNode = img([src => createImageUrl(item),
+                                    height => String(item.height),
+                                    width => String(item.width),
+                                    alt => String(item.title)])
+        let link = a([href => PostBuilder.createPostUrl(item)], [imgNode])
+        return link
+    }
+
     private func createTextPostBody(_ markdownNodes: [MarkdownNode]) -> SmlNode {
         let para = p([smlBuilder.parse(markdownNodes)])
         let postBody = div_postBody([newLine, tab, tab, para, newLine, tab])

@@ -118,6 +118,22 @@ func div_menuLine(_ children: [SmlNode]) -> SmlNode {
     return div([css_class => "menuLine"], children)
 }
 
+func div_flexContainer(_ children: [SmlNode]) -> SmlNode {
+    return div([css_class => "flex-container"], children)
+}
+
+func div_flexItemLeft(_ children: [SmlNode]) -> SmlNode {
+    return div([css_class => "flex-item-left"], children)
+}
+
+func div_flexItemMiddle(_ children: [SmlNode]) -> SmlNode {
+    return div([css_class => "flex-item-middle"], children)
+}
+
+func div_flexItemRight(_ children: [SmlNode]) -> SmlNode {
+    return div([css_class => "flex-item-right"], children)
+}
+
 func article_post(_ children: [SmlNode]) -> SmlNode {
     return article([css_class => "post"], children)
 }
