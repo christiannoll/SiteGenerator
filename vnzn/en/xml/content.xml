@@ -5350,4 +5350,13 @@
 	<index><i>Past</i><i>Present</i><i>Future</i></index>
 	<tags><t>General</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>einstein_and_spinozas_god</name>
+	<title>Einstein and Spinoza's God</title>
+	<data>In *1929*, when asked by a rabbi, "Do you believe in God?", [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) replied:
+	"I believe in [Spinoza's God](https://en.wikipedia.org/wiki/Spinoza%27s_Ethics#Part_I:_Of_God) who reveals himself in the orderly harmony of what exists, not in a God who concerns himself with fates and actions of human beings."</data>
+	<date>11.07.2025</date>
+	<index><i type="Person">Baruch de Spinoza</i><i type="Person">Albert Einstein</i></index>
+	<tags><t>Philosophy</t><t>Physics</t></tags>
+</item>
 </content>
