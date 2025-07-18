@@ -5363,4 +5363,23 @@
 	<tags><t>Foto</t></tags>
 	<serial>Fotos: Abstrakt</serial>
 </item>
+<item type="text" format="normal">
+	<name>boltzmanns_world</name>
+	<title>Boltzmanns Welt</title>
+	<data>Der österreichische Physiker und Philosoph [Ludwig Boltzmann](https://de.wikipedia.org/wiki/Ludwig_Boltzmann) war ein Vordenker der modernen Physik, dessen faszinierende Ideen und Konzepte auch heute noch bedeutsam sind:
+	* [Boltzmann-Konstante](https://de.wikipedia.org/wiki/Boltzmann-Konstante)
+	* [Stefan-Boltzmann-Gesetz](https://de.wikipedia.org/wiki/Stefan-Boltzmann-Gesetz)
+	* [Boltzmann-Gleichung](https://de.wikipedia.org/wiki/Boltzmann-Gleichung)
+	* [Boltzmann-Statistik](https://de.wikipedia.org/wiki/Boltzmann-Statistik)
+	* [Maxwell-Boltzmann-Verteilung](https://de.wikipedia.org/wiki/Maxwell-Boltzmann-Verteilung)
+	* [Boltzmann-Faktor](https://de.wikipedia.org/wiki/Boltzmann-Faktor)
+	* [Poisson-Boltzmann-Gleichung](https://de.wikipedia.org/wiki/Poisson-Boltzmann-Gleichung)
+	* [Boltzmann-Maschine](https://de.wikipedia.org/wiki/Boltzmann-Maschine)
+	* [Boltzmann-Gehirn](https://de.wikipedia.org/wiki/Boltzmann-Gehirn)
+	* [Lattice-Boltzmann-Methode](https://de.wikipedia.org/wiki/Lattice-Boltzmann-Methode)
+	* [Boltzmann-Universum](https://de.wikipedia.org/wiki/Boltzmann-Universum)</data>
+	<date>19.07.2025</date>
+	<index><i type="Person">Ludwig Boltzmann</i></index>
+	<tags><t>Philosophie</t><t>Physik</t></tags>
+</item>
 </content>

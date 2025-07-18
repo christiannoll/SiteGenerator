@@ -5368,4 +5368,21 @@
 	<tags><t>Photo</t></tags>
 	<serial>Photos: Abstract</serial>
 </item>
+<item type="text" format="normal">
+	<name>boltzmanns_world</name>
+	<title>Boltzmann’s World</title>
+	<data>The Austrian physicist and philosopher [Ludwig Boltzmann](https://en.wikipedia.org/wiki/Ludwig_Boltzmann) was a pioneer of modern physics, whose fascinating ideas and concepts remain significant even today:
+	* [Boltzmann constant](https://en.wikipedia.org/wiki/Boltzmann_constant)
+	* [Stefan-Boltzmann law](https://en.wikipedia.org/wiki/Stefan%E2%80%93Boltzmann_law)
+	* [Boltzmann equation](https://en.wikipedia.org/wiki/Boltzmann_equation)
+	* [Boltzmann distribution](https://en.wikipedia.org/wiki/Boltzmann_distribution)
+	* [Maxwell-Boltzmann distribution](https://en.wikipedia.org/wiki/Maxwell%E2%80%93Boltzmann_distribution)
+	* [Poisson–Boltzmann equation](https://en.wikipedia.org/wiki/Poisson%E2%80%93Boltzmann_equation)
+	* [Boltzmann machine](https://en.wikipedia.org/wiki/Boltzmann_machine)
+	* [Boltzmann brain](https://en.wikipedia.org/wiki/Boltzmann_brain)
+	* [Lattice Boltzmann methods](https://en.wikipedia.org/wiki/Lattice_Boltzmann_methods)</data>
+	<date>19.07.2025</date>
+	<index><i type="Person">Ludwig Boltzmann</i></index>
+	<tags><t>Philosophy</t><t>Physics</t></tags>
+</item>
 </content>
