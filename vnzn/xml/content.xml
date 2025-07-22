@@ -5382,4 +5382,14 @@
 	<index><i type="Person">Ludwig Boltzmann</i></index>
 	<tags><t>Philosophie</t><t>Physik</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>math_curiosities_5</name>
+	<title>Mathematische Kuriositäten V</title>
+	<data>Wenn man jedem Buchstaben im Alphabet nach folgendem Muster eine Zahl zuordnet:
+	A = 1 \ B = 2 \ C = 3 \ ... \ Z = 26
+	ergibt die Summe der Buchstaben des Wortes PRIME passenderweise eine [Primzahl](https://de.wikipedia.org/wiki/Primzahl) (61).</data>
+	<date>23.07.2025</date>
+	<index><i>Zahlen</i></index>
+	<tags><t>Mathematik</t></tags>
+</item>
 </content>

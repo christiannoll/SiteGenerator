@@ -5385,4 +5385,14 @@
 	<index><i type="Person">Ludwig Boltzmann</i></index>
 	<tags><t>Philosophy</t><t>Physics</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>math_curiosities_5</name>
+	<title>Mathematical curiosities V</title>
+	<data>By assigning each letter of the alphabet a number based on the following pattern:
+	A = 1 \ B = 2 \ C = 3 \ … \ Z = 26
+	the sum of the letters in the word PRIME adds up to 61 - which is, fittingly, a [prime number](https://en.wikipedia.org/wiki/Prime_number).</data>
+	<date>23.07.2025</date>
+	<index><i>Numbers</i></index>
+	<tags><t>Mathematics</t></tags>
+</item>
 </content>
