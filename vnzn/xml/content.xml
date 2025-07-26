@@ -5392,4 +5392,14 @@
 	<index><i>Zahlen</i></index>
 	<tags><t>Mathematik</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>face</name>
+	<title>Face</title>
+	<data>face4_small.png</data>
+	<date>27.07.2025</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+	<serial>Fotos: Gesichter</serial>
+	<serial>Fotos: Poster</serial>
+</item>
 </content>
