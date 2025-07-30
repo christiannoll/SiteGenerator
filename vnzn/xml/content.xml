@@ -5402,4 +5402,13 @@
 	<serial>Fotos: Gesichter</serial>
 	<serial>Fotos: Poster</serial>
 </item>
+<item type="text" format="normal">
+	<name>what_is_consciousness</name>
+	<title>Was ist Bewusstsein?</title>
+	<data>"Wenn Bewusstsein die Art und Weise ist, wie sich Information anfühlt, wenn sie auf bestimmte Weise verarbeitet wird, dann muss es unabhängig vom Substrat sein; es zählt nur die Struktur der Informationsverarbeitung, nicht die Struktur der Materie, die diese Verarbeitung durchführt." - [Max Tegmark](https://de.wikipedia.org/wiki/Max_Tegmark)
+	Was würde passieren, wenn wir einen Detektor für [Bewusstsein](#index/Bewusstsein/) konstruieren könnten?</data>
+	<date>31.07.2025</date>
+	<index><i type="Person">Max Tegmark</i><i>Bewusstsein</i></index>
+	<tags><t>Philosophie</t><t>Physik</t></tags>
+</item>
 </content>

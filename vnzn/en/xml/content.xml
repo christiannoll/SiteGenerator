@@ -5405,4 +5405,13 @@
 	<serial>Photos: Faces</serial>
 	<serial>Photos: Poster</serial>
 </item>
+<item type="text" format="normal">
+	<name>what_is_consciousness</name>
+	<title>What is Consciousness?</title>
+	<data>"If consciousness is the way that information feels when it’s processed in certain ways, then it must be substrate-independent; it’s only the structure of the information processing that matters, not the structure of the matter doing the information processing." - [Max Tegmark](https://en.wikipedia.org/wiki/Max_Tegmark)
+	What would happen if we could construct a detector for [consciousness](#index/Consciousness/)?</data>
+	<date>31.07.2025</date>
+	<index><i type="Person">Max Tegmark</i><i>Consciousness</i></index>
+	<tags><t>Philosophy</t><t>Physics</t></tags>
+</item>
 </content>
