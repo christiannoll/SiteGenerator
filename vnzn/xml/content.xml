@@ -5420,4 +5420,12 @@
 	<index><i type="Person">David Foster Wallace</i><i>Zitat</i></index>
 	<tags><t>Literatur</t><t>Philosophie</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>clouds2</name>
+	<title>Wolken</title>
+	<data>clouds2_small.png</data>
+	<date>08.08.2025</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
