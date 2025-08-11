@@ -5428,4 +5428,12 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>brain-self-observation</name>
+	<title>Die Selbstbeobachtung des Gehirns</title>
+	<data>Was weiß das [Gehirn](#index/Gehirn/) über sich selbst, wenn es in der Lage ist sich selbst zu reproduzieren, ohne das ein Wissenschaftler es versteht?</data>
+	<date>12.08.2025</date>
+	<index><i>Gehirn</i></index>
+	<tags><t>Biologie</t></tags>
+</item>
 </content>

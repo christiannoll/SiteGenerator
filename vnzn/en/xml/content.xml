@@ -5431,4 +5431,12 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>brain-self-observation</name>
+	<title>The Self-Observation of the Brain</title>
+	<data>What does the [brain](#index/Brain/) know about itself when it can reproduce itself without any scientist understanding it?</data>
+	<date>12.08.2025</date>
+	<index><i>Brain</i></index>
+	<tags><t>Biology</t></tags>
+</item>
 </content>
