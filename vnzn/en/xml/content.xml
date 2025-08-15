@@ -5439,4 +5439,12 @@
 	<index><i>Brain</i></index>
 	<tags><t>Biology</t></tags>
 </item>
+<item type="text" format="randomLinksColor">
+	<name>question_of_identity</name>
+	<title>A question of identity</title>
+	<data>Only through [love](#index/Love/) does the I transform into the we.</data>
+	<date>16.08.2025</date>
+	<index><i>Love</i><i>Identity</i></index>
+	<tags><t>Society</t></tags>
+</item>
 </content>

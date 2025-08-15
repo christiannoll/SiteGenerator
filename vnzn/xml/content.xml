@@ -5436,4 +5436,12 @@
 	<index><i>Gehirn</i></index>
 	<tags><t>Biologie</t></tags>
 </item>
+<item type="text" format="randomLinksColor">
+	<name>question_of_identity</name>
+	<title>Identitätsfrage</title>
+	<data>Nur in der [Liebe](#index/Liebe/) wird das Ich zum Wir.</data>
+	<date>16.08.2025</date>
+	<index><i>Liebe</i><i>Identität</i></index>
+	<tags><t>Gesellschaft</t></tags>
+</item>
 </content>
