@@ -5447,4 +5447,13 @@
 	<index><i>Love</i><i>Identity</i></index>
 	<tags><t>Society</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>abstract_18</name>
+	<title>Abstract 18</title>
+	<data>abstract18_small.png</data>
+	<date>20.08.2025</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+	<serial>Photos: Abstract</serial>
+</item>
 </content>
