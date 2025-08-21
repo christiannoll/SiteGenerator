@@ -43,7 +43,11 @@ class PageWriter {
         let relPath = "index/" + indexItem.key.convertToUrlPath() + "/"
         writeHtmlFile(content, relPath, "index.html")
     }
-    
+
+    public func writeIndexAiPage(_ indexItem: IndexItem, _ content: String) {
+        writeHtmlFile(content, "ai/", "index.html")
+    }
+
     public func writeTagsPage(_ content: String) {
         writeHtmlFile(content, "tags/", "index.html")
     }

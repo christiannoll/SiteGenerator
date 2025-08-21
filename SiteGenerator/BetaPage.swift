@@ -47,7 +47,10 @@ class BetaPage : Page {
         
         ulChildren.append(renderItem(storiesTitle, "tags/" + TagItemPage.storyKey))
         ulChildren.append(newLine)
-        
+
+        ulChildren.append(renderItem(aiTitle, "ai"))
+        ulChildren.append(newLine)
+
         ulChildren.append(renderItem(experimentsTitle + " 🔬", "experiments"))
         ulChildren.append(newLine)
         

@@ -75,7 +75,11 @@ class Page {
     var storiesTitle: String {
         get { SiteGeneratorEnv.forGerman() ? "Kurzgeschichten" : "Short Stories"}
     }
-    
+
+    var aiTitle: String {
+        get { SiteGeneratorEnv.forGerman() ? "Artificial Intelligence" : "Artificial Intelligence"}
+    }
+
     var experimentsTitle: String {
         get { SiteGeneratorEnv.forGerman() ? "Experimente" : "Experiments"}
     }

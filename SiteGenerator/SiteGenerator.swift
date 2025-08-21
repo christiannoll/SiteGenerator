@@ -75,7 +75,13 @@ struct SiteGenerator {
             page.setTitle(indexItem.key)
             writer.writeIndexItemPage(indexItem, page.render())
         }
-        
+
+        if let aiItem = indexItems.first(where: { $0.key == "Artificial Intelligence" }) {
+            let page = IndexItemPage(aiItem)
+            page.setTitle(aiItem.key)
+            writer.writeIndexAiPage(aiItem, page.render())
+        }
+
         let tagsFactory = TagsFactory()
         let tags = tagsFactory.createTags(posts)
         let tagsPage = TagsPage(tags)
