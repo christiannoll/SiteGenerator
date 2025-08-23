@@ -5456,4 +5456,12 @@
 	<tags><t>Photo</t></tags>
 	<serial>Photos: Abstract</serial>
 </item>
+<item type="text" format="randomLinksColor">
+	<name>new_page_ai</name>
+	<title>v.n.z.n - Artificial Intelligence</title>
+	<data>New [Meta page](#beta/): [Artificial Intelligence](#ai/)</data>
+	<date>24.08.2025</date>
+	<index><i>Future</i></index>
+	<tags><t>General</t></tags>
+</item>
 </content>
