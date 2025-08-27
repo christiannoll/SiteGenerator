@@ -5464,4 +5464,13 @@
 	<index><i>Future</i></index>
 	<tags><t>General</t></tags>
 </item>
+<item type="text" format="blueLinkColor">
+	<name>cyanobacteria</name>
+	<title>Cyanobacteria</title>
+	<data>[Cyanobacteria](https://en.wikipedia.org/wiki/Cyanobacteria) have probably colonized the Earth for more than 3.5 billion years ([Archaean era](https://en.wikipedia.org/wiki/Archean)) and are among the oldest life forms of all.
+	They live in every puddle if you let it stand long enough. Cyanobacteria are often also referred to as blue-green algae. Although they perform photosynthesis, they do not belong to the [algae](https://en.wikipedia.org/wiki/Algae) but to the [bacteria](https://en.wikipedia.org/wiki/Bacteria), since they do not possess a true cell nucleus.</data>
+	<date>28.08.2025</date>
+	<index><i>Bacteria</i></index>
+	<tags><t>Biology</t></tags>
+</item>
 </content>
