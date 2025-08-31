@@ -5470,4 +5470,13 @@
 	<index><i>Bakterien</i></index>
 	<tags><t>Biologie</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>portugal_1</name>
+	<title>Portugal</title>
+	<data>portugal1_small.png</data>
+	<date>01.09.2025</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+	<serial>Fotos: Architektur</serial>
+</item>
 </content>
