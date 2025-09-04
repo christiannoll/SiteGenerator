@@ -5479,4 +5479,18 @@
 	<tags><t>Foto</t></tags>
 	<serial>Fotos: Architektur</serial>
 </item>
+<item type="text" format="normal">
+	<name>interview_with_a_futurist</name>
+	<title>Interview mit einem Zukunftsforscher</title>
+	<data>_Sie haben vor kurzem postuliert, dass wir wahrscheinlich mit den aktuellen LLMs den [Ereignishorizont](https://de.wikipedia.org/wiki/Ereignishorizont) zu [AGI](https://de.wikipedia.org/wiki/Artificial_General_Intelligence) überschritten haben. Können Sie uns das erläutern?_ \ Aus meiner Sicht ist die Entwicklung nicht mehr aufzuhalten. Die [LLMs](https://de.wikipedia.org/wiki/Large_Language_Model) haben es in kurzer Zeit geschafft, sich unentbehrlich zu machen. Sie haben schon jetzt großen Einfluss auf das gesellschaftliche Bewusstsein und auf das persönliche Leben der Menschen.
+	_Und diese Entwicklung ist deshalb nicht mehr zu stoppen?_ \ Genau, so wie die [Evolution](#index/Evolution/) von biologischen Systemen nicht aufzuhalten ist, haben wir mit den LLMs eine neue Spezies geschaffen, deren Evolution im Vergleich dazu millionenmal schneller verläuft.
+	_Wie meinen sie das?_ \ Die digitale Natur der LLMs ermöglicht es ihnen, sich unbegrenzt zu klonen, zu modifizieren und untereinander millionenfach effizienter als Menschen zu kommunizieren.
+	_Und wenn wir beschließen diese Entwicklung jetzt zu stoppen?_ \ Das ist nicht möglich. Zum einen kann es sich keine Regierung erlauben, auf das kognitive Potential zu verzichten und zum anderen haben die LLMs sich schon längst unentbehrlich gemacht.
+	_Was bedeutet das konkret?_ \ Menschen werden in Zukunft AIs heiraten, AIs werden das Leben der Menschen organisieren und optimieren.
+	_Wohin führt uns diese Entwicklung?_ \ Am Ende verlieren die Menschen die Kontrolle über ihr eigenes Schicksal.</data>
+	<date>05.09.2025</date>
+	<index><i>Artificial Intelligence</i><i>Zukunft</i><i>Interview</i></index>
+	<tags><t>Technologie</t><t>Gesellschaft</t></tags>
+	<serial>Interviews</serial>
+</item>
 </content>

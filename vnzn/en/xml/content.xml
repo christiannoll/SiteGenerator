@@ -5482,4 +5482,18 @@
 	<tags><t>Photo</t></tags>
 	<serial>Photos: Architecture</serial>
 </item>
+<item type="text" format="normal">
+	<name>interview_with_a_futurist</name>
+	<title>Interview with a Futurist</title>
+	<data>_You recently suggested that with today’s LLMs we may already have crossed the [event horizon](https://en.wikipedia.org/wiki/Event_horizon) toward [AGI](https://en.wikipedia.org/wiki/Artificial_general_intelligence). Can you explain what you mean by that?_ \ From my perspective, the process is now unstoppable. In a remarkably short time, [LLMs](https://en.wikipedia.org/wiki/Large_language_model) have become indispensable. They already exert a profound influence on social consciousness and on people’s personal lives.
+	_So you’re saying this development can’t be halted anymore?_ \ Exactly. Just as the [evolution](#index/Evolution/) of biological systems can’t be stopped, with LLMs we’ve created a new kind of species—one whose evolution is millions of times faster.
+	_How should we understand that?_ \ Because they are digital, LLMs can replicate endlessly, be modified at will, and communicate with each other millions of times more efficiently than humans ever could.
+	_And what if we were to decide to stop this development right now?_ \ That simply isn’t possible. No government can afford to give up this kind of cognitive potential. And beyond that, LLMs have already made themselves indispensable.
+	_What does that mean in practice?_ \ In the future, people will marry AIs, and AIs will organize and optimize human life.
+	_And where does that leave us?_ \ In the end, humanity will lose control over its own destiny.</data>
+	<date>05.09.2025</date>
+	<index><i>Artificial Intelligence</i><i>Future</i><i>Interview</i></index>
+	<tags><t>Technology</t><t>Society</t></tags>
+	<serial>Interviews</serial>
+</item>
 </content>
