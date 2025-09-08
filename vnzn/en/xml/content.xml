@@ -5496,4 +5496,13 @@
 	<tags><t>Technology</t><t>Society</t></tags>
 	<serial>Interviews</serial>
 </item>
+<item type="text" format="normal">
+	<name>last_invention</name>
+	<title>The Last Invention?</title>
+	<data>With [LLMs](https://en.wikipedia.org/wiki/Large_language_model) we have created something new, an inventor. This marks a paradigm shift, because earlier fundamental inventions, such as fire or the wheel, had a profound impact on history but could not themselves bring forth new discoveries.
+	With the development of [AGI](https://en.wikipedia.org/wiki/Artificial_general_intelligence), we are now operating on the open heart of humanity - with an uncertain [outcome](#ai/).</data>
+	<date>09.09.2025</date>
+	<index><i>Artificial Intelligence</i><i>Future</i></index>
+	<tags><t>Technology</t><t>Society</t></tags>
+</item>
 </content>

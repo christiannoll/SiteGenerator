@@ -5493,4 +5493,13 @@
 	<tags><t>Technologie</t><t>Gesellschaft</t></tags>
 	<serial>Interviews</serial>
 </item>
+<item type="text" format="normal">
+	<name>last_invention</name>
+	<title>Die letzte Erfindung?</title>
+	<data>Mit den [LLMs](https://de.wikipedia.org/wiki/Large_Language_Model) haben wir etwas Neues geschaffen, einen Erfinder. Das ist ein Paradigmenwechsel, denn frühere fundamentale Erfindungen, wie das Feuer oder das Rad hatten zwar gewaltigen Einfluss auf die Geschichte, konnten aber selbst keine neuen Entdeckungen hervorbringen.
+	Mit der Entwicklung von [AGI](https://de.wikipedia.org/wiki/Artificial_General_Intelligence) operieren wir jetzt am offenen Herzen der Menschheit - mit ungewissem [Ausgang](#ai/).</data>
+	<date>09.09.2025</date>
+	<index><i>Artificial Intelligence</i><i>Zukunft</i></index>
+	<tags><t>Technologie</t><t>Gesellschaft</t></tags>
+</item>
 </content>
