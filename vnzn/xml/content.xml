@@ -5502,4 +5502,12 @@
 	<index><i>Artificial Intelligence</i><i>Zukunft</i></index>
 	<tags><t>Technologie</t><t>Gesellschaft</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>chair</name>
+	<title>Chair</title>
+	<data>chair_small.png</data>
+	<date>13.09.2025</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
