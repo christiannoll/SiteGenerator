@@ -5510,4 +5510,15 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>simulation_hypothesis</name>
+	<title>Die Simulationshypothese</title>
+	<data>Wenn wir tatsächlich, entsprechend der [Simulationshypothese](https://de.wikipedia.org/wiki/Simulationshypothese) von Nick Bostrom, in einer Computersimulation leben, ergeben sich daraus eine Reihe interessanter Fragen.
+	* Was ist außerhalb der Simulation?
+	* Ist es möglich, der Simulation zu entkommen?
+	* Wie muss man leben, damit die Simulation nicht abgeschaltet wird?</data>
+	<date>17.09.2025</date>
+	<index><i>Simulation</i><i type="Person">Nick Bostrom</i></index>
+	<tags><t>Philosophie</t><t>Gesellschaft</t></tags>
+</item>
 </content>

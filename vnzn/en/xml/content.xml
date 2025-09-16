@@ -5513,4 +5513,15 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>simulation_hypothesis</name>
+	<title>The Simulation Hypothesis</title>
+	<data>If we really, according to Nick Bostrom’s [simulation hypothesis](https://en.wikipedia.org/wiki/Simulation_hypothesis), live in a computer simulation, we face a number of interesting questions.
+	* What is outside the simulation?
+	* Is it possible to escape the simulation?
+	* How must one live so that the simulation is not shut down?</data>
+	<date>17.09.2025</date>
+	<index><i>Simulation</i><i type="Person">Nick Bostrom</i></index>
+	<tags><t>Philosophy</t><t>Society</t></tags>
+</item>
 </content>
