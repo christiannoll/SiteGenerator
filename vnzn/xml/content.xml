@@ -5521,4 +5521,13 @@
 	<index><i>Simulation</i><i type="Person">Nick Bostrom</i></index>
 	<tags><t>Philosophie</t><t>Gesellschaft</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>indefiniteness</name>
+	<title>Unbestimmbarkeit</title>
+	<data>Ab welcher Menge wird aus Sandkörner ein Sandhaufen?
+	Diese [Paradoxie des Haufens](https://de.wikipedia.org/wiki/Paradoxie_des_Haufens), auch Sorites-Paradoxie genannt, geht vermutlich auf den griechischen Philosophen [Eubulides](https://de.wikipedia.org/wiki/Eubulides_von_Milet) zurück.</data>
+	<date>21.09.2025</date>
+	<index><i type="Person">Eubulides von Milet</i></index>
+	<tags><t>Philosophie</t></tags>
+</item>
 </content>

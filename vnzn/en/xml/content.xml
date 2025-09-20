@@ -5524,4 +5524,13 @@
 	<index><i>Simulation</i><i type="Person">Nick Bostrom</i></index>
 	<tags><t>Philosophy</t><t>Society</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>indefiniteness</name>
+	<title>Indeterminacy</title>
+	<data>At what point do individual grains of sand become a heap?
+	This so-called [paradox of the heap](https://en.wikipedia.org/wiki/Sorites_paradox), or Sorites paradox, is commonly attributed to the Greek philosopher [Eubulides](https://en.wikipedia.org/wiki/Eubulides).</data>
+	<date>21.09.2025</date>
+	<index><i type="Person">Eubulides of Miletus</i></index>
+	<tags><t>Philosophy</t></tags>
+</item>
 </content>
