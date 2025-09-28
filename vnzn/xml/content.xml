@@ -5539,4 +5539,16 @@
 	<tags><t>Foto</t></tags>
 	<serial>Fotos: Abstrakt</serial>
 </item>
+<item type="text" format="randomLinkColor">
+	<name>top_4_wim_wenders</name>
+	<title>Top Four - Wim Wenders Filme</title>
+	<data>1. [Paris, Texas](https://de.wikipedia.org/wiki/Paris,_Texas)
+	2. [Don’t Come Knocking](https://de.wikipedia.org/wiki/Don%E2%80%99t_Come_Knocking)
+	3. [Der Himmel über Berlin](https://de.wikipedia.org/wiki/Der_Himmel_%C3%BCber_Berlin)
+	4. [Anselm – Das Rauschen der Zeit](https://de.wikipedia.org/wiki/Anselm_%E2%80%93_Das_Rauschen_der_Zeit)</data>
+	<date>29.09.2025</date>
+	<index><i type="Person">Wim Wenders</i></index>
+	<tags><t>Film</t></tags>
+	<serial>Top Four</serial>
+</item>
 </content>

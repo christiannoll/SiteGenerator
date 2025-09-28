@@ -5542,4 +5542,16 @@
 	<tags><t>Photo</t></tags>
 	<serial>Photos: Abstract</serial>
 </item>
+<item type="text" format="randomLinkColor">
+	<name>top_4_wim_wenders</name>
+	<title>Top Four - Wim Wenders Movies</title>
+	<data>1. [Paris, Texas](https://en.wikipedia.org/wiki/Paris,_Texas_(film))
+	2. [Don’t Come Knocking](https://en.wikipedia.org/wiki/Don%27t_Come_Knocking)
+	3. [Wings of Desire](https://en.wikipedia.org/wiki/Wings_of_Desire)
+	4. [Anselm](https://en.wikipedia.org/wiki/Anselm_(film))</data>
+	<date>29.09.2025</date>
+	<index><i type="Person">Wim Wenders</i></index>
+	<tags><t>Movie</t></tags>
+	<serial>Top Four</serial>
+</item>
 </content>
