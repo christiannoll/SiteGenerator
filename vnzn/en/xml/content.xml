@@ -5554,4 +5554,12 @@
 	<tags><t>Movie</t></tags>
 	<serial>Top Four</serial>
 </item>
+<item type="text" format="normal">
+	<name>fake_news</name>
+	<title>Fake News</title>
+	<data>[2 + 2 = 4](https://en.wikipedia.org/wiki/Fake_news)</data>
+	<date>03.10.2025</date>
+	<index><i>Disintegration</i></index>
+	<tags><t>Society</t></tags>
+</item>
 </content>
