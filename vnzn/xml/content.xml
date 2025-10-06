@@ -5559,4 +5559,12 @@
 	<index><i>Disintegration</i></index>
 	<tags><t>Gesellschaft</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>station_2</name>
+	<title>U-Bahn</title>
+	<data>station2_small.png</data>
+	<date>07.10.2025</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
