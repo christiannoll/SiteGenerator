@@ -5575,4 +5575,12 @@
 	<index><i>Simulation</i><i>Gehirn</i></index>
 	<tags><t>Gesellschaft</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>gibson_future</name>
+	<title>Die Verteilung der Zukunft</title>
+	<data>"Die [Zukunft](#index/Zukunft/) ist bereits da. Sie ist nur ungleich verteilt." - [William Gibson](https://de.wikipedia.org/wiki/William_Gibson)</data>
+	<date>15.10.2025</date>
+	<index><i>Zukunft</i><i>Zitat</i><i type="Person">William Gibson</i></index>
+	<tags><t>Gesellschaft</t></tags>
+</item>
 </content>
