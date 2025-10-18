@@ -5583,4 +5583,13 @@
 	<index><i>Zukunft</i><i>Zitat</i><i type="Person">William Gibson</i></index>
 	<tags><t>Gesellschaft</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>poster_20</name>
+	<title>Poster</title>
+	<data>poster20_small.png</data>
+	<date>19.10.2025</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+	<serial>Fotos: Poster</serial>
+</item>
 </content>
