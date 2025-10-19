@@ -238,7 +238,23 @@ class Page {
         nodes.append(a([href => (address)], ["@vnzn@mas.to"]))
         return nodes
     }
-    
+
+    func createVnznArtLine() -> [SmlNode] {
+        var nodes: [SmlNode] = []
+        nodes.append(.text("Art: "))
+        let address = "https://www.vnzn.art"
+        nodes.append(a([href => (address)], ["vnzn.art"]))
+        return nodes
+    }
+
+    func createVnznAppLine() -> [SmlNode] {
+        var nodes: [SmlNode] = []
+        nodes.append(.text("App: "))
+        let address = "https://www.vnzn.dev"
+        nodes.append(a([href => (address)], ["vnzn.dev"]))
+        return nodes
+    }
+
     func createMastodonRelMeLink() -> SmlNode {
         link([rel => "me", href => "https://mas.to/@vnzn"])
     }
