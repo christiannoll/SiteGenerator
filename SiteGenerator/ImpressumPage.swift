@@ -61,14 +61,6 @@ class ImpressumPage: Page {
         return p(nodes)
     }
 
-    private func createArtAndAppLinks() -> SmlNode {
-        var nodes: [SmlNode] = []
-        nodes.append(contentsOf: createVnznArtLine())
-        nodes.append(br())
-        nodes.append(contentsOf: createVnznAppLine())
-        return p(nodes)
-    }
-
     private func createDataProtectionText1() -> SmlNode {
         let s = "Der Webserver schreibt Logdateien mit der IP-Adresse, den verwendeten Browser, Uhrzeit und Datum  und das genutzte System eines Seitenbesuchers. Es werden nur anonymisierte IP-Adressen von Besuchern der Website gespeichert. Auf Webserver-Ebene erfolgt dies dadurch, dass im Logfile standardmäßig statt der tatsächlichen IP-Adresse des Besuchers z.B. 123.123.123.123 eine IP-Adresse 123.123.123.XXX gespeichert wird, wobei XXX ein Zufallswert zwischen 1 und 254 ist. Die Herstellung eines Personenbezuges ist nicht mehr möglich. Es werden keine Benutzerkonten und keine Cookies verwendet, daher betrachte ich diese Logdateien nicht als personenbezogen."
         return p([.text(s)])

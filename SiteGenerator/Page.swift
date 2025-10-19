@@ -239,6 +239,14 @@ class Page {
         return nodes
     }
 
+    func createArtAndAppLinks() -> SmlNode {
+        var nodes: [SmlNode] = []
+        nodes.append(contentsOf: createVnznArtLine())
+        nodes.append(br())
+        nodes.append(contentsOf: createVnznAppLine())
+        return p(nodes)
+    }
+
     func createVnznArtLine() -> [SmlNode] {
         var nodes: [SmlNode] = []
         nodes.append(.text("Art: "))

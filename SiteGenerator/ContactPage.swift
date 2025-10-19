@@ -9,7 +9,10 @@ class ContactPage: Page {
         mainChildren.append(newLine)
         mainChildren.append(createAddress())
         mainChildren.append(newLine)
-        
+
+        mainChildren.append(createArtAndAppLinks())
+        mainChildren.append(newLine)
+
         let h_C = h4([.text("© Copyright 2019-2025 – Copyright notice")])
         mainChildren.append(h_C)
         mainChildren.append(newLine)
