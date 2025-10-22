@@ -5592,4 +5592,19 @@
 	<tags><t>Foto</t></tags>
 	<serial>Fotos: Poster</serial>
 </item>
+<item type="text" format="normal">
+	<name>schroedingers_mailbox</name>
+	<title>Schrödingers Briefkasten</title>
+	<data>_Sie haben sich als Psychologe mit dem Phänomen, das unter dem Namen "Schrödingers Briefkasten" bekannt geworden ist, beschäftigt. Was verstehen Sie unter diesem Phänomen?_ \ "Schrödingers Briefkasten" ist eine Anspielung auf das physikalische Gedankenexperiment [Schrödingers Katze](https://de.wikipedia.org/wiki/Schr%C3%B6dingers_Katze) von Erwin Schrödinger.
+	_Können Sie uns dieses Gedankenexperiment einmal in wenigen Worten erläutern?_ \ In dem Experiment geht es um das Weiterleben einer Katze in einem geschlossenen Kasten, das von einem durch die Quantenmechanik beschriebenen Vorgang abhängt, wobei im Laufe des Experiments die Katze in einen kohärenten Superpositionzustand aus "tot" und "lebendig" gerät.
+	_So weit ich weiss, wollte Schrödinger damit beweisen, dass Quantenmechanik nicht auf makroskopische Objekte anwendbar ist, oder?_ \ Ganz richtig, und das ist vielen nicht bewusst.
+	_Was hat dieses Gedankenexperiment mit einem Briefkasten zu tun?_ \ Heutzutage haben viele Menschen ein problematisches Verhältnis zu ihrem Hausbriefkasten, denn mittlerweile ist es doch so, dass 90 Prozent der Post die im Briefkasten landet, eher unerfreulich ist.
+	_Was meinen Sie damit?_ \ Naja, meistens handelt es ich um Rechnungen, Mahnungen, Post von Behörden oder unerwünschte Werbung. Immer weniger Menschen schreiben sich Postkarten oder Briefe. Das bedeutet, viele vermeiden es den Briefkasten zu öffnen und das ist die Verbindung zu Schrödingers Gedankenexperiment.
+	_Können sie uns diese Verbindung noch etwas näher erläutern?_ \ Natürlich. So wie sie bei Schrödingers Experiment nicht wissen können, ob die Katze tot oder lebendig ist, ohne nachzuschauen, können sie sich einreden, dass der Briefkasten leer ist. Es gibt also keine Probleme, um die sie sich kümmern müssen, so lange sie nicht in den Briefkasten schauen. Das ist die perfekte Möglichkeit zu prokrastinieren.
+	_Es ist also eine Form von Realitätsverweigerung?_ \ In gewissem Sinne, denn die Post im Briefkasten befindet sich nicht in einer Superposition, sondern die Entscheidung ist längst gefallen, als der Postbote die Post eingeworfen hat. Das Nachschauen ändert nichts. Dadurch wird keine Realität erschaffen.</data>
+	<date>23.10.2025</date>
+	<index><i>Realität</i><i>Interview</i><i type="Person">Erwin Schrödinger</i></index>
+	<tags><t>Gesellschaft</t><t>Physik</t></tags>
+	<serial>Interviews</serial>
+</item>
 </content>

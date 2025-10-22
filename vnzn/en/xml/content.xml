@@ -5595,4 +5595,19 @@
 	<tags><t>Photo</t></tags>
 	<serial>Photos: Poster</serial>
 </item>
+<item type="text" format="normal">
+	<name>schroedingers_mailbox</name>
+	<title>Schrödinger's Mailbox</title>
+	<data>_You've studied the phenomenon known as "Schrödinger’s Mailbox" from a psychological perspective. What do you understand by this term?_ \ "Schrödinger's Mailbox" is an allusion to the famous thought experiment [Schrödinger's Cat](https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat) by the physicist Erwin Schrödinger.
+	_Could you briefly explain this thought experiment for us?_ \ In the experiment, a cat is placed in a closed box, and its survival depends on a process described by quantum mechanics. As the experiment proceeds, the cat enters a coherent superposition of being both "alive" and "dead".
+	_As far as I know, Schrödinger wanted to demonstrate that quantum mechanics can't be applied to macroscopic objects, right?_ \ Exactly, and that's something many people overlook.
+	_What does this thought experiment have to do with a mailbox?_ \ Nowadays, many people have a problematic relationship with their home mailbox, since about 90 percent of what ends up in there is unpleasant.
+	_What do you mean by that?_ \ Well, it's usually bills, payment reminders, letters from authorities, or unwanted advertising. Fewer and fewer people write personal letters or postcards. That means many people avoid opening their mailbox - and that's where the connection to Schrödinger's experiment lies.
+	_Could you elaborate on that connection a bit more?_ \ Of course. Just as you can't know whether Schrödinger's cat is alive or dead without looking, you can convince yourself that your mailbox is empty. As long as you don't check, there are no problems to deal with. It's a perfect way to procrastinate.
+	_So it's a kind of denial of reality?_ \ In a sense, yes. The mail in the box isn't in a superposition; the decision was made the moment the mail carrier dropped it in. Checking the mailbox doesn't create reality. It doesn't create reality.</data>
+	<date>23.10.2025</date>
+	<index><i>Reality</i><i>Interview</i><i type="Person">Erwin Schrödinger</i></index>
+	<tags><t>Society</t><t>Physics</t></tags>
+	<serial>Interviews</serial>
+</item>
 </content>
