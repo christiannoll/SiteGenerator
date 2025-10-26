@@ -5610,4 +5610,12 @@
 	<tags><t>Society</t><t>Physics</t></tags>
 	<serial>Interviews</serial>
 </item>
+<item type="text" format="normal">
+	<name>mostly_harmless</name>
+	<title>Mostly Harmless</title>
+	<data>The majority of people are polite, cooperative, and kind most of the time - until they are not. And the exact [tipping point](https://en.wikipedia.org/wiki/Tipping_point_(sociology)), the moment when this changes, is unpredictable.</data>
+	<date>27.10.2025</date>
+	<index><i type="Person">Douglas Adams</i></index>
+	<tags><t>Society</t></tags>
+</item>
 </content>
