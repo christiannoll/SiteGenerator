@@ -5615,4 +5615,13 @@
 	<index><i type="Person">Douglas Adams</i></index>
 	<tags><t>Gesellschaft</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>architecture3</name>
+	<title>Elbphilharmonie</title>
+	<data>architecture3_small.png</data>
+	<date>31.10.2025</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+	<serial>Fotos: Architektur</serial>
+</item>
 </content>
