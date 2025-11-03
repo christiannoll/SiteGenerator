@@ -5627,4 +5627,13 @@
 	<tags><t>Photo</t></tags>
 	<serial>Photos: Architecture</serial>
 </item>
+<item type="text" format="normal">
+	<name>tool_of_evolution</name>
+	<title>The human being as a tool of evolution</title>
+	<data>If we all descend from the same original [eukaryotic cell](https://en.wikipedia.org/wiki/Cell_(biology)#Eukaryotic_cells), then perhaps the development of [AI](#ai/) by humans is part of that cell’s plan to understand itself through reverse engineering. 
+	This would mean that humanity is a [transitional step in evolution](#2020/11/26/human_evolution_ai/), not its endpoint.</data>
+	<date>04.11.2025</date>
+	<index><i>Evolution</i><i>Artificial Intelligence</i></index>
+	<tags><t>Technology</t><t>Society</t><t>Biology</t></tags>
+</item>
 </content>
