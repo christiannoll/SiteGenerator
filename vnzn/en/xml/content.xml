@@ -5636,4 +5636,12 @@
 	<index><i>Evolution</i><i>Artificial Intelligence</i></index>
 	<tags><t>Technology</t><t>Society</t><t>Biology</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>math_curiosities_6</name>
+	<title>Mathematical curiosities VI</title>
+	<data>`987654321 / 123456789 = 8,0000000729`</data>
+	<date>08.11.2025</date>
+	<index><i>Numbers</i></index>
+	<tags><t>Mathematics</t></tags>
+</item>
 </content>
