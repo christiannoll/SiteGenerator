@@ -5641,4 +5641,12 @@
 	<index><i>Zahlen</i></index>
 	<tags><t>Mathematik</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>columns_2</name>
+	<title>Säulen</title>
+	<data>columns2_small.png</data>
+	<date>12.11.2025</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
