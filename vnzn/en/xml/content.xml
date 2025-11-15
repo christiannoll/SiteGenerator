@@ -5652,4 +5652,13 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>masters_of_evolution</name>
+	<title>The Masters of Evolution</title>
+	<data>[Viruses](https://en.wikipedia.org/wiki/Virus) have existed since the origin of life on Earth. They are highly optimized machines designed to efficiently transmit their genetic material.
+	When viewed under a microscope, [viruses](#2025/01/24/interview_with_a_virus/) often appear in the shape of an [icosahedron](https://en.wikipedia.org/wiki/Icosahedron), or twenty-sided polyhedron, because this is the most efficient way for them to approximate the shape of a sphere while using minimal genetic information.</data>
+	<date>16.11.2025</date>
+	<index><i>Evolution</i><i>Virus</i></index>
+	<tags><t>Biology</t></tags>
+</item>
 </content>
