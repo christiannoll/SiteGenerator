@@ -5669,4 +5669,13 @@
 	<index><i>Fortsetzungsgeschichte</i></index>
 	<tags><t>Literatur</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>poster_21</name>
+	<title>Poster</title>
+	<data>poster21_small.png</data>
+	<date>24.11.2025</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+	<serial>Fotos: Poster</serial>
+</item>
 </content>

@@ -5672,4 +5672,13 @@
 	<index><i>Serial Story</i></index>
 	<tags><t>Literature</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>poster_21</name>
+	<title>Poster</title>
+	<data>poster21_small.png</data>
+	<date>24.11.2025</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+	<serial>Photos: Poster</serial>
+</item>
 </content>
