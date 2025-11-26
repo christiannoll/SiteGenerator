@@ -269,4 +269,11 @@ class UnitTest: XCTestCase {
         
         XCTAssertEqual(text, "1. Punkt1 2. Punkt2")
     }
+
+    func testDoubleDelimiters() {
+        let s = "[[...]](url)"
+        let text = smlBuilder.render(s)
+
+        XCTAssertEqual(text, "<a href=\"url\">[...]</a>")
+    }
 }
