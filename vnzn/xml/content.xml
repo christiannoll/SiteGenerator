@@ -5683,7 +5683,7 @@
 	<name>the_portal_2</name>
 	<title>Das Portal -II-</title>
 	<data>[[...]](#2025/11/20/the_portal/)
-	Es gab von Anfang an viele Spekulationen über das Portal und das Schicksal der Menschen die durch das Portal gegangen sind. Viele halten es für das Tor zum Himmel, andere für die Pforte zu einer außerirdischen Zivilisation oder in ein anderes Universum. Von Wissenschaftlern wurden diverse Theorien aufgestellt, um das Auftauchen und Verschwinden des Portals zu erklären. Eine weit verbreitete Theorie behauptet zum Bespiel, dass es sich um kleine Schwarze Löcher handelt, die sporadisch entstehen und wieder kollabieren. 
+	Es gab von Anfang an viele Spekulationen über das Portal und das Schicksal der Menschen, die durch das Portal gegangen sind. Viele halten es für das Tor zum Himmel, andere für die Pforte zu einer außerirdischen Zivilisation oder in ein anderes Universum. Von Wissenschaftlern wurden diverse Theorien aufgestellt, um das Auftauchen und Verschwinden des Portals zu erklären. Eine weit verbreitete Theorie behauptet zum Beispiel, dass es sich um kleine Schwarze Löcher handelt, die sporadisch entstehen und wieder kollabieren. 
 	Als sich mit der Zeit mehr und mehr Menschen dazu entschlossen, den Schritt durch das Portal zu wagen, begann die öffentliche Meinung langsam zu kippen. 
 	Ich selber hatte mich mit dem Portal eher als abstrakte Idee beschäftigt. Das änderte sich aber schlagartig, als meine Frau mir völlig unvermittelt mitteilte, dass sie darüber nachdenkt, ebenfalls den Weg durch das Portal zu gehen. Natürlich hatten wir vorher über das Portal, als Phänomen, diskutiert, allerdings eher auf einer theoretischen und sachlichen Ebene.
 	[...]</data>
@@ -5691,5 +5691,20 @@
 	<index><i>Fortsetzungsgeschichte</i></index>
 	<tags><t>Literatur</t></tags>
 	<serial>Das Portal</serial>
+</item>
+<item type="text" format="normal">
+	<name>quantum_physics_of_love</name>
+	<title>Quantenphysik der Liebe</title>
+	<data>_Warum beschäftigen sie sich als Wissenschaftshistoriker mit der Liebe?_ \ Die [Liebe](#index/Liebe/) ist ein sehr starkes menschliches Gefühl, für das sich auch die Wissenschaft interessiert. Viele Wissenschaflter haben im Laufe der Zeit versucht, dem Geheimnis der Liebe auf die Spur zu kommen.
+	_Aber die Liebe ist doch auch ein fundamentales Thema in der Literatur, der Musik und der darstellenden Kunst._ \ Das ist natürlich richtig, aber dabei handelt es sich mehr um eine beschreibende und künstlerische Auseinandersetzung mit der Liebe. In der Wissenschaft geht es um eine umfassende und evidenzbasierte Analyse der Liebe als menschliches Gefühl. Es wird versucht auf grundlegende Fragen wie, welche Auswirkungen hat die Liebe auf den gesamten Körper, bis hinunter auf molekularer Ebene, oder wie entsteht das Gefühl der Liebe, eine Antwort zu finden.
+	_Das klingt schwierig. Zu welchen Erkenntnissen ist die wissenschaftliche Forschung dabei gelangt?_ \ Nun ja, es gab in der Geschichte immer wieder neue Ansätze, diese Fragen zu beantworten. Letztlich waren diese aber bisher nicht erfolgreich.
+	_Wie kann man das erklären?_ \ Hier kommt die Quantenphysik ins Spiel, genauer gesagt die [Heisenbergsche Unschärferelation](https://de.wikipedia.org/wiki/Heisenbergsche_Unsch%C3%A4rferelation).
+	_Können Sie uns das erläutern?_ \ Heisenberg fand heraus, dass die genaue Bestimmung des Ortes `x` eines Teilchens im Allgemeinen zu einer unkontrollierbaren Beeinflussung (Störung) des Impulses `p` des Teilchens führen muss. Das bedeutet, die gleichzeitige Messung von Ort und Impuls eines Teilchens ist nicht möglich.
+	_Worin besteht aus ihrer Sicht der Zusammenhang zwischen der Heisenbergschen Unschärferelation und der Liebe?_ \ Ich glaube die Liebe ist da, wo wir nicht beobachten können. Die Liebe bewegt sich und bewegt uns. Die Liebe können wir nicht fassen und nicht organisieren.
+	_Das heißt also, die Liebe bleibt ihrer Natur nach ein Mysterium?_ \ Genau.</data>
+	<date>02.12.2025</date>
+	<index><i>Liebe</i><i>Interview</i><i type="Person">Werner Heisenberg</i><i>Heisenbergsche Unschärferelation</i></index>
+	<tags><t>Physik</t><t>Biologie</t></tags>
+	<serial>Interviews</serial>
 </item>
 </content>
