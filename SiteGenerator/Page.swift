@@ -244,6 +244,8 @@ class Page {
         nodes.append(contentsOf: createVnznArtLine())
         nodes.append(br())
         nodes.append(contentsOf: createVnznAppLine())
+        nodes.append(br())
+        nodes.append(contentsOf: createYoutubeLine())
         return p(nodes)
     }
 
@@ -260,6 +262,14 @@ class Page {
         nodes.append(.text("App: "))
         let address = "https://www.vnzn.dev"
         nodes.append(a([href => (address)], ["vnzn.dev"]))
+        return nodes
+    }
+
+    func createYoutubeLine() -> [SmlNode] {
+        var nodes: [SmlNode] = []
+        nodes.append(.text("Youtube: "))
+        let address = "https://www.youtube.com/@v_n_z_n/playlists"
+        nodes.append(a([href => (address)], ["@v_n_z_n"]))
         return nodes
     }
 
