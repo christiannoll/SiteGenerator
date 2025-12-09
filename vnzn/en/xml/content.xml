@@ -5718,4 +5718,13 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>conways_law</name>
+	<title>Conway's law</title>
+	<data>"Organizations which design systems (in the broad sense used here) are constrained to produce designs which are copies of the communication structures of these organizations." - [Melvin Conway](https://en.wikipedia.org/wiki/Melvin_Conway)
+	The organizational structure of a company is reflected in its products.</data>
+	<date>10.12.2025</date>
+	<index><i>Communication</i><i>Quote</i><i type="Person">Melvin Conway</i></index>
+	<tags><t>Computer science</t><t>Design</t></tags>
+</item>
 </content>

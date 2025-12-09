@@ -5715,4 +5715,13 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>conways_law</name>
+	<title>Gesetz von Conway</title>
+	<data>"Organisationen, die Systeme entwerfen, [...] sind gezwungen, Entwürfe zu erstellen, die die Kommunikationsstrukturen dieser Organisationen abbilden." - [Melvin Conway](https://en.wikipedia.org/wiki/Melvin_Conway)
+	Die Organisationsstruktur einer Firma spiegelt sich in ihren Produkten wieder.</data>
+	<date>10.12.2025</date>
+	<index><i>Kommunikation</i><i>Zitat</i><i type="Person">Melvin Conway</i></index>
+	<tags><t>Informatik</t><t>Design</t></tags>
+</item>
 </content>
