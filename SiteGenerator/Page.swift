@@ -267,7 +267,7 @@ class Page {
 
     func createYoutubeLine() -> [SmlNode] {
         var nodes: [SmlNode] = []
-        nodes.append(.text("Youtube: "))
+        nodes.append(.text("YouTube: "))
         let address = "https://www.youtube.com/@v_n_z_n/playlists"
         nodes.append(a([href => (address)], ["@v_n_z_n"]))
         return nodes
