@@ -804,7 +804,7 @@
 	<data>In a radio broadcast with [Joachim Fest](https://en.wikipedia.org/wiki/Joachim_Fest) on November 9, *1964*, [Hannah Arendt](https://en.wikipedia.org/wiki/Hannah_Arendt) answered the question of whether [Eichmann](https://en.wikipedia.org/wiki/Adolf_Eichmann) had really made the [Kant](https://en.wikipedia.org/wiki/Immanuel_Kant) concept of duty his guiding principle, as Eichmann claimed several times:
 	"According to Kant, no man has the right to obey."</data>
 	<date>03.09.2020</date>
-	<index><i type="Philosoph">Hannah Ahrendt</i></index>
+	<index><i type="Philosoph">Hannah Arendt</i></index>
 	<tags><t>Philosophy</t></tags>
 </item>
 <item type="image" height="200" width="200">
@@ -5726,5 +5726,14 @@
 	<date>10.12.2025</date>
 	<index><i>Communication</i><i>Quote</i><i type="Person">Melvin Conway</i></index>
 	<tags><t>Computer science</t><t>Design</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>unbounded_expansion_of_power</name>
+	<title>The Unbounding of Power</title>
+	<data>[Hannah Arendt's](https://en.wikipedia.org/wiki/Hannah_Arendt) book [The Origins of Totalitarianism](https://en.wikipedia.org/wiki/The_Origins_of_Totalitarianism), published in *1951*, is considered her major political work and stands as one of the earliest standard texts in the field of totalitarianism research.
+	More than 70 years later, this book has once again become alarmingly relevant.</data>
+	<date>14.12.2025</date>
+	<index><i>Totalitarianism</i><i type="Person">Hannah Arendt</i></index>
+	<tags><t>Society</t><t>Philosophy</t></tags>
 </item>
 </content>

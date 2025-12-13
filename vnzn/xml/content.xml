@@ -806,7 +806,7 @@
 	<data>In einer Rundfunksendung mit [Joachim Fest](https://de.wikipedia.org/wiki/Joachim_Fest) vom 9. November *1964* antwortete [Hannah Arendt](https://de.wikipedia.org/wiki/Hannah_Arendt) auf die Frage, ob [Eichmann](https://de.wikipedia.org/wiki/Adolf_Eichmann) wirklich den Kantischen Pflichtbegriff zu seiner Richtschnur gemacht habe, wie Eichmann mehrfach von sich behauptete:
 	"Kein Mensch hat bei [Kant](https://de.wikipedia.org/wiki/Immanuel_Kant) das Recht zu gehorchen."</data>
 	<date>03.09.2020</date>
-	<index><i type="Philosoph">Hannah Ahrendt</i></index>
+	<index><i type="Philosoph">Hannah Arendt</i></index>
 	<tags><t>Philosophie</t></tags>
 </item>
 <item type="image" height="200" width="200">
@@ -5723,5 +5723,14 @@
 	<date>10.12.2025</date>
 	<index><i>Kommunikation</i><i>Zitat</i><i type="Person">Melvin Conway</i></index>
 	<tags><t>Informatik</t><t>Design</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>unbounded_expansion_of_power</name>
+	<title>Die Entgrenzung der Macht</title>
+	<data>Das *1955* auf deutsch erschienene Buch ["Elemente und Ursprünge totaler Herrschaft"](https://de.wikipedia.org/wiki/Elemente_und_Urspr%C3%BCnge_totaler_Herrschaft) von [Hannah Arendt](https://de.wikipedia.org/wiki/Hannah_Arendt) gilt als ihr politisches Hauptwerk und ist eines der frühesten Standardwerke der Totalitarismusforschung.
+	Nach 70 Jahren ist dieses Buch nun wieder erschreckend aktuell geworden.</data>
+	<date>14.12.2025</date>
+	<index><i>Totalitarismus</i><i type="Person">Hannah Arendt</i></index>
+	<tags><t>Gesellschaft</t><t>Philosophie</t></tags>
 </item>
 </content>
