@@ -119,7 +119,7 @@ class PostBuilder {
 
     private func createTextPostIndexline(_ item: Item) -> SmlNode {
         var nodes: [SmlNode] = []
-        for index in item.indices {
+        for index in item.indices where !item.books.contains(index) {
             if nodes.isEmpty == false {
                 nodes.append(space)
             }
