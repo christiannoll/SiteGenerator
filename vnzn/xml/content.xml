@@ -5727,7 +5727,7 @@
 	<data>Das *1955* auf deutsch erschienene Buch ["Elemente und Ursprünge totaler Herrschaft"](https://de.wikipedia.org/wiki/Elemente_und_Urspr%C3%BCnge_totaler_Herrschaft) von [Hannah Arendt](https://de.wikipedia.org/wiki/Hannah_Arendt) gilt als ihr politisches Hauptwerk und ist eines der frühesten Standardwerke der Totalitarismusforschung.
 	Nach 70 Jahren ist dieses Buch nun wieder erschreckend aktuell geworden.</data>
 	<date>14.12.2025</date>
-	<index><i>Totalitarismus</i><i type="Person">Hannah Arendt</i></index>
+	<index><i>Totalitarismus</i><i type="Person">Hannah Arendt</i><i type="Book" author="Hannah Arendt">Elemente und Ursprünge totaler Herrschaft</i></index>
 	<tags><t>Gesellschaft</t><t>Philosophie</t></tags>
 </item>
 <item type="image" height="200" width="200">
@@ -5749,5 +5749,17 @@
 	<index><i>Fortsetzungsgeschichte</i></index>
 	<tags><t>Literatur</t></tags>
 	<serial>Das Portal</serial>
+</item>
+<item type="text" format="normal">
+	<name>top_4_russian_novels</name>
+	<title>Top Four - Russische Romane</title>
+	<data>1. [Der Meister und Margarita](https://de.wikipedia.org/wiki/Der_Meister_und_Margarita) - Michail Bulgakow
+	2. [Krieg und Frieden](https://de.wikipedia.org/wiki/Krieg_und_Frieden) - Leo Tolstoi
+	3. [Die Brüder Karamasow](https://de.wikipedia.org/wiki/Die_Br%C3%BCder_Karamasow) - Fjodor Dostojewski
+	4. [Die Toten Seelen](https://de.wikipedia.org/wiki/Die_toten_Seelen) - Nikolai Gogol</data>
+	<date>26.12.2025</date>
+	<index><i type="Person">Leo Tolstoi</i><i type="Person">Michail Bulgakow</i><i type="Person">Fjodor Dostojewski</i><i type="Person">Nikolai Gogol</i><i type="Book" author="Michail Bulgakow">Der Meister und Margarita</i><i type="Book" author="Leo Tolstoi">Krieg und Frieden</i><i type="Book" author="Fjodor Dostojewski">Die Brüder Karamasow</i><i type="Book" author="Nikolai Gogol">Die Toten Seelen</i></index>
+	<tags><t>Literatur</t></tags>
+	<serial>Top Four</serial>
 </item>
 </content>

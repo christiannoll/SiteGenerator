@@ -1076,7 +1076,7 @@
 	* "The View from a Distant Star. Man's future in the universe" (1963) by [Harlow Shapley](https://en.wikipedia.org/wiki/Harlow_Shapley)
 	* "The Scientist Speculates" (1962) by [I. J. Good](https://en.wikipedia.org/wiki/I._J._Good)</data>
 	<date>28.12.2020</date>
-	<index><i type="Movie">2001: A Space Odyssey: Time</i><i type="Person">Stanley Kubrick</i></index>
+	<index><i type="Movie">2001: A Space Odyssey</i><i type="Person">Stanley Kubrick</i></index>
 	<tags><t>Movie</t><t>Literature</t></tags>
 	<serial>2001: A Space Odyssey</serial>
 </item>
@@ -5730,7 +5730,7 @@
 	<data>[Hannah Arendt's](https://en.wikipedia.org/wiki/Hannah_Arendt) book [The Origins of Totalitarianism](https://en.wikipedia.org/wiki/The_Origins_of_Totalitarianism), published in *1951*, is considered her major political work and stands as one of the earliest standard texts in the field of totalitarianism research.
 	More than 70 years later, this book has once again become alarmingly relevant.</data>
 	<date>14.12.2025</date>
-	<index><i>Totalitarianism</i><i type="Person">Hannah Arendt</i></index>
+	<index><i>Totalitarianism</i><i type="Person">Hannah Arendt</i><i type="Book" author="Hannah Arendt">The Origins of Totalitarianism</i></index>
 	<tags><t>Society</t><t>Philosophy</t></tags>
 </item>
 <item type="image" height="200" width="200">
@@ -5752,5 +5752,17 @@
 	<index><i>Serial Story</i></index>
 	<tags><t>Literature</t></tags>
 	<serial>The Portal</serial>
+</item>
+<item type="text" format="normal">
+	<name>top_4_wim_wenders</name>
+	<title>Top Four - Russian Novels</title>
+	<data>1. [The Master and Margarita](https://en.wikipedia.org/wiki/The_Master_and_Margarita) - Mikhail Bulgakov
+	2. [War and Peace](https://en.wikipedia.org/wiki/War_and_Peace) - Leo Tolstoy
+	3. [The Brothers Karamazov](https://en.wikipedia.org/wiki/The_Brothers_Karamazov) - Fyodor Dostoevsky
+	4. [Dead Souls](https://en.wikipedia.org/wiki/Dead_Souls) - Nikolai Gogol</data>
+	<date>26.12.2025</date>
+	<index><i type="Person">Mikhail Bulgakov</i><i type="Person">Leo Tolstoy</i><i type="Person">Fyodor Dostoevsky</i><i type="Person">Nikolai Gogol</i><i type="Book" author="Mikhail Bulgakov">The Master and Margarita</i><i type="Book" author="Leo Tolstoy">War and Peace</i><i type="Book" author="Fyodor Dostoevsky">The Brothers Karamazov</i><i type="Book" author="Nikolai Gogol">Dead Souls</i></index>
+	<tags><t>Literature</t></tags>
+	<serial>Top Four</serial>
 </item>
 </content>
