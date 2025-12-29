@@ -5762,4 +5762,12 @@
 	<tags><t>Literatur</t></tags>
 	<serial>Top Four</serial>
 </item>
+<item type="image" height="200" width="200">
+	<name>reflections6</name>
+	<title>Reflexionen</title>
+	<data>reflections6_small.png</data>
+	<date>30.12.2025</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
