@@ -390,7 +390,7 @@ class Page {
         var footerChildren: [SmlNode] = [newLine, tab]
         
         var pChildren: [SmlNode] = []
-        pChildren.append(.text("© 2019-2025 "))
+        pChildren.append(.text("© 2019-2026 "))
         let link = a([href => Page.baseUrl], ["Christian Noll"])
         pChildren.append(link)
         
