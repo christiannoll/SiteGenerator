@@ -4362,7 +4362,7 @@
 <item type="text" format="normal">
 	<name>heiner_mueller_on_thinking</name>
 	<title>Heiner Müller über das Denken</title>
-	<data>"Denken ist lebensfeindlich. Es gibt eine Differenz zwischen Denken und Sein, zwischen Denken und Leben. Das ist das Paradox der menschlichen Existenz." [Heiner Müller](https://de.wikipedia.org/wiki/Heiner_M%C3%BCller)</data>
+	<data>"Denken ist lebensfeindlich. Es gibt eine Differenz zwischen Denken und Sein, zwischen Denken und Leben. Das ist das Paradox der menschlichen Existenz." - [Heiner Müller](https://de.wikipedia.org/wiki/Heiner_M%C3%BCller)</data>
 	<date>10.06.2024</date>
 	<index><i type="Person">Heiner Müller</i><i>Zitat</i></index>
 	<tags><t>Literatur</t><t>Philosophie</t></tags>
@@ -5769,5 +5769,13 @@
 	<date>30.12.2025</date>
 	<index></index>
 	<tags><t>Foto</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>revolution_and_its_victims</name>
+	<title>Die Revolution und ihre Opfer</title>
+	<data>"Die Grundfrage ist nach wie vor, dass Geschichte eben nicht stattfindet ohne Opfer und dass man nie genau ausrechnen kann, welches Opfer schon zu viel ist." - [Heiner Müller](https://de.wikipedia.org/wiki/Heiner_M%C3%BCller)</data>
+	<date>03.01.2026</date>
+	<index><i>Revolution</i><i type="Person">Heiner Müller</i><i>Zitat</i></index>
+	<tags><t>Gesellschaft</t></tags>
 </item>
 </content>

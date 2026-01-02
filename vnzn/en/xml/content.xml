@@ -4370,7 +4370,7 @@
 <item type="text" format="normal">
 	<name>heiner_mueller_on_thinking</name>
 	<title>Heiner Müller on thinking</title>
-	<data>"Thinking is hostile to life. There is a difference between thinking and being, between thinking and living. That is the paradox of human existence." [Heiner Müller](https://en.wikipedia.org/wiki/Heiner_M%C3%BCller)</data>
+	<data>"Thinking is hostile to life. There is a difference between thinking and being, between thinking and living. That is the paradox of human existence." - [Heiner Müller](https://en.wikipedia.org/wiki/Heiner_M%C3%BCller)</data>
 	<date>10.06.2024</date>
 	<index><i type="Person">Heiner Müller</i><i>Quote</i></index>
 	<tags><t>Literature</t><t>Philosophy</t></tags>
@@ -5772,5 +5772,13 @@
 	<date>30.12.2025</date>
 	<index></index>
 	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>revolution_and_its_victims</name>
+	<title>The Revolution and its Victims</title>
+	<data>"The fundamental question remains that history simply does not take place without sacrifices, and that one can never calculate exactly which sacrifice is already one too many." - [Heiner Müller](https://en.wikipedia.org/wiki/Heiner_M%C3%BCller)</data>
+	<date>03.01.2026</date>
+	<index><i>Revolution</i><i type="Person">Heiner Müller</i><i>Quote</i></index>
+	<tags><t>Society</t></tags>
 </item>
 </content>
