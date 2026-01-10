@@ -5796,4 +5796,12 @@
 	<index><i>Review</i></index>
 	<tags><t>General</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>pattern_3</name>
+	<title>Pattern</title>
+	<data>pattern3_small.png</data>
+	<date>11.01.2026</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
 </content>
