@@ -5801,4 +5801,14 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>journey_of_no_return</name>
+	<title>Eine Reise ohne Wiederkehr</title>
+	<data>So wie Kapitän Ahab im Roman ["Moby-Dick"](https://de.wikipedia.org/wiki/Moby-Dick) den weißen Wal jagt, um dessen Existenz zu beenden, verknüpft der Landvermesser K im Roman ["Das Schloss"](https://de.wikipedia.org/wiki/Das_Schloss) seine gesamte Existenz mit dem Zugang zu einem geheimnisvollen Schloss.
+	Sowohl bei der Fixierung von Ahab auf Moby-Dick als auch bei der K's auf das Schloss, handelt es sich um eine irrationale Obsession, die zum Scheitern verurteilt ist und für beide tragisch endet.
+	Das, was beide wahnhaft suchen, ist etwas, das sie nicht verstehen und das im metaphysischen Nebel undeutlich bleibt, ein Symbol für Gott oder eine unbegreifliche Ordnung.</data>
+	<date>15.01.2026</date>
+	<index><i>Gott</i><i type="Person">Franz Kafka</i><i type="Person">Herman Melville</i><i type="Book" author="Franz Kafka">Das Schloss</i><i type="Book" author="Herman Melville">Moby-Dick</i></index>
+	<tags><t>Literatur</t><t>Philosophie</t></tags>
+</item>
 </content>

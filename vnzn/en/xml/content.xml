@@ -5804,4 +5804,14 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>journey_of_no_return</name>
+	<title>A Journey of No Return</title>
+	<data>Just as Captain Ahab in the novel ["Moby-Dick"](https://en.wikipedia.org/wiki/Moby-Dick) hunts the white whale to end its existence, the surveyor K in the novel ["The Castle"](https://en.wikipedia.org/wiki/The_Castle_(novel)) links his entire existence to gaining access to a mysterious castle.
+	Both Ahab's fixation on Moby-Dick and K's on the castle are irrational obsessions doomed to failure, ending tragically for both.
+	What they both desperately seek is something they don't understand, something that remains indistinct in the metaphysical fog - a symbol for God or an incomprehensible order.</data>
+	<date>15.01.2026</date>
+	<index><i>God</i><i type="Person">Franz Kafka</i><i type="Person">Herman Melville</i><i type="Book" author="Franz Kafka">The Castle</i><i type="Book" author="Herman Melville">Moby-Dick</i></index>
+	<tags><t>Literature</t><t>Philosophy</t></tags>
+</item>
 </content>
