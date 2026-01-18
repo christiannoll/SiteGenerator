@@ -5811,4 +5811,13 @@
 	<index><i>Gott</i><i type="Person">Franz Kafka</i><i type="Person">Herman Melville</i><i type="Book" author="Franz Kafka">Das Schloss</i><i type="Book" author="Herman Melville">Moby-Dick</i></index>
 	<tags><t>Literatur</t><t>Philosophie</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>openAI_strategy</name>
+	<title>OpenAI - Expansion um jeden Preis</title>
+	<data>[Sam Altman](https://de.wikipedia.org/wiki/Sam_Altman), CEO von OpenAI, verkauft so erfolgreich den Traum von [AGI](https://de.wikipedia.org/wiki/Artificial_General_Intelligence) an Investoren und Politiker, dass um das Thema [AI](#index/Artificial-Intelligence/) eine Blase aus Versprechungen und Narrativen, wie z.B. eine exponentielle Produktivitätsexplosion oder die Lösung komplexer globaler Probleme, entstanden ist, die für einen großen Teil des Wirtschaftswachstums in den USA verantwortlich ist.
+	Dahinter steht die Strategie, ein Geflecht aus wirtschaftlichen Abhängigkeiten zu schaffen, das groß genug ist, um für die USA und damit für die globale Wirtschaft systemrelevant zu sein, damit die Politik es sich nicht mehr leisten kann, die AI-Blase platzen zu lassen.</data>
+	<date>19.01.2026</date>
+	<index><i>OpenAI</i><i>Artificial Intelligence</i></index>
+	<tags><t>Gesellschaft</t><t>Technologie</t></tags>
+</item>
 </content>
