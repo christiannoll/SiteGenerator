@@ -5820,4 +5820,13 @@
 	<index><i>OpenAI</i><i>Artificial Intelligence</i></index>
 	<tags><t>Gesellschaft</t><t>Technologie</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>poster_23</name>
+	<title>Poster</title>
+	<data>poster23_small.png</data>
+	<date>23.01.2026</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+	<serial>Fotos: Poster</serial>
+</item>
 </content>
