@@ -5832,4 +5832,15 @@
 	<tags><t>Photo</t></tags>
 	<serial>Photos: Poster</serial>
 </item>
+<item type="text" format="normal">
+	<name>the_portal_4</name>
+	<title>The Portal -IV-</title>
+	<data>From the outside, our lives hardly changed. We both avoided talking about the [portal](#serials/The-Portal/), but it wouldn't leave me alone, so I checked the official portal sighting statistics daily. The numbers remained relatively constant for almost six months before the portal disappeared as abruptly as it had appeared.
+	This fueled the portal hysteria even more, and new conspiracy theories emerged every day. The increasingly popular portal movement spread the theory that the portal's disappearance was a sign of the impending apocalypse, while others claimed that the portal was also being used in reverse and that we had been infiltrated by aliens who would soon enslave humanity. Those who believed in the simulation theory thought the portal was simply a bug in the simulation program that had been fixed.
+	I didn't care about any of that and just hoped the portal would never reappear. My joy at the portal's disappearance, however, didn't last long.</data>
+	<date>27.01.2026</date>
+	<index><i>Serial Story</i></index>
+	<tags><t>Literature</t></tags>
+	<serial>The Portal</serial>
+</item>
 </content>
