@@ -5843,4 +5843,12 @@
 	<tags><t>Literature</t></tags>
 	<serial>The Portal</serial>
 </item>
+<item type="text" format="normal">
+	<name>beuys_on_art</name>
+	<title>Joseph Beuys on Art</title>
+	<data>"Art is not meant to be understood in that intellectual sense of formal logic within the context of understanding, but rather art is meant to illuminate and, if possible, expand the human sensorium and sensory perception, thus developing the human sensorium, developing its sensory perception, and stimulating higher forms of thought such as intuition, imagination, and inspiration." - [Joseph Beuys](https://en.wikipedia.org/wiki/Joseph_Beuys)</data>
+	<date>31.01.2026</date>
+	<index><i>Quote</i><i type="Person">Joseph Beuys</i></index>
+	<tags><t>Art</t></tags>
+</item>
 </content>
