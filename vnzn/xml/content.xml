@@ -5848,4 +5848,12 @@
 	<index><i>Zitat</i><i type="Person">Joseph Beuys</i></index>
 	<tags><t>Kunst</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>reflections7</name>
+	<title>Reflexionen</title>
+	<data>reflections7_small.png</data>
+	<date>04.02.2026</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
