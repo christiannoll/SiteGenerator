@@ -5856,4 +5856,22 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>vnzn_Meta</name>
+	<title>vnzn - Meta</title>
+	<data>* [Statistik](#statistic/)
+	* [Timeline](#timeline/)
+	* [Personen](#persons/)
+	* [Filme](#movies/)
+	* [Bücher](#books/)
+	* [Fotos](#tags/Foto/)
+	* [Themenwolke](#wordcloud/)
+	* [Personenwolke](#personcloud/)
+	* [Kurzgeschichten](#tags/Short-Story/)
+	* [Artificial Intelligence](#ai/)
+	* [Experimente 🔬](#experiments/)</data>
+	<date>08.02.2026</date>
+	<index><i>Fragment</i></index>
+	<tags><t>Allgemein</t></tags>
+</item>
 </content>

@@ -5859,4 +5859,22 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>vnzn_Meta</name>
+	<title>vnzn - Meta</title>
+	<data>* [Statistics](#statistic/)
+	* [Timeline](#timeline/)
+	* [People](#persons/)
+	* [Movies](#movies/)
+	* [Books](#books/)
+	* [Photos](#tags/Photo/)
+	* [Topics Cloud](#wordcloud/)
+	* [People Cloud](#personcloud/)
+	* [Short Stories](#tags/Short-Story/)
+	* [Artificial Intelligence](#ai/)
+	* [Experiments 🔬](#experiments/)</data>
+	<date>08.02.2026</date>
+	<index><i>Fragment</i></index>
+	<tags><t>General</t></tags>
+</item>
 </content>
