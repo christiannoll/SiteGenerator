@@ -10,6 +10,9 @@ class TimelinePage : Page {
     
     override func renderContent() -> SmlNode {
         var mainChildren: [SmlNode] = [newLine]
+        let h_title = h4([.text(timelineTitle)])
+        mainChildren.append(h_title)
+        mainChildren.append(newLine)
         mainChildren.append(timeline.reanderTimeline())
         
         mainChildren.append(newLine)
