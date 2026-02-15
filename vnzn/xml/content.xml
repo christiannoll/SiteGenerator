@@ -5885,4 +5885,13 @@
 	<tags><t>Literatur</t></tags>
 	<serial>Das Portal</serial>
 </item>
+<item type="image" height="200" width="200">
+	<name>abstract_20</name>
+	<title>Abstract 20</title>
+	<data>abstract20_small.png</data>
+	<date>16.02.2026</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+	<serial>Fotos: Abstrakt</serial>
+</item>
 </content>
