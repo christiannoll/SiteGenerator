@@ -10,8 +10,8 @@ class StatisticPage : Page {
     
     override func renderContent() -> SmlNode {
         var mainChildren: [SmlNode] = [newLine]
-        let h_S = h4([.text(statisticsTitle)])
-        mainChildren.append(h_S)
+        let h_title = h3([.text(statisticsTitle)])
+        mainChildren.append(h_title)
         mainChildren.append(newLine)
         mainChildren.append(createData())
         

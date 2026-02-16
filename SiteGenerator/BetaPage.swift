@@ -63,8 +63,8 @@ class BetaPage : Page {
     private func renderItems() -> SmlNode {
         var divChildren: [SmlNode] = []
         divChildren.append(newLine)
-        let h_4 = h4([.text(title)])
-        divChildren.append(h_4)
+        let h_title = h3([.text(title)])
+        divChildren.append(h_title)
         divChildren.append(newLine)
         
         let u_l = ul(getListItems())
