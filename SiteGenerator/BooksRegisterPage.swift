@@ -10,7 +10,9 @@ class BooksRegisterPage : Page {
     
     override func renderContent() -> SmlNode {
         var mainChildren: [SmlNode] = [newLine]
-        
+        let h_title = h3([.text(booksTitle)])
+        mainChildren.append(h_title)
+        mainChildren.append(newLine)
         mainChildren.append(booksRegister.renderBooksRegister())
         
         mainChildren.append(newLine)
