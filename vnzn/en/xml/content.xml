@@ -5897,4 +5897,13 @@
 	<tags><t>Photo</t></tags>
 	<serial>Photos: Abstract</serial>
 </item>
+<item type="text" format="normal">
+	<name>vacation_2_0</name>
+	<title>Vacation 2.0</title>
+	<data>In surveys, the majority of people asked say they wouldn't go on vacation if they weren't able to keep any memories of it afterward.
+	So, if it were possible, would people buy memories of a vacation they never actually took?</data>
+	<date>20.02.2026</date>
+	<index><i>Future</i></index>
+	<tags><t>Society</t></tags>
+</item>
 </content>
