@@ -29,8 +29,8 @@ class Index {
     func renderIndex() -> SmlNode {
         var divChildren: [SmlNode] = []
         divChildren.append(newLine)
-        let h_4 = h4([.text("Index")])
-        divChildren.append(h_4)
+        let h_3 = h3([.text("Index")])
+        divChildren.append(h_3)
         divChildren.append(newLine)
         
         var ulChildren: [SmlNode] = []
