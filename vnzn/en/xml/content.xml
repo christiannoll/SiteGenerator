@@ -5906,4 +5906,12 @@
 	<index><i>Future</i></index>
 	<tags><t>Society</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>present_overtaking_future</name>
+	<title>The present is overtaking the future</title>
+	<data>It is becoming increasingly difficult for AI agents to prove that they are not [human](https://en.wikipedia.org/wiki/Human).</data>
+	<date>24.02.2026</date>
+	<index><i>Artificial Intelligence</i></index>
+	<tags><t>Society</t><t>Technology</t></tags>
+</item>
 </content>

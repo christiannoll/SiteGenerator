@@ -5903,4 +5903,12 @@
 	<index><i>Zukunft</i></index>
 	<tags><t>Gesellschaft</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>present_overtaking_future</name>
+	<title>Die Gegenwart überholt die Zukunft</title>
+	<data>Für KI-Agenten wird es immer schwieriger zu beweisen, dass sie keine [Menschen](https://de.wikipedia.org/wiki/Mensch) sind.</data>
+	<date>24.02.2026</date>
+	<index><i>Artificial Intelligence</i></index>
+	<tags><t>Gesellschaft</t><t>Technologie</t></tags>
+</item>
 </content>
