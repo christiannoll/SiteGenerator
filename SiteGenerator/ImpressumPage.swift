@@ -4,7 +4,7 @@ class ImpressumPage: Page {
     
     override func renderContent() -> SmlNode {
         var mainChildren: [SmlNode] = [newLine]
-        let h_I = h4([.text("Impressum")])
+        let h_I = h3([.text("Impressum")])
         mainChildren.append(h_I)
         mainChildren.append(newLine)
         mainChildren.append(createAddress())
