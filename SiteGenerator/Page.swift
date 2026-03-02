@@ -179,7 +179,12 @@ class Page {
         headChildren.append(l)
         headChildren.append(newLine)
         headChildren.append(tab)
-        
+
+        let favicon = link([rel => "icon", type => "image/png", href => (Page.baseRootUrl + "images/favicon.png"), size => "180x180"])
+        headChildren.append(favicon)
+        headChildren.append(newLine)
+        headChildren.append(tab)
+
         let appleTouchIcon = link([rel => "apple-touch-icon", href => (Page.baseRootUrl + "images/apple-touch-icon.png")])
         headChildren.append(appleTouchIcon)
         headChildren.append(newLine)
