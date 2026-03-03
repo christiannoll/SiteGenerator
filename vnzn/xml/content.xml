@@ -5919,4 +5919,18 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>math_curiosities_7</name>
+	<title>Mathematische Kuriositäten VII</title>
+	<data>Starte bei 82 und zähle rückwärts bis 1:
+	`82818079787776757473727170696867
+	66656463626160595857565554535251
+	50494847464544434241403938373635
+	34333231302928272625242322212019
+	181716151413121110987654321`
+	... das ist eine [Primzahl](https://de.wikipedia.org/wiki/Primzahl).</data>
+	<date>04.03.2026</date>
+	<index><i>Zahlen</i></index>
+	<tags><t>Mathematik</t></tags>
+</item>
 </content>

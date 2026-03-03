@@ -5922,4 +5922,18 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>math_curiosities_7</name>
+	<title>Mathematical curiosities VII</title>
+	<data>Start at 82 and count backwards to 1:
+	`82818079787776757473727170696867
+	66656463626160595857565554535251
+	50494847464544434241403938373635
+	34333231302928272625242322212019
+	181716151413121110987654321`
+	... that is a [prime number](https://en.wikipedia.org/wiki/Prime_number).</data>
+	<date>04.03.2026</date>
+	<index><i>Numbers</i></index>
+	<tags><t>Mathematics</t></tags>
+</item>
 </content>
