@@ -5947,4 +5947,12 @@
 	<tags><t>Literature</t></tags>
 	<serial>The Portal</serial>
 </item>
+<item type="image" height="200" width="200">
+	<name>reflections8</name>
+	<title>Reflections</title>
+	<data>reflections8_small.png</data>
+	<date>12.03.2026</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
 </content>
