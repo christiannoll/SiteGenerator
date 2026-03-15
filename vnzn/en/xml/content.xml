@@ -5955,4 +5955,12 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>the_illusion</name>
+	<title>The Illusion</title>
+	<data>The human brain is a [hypothesis machine](#2023/01/23/hypothesis_engine/) that strives for internal consistency. It conjures up a reality and normality for us that do not actually exist. Rather, the apparent order is merely a catastrophe averted at the very last second, constantly lurking at the fringes of probability.</data>
+	<date>16.03.2026</date>
+	<index><i>Brain</i></index>
+	<tags><t>Biology</t><t>Philosophy</t></tags>
+</item>
 </content>

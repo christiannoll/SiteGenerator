@@ -5952,4 +5952,12 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>the_illusion</name>
+	<title>Die Illusion</title>
+	<data>Das menschliche Gehirn ist eine [Hypothesenmaschine](#2023/01/23/hypothesis_engine/), die nach interner Konsistenz strebt. Es gaukelt uns eine Realität und Normalität vor, die es so nicht gibt. Vielmehr ist die scheinbare Ordnung nur die in der letzten Sekunde verhinderte Katastrophe, die ständig an den Rändern der Wahrscheinlichkeit lauert.</data>
+	<date>16.03.2026</date>
+	<index><i>Gehirn</i></index>
+	<tags><t>Biologie</t><t>Philosophie</t></tags>
+</item>
 </content>
