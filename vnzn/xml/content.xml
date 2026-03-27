@@ -4860,7 +4860,7 @@
 	* Städte und Pilze sind in Netzwerkstrukturen organisiert. Pilze bilden ein unterirdisches Netzwerk aus feinen Fäden (Hyphen), das Nährstoffe transportiert und den Pilz mit seiner Umgebung verbindet. Städte haben Verkehrsinfrastrukturen wie Straßen, U-Bahnen und Stromnetze, die Menschen, Güter und Informationen miteinander verbinden.
 	* Sowohl Pilze als auch Städte expandieren radial, indem sie neue [Hyphen](https://de.wikipedia.org/wiki/Hyphe) ausbilden, bzw. neue Stadtteile entwickeln. Dabei agieren sie als selbstorganisierte Systeme, die ohne zentrale Steuerung funktionieren, indem sie auf lokale Bedingungen reagieren.</data>
 	<date>19.12.2024</date>
-	<index><i>Selbstorganisation</i></index>
+	<index><i>Selbstorganisation</i><i>Pilz</i></index>
 	<tags><t>Gesellschaft</t><t>Biologie</t><t>Technologie</t></tags>
 </item>
 <item type="image" height="200" width="200">
@@ -5978,5 +5978,17 @@
 	<date>24.03.2026</date>
 	<index></index>
 	<tags><t>Foto</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>zombie_fungus</name>
+	<title>Der Zombiepilz</title>
+	<data>Es ist noch nicht richtig hell und von den Bäumen tropft es immer noch vom Regen in der Nacht, als sich ein Trupp von mehreren hundert [Rossameisen](https://de.wikipedia.org/wiki/Rossameisen) der Gattung _Camponotus leonardi_ auf den Weg macht, um Nahrung zu suchen, und so wie sich der Amazonas durch den Regenwald schlängelt, bilden die Ameisen eine lange Schnur, die sich von Baumkrone zu Baumkrone vorwärts bewegt, bis die Ameisen plötzlich stoppen müssen. Die Blätter des nächsten Baumes sind zu weit entfernt, sodass der Trupp gezwungen ist, den Baumstamm hinab zu krabbeln, um über den Waldboden den nächsten Baum zu erreichen.
+	Was sie dort erwartet, sieht auf den ersten Blick unspektakulär aus. Es sind die Sporen des _Ophiocordyceps unilateralis_, auch [Zombiepilz](https://de.wikipedia.org/wiki/Ophiocordyceps_unilateralis) genannt. Während die Ameisen in einer langen Reihe in Richtung des nächsten Baums marschieren, bemerken sie nicht, dass sie sich auf ihrem Weg mit den Sporen des Zombiepilzes infizieren. Damit ist ihr Schicksal besiegelt und es bleiben ihnen nur noch wenige Tage bis der Pilz sein Werk beendet hat und die Ameisen sterben. 
+	In der ersten Phase ihrer Verwandlung registrieren die Ameisen wahrscheinlich gar nicht, dass etwas mit ihnen nicht stimmt. Sie marschieren einfach weiter und erfüllen ihre Ameisenpflicht. Währenddessen beginnen die am Exoskelett der Ameisen angehefteten Sporen zu keimen. Sie bilden [Hyphen](https://de.wikipedia.org/wiki/Hyphe), die dann in den Körper der Ameisen eindringen und dort ein röhrenförmiges Gerüst innerhalb und um die Muskeln der Tiere bilden. Der Pilz beginnt, Substanzen abzusondern, die das zentrale Nervensystem der Ameisen manipulieren.
+	Vielleicht wundern sich die Ameisen darüber, dass einige von ihnen anfangen, sich unkontrolliert zu bewegen und dadurch den Halt auf dem Baum verlieren und auf den Waldboden fallen. Dort angekommen passiert etwas ganz Erstaunliches mit ihnen. Der Pilz manipuliert die Ameisen so präzise, dass die Ameisen an einer Pflanze hochklettern und sich dort an der Unterseite eines Blattes in einer Höhe von ca. 25 Zentimetern mit ihren Oberkiefern so stark festbeißen, dass sie nicht mehr runterfallen können. Hier findet der Pilz jetzt ideale Umweltbedingungen für seine Fruchtkörperentwicklung.
+	In diesem Stadium haben die infizierten Ameisen vollständig die Kontrolle über ihre Muskeln verloren und der Pilz tötet die Ameisen, wobei er mit seinen Hyphen in immer mehr Weichgewebe eindringt und das Exoskelett der Ameisen strukturell verstärkt. Jetzt beginnt die letzte Phase, an deren Ende der Pilz einen Fruchtkörper gebildet hat, der an einem Stil befestigt ist, der in der Halsgegend der toten Ameisen gewachsen ist. In diesem Fruchtkörper befinden sich neue Pilzsporen. Die für eine Windverbreitung zu schweren Sporen fallen zu Boden, bilden dort Sekundärsporen, infizieren vorbeilaufende Ameisen und schließen so den Zyklus.</data>
+	<date>28.03.2026</date>
+	<index><i>Pilz</i></index>
+	<tags><t>Biologie</t></tags>
 </item>
 </content>

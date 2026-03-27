@@ -4865,7 +4865,7 @@
 	* Cities and fungi are organized in network structures. Fungi create an underground network of fine filaments (hyphae) that transport nutrients and connect the fungus to its environment. Cities have transportation infrastructures such as roads, subways, and power grids, which connect people, goods, and information.
 	* Both expand radially. Fungi grow by forming new hyphae, while cities expand by developing new districts. Both operate as self-organized systems that function without central control, adapting to local conditions in the process.</data>
 	<date>19.12.2024</date>
-	<index><i>Self-organization</i></index>
+	<index><i>Self-organization</i><i>Fungus</i></index>
 	<tags><t>Society</t><t>Biology</t><t>Technology</t></tags>
 </item>
 <item type="image" height="200" width="200">
@@ -5981,5 +5981,17 @@
 	<date>24.03.2026</date>
 	<index></index>
 	<tags><t>Photo</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>zombie_fungus</name>
+	<title>The Zombie Fungus</title>
+	<data>It is not yet fully light, and the trees are still dripping from the night's rain, when a troop of several hundred [carpenter ants](https://en.wikipedia.org/wiki/Carpenter_ant) of the genus _Camponotus leonardi_ sets out to forage for food. Just as the Amazon winds its way through the rainforest, the ants form a long line, moving forward from canopy to canopy until they are suddenly forced to stop. The leaves of the next tree are too far away, so the troop is compelled to crawl down the trunk to reach the next tree across the forest floor.
+	What awaits them there looks unspectacular at first glance. It is the spores of _Ophiocordyceps unilateralis_, also known as the ["zombie fungus"](https://en.wikipedia.org/wiki/Ophiocordyceps_unilateralis). While the ants march in a long line toward the next tree, they do not notice that they are becoming infected with the spores of the zombie fungus along their path. With this, their fate is sealed; they have only a few days left before the fungus completes its work and the ants die.
+	In the first phase of their transformation, the ants likely do not register at all that something is wrong with them. They simply march on and fulfill their duties to the colony. Meanwhile, the spores attached to the ants' exoskeleton begin to germinate. They form [hyphae](https://en.wikipedia.org/wiki/Hypha), which then penetrate the ants' bodies, creating a tubular scaffold inside and around the animals' muscles. The fungus begins to secrete substances that manipulate the ants' central nervous system.
+	Perhaps the ants wonder why some of them begin to move uncontrollably, causing them to lose their grip on the tree and fall to the forest floor. Once there, something truly remarkable happens to them. The fungus manipulates the ants so precisely that they climb up a plant and bite into the underside of a leaf at a height of approximately 25 centimeters, anchoring themselves so firmly with their mandibles that they can no longer fall off. Here, the fungus finds the ideal environmental conditions for the development of its fruiting body.
+	At this stage, the infected ants have completely lost control over their muscles. The fungus kills the ants, its hyphae penetrating more and more soft tissue and structurally reinforcing the ants' exoskeleton. Now the final phase begins: the fungus forms a fruiting body attached to a stalk that has grown from the neck region of the dead ant. Inside this fruiting body are new fungal spores. These spores, which are too heavy for wind dispersal, fall to the ground, where they form secondary spores, infect passing ants, and thus close the cycle.</data>
+	<date>28.03.2026</date>
+	<index><i>Fungus</i></index>
+	<tags><t>Biology</t></tags>
 </item>
 </content>
