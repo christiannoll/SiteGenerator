@@ -20,8 +20,9 @@
 	<title>Paul Klee über Fotografie</title>
 	<data>[Paul Klee](https://de.wikipedia.org/wiki/Paul_Klee) schreibt *1905* in seinem Tagebuch über das Verhältnis der Malerei zur Fotografie: "Das Foto wurde als Warnung der materialistischen Anschauung im rechten Moment erfunden. ..." [677]</data>
 	<date>10.11.2019</date>
-	<index><i type="Person">Paul Klee</i><i>Zitat</i></index>
+	<index><i type="Person">Paul Klee</i></index>
 	<tags><t>Fotografie</t><t>Malerei</t></tags>
+	<serial>Zitate</serial>
 </item>
 <item type="text" format="normal">
 	<name>genetische_repro</name>
@@ -330,8 +331,9 @@
 	<data>[Paul Klee](https://de.wikipedia.org/wiki/Paul_Klee) schreibt *1920* in seinem kunsttheoretischen [Buch](https://de.wikisource.org/wiki/Sch%C3%B6pferische_Konfession:_Paul_Klee) "Schöpferische Konfession":
 		"Kunst gibt nicht das Sichtbare wieder, sondern macht sichtbar."</data>
 	<date>07.03.2020</date>
-	<index><i type="Person">Paul Klee</i><i>Zitat</i></index>
+	<index><i type="Person">Paul Klee</i></index>
 	<tags><t>Kunst</t></tags>
+	<serial>Zitate</serial>
 </item>
 <item type="text" format="normal">
 	<name>artificial_intelligence_rebellion</name>
@@ -464,8 +466,9 @@
 	<data>Aus "Tagebücher 1935-1936" von [Thomas Mann](https://de.wikipedia.org/wiki/Thomas_Mann) am *04.04.1935*:
 		"... Setzte die Lektüre von Kafkas ["Verwandlung"](https://de.wikipedia.org/wiki/Die_Verwandlung) fort. Ich möchte sagen, daß K.'s Hinterlassenschaft die genialste deutsche Prosa seit Jahrzenten ist. Was gibt es denn auf deutsch, was daneben nicht Spießerei wäre? ..."</data>
 	<date>16.04.2020</date>
-	<index><i type="Person">Thomas Mann</i><i type="Person">Franz Kafka</i><i type="Book" author="Franz Kafka">Die Verwandlung</i><i>Zitat</i></index>
+	<index><i type="Person">Thomas Mann</i><i type="Person">Franz Kafka</i><i type="Book" author="Franz Kafka">Die Verwandlung</i></index>
 	<tags><t>Literatur</t></tags>
+	<serial>Zitate</serial>
 </item>
 <item type="image" height="200" width="200">
 	<name>ice_structure</name>
@@ -606,8 +609,9 @@
 	<title>Paul Klee über Zeichnen</title>
 	<data>[Paul Klee](https://de.wikipedia.org/wiki/Paul_Klee): "Zeichnen ist die Kunst, Striche spazieren zu führen."</data>
 	<date>11.06.2020</date>
-	<index><i type="Person">Paul Klee</i><i>Zitat</i></index>
+	<index><i type="Person">Paul Klee</i></index>
 	<tags><t>Malerei</t></tags>
+	<serial>Zitate</serial>
 </item>
 <item type="image" height="200" width="200">
 	<name>sign</name>
@@ -797,8 +801,9 @@
 	<title>Memento Mori</title>
 	<data>[Konfuzius](https://de.wikipedia.org/wiki/Konfuzius): "Wir alle haben zwei Leben. Das Zweite startet, wenn Du realisierst, dass Du nur eines hast."</data>
 	<date>30.08.2020</date>
-	<index><i>Memento Mori</i><i>Zitat</i></index>
+	<index><i>Memento Mori</i></index>
 	<tags><t>Allgemein</t></tags>
+	<serial>Zitate</serial>
 </item>
 <item type="text" format="normal">
 	<name>hannah_arendt_on_eichmann</name>
@@ -834,8 +839,9 @@
 	<data>Aus "Tagebücher 1937-1939" von [Thomas Mann](https://de.wikipedia.org/wiki/Thomas_Mann) am *18.01.1938*:
 		"... Abends vor Einschlafen [Proust](https://de.wikipedia.org/wiki/Marcel_Proust)-Lektüre. Bewunderung für seinen Reichtum an Worten und Kenntnissen, kunsthistorisch, biologisch, botanisch. Vergleiche homerisch auf moderner Stufe. Der Flügelkäfer, der, um seinen Jungen für die Zeit nach seinem Tode frisches Fleisch zu schaffen, Spinnen und anderen Insekten genau das motorische Zentrum durchbohrt, sodaß sie lebend-unbeweglich sind. Die naive, selbstverständliche, ruhige und stumme Grausamkeit und Niedertracht der Natur. Dabei okkult in der Genauigkeit des Wissens und Könnens im Dienst der Art-Erhaltung."</data>
 	<date>15.09.2020</date>
-	<index><i type="Person">Thomas Mann</i><i type="Person">Marcel Proust</i><i>Zitat</i></index>
+	<index><i type="Person">Thomas Mann</i><i type="Person">Marcel Proust</i></index>
 	<tags><t>Literatur</t></tags>
+	<serial>Zitate</serial>
 </item>
 <item type="image" height="200" width="200">
 	<name>horse</name>
@@ -977,8 +983,9 @@
 	I think the potential of what the internet is going to do to society, both good and bad, is unimaginable. I think we're actually on the cusp for something exhilarating and terrifying! 
 	It's an alien life form from mars, that just landed here ..."</data>
 	<date>14.11.2020</date>
-	<index><i type="Musiker">David Bowie</i><i>Internet</i><i>Zitat</i></index>
+	<index><i type="Musiker">David Bowie</i><i>Internet</i></index>
 	<tags><t>Technologie</t><t>Gesellschaft</t></tags>
+	<serial>Zitate</serial>
 </item>
 <item type="image" height="200" width="200">
 	<name>stairs</name>
@@ -1020,8 +1027,9 @@
 	<data>"Das reine Müssen, Kunst und Leben in Harmonie zu bringen."
 	So formulierte [Ernst Ludwig Kirchner](https://de.wikipedia.org/wiki/Ernst_Ludwig_Kirchner) die Maxime seiner Existenz. Als ihm diese Einheit von Kunst und Leben nicht mehr gelang, setze er *1938*, im Alter von 58 Jahren, mit zwei Kugeln seinem ruhelosen Leben, das stets von Höhepunkten und schweren Krisen geprägt war, ein Ende.</data>
 	<date>04.12.2020</date>
-	<index><i type="Person">Ernst Ludwig Kirchner</i><i>Zitat</i></index>
+	<index><i type="Person">Ernst Ludwig Kirchner</i></index>
 	<tags><t>Kunst</t></tags>
+	<serial>Zitate</serial>
 </item>
 <item type="text" format="normal">
 	<name>writing_achievement</name>
@@ -1134,8 +1142,9 @@
 	Dieser Satz stammt aus dem Hauptwerk "Science and Sanity" des Sprachphilosophen [Alfred Korzybski](https://de.wikipedia.org/wiki/Alfred_Korzybski). Gemeint ist damit, dass unser [Gehirn](https://de.wikipedia.org/wiki/Gehirn) aus den Sinneswahrnehmungen und den Erfahrungen der Vergangenheit mit Hilfe von [mentalen Modellen](#2020/07/29/thinking_as_simulation_of_mental_models/) und Sprache, eine Abstraktion der Realität konstruiert, die letztlich eben nur eine Repräsentation der Wirklichkeit sein kann. 
 	Um die Abbildung (Karte) nicht mit der Realität (Landschaft) zu verwechseln ist es wichtig, sich diese Unterscheidung immer wieder bewusst zu machen.</data>
 	<date>21.01.2021</date>
-	<index><i>Mentales Modell</i><i>Gehirn</i><i>Zitat</i></index>
+	<index><i>Mentales Modell</i><i>Gehirn</i></index>
 	<tags><t>Biologie</t><t>Philosophie</t></tags>
+	<serial>Zitate</serial>
 </item>
 <item type="text" format="normal">
 	<name>bauhaus_breuer</name>
@@ -1174,8 +1183,9 @@
 	<data>"Man muss noch Chaos in sich haben, um einen tanzenden Stern gebären zu können."
 	[Friedrich Nietzsche](https://de.wikipedia.org/wiki/Friedrich_Nietzsche) - ["Also sprach Zarathustra"](https://de.wikipedia.org/wiki/Also_sprach_Zarathustra)</data>
 	<date>06.02.2021</date>
-	<index><i>Chaos</i><i type="Person">Friedrich Nietzsche</i><i>Zitat</i></index>
+	<index><i>Chaos</i><i type="Person">Friedrich Nietzsche</i></index>
 	<tags><t>Philosophie</t></tags>
+	<serial>Zitate</serial>
 </item>
 <item type="image" height="200" width="200">
 	<name>poster4</name>
@@ -1213,8 +1223,9 @@
 	<data>[Hans Fallada](https://de.wikipedia.org/wiki/Hans_Fallada), der Autor von ["Jeder stirbt für sich allein"](https://de.wikipedia.org/wiki/Jeder_stirbt_f%C3%BCr_sich_allein_(Roman)), über das Schreiben:
 		"Ich muß schreiben, wie der Seidenwurm seinen Faden spinnen muß, es muß heraus, und es muß so heraus, wie es drin ist."</data>
 	<date>18.02.2021</date>
-	<index><i type="Person">Hans Fallada</i><i type="Book" author="Hans Fallada">Jeder stirbt für sich allein</i><i>Zitat</i></index>
+	<index><i type="Person">Hans Fallada</i><i type="Book" author="Hans Fallada">Jeder stirbt für sich allein</i></index>
 	<tags><t>Literatur</t></tags>
+	<serial>Zitate</serial>
 </item>
 <item type="image" height="200" width="200">
 	<name>poster5</name>
@@ -1381,8 +1392,9 @@
 	*1911* wird Marie Curie zum zweiten Mal der [Nobelpreis](https://www.nobelprize.org/prizes/chemistry/1911/marie-curie/lecture/), diesmal für Chemie, zugesprochen. Dadurch ist sie, neben [Linus Pauling](https://de.wikipedia.org/wiki/Linus_Pauling) bisher die einzige Person, die Nobelpreise auf zwei verschiedenen Fachgebieten erhielt.
 	"Sie ist unter allen berühmten Menschen der einzige, den der Ruhm nicht verdorben hat." [Albert Einstein](https://de.wikipedia.org/wiki/Albert_Einstein) über Marie Curie</data>
 	<date>27.04.2021</date>
-	<index><i type="Person">Marie Curie</i><i type="Person">Albert Einstein</i><i>Radioaktivität</i><i>Zitat</i></index>
+	<index><i type="Person">Marie Curie</i><i type="Person">Albert Einstein</i><i>Radioaktivität</i></index>
 	<tags><t>Physik</t></tags>
+	<serial>Zitate</serial>
 </item>
 <item type="text" format="normal">
 	<name>the_dream</name>
@@ -1598,8 +1610,9 @@
 	<data>[William Blake](https://de.wikipedia.org/wiki/William_Blake): "If the doors of perception were cleansed, everything would appear to man as it is: infinite." 
 	([The Marriage of Heaven and Hell](https://de.wikipedia.org/wiki/The_Marriage_of_Heaven_and_Hell))</data>
 	<date>20.07.2021</date>
-	<index><i type="Person">William Blake</i><i>Zitat</i></index>
+	<index><i type="Person">William Blake</i></index>
 	<tags><t>Literatur</t><t>Philosophie</t></tags>
+	<serial>Zitate</serial>
 </item>
 <item type="text" format="randomLinkColor">
 	<name>banana</name>
@@ -1640,8 +1653,9 @@
 	<data>Der Ausdruck ["Laplacescher Dämon"](https://de.wikipedia.org/wiki/Laplacescher_D%C3%A4mon) stammt aus folgender Aussage von [Pierre-Simon Laplace](https://de.wikipedia.org/wiki/Pierre-Simon_Laplace) im Vorwort des "Essai philosophique sur les probabilités" von *1814*:
 	"Wir müssen also den gegenwärtigen Zustand des Universums als Folge eines früheren Zustandes ansehen und als Ursache des Zustandes, der danach kommt. Eine Intelligenz, die in einem gegebenen Augenblick alle Kräfte kennt, mit denen die Welt begabt ist, und die gegenwärtige Lage der Gebilde, die sie zusammensetzen, und die überdies umfassend genug wäre, diese Kenntnisse der Analyse zu unterwerfen, würde in der gleichen Formel die Bewegungen der größten Himmelskörper und die des leichtesten Atoms einbegreifen. Nichts wäre für sie ungewiss, Zukunft und Vergangenheit lägen klar vor ihren Augen."</data>
 	<date>05.08.2021</date>
-	<index><i type="Person">Pierre-Simon Laplace</i><i>Zitat</i></index>
+	<index><i type="Person">Pierre-Simon Laplace</i></index>
 	<tags><t>Physik</t><t>Philosophie</t></tags>
+	<serial>Zitate</serial>
 </item>
 <item type="image" height="200" width="200">
 	<name>structure_3</name>
@@ -1657,8 +1671,9 @@
 	<data>"Niemand findet jemals heraus, worum es im Leben geht, und das ist auch nicht wichtig. Erforsche die Welt. Fast alles ist wirklich interessant, wenn man sich nur tief genug damit beschäftigt." [Richard Feynman](https://de.wikipedia.org/wiki/Richard_Feynman)
 	Auf dem Weg zur Meisterschaft gibt es keine Abkürzungen.</data>
 	<date>13.08.2021</date>
-	<index><i type="Physiker">Richard Feynman</i><i>Zitat</i></index>
+	<index><i type="Physiker">Richard Feynman</i></index>
 	<tags><t>Physik</t><t>Allgemein</t></tags>
+	<serial>Zitate</serial>
 </item>
 <item type="text" format="normal">
 	<name>thousend_brains_theory</name>
@@ -1708,9 +1723,10 @@
 	<data>"Das Entscheidende ist das Gefühl des Erlebens, nicht die Fähigkeit, es zu verbalisieren oder zu analysieren." [Stanley Kubrick](https://de.wikipedia.org/wiki/Stanley_Kubrick) *1968*
 	"Die erschreckendste Tatsache über das Universum ist nicht, dass es feindselig ist, sondern dass es gleichgültig ist. Wenn wir uns aber mit dieser Gleichgültigkeit abfinden können und die Herausforderungen des Lebens annehmen, innerhalb der Grenzen, die uns der Tod setzt - unabhängig davon, wie weit sie der Mensch zu verrücken in der Lage sein mag -, kann das Dasein unserer Art echten Sinn und wahre Erfüllung finden. So immens die Dunkelheit auch sein mag: Wir müssen unser eigenes Licht mitbringen." [Stanley Kubrick](#index/Stanley-Kubrick/) *1968* (zu Eric Nordern)</data>
 	<date>29.08.2021</date>
-	<index><i type="Movie">2001: Odyssee im Weltraum</i><i type="Person">Stanley Kubrick</i><i>Zitat</i></index>
+	<index><i type="Movie">2001: Odyssee im Weltraum</i><i type="Person">Stanley Kubrick</i></index>
 	<tags><t>Film</t></tags>
 	<serial>2001: Odyssee im Weltraum</serial>
+	<serial>Zitate</serial>
 </item>
 <item type="image" height="200" width="200">
 	<name>abstract_8</name>
@@ -1757,8 +1773,9 @@
 	<data>[Richard Dawkins](https://de.wikipedia.org/wiki/Richard_Dawkins) in einem [Gespräch](https://youtu.be/5f-JlzBuUUU) mit Lex Fridman, über die Idee von Fred Hoyle in ["A for Andromeda"](https://en.wikipedia.org/wiki/A_for_Andromeda) und Carl Sagan in ["Contact"](https://de.wikipedia.org/wiki/Contact_(Roman)), dass wir niemals physischen Besuch von extraterrestrischen Wesen bekommen werden:
 	"Wir werden nicht von physischen Körpern aus dem Weltraum besucht werden, sondern vielleicht von Funksignalen, die uns manipulieren, wenn sie uns dazu bringen, einen Computer zu bauen, auf dem ihre Software läuft, die ebenfalls übertragen wird. Dann übernimmt der Computer die Welt. Wir werden von verschlüsselten Informationen okkupiert."</data>
 	<date>18.09.2021</date>
-	<index><i type="Person">Richard Dawkins</i><i>Zitat</i></index>
+	<index><i type="Person">Richard Dawkins</i></index>
 	<tags><t>Biologie</t><t>Physik</t></tags>
+	<serial>Zitate</serial>
 </item>
 <item type="text" format="randomLinkColor">
 	<name>das_bauhaus</name>
@@ -1850,8 +1867,9 @@
 	Mit seiner Entwicklung der [Z3](https://de.wikipedia.org/wiki/Zuse_Z3) im Jahre *1941* baute Konrad Zuse den ersten funktionstüchtigen, vollautomatischen, programmgesteuerten und frei programmierbaren, in [binärer Gleitkommarechnung](https://de.wikipedia.org/wiki/Gleitkommazahl) arbeitenden Rechner und somit den ersten funktionsfähigen [Computer](https://de.wikipedia.org/wiki/Computer) der Welt.
 	</data>
 	<date>24.10.2021</date>
-	<index><i type="Person">Konrad Zuse</i><i>Maschine</i><i>Zitat</i></index>
+	<index><i type="Person">Konrad Zuse</i><i>Maschine</i></index>
 	<tags><t>Technologie</t><t>Gesellschaft</t><t>Philosophie</t></tags>
+	<serial>Zitate</serial>
 </item>
 <item type="text" format="randomLinkColor">
 	<name>vincent_van_gogh_melancholia</name>
@@ -2006,9 +2024,10 @@
 	7. ["An der schönen blauen Donau"](https://de.wikipedia.org/wiki/An_der_sch%C3%B6nen_blauen_Donau) - [Johann Strauss (Sohn)](https://de.wikipedia.org/wiki/Johann_Strauss_(Sohn))
 	8. ["Also sprach Zarathustra"](https://de.wikipedia.org/wiki/Also_sprach_Zarathustra_(Strauss)) - [Richard Strauss](https://de.wikipedia.org/wiki/Richard_Strauss)</data>
 	<date>15.12.2021</date>
-	<index><i type="Movie">2001: Odyssee im Weltraum</i><i type="Person">Stanley Kubrick</i><i>Zitat</i></index>
+	<index><i type="Movie">2001: Odyssee im Weltraum</i><i type="Person">Stanley Kubrick</i></index>
 	<tags><t>Film</t><t>Musik</t></tags>
 	<serial>2001: Odyssee im Weltraum</serial>
+	<serial>Zitate</serial>
 </item>
 <item type="image" height="200" width="200">
 	<name>advent</name>
@@ -2061,8 +2080,9 @@
 	<data>In Anlehnung an eine Stelle in der [Bibel](https://de.wikipedia.org/wiki/Bibel) (1. Johannes 2,1-6) gibt es die Redewendung: "Nicht an ihren Worten, an ihren Taten sollt ihr sie erkennen."
 	Passend dazu gibt es ein Zitat von [Linus Torvalds](https://de.wikipedia.org/wiki/Linus_Torvalds) aus der Welt der Informatik: "Talk is cheap. Show me the [code](https://github.com/torvalds/linux)."</data>
 	<date>08.01.2022</date>
-	<index><i type="Person">Linus Torvalds</i><i>Zitat</i></index>
+	<index><i type="Person">Linus Torvalds</i></index>
 	<tags><t>Informatik</t><t>Philosophie</t></tags>
+	<serial>Zitate</serial>
 </item>
 <item type="image" height="200" width="200">
 	<name>frost</name>
@@ -2147,8 +2167,9 @@
 	<data>Aus ["Auf der Suche nach der verlorenen Zeit"](https://de.wikipedia.org/wiki/Auf_der_Suche_nach_der_verlorenen_Zeit) von [Marcel Proust](https://de.wikipedia.org/wiki/Marcel_Proust):
 	"Nur mittels der Kunst können wir aus uns heraustreten, erfahren, was ein anderer von diesem Universum sieht, das für ihn nicht das gleiche ist wie für uns und dessen Landschaften uns sonst ebenso unbekannt blieben wie jene, die es auf dem Mond geben mag."</data>
 	<date>09.02.2022</date>
-	<index><i type="Person">Marcel Proust</i><i>Kunst</i><i type="Book">Auf der Suche nach der verlorenen Zeit</i><i>Zitat</i></index>
+	<index><i type="Person">Marcel Proust</i><i>Kunst</i><i type="Book">Auf der Suche nach der verlorenen Zeit</i></index>
 	<tags><t>Kunst</t><t>Literatur</t><t>Philosophie</t></tags>
+	<serial>Zitate</serial>
 </item>
 <item type="image" height="200" width="200">
 	<name>structure_4</name>
@@ -2197,8 +2218,9 @@
 	</data>
 	<date>28.02.2022</date>
 	<index><i type="Person">George Orwell</i><i type="Book" author="George Orwell">Farm der Tiere</i>
-	<i type="Book" author="George Orwell">1984</i><i>Zitat</i></index>
+	<i type="Book" author="George Orwell">1984</i></index>
 	<tags><t>Gesellschaft</t><t>Literatur</t></tags>
+	<serial>Zitate</serial>
 </item>
 <item type="text" format="normal">
 	<name>1984</name>
@@ -2206,8 +2228,9 @@
 	<data>Aus dem Roman ["1984"](https://de.wikipedia.org/wiki/1984_(Roman)) von [George Orwell](https://de.wikipedia.org/wiki/George_Orwell):
 	"Krieg ist Frieden. \ Freiheit ist Sklaverei. \ Unwissenheit ist Stärke."</data>
 	<date>04.03.2022</date>
-	<index><i type="Person">George Orwell</i><i type="Book" author="George Orwell">1984</i><i>Krieg</i><i>Zitat</i></index>
+	<index><i type="Person">George Orwell</i><i type="Book" author="George Orwell">1984</i><i>Krieg</i></index>
 	<tags><t>Gesellschaft</t><t>Literatur</t></tags>
+	<serial>Zitate</serial>
 </item>
 <item type="image" height="200" width="200">
 	<name>ukraine</name>
@@ -2706,9 +2729,10 @@
 	<data>[HAL 9000](#2020/06/23/hal_9000/): "Dave. Tu's nicht. Lass es sein. Bitte. Dave, hör auf. Ich bitte dich. Hör auf, Dave. Bitte, lass es sein. Ich habe Angst. Ich habe Angst, Dave. Dave, mein Gedächtnis. Mein Gedächtnis schwindet. Mein Gedächtnis lässt nach. Daran besteht kein Zweifel. Ich spüre es. Ich spüre es. Ich spüre es. Ich habe…Angst."
 	Wenn wir unsere Erinnerungen verlieren, verlieren wir unser Selbst, unser ICH, unsere [Identität](#2022/06/16/identity/).</data>
 	<date>12.09.2022</date>
-	<index><i type="Movie">2001: Odyssee im Weltraum</i><i type="Person">Stanley Kubrick</i><i>Identität</i><i>Severance</i><i>Zitat</i></index>
+	<index><i type="Movie">2001: Odyssee im Weltraum</i><i type="Person">Stanley Kubrick</i><i>Identität</i><i>Severance</i></index>
 	<tags><t>Film</t></tags>
 	<serial>2001: Odyssee im Weltraum</serial>
+	<serial>Zitate</serial>
 </item>
 <item type="image" height="200" width="200">
 	<name>dresden</name>
@@ -2770,8 +2794,9 @@
 	<data>[John Cage](https://de.wikipedia.org/wiki/John_Cage): "Der Zweck der Musik ist es, das Bewußtsein zu ernüchtern und zu beruhigen, um es dadurch für göttliche Einflüsse empfänglich zu machen."
 	Auf die beiden Klavierwerke [Das Wohltemperierte Klavier](https://de.wikipedia.org/wiki/Das_Wohltemperierte_Klavier) und die [Goldberg-Variationen](https://de.wikipedia.org/wiki/Goldberg-Variationen) von [Johann Sebastian Bach](https://de.wikipedia.org/wiki/Johann_Sebastian_Bach) trifft das auf jeden Fall zu.</data>
 	<date>06.10.2022</date>
-	<index><i type="Person">John Cage</i><i type="Person">Johann Sebastian Bach</i><i type="Musik">Goldberg-Variationen</i><i>Zitat</i></index>
+	<index><i type="Person">John Cage</i><i type="Person">Johann Sebastian Bach</i><i type="Musik">Goldberg-Variationen</i></index>
 	<tags><t>Musik</t></tags>
+	<serial>Zitate</serial>
 </item>
 <item type="image" height="200" width="200">
 	<name>emptiness</name>
@@ -2849,8 +2874,9 @@
 	<data>[Gottfried Wilhelm Leibniz](https://de.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz): "Denkt man sich etwa eine Maschine, die so beschaffen wäre, dass sie denken, empfinden und perzipieren könnte, so kann man sie sich derart proportional vergrößert vorstellen, dass man in sie wie in eine Mühle eintreten könnte. Dies vorausgesetzt, wird man bei der Besichtigung ihres Inneren nichts weiter als einzelne Teile finden, die einander stoßen, niemals aber etwas, woraus eine Perzeption zu erklären wäre. Also muss man diese in der einfachen Substanz suchen und nicht im Zusammengesetzten oder in der Maschine. Auch lässt sich in der einfachen Substanz nichts finden als ebendies: Perzeptionen und ihre Veränderungen."
 	DIE DETAILS DES GEHIRNS ERKLÄREN KEIN BEWUSSTSEIN.</data>
 	<date>07.11.2022</date>
-	<index><i>Gehirn</i><i type="Person">Gottfried Wilhelm Leibniz</i><i>Zitat</i></index>
+	<index><i>Gehirn</i><i type="Person">Gottfried Wilhelm Leibniz</i></index>
 	<tags><t>Biologie</t><t>Philosophie</t></tags>
+	<serial>Zitate</serial>
 </item>
 <item type="text" format="normal">
 	<name>the_mission</name>
@@ -2936,8 +2962,9 @@
 	<data>"Ich werde nicht zulassen, dass jemand mit seinen schmutzigen Füßen durch meine Gedanken spaziert." - [Mahatma Gandhi](https://de.wikipedia.org/wiki/Mohandas_Karamchand_Gandhi)
 	Ich würde noch ergänzen: - und dort seine Spuren hinterlässt.</data>
 	<date>14.12.2022</date>
-	<index><i type="Person">Mahatma Gandhi</i><i>Bewusstsein</i><i>Gehirn</i><i>Zitat</i></index>
+	<index><i type="Person">Mahatma Gandhi</i><i>Bewusstsein</i><i>Gehirn</i></index>
 	<tags><t>Philosophie</t></tags>
+	<serial>Zitate</serial>
 </item>
 <item type="text" format="normal">
 	<name>cosmic_concert</name>
@@ -3164,8 +3191,9 @@
 	Wenn sich Wittgenstein in seiner Aussage auf den Menschen bezieht, trifft sie und das vielleicht noch viel stärker auch auf [generative AI](#index/Artificial-Intelligence/), wie z.B. ChatGPT, zu. Auf die Frage "Meinst Du das Zitat trifft auch auf deine Programmierung zu?" hat [ChatGPT](https://de.wikipedia.org/wiki/ChatGPT) (Mar 14 Version) geantwortet:
 	"... Insgesamt lässt sich sagen, dass das Zitat von Wittgenstein auch auf meine Programmierung zutreffen kann, da meine Fähigkeiten und mein Verständnis in gewisser Weise durch meine Sprache und mein Vokabular begrenzt sind. Aber anders als Menschen, kann ich schnell und unendlich neue Informationen aufnehmen und verarbeiten, und mein Verständnis der Welt kann sich dadurch schneller erweitern." 😱</data>
 	<date>20.03.2023</date>
-	<index><i>Gehirn</i><i>Sprache</i><i>Artificial Intelligence</i><i>Zitat</i></index>
+	<index><i>Gehirn</i><i>Sprache</i><i>Artificial Intelligence</i></index>
 	<tags><t>Gesellschaft</t><t>Philosophie</t><t>Informatik</t></tags>
+	<serial>Zitate</serial>
 </item>
 <item type="text" format="normal">
 	<name>what_is_reality</name>
@@ -3590,8 +3618,9 @@
 	<data>"Es ist nicht richtig meine Bilder mit dem Maßstab der naturgetreuen Richtigkeit zu beurteilen, denn sie sind keine Abbildungen bestimmter Dinge oder Wesen, sondern selbstständige Organismen aus Linien, Flächen und Farben, die Naturformen nur soweit enthalten, als sie als Schlüssel zum Verständnis nötig sind. Meine Bilder sind Gleichnisse, nicht Abbildungen." 
 	[Ernst Ludwig Kirchner](https://de.wikipedia.org/wiki/Ernst_Ludwig_Kirchner)</data>
 	<date>23.08.2023</date>
-	<index><i type="Person">Ernst Ludwig Kirchner</i><i>Zitat</i></index>
+	<index><i type="Person">Ernst Ludwig Kirchner</i></index>
 	<tags><t>Kunst</t></tags>
+	<serial>Zitate</serial>
 </item>
 <item type="text" format="normal">
 	<name>thoughts_about_the_brain</name>
@@ -3744,8 +3773,9 @@
 	<title>Conways Katze</title>
 	<data>"Wissen Sie, die Leute denken, Mathematik sei kompliziert. Mathematik ist das Einfache. Es ist das, was wir verstehen können. Es sind Katzen, die kompliziert sind." [John Conway](#persons/#John-Conway) (*1937* - *2020*)</data>
 	<date>14.10.2023</date>
-	<index><i type="Person">John Conway</i><i>Zitat</i></index>
+	<index><i type="Person">John Conway</i></index>
 	<tags><t>Mathematik</t></tags>
+	<serial>Zitate</serial>
 </item>
 <item type="image" height="200" width="200">
 	<name>package</name>
@@ -4130,8 +4160,9 @@
 	<data>"Die Bedeutung Warhols liegt darin, mit den Mitteln der [Wiederholung](#2019/12/23/variation/) gezeigt zu haben, daß es keine [Wiederholung](#2019/12/23/variation/) in der Kunst gibt." 
 	[John Cage](https://de.wikipedia.org/wiki/John_Cage) über [Andy Warhol](https://de.wikipedia.org/wiki/Andy_Warhol)</data>
 	<date>14.03.2024</date>
-	<index><i type="Person">Andy Warhol</i><i type="Person">John Cage</i><i>Zitat</i></index>
+	<index><i type="Person">Andy Warhol</i><i type="Person">John Cage</i></index>
 	<tags><t>Kunst</t></tags>
+	<serial>Zitate</serial>
 </item>
 <item type="text" format="normal">
 	<name>fundamental_forces</name>
@@ -4364,8 +4395,9 @@
 	<title>Heiner Müller über das Denken</title>
 	<data>"Denken ist lebensfeindlich. Es gibt eine Differenz zwischen Denken und Sein, zwischen Denken und Leben. Das ist das Paradox der menschlichen Existenz." - [Heiner Müller](https://de.wikipedia.org/wiki/Heiner_M%C3%BCller)</data>
 	<date>10.06.2024</date>
-	<index><i type="Person">Heiner Müller</i><i>Zitat</i></index>
+	<index><i type="Person">Heiner Müller</i></index>
 	<tags><t>Literatur</t><t>Philosophie</t></tags>
+	<serial>Zitate</serial>
 </item>
 <item type="image" height="200" width="200">
 	<name>kunsthalle_hamburg</name>
@@ -4466,8 +4498,9 @@
 	<title>Kritik des Kausalgesetzes</title>
 	<data>[Werner Heisenberg](https://de.wikipedia.org/wiki/Werner_Heisenberg), *1927*: "An der scharfen Formulierung des Kausalgesetzes Wenn wir die Gegenwart genau kennen, können wir die Zukunft berechnen, ist nicht der Nachsatz, sondern die Voraussetzung falsch. Wir können die Gegenwart in allen Bestimmungsstücken prinzipiell nicht kennen lernen. Deshalb ist alles Wahrnehmen eine Auswahl aus einer Fülle von Möglichkeiten und eine Beschränkung des zukünftig [Möglichen](#2022/12/02/entropy_of_life/)."</data>
 	<date>24.07.2024</date>
-	<index><i type="Person">Werner Heisenberg</i><i>Heisenbergsche Unschärferelation</i><i>Zitat</i></index>
+	<index><i type="Person">Werner Heisenberg</i><i>Heisenbergsche Unschärferelation</i></index>
 	<tags><t>Physik</t><t>Philosophie</t></tags>
+	<serial>Zitate</serial>
 </item>
 <item type="text" format="normal">
 	<name>vnzn_statistics</name>
@@ -4521,8 +4554,9 @@
 	<title>Infinite Math</title>
 	<data>"God has particular languages, and one of them is music and one of them is mathematics." - [David Foster Wallace](https://de.wikipedia.org/wiki/David_Foster_Wallace), The Boston Globe, *2003*</data>
 	<date>17.08.2024</date>
-	<index><i>Sprache</i><i type="Person">David Foster Wallace</i><i>Zitat</i><i>Gott</i></index>
+	<index><i>Sprache</i><i type="Person">David Foster Wallace</i><i>Gott</i></index>
 	<tags><t>Literatur</t><t>Musik</t><t>Mathematik</t></tags>
+	<serial>Zitate</serial>
 </item>
 <item type="text" format="normal">
 	<name>Goldbachs_weak_conjecture</name>
@@ -4617,8 +4651,9 @@
 	<title>Erkenne Dich selbst</title>
 	<data>"Was weiß ein Fisch von dem Wasser, in dem er sein ganzes Leben lang schwimmt?" - [Albert Einstein](https://de.wikipedia.org/wiki/Albert_Einstein)</data>
 	<date>22.09.2024</date>
-	<index><i type="Person">Albert Einstein</i><i>Zitat</i></index>
+	<index><i type="Person">Albert Einstein</i></index>
 	<tags><t>Philosophie</t></tags>
+	<serial>Zitate</serial>
 </item>
 <item type="text" format="normal">
 	<name>immortal_cells</name>
@@ -4877,8 +4912,9 @@
 	<data>Aus "Tagebücher 1937-1939" von [Thomas Mann](https://de.wikipedia.org/wiki/Thomas_Mann) am *19.10.1937*:
 	"Nein Hitler ist kein Zufall, kein illegitimes Unglück, keine Entgleisung. Von ihm fällt 'Licht' auf [Luther](https://de.wikipedia.org/wiki/Martin_Luther) zurück, und man muß diesen weitgehend in ihm wiedererkennen. Er ist ein echtes deutsches Phänomen."</data>
 	<date>27.12.2024</date>
-	<index><i type="Person">Thomas Mann</i><i type="Person">Martin Luther</i><i>Zitat</i></index>
+	<index><i type="Person">Thomas Mann</i><i type="Person">Martin Luther</i></index>
 	<tags><t>Gesellschaft</t><t>Literatur</t></tags>
+	<serial>Zitate</serial>
 </item>
 <item type="text" format="normal">
 	<name>2024_vnzn</name>
@@ -5114,8 +5150,9 @@
 	<data>*1784*: "Aufklärung ist der Ausgang des Menschen aus seiner selbst verschuldeten Unmündigkeit. Unmündigkeit ist das Unvermögen, sich seines Verstandes ohne Leitung eines anderen zu bedienen. Selbstverschuldet ist diese Unmündigkeit, wenn die Ursache derselben nicht am Mangel des Verstandes, sondern der Entschließung und des Mutes liegt, sich seiner ohne Leitung eines anderen zu bedienen. Sapere aude! Habe Mut dich deines eigenen Verstandes zu bedienen! ist also der Wahlspruch der Aufklärung." - [Immanuel Kant](https://de.wikipedia.org/wiki/Immanuel_Kant)
 	*2025*: Ist [AGI](https://de.wikipedia.org/wiki/Artificial_General_Intelligence) der Weg in die umgekehrte (negative) [Aufklärung](https://de.wikipedia.org/wiki/Aufkl%C3%A4rung)?</data>
 	<date>06.04.2025</date>
-	<index><i>Artificial Intelligence</i><i type="Person">Immanuel Kant</i><i>Zitat</i></index>
+	<index><i>Artificial Intelligence</i><i type="Person">Immanuel Kant</i></index>
 	<tags><t>Technologie</t><t>Gesellschaft</t><t>Philosophie</t></tags>
+	<serial>Zitate</serial>
 </item>
 <item type="image" height="200" width="200">
 	<name>station</name>
@@ -5408,8 +5445,9 @@
 	<data>"Wenn Bewusstsein die Art und Weise ist, wie sich Information anfühlt, wenn sie auf bestimmte Weise verarbeitet wird, dann muss es unabhängig vom Substrat sein; es zählt nur die Struktur der Informationsverarbeitung, nicht die Struktur der Materie, die diese Verarbeitung durchführt." - [Max Tegmark](https://de.wikipedia.org/wiki/Max_Tegmark)
 	Was würde passieren, wenn wir einen Detektor für [Bewusstsein](#index/Bewusstsein/) konstruieren könnten?</data>
 	<date>31.07.2025</date>
-	<index><i type="Person">Max Tegmark</i><i>Bewusstsein</i><i>Zitat</i></index>
+	<index><i type="Person">Max Tegmark</i><i>Bewusstsein</i></index>
 	<tags><t>Philosophie</t><t>Physik</t></tags>
+	<serial>Zitate</serial>
 </item>
 <item type="text" format="normal">
 	<name>wallace_what_is_water</name>
@@ -5417,8 +5455,9 @@
 	<data>Aus der Abschlussrede von [David Foster Wallace](https://de.wikipedia.org/wiki/David_Foster_Wallace) aus dem Jahr *2005* vor dem Abschlussjahrgang des Kenyon College:
 	Da schwimmen zwei junge Fische nebeneinander her, und zufällig begegnen sie einem älteren Fisch, der ihnen entgegenschwimmt. Der nickt ihnen zu und sagt "Morgen, Jungs. Wie ist das Wasser?" Die beiden jungen Fische schwimmen eine Weile weiter, bis schließlich einer den anderen anschaut und sagt "Was zum Teufel ist Wasser?"</data>
 	<date>04.08.2025</date>
-	<index><i type="Person">David Foster Wallace</i><i>Zitat</i></index>
+	<index><i type="Person">David Foster Wallace</i></index>
 	<tags><t>Literatur</t><t>Philosophie</t></tags>
+	<serial>Zitate</serial>
 </item>
 <item type="image" height="200" width="200">
 	<name>clouds2</name>
@@ -5580,8 +5619,9 @@
 	<title>Die Verteilung der Zukunft</title>
 	<data>"Die [Zukunft](#index/Zukunft/) ist bereits da. Sie ist nur ungleich verteilt." - [William Gibson](https://de.wikipedia.org/wiki/William_Gibson)</data>
 	<date>15.10.2025</date>
-	<index><i>Zukunft</i><i>Zitat</i><i type="Person">William Gibson</i></index>
+	<index><i>Zukunft</i><i type="Person">William Gibson</i></index>
 	<tags><t>Gesellschaft</t></tags>
+	<serial>Zitate</serial>
 </item>
 <item type="image" height="200" width="200">
 	<name>poster_20</name>
@@ -5718,7 +5758,7 @@
 	<data>"Organisationen, die Systeme entwerfen, [...] sind gezwungen, Entwürfe zu erstellen, die die Kommunikationsstrukturen dieser Organisationen abbilden." - [Melvin Conway](https://en.wikipedia.org/wiki/Melvin_Conway)
 	Die Organisationsstruktur einer Firma spiegelt sich in ihren Produkten wieder.</data>
 	<date>10.12.2025</date>
-	<index><i>Kommunikation</i><i>Zitat</i><i type="Person">Melvin Conway</i></index>
+	<index><i>Kommunikation</i><i type="Person">Melvin Conway</i></index>
 	<tags><t>Informatik</t><t>Design</t></tags>
 </item>
 <item type="text" format="normal">
@@ -5775,8 +5815,9 @@
 	<title>Die Revolution und ihre Opfer</title>
 	<data>"Die Grundfrage ist nach wie vor, dass Geschichte eben nicht stattfindet ohne Opfer und dass man nie genau ausrechnen kann, welches Opfer schon zu viel ist." - [Heiner Müller](https://de.wikipedia.org/wiki/Heiner_M%C3%BCller)</data>
 	<date>03.01.2026</date>
-	<index><i>Revolution</i><i type="Person">Heiner Müller</i><i>Zitat</i></index>
+	<index><i>Revolution</i><i type="Person">Heiner Müller</i></index>
 	<tags><t>Gesellschaft</t></tags>
+	<serial>Zitate</serial>
 </item>
 <item type="text" format="normal">
 	<name>interviews_20205</name>
@@ -5845,8 +5886,9 @@
 	<title>Joseph Beuys über Kunst</title>
 	<data>"Kunst ist nicht dazu da, dass man sie versteht, in diesem so intellektuellen Sinne von formaler Logik in Sinnzusammenhang von Verstehen, sondern Kunst ist dazu da, dass sie das Sensorium und die Sinneswahrnehmung des Menschen erhellt, nach Möglichkeit erweitert, also das Sensorium des Menschen entwickelt, seine sinnliche Wahrnehmung entwickelt und die höheren Formen des Denkens anregt, als Intuition, Imagination und Inspiration." - [Joseph Beuys](https://de.wikipedia.org/wiki/Joseph_Beuys)</data>
 	<date>31.01.2026</date>
-	<index><i>Zitat</i><i type="Person">Joseph Beuys</i></index>
+	<index><i type="Person">Joseph Beuys</i></index>
 	<tags><t>Kunst</t></tags>
+	<serial>Zitate</serial>
 </item>
 <item type="image" height="200" width="200">
 	<name>reflections7</name>
@@ -5990,5 +6032,15 @@
 	<date>28.03.2026</date>
 	<index><i>Pilz</i></index>
 	<tags><t>Biologie</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>Alexander_Kluge</name>
+	<title>Alexander Kluge</title>
+	<data>"Mein Hauptwerk sind meine Bücher." - "Das liegt daran, dass Bücher Geduld haben und warten können, da das Wort die einzige Aufbewahrungsform menschlicher Erfahrung darstellt, die von der Zeit unabhängig ist und nicht in den Lebensläufen einzelner Menschen eingekerkert bleibt."
+	[Alexander Kluge](https://de.wikipedia.org/wiki/Alexander_Kluge) (14.2.1932 - 25.03.2026)</data>
+	<date>01.04.2026</date>
+	<index><i type="Person">Alexander Kluge</i></index>
+	<tags><t>Literatur</t></tags>
+	<serial>Zitate</serial>
 </item>
 </content>
