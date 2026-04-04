@@ -6043,4 +6043,12 @@
 	<tags><t>Literatur</t></tags>
 	<serial>Zitate</serial>
 </item>
+<item type="image" height="200" width="200">
+	<name>blossom3</name>
+	<title>Blüte</title>
+	<data>blossom3_small.png</data>
+	<date>05.04.2026</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
