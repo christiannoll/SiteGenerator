@@ -6055,4 +6055,24 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>vnzn_Serials</name>
+	<title>vnzn - Serials</title>
+	<data>* [2001: A Space Odyssey](#serials/2001--A-Space-Odyssey/)
+	* [Bauhaus](#serials/Bauhaus/)
+	* [Complexity](#serials/Complexity/)
+	* [Interviews](#serials/Interviews/)
+	* [Photos: Abstract](#serials/Photos--Abstract/)
+	* [Photos: Architecture](#serials/Photos--Architecture/)
+	* [Photos: Eyes](#serials/Photos--Eyes/)
+	* [Photos: Faces](#serials/Photos--Faces/)
+	* [Photos: Poster](#serials/Photos--Poster/)
+	* [Quotes](#serials/Quotes/)
+	* [The Hitchhiker's Guide to the Galaxy](#serials/The-Hitchhiker-s-Guide-to-the-Galaxy/)
+	* [The Portal](#serials/The-Portal/)
+	* [Top Four](#serials/Top-Four/)</data>
+	<date>09.04.2026</date>
+	<index><i>Fragment</i></index>
+	<tags><t>General</t></tags>
+</item>
 </content>
