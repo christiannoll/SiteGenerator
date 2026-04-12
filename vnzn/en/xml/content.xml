@@ -6075,4 +6075,12 @@
 	<index><i>Fragment</i></index>
 	<tags><t>General</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>dream_factory_cinema</name>
+	<title>Cinema: The Dream Factory</title>
+	<data>If you sit in a [cinema](https://en.wikipedia.org/wiki/Movie_theater) for two hours, you are actually watching two films. Each is an hour long because during the transport phase, which is visible for just as long as the projected image, the eye sees a black screen. The human brain thus perceives a dark "film" and the actual movie as a single, continuous, polyphonic impression, and that is better than reality.</data>
+	<date>13.04.2026</date>
+	<index><i>Cinema</i></index>
+	<tags><t>Biology</t></tags>
+</item>
 </content>

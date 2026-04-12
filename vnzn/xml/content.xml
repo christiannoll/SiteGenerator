@@ -6071,4 +6071,12 @@
 	<index><i>Fragment</i></index>
 	<tags><t>Allgemein</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>dream_factory_cinema</name>
+	<title>Traumfabrik Kino</title>
+	<data>Sitzt man zwei Stunden im [Kino](https://de.wikipedia.org/wiki/Kino), dann sieht man eigentlich zwei Filme. Beide sind jeweils eine Stunde lang, denn in der Transportphase, die genauso lang zu sehen ist wie das belichtete Bild, sieht das Auge ein schwarzes Bild. Das menschliche Hirn sieht also einen dunklen "Film" und den eigentlichen Film als einen kontinuierlichen polyphonen Eindruck, und das ist besser als die Wirklichkeit.</data>
+	<date>13.04.2026</date>
+	<index><i>Kino</i></index>
+	<tags><t>Biologie</t></tags>
+</item>
 </content>
