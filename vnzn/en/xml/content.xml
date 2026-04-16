@@ -6083,4 +6083,13 @@
 	<index><i>Cinema</i></index>
 	<tags><t>Biology</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>abstract_21</name>
+	<title>Abstract 21</title>
+	<data>abstract21_small.png</data>
+	<date>17.04.2026</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+	<serial>Photos: Abstract</serial>
+</item>
 </content>

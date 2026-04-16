@@ -6079,4 +6079,13 @@
 	<index><i>Kino</i></index>
 	<tags><t>Biologie</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>abstract_21</name>
+	<title>Abstract 21</title>
+	<data>abstract21_small.png</data>
+	<date>17.04.2026</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+	<serial>Fotos: Abstrakt</serial>
+</item>
 </content>
