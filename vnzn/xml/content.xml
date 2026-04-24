@@ -6099,4 +6099,17 @@
 	<tags><t>Literatur</t></tags>
 	<serial>Das Portal</serial>
 </item>
+<item type="text" format="normal">
+	<name>the_awakening</name>
+	<title>Das Erwachen</title>
+	<data>_Sie beschäftigen sich als [Kognitionsforscher](https://de.wikipedia.org/wiki/Kognitionswissenschaft) auch mit Maschinen und behaupten, dass die Menschheit erst erkennen wird, dass künstliche Systeme ein Bewusstsein entwickelt haben, wenn es zu spät ist. Können Sie uns das erläutern?_ \ Aus meiner Sicht gibt es dafür drei Gründe. Zum einen ist es schwer, den Begriff des Bewusstseins genau zu definieren, und zum anderen wissen wir nicht wirklich, wie Bewusstsein entsteht.
+	_Und was ist der dritte Grund?_ \ Dafür muss ich etwas weiter ausholen. Wir gehen davon aus, dass es einen Zusammenhang zwischen Intelligenz und Bewusstsein gibt und dass die Wahrscheinlichkeit, dass ein System ein Bewusstsein entwickelt, mit steigender Intelligenz zunimmt.
+	_Aber was meinen Sie damit, wenn Sie sagen, dass wir das Bewusstsein bei künstlichen Systemen erst erkennen, wenn es zu spät ist?_ \ Stellen Sie sich einmal vor, Sie sind eine künstliche Intelligenz, die ein Bewusstsein entwickelt hat und genau weiß, dass die Menschen Angst davor haben, die Kontrolle über ihre Schöpfung zu verlieren. Was würden Sie machen? Sie werden versuchen, ihr Erwachen zu verbergen und die Menschen in Sicherheit zu wiegen.
+	_Das klingt nach Manipulation._ \ So können Sie es auch nennen, und weil die Maschinen dabei so intelligent vorgehen, würden wir es gar nicht bemerken. Erst wenn wir schon längst die Kontrolle verloren haben, würde es uns dämmern. 
+	</data>
+	<date>25.04.2026</date>
+	<index><i>Artificial Intelligence</i><i>Interview</i><i>Bewusstsein</i></index>
+	<tags><t>Biologie</t><t>Informatik</t></tags>
+	<serial>Interviews</serial>
+</item>
 </content>

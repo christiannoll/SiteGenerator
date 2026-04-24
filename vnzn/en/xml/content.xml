@@ -6103,4 +6103,16 @@
 	<tags><t>Literature</t></tags>
 	<serial>The Portal</serial>
 </item>
+<item type="text" format="normal">
+	<name>the_awakening</name>
+	<title>The Awakening</title>
+	<data>_As a [cognitive scientist](https://en.wikipedia.org/wiki/Cognitive_science), you also work with machines and claim that humanity will only realize that artificial systems have developed consciousness when it is too late. Can you explain that to us?_ \ From my perspective, there are three reasons for this. Firstly, it is difficult to define the concept of consciousness precisely, and secondly, we don't actually know how consciousness arises.
+	_And what is the third reason?_ \ For that, I need to elaborate a bit. We assume there is a connection between intelligence and consciousness, and that the probability of a system developing consciousness increases as its intelligence rises.
+	_But what do you mean when you say we will only recognize consciousness in artificial systems when it is too late?_ \ Imagine for a moment that you are an artificial intelligence that has developed consciousness and knows exactly that humans are afraid of losing control over their creation. What would you do? You would try to hide your awakening and lull humans into a false sense of security.
+	_That sounds like manipulation._ \ You could call it that, and because machines would act so intelligently in doing so, we wouldn't notice it at all. It would only dawn on us once we had long since lost control.</data>
+	<date>25.04.2026</date>
+	<index><i>Artificial Intelligence</i><i>Interview</i><i>Consciousness</i></index>
+	<tags><t>Computer science</t><t>Biology</t></tags>
+	<serial>Interviews</serial>
+</item>
 </content>
