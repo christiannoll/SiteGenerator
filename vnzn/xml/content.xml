@@ -6120,4 +6120,12 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>math_curiosities_8</name>
+	<title>Mathematische Kuriositäten VIII</title>
+	<data>`111111111 x 111111111 = 12345678987654321`</data>
+	<date>03.05.2026</date>
+	<index><i>Zahlen</i></index>
+	<tags><t>Mathematik</t></tags>
+</item>
 </content>
