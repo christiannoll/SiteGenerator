@@ -6128,4 +6128,13 @@
 	<index><i>Zahlen</i></index>
 	<tags><t>Mathematik</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>betatest_vnzn_app</name>
+	<title>Betatest - vnzn.app</title>
+	<data>Ich suche engagierte Betatester für meine neue [iOS-App](https://vnzn.dev/)! Du bekommst exklusiven Zugang, kannst Features ausprobieren und die Entwicklung mitgestalten. Mit der [vnzn-App](https://vnzn.dev/) kannst du jederzeit auf die Inhalte dieses [Blogs](#) zugreifen und dabei die Features der iOS-Plattform nutzen.
+	*Anforderungen:* iPhone mit iOS 26+, TestFlight-App \ *Interessiert?* Melde dich hier: [Testflight-Link](https://testflight.apple.com/join/6eAU6V66)</data>
+	<date>07.05.2026</date>
+	<index><i>iOS</i><i>App</i></index>
+	<tags><t>Allgemein</t></tags>
+</item>
 </content>

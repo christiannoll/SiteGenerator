@@ -6131,4 +6131,13 @@
 	<index><i>Numbers</i></index>
 	<tags><t>Mathematics</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>betatest_vnzn_app</name>
+	<title>Beta Test - vnzn.app</title>
+	<data>I am looking for dedicated beta testers for my new [iOS app](https://vnzn.dev/)! You will get exclusive access, be able to test features, and help shape the app's development. With the [vnzn app](https://vnzn.dev/), you can access the content of this [blog](#) at any time while taking full advantage of iOS platform features.
+	*Requirements:* iPhone with iOS 26+, TestFlight app \ *Interested?* Join here: [Testflight-Link](https://testflight.apple.com/join/6eAU6V66)</data>
+	<date>07.05.2026</date>
+	<index><i>iOS</i><i>App</i></index>
+	<tags><t>General</t></tags>
+</item>
 </content>
