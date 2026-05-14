@@ -6148,4 +6148,18 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>unforgettable_interview</name>
+	<title>Unforgettable</title>
+	<data>_Do you remember exactly when you stopped being able to forget things?_ \ Yes, that was exactly 3 years, 167 days, 2 hours, and 25 minutes ago.
+	_How do you know that so precisely?_ \ That was the moment I regained consciousness in the hospital after my stroke.
+	_Do you remember the time before the stroke?_ \ Yes, those memories have slowly come back over time. However, I find it difficult to focus on the events before the stroke, because they are overlaid by my later memories.
+	_Could you elaborate on that a bit?_ \ I can try. Imagine watching two televisions all the time. On the left TV, a movie of memories is constantly playing, but not as a continuous stream, rather in fragments and out of chronological order. On the right TV, I see the present, and if I concentrate, also snippets of my past from before the stroke.
+	_And you really remember every day since your stroke in exact detail?_ \ Yes, unfortunately, because it forces me to relive negative experiences and emotions over and over again. It's a lot like the movie ["Groundhog Day"](https://en.wikipedia.org/wiki/Groundhog_Day_(film)), only worse. I simply cannot escape my past.    
+	</data>
+	<date>15.05.2026</date>
+	<index><i>Brain</i><i>Interview</i></index>
+	<tags><t>Biology</t></tags>
+	<serial>Interviews</serial>
+</item>
 </content>
