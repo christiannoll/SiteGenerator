@@ -92,6 +92,10 @@ class Page {
         get { "vnzn.App" }
     }
 
+    var themeYourDayAppTitle: String {
+        get { "ThemeYourDay.app" }
+    }
+
     var advancedSearchTitle: String {
         get { SiteGeneratorEnv.forGerman() ? "Erweiterte Suche" : "Advanced Search"}
     }

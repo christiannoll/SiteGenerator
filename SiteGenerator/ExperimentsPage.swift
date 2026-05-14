@@ -23,6 +23,9 @@ class ExperimentsPage: BetaPage {
         ulChildren.append(newLine)
 
         ulChildren.append(renderExternalItem(vnznAppTitle, "https://vnzn.dev"))
+        ulChildren.append(newLine)
+        
+        ulChildren.append(renderExternalItem(themeYourDayAppTitle, "https://themeyourday.net"))
 
         return ulChildren
     }
