@@ -6162,4 +6162,15 @@
 	<tags><t>Biology</t></tags>
 	<serial>Interviews</serial>
 </item>
+<item type="text" format="normal">
+	<name>sumerians_and_llms</name>
+	<title>From the Sumerians to LLMs</title>
+	<data>Today, the [Sumerians](https://en.wikipedia.org/wiki/Sumer) are considered the first people to develop an advanced civilization. They lived in southern [Mesopotamia](https://en.wikipedia.org/wiki/Mesopotamia) during the 3rd millennium BC. A fundamental building block of their culture was the invention of [cuneiform script](https://en.wikipedia.org/wiki/Cuneiform). This provided the foundation for the emergence of a bureaucracy to organize the complex division of labor and human coexistence in the earliest cities, and to enable advancements in mathematics, architecture and engineering.
+	It then took several more millennia before modern printing was invented with the help of the printing press around *1440*. This was another stepping stone on the path to today's [LLMs](https://en.wikipedia.org/wiki/Large_language_model).
+	Five hundred years later, the first computers were built. Over the course of their ongoing development, they became capable of processing increasingly large amounts of data in less and less time. This established all the prerequisites for the development of [LLMs](https://en.wikipedia.org/wiki/Large_language_model).
+	What does the next step in this evolution look like?</data>
+	<date>19.05.2026</date>
+	<index><i>Artificial Intelligence</i><i>Writing</i></index>
+	<tags><t>Society</t><t>Technology</t></tags>
+</item>
 </content>

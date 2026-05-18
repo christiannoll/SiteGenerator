@@ -6159,4 +6159,15 @@
 	<tags><t>Biologie</t></tags>
 	<serial>Interviews</serial>
 </item>
+<item type="text" format="normal">
+	<name>sumerians_and_llms</name>
+	<title>Von den Sumerern zu LLMs</title>
+	<data>Die [Sumerer](https://de.wikipedia.org/wiki/Sumerer) gelten heute als das erste Volk, das eine Hochkultur entwickelt hat. Sie lebten im 3. Jahrtausend v. Chr. im südlichen [Mesopotamien](https://de.wikipedia.org/wiki/Mesopotamien). Ein wesentlicher Baustein ihrer Kultur war die Erfindung der [Keilschrift](https://de.wikipedia.org/wiki/Keilschrift). Das war die Grundlage für die Entstehung einer Bürokratie, um die komplexe Arbeitsteilung und das Zusammenleben der Menschen in den ersten Städten zu organisieren und Fortschritte in der Mathematik, der Architektur und Baukunst zu ermöglichen.
+	Es dauerte dann nochmal einige Jahrtausende, bis um *1440* der moderne Buchdruck mit Hilfe einer Druckerpresse erfunden wurde. Das war ein weiterer Zwischenschritt auf dem Weg zu den heutigen [LLMs](https://de.wikipedia.org/wiki/Large_Language_Model). 
+	500 Jahre später wurden dann die ersten Computer gebaut, die im Laufe ihrer Weiterentwicklung immer mehr Daten in kürzerer Zeit verarbeiten konnten. Damit waren alle Voraussetzungen für die Entwicklung von [LLMs](https://de.wikipedia.org/wiki/Large_Language_Model) geschaffen.
+	Wie sieht der nächste Schritt in dieser Entwicklung aus?</data>
+	<date>19.05.2026</date>
+	<index><i>Artificial Intelligence</i><i>Schrift</i></index>
+	<tags><t>Gesellschaft</t><t>Technologie</t></tags>
+</item>
 </content>
