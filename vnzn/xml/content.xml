@@ -6178,4 +6178,12 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>dark_matter</name>
+	<title>Dunkle Materie</title>
+	<data>Das Unbewusste ist die [dunkle Materie](https://de.wikipedia.org/wiki/Dunkle_Materie) in unserem Gehirn.</data>
+	<date>27.05.2026</date>
+	<index><i>Gehirn</i><i>Dunkle Materie</i></index>
+	<tags><t>Astronomie</t><t>Biologie</t></tags>
+</item>
 </content>

@@ -6181,4 +6181,12 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>dark_matter</name>
+	<title>Dark Matter</title>
+	<data>The unconscious mind is the [dark matter](https://en.wikipedia.org/wiki/Dark_matter) in our brain.</data>
+	<date>27.05.2026</date>
+	<index><i>Brain</i><i>Dark Matter</i></index>
+	<tags><t>Astronomy</t><t>Biology</t></tags>
+</item>
 </content>
