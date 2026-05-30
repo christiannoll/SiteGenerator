@@ -6189,4 +6189,12 @@
 	<index><i>Brain</i><i>Dark Matter</i></index>
 	<tags><t>Astronomy</t><t>Biology</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>graviton</name>
+	<title>The Search for the Graviton</title>
+	<data>To complete the quantification of the universe, physicists have long been trying to find evidence for the existence of a quantum particle of the gravitational force - the [graviton](https://en.wikipedia.org/wiki/Graviton). So far without success, but the search for the holy grail of physics continues.</data>
+	<date>31.05.2026</date>
+	<index><i>Universe</i><i type="Person">Albert Einstein</i></index>
+	<tags><t>Physics</t></tags>
+</item>
 </content>

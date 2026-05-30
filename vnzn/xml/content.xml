@@ -6186,4 +6186,12 @@
 	<index><i>Gehirn</i><i>Dunkle Materie</i></index>
 	<tags><t>Astronomie</t><t>Biologie</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>graviton</name>
+	<title>Die Suche nach dem Graviton</title>
+	<data>Um die Quantifizierung des Universums zu vervollständigen, versuchen Physiker schon seit langer Zeit, einen Beweis für die Existenz eines Quantenteilchens der Gravitationskraft - des [Gravitons](https://de.wikipedia.org/wiki/Graviton), zu finden. Bisher ohne Erfolg, aber die Suche nach dem heiligen Gral der Physik geht weiter.</data>
+	<date>31.05.2026</date>
+	<index><i>Universum</i><i type="Person">Albert Einstein</i></index>
+	<tags><t>Physik</t></tags>
+</item>
 </content>
