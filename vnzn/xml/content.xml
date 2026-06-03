@@ -6194,4 +6194,13 @@
 	<index><i>Universum</i><i type="Person">Albert Einstein</i></index>
 	<tags><t>Physik</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>abstract_22</name>
+	<title>Abstract 22</title>
+	<data>abstract22_small.png</data>
+	<date>04.06.2026</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+	<serial>Fotos: Abstrakt</serial>
+</item>
 </content>
