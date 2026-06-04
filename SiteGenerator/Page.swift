@@ -253,6 +253,8 @@ class Page {
         nodes.append(contentsOf: createVnznArtLine())
         nodes.append(br())
         nodes.append(contentsOf: createVnznAppLine())
+        nodes.append(br())
+        nodes.append(contentsOf: createThemeYourDayAppLine())
         return p(nodes)
     }
 
@@ -269,6 +271,14 @@ class Page {
         nodes.append(.text("App: "))
         let address = "https://www.vnzn.dev"
         nodes.append(a([href => (address)], ["vnzn.dev"]))
+        return nodes
+    }
+
+    func createThemeYourDayAppLine() -> [SmlNode] {
+        var nodes: [SmlNode] = []
+        nodes.append(.text("App: "))
+        let address = "https://themeyourday.net/"
+        nodes.append(a([href => (address)], ["themeyourday.net"]))
         return nodes
     }
 

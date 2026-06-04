@@ -36,6 +36,8 @@ class ContactPage: Page {
         pChildren.append(contentsOf: createGithubLine())
         pChildren.append(br())
         pChildren.append(contentsOf: createMastodonLine())
+        pChildren.append(br())
+        pChildren.append(contentsOf: createYoutubeLine())
         return p(pChildren)
     }
     
