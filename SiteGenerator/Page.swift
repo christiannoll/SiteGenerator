@@ -253,8 +253,6 @@ class Page {
         nodes.append(contentsOf: createVnznArtLine())
         nodes.append(br())
         nodes.append(contentsOf: createVnznAppLine())
-        nodes.append(br())
-        nodes.append(contentsOf: createYoutubeLine())
         return p(nodes)
     }
 

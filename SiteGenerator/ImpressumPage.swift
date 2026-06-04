@@ -58,6 +58,8 @@ class ImpressumPage: Page {
         nodes.append(contentsOf: createGithubLine())
         nodes.append(br())
         nodes.append(contentsOf: createMastodonLine())
+        nodes.append(br())
+        nodes.append(contentsOf: createYoutubeLine())
         return p(nodes)
     }
 
