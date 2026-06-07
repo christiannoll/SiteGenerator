@@ -6203,4 +6203,12 @@
 	<tags><t>Foto</t></tags>
 	<serial>Fotos: Abstrakt</serial>
 </item>
+<item type="text" format="normal">
+	<name>quantum_information</name>
+	<title>Quanteninformation</title>
+	<data>Hat die [Realität](#index/Realitat/) ein Gedächtnis?</data>
+	<date>08.06.2026</date>
+	<index><i>Realität</i></index>
+	<tags><t>Physik</t></tags>
+</item>
 </content>
