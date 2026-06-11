@@ -6214,4 +6214,14 @@
 	<index><i>Reality</i></index>
 	<tags><t>Physics</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>structure_or_algorithm</name>
+	<title>Structure or Algorithm?</title>
+	<data>"Bad programmers worry about the code. Good programmers worry about data structures and their relationships." - [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds)
+	If a data structure is well-designed, the algorithm almost writes itself. It will be short, elegant, and easy to understand.</data>
+	<date>12.06.2026</date>
+	<index><i type="Person">Linus Torvalds</i></index>
+	<tags><t>Computer science</t></tags>
+	<serial>Quotes</serial>
+</item>
 </content>

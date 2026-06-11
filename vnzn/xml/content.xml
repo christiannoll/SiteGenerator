@@ -6211,4 +6211,14 @@
 	<index><i>Realität</i></index>
 	<tags><t>Physik</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>structure_or_algorithm</name>
+	<title>Struktur oder Algorithmus?</title>
+	<data>"Schlechte Programmierer machen sich Gedanken über den Code. Gute Programmierer machen sich Gedanken über Datenstrukturen und deren Beziehungen." - [Linus Torvalds](https://de.wikipedia.org/wiki/Linus_Torvalds)
+	Wenn eine Datenstruktur sehr gut durchdacht ist, ergibt sich der Algorithmus danach fast von selbst. Er wird kurz, elegant und leicht zu verstehen sein.</data>
+	<date>12.06.2026</date>
+	<index><i type="Person">Linus Torvalds</i></index>
+	<tags><t>Informatik</t></tags>
+	<serial>Zitate</serial>
+</item>
 </content>
