@@ -7,7 +7,11 @@ class TagItem {
     var key: String {
         get { return _key }
     }
-    
+
+    var itemPosts: [Item] {
+        return posts
+    }
+
     init(_ key: String, _ folderName: String) {
         self._key = key
         self.folderName = folderName

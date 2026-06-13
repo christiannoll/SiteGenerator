@@ -44,7 +44,10 @@ class BetaPage : Page {
         
         ulChildren.append(renderItem(personCloudTitle, "personcloud"))
         ulChildren.append(newLine)
-        
+
+        ulChildren.append(renderItem(portalTitle, "portal"))
+        ulChildren.append(newLine)
+
         ulChildren.append(renderItem(storiesTitle, "tags/" + TagItemPage.storyKey))
         ulChildren.append(newLine)
 

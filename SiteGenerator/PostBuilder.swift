@@ -45,7 +45,20 @@ class PostBuilder {
             return post
         }
     }
-    
+
+    public func createBasicTextArticle(_ item: TextPost) -> SmlNode {
+        let nodes = MarkdownParser.parse(text: item.data)
+        parseLinks(item, nodes)
+        parseYears(item, nodes)
+
+        let elements = formatBuilder.parse(nodes, item)
+
+        let postBody = createTextPostBody(elements)
+
+        let post = article_post([newLine, tab, postBody, newLine])
+        return post
+    }
+
     public func createImageArticle(_ item: ImagePost) -> SmlNode {
         let postBody = createImagePostBody(item)
         let postDateline = createImagePostDateline(item)

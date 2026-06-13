@@ -106,8 +106,13 @@ struct SiteGenerator {
             let page = TagItemPage(serialItem)
             page.setTitle(serialItem.key)
             writer.writeSerialItemPage(serialItem, page.render())
+            if page.key == page.portalTitle {
+                let basicPage = PostBasicPage(serialItem.itemPosts, basicTitle: page.key)
+                basicPage.setTitle(page.key)
+                writer.writePortalPage(basicPage.render())
+            }
         }
-        
+
         if (SiteGeneratorEnv.forGerman()) {
             let impressumPage = ImpressumPage()
             impressumPage.setTitle()

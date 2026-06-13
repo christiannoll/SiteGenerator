@@ -71,7 +71,11 @@ class Page {
     var personCloudTitle: String {
         get { SiteGeneratorEnv.forGerman() ? "Personenwolke" : "People Cloud" }
     }
-    
+
+    var portalTitle: String {
+        get { SiteGeneratorEnv.forGerman() ? "Das Portal" : "The Portal"}
+    }
+
     var storiesTitle: String {
         get { SiteGeneratorEnv.forGerman() ? "Kurzgeschichten" : "Short Stories"}
     }

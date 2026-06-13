@@ -28,11 +28,13 @@ public class Item {
         self.id = id
     }
     
-    func renderUrlTitle() -> SmlNode {return .text(title)}
-    
-    func renderPost() -> SmlNode {return .text("")}
+    func renderUrlTitle() -> SmlNode { return .text(title) }
 
-    func renderArtPost() -> SmlNode {return .text("")}
+    func renderPost() -> SmlNode { return .text("") }
+
+    func renderBasicPost() -> SmlNode { return .text("") }
+
+    func renderArtPost() -> SmlNode { return .text("") }
 
     func renderPostInSingleMode() -> SmlNode {
         inSingleMode = true
@@ -58,7 +60,11 @@ class TextPost: Item {
     override func renderPost() -> SmlNode {
         return smlBuilder.createTextArticle(self)
     }
-    
+
+    override func renderBasicPost() -> SmlNode {
+        return smlBuilder.createBasicTextArticle(self)
+    }
+
     override func renderRss() -> SmlNode {
         return smlBuilder.createRssTextArticle(self)
     }
