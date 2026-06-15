@@ -254,12 +254,24 @@ class Page {
 
     func createArtAndAppLinks() -> SmlNode {
         var nodes: [SmlNode] = []
+        nodes.append(contentsOf: createVnznAiLine())
+        nodes.append(br())
         nodes.append(contentsOf: createVnznArtLine())
         nodes.append(br())
         nodes.append(contentsOf: createVnznAppLine())
         nodes.append(br())
         nodes.append(contentsOf: createThemeYourDayAppLine())
         return p(nodes)
+    }
+
+    func createVnznAiLine() -> [SmlNode] {
+        var nodes: [SmlNode] = []
+        nodes.append(.text("AI: "))
+        let de_address = "https://www.vnzn.de/ai/"
+        let en_address = "https://www.vnzn.de/en/ai/"
+        let address = SiteGeneratorEnv.forGerman() ? de_address : en_address
+        nodes.append(a([href => (address)], ["vnzn.ai"]))
+        return nodes
     }
 
     func createVnznArtLine() -> [SmlNode] {
