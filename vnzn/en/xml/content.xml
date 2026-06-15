@@ -6224,4 +6224,13 @@
 	<tags><t>Computer science</t></tags>
 	<serial>Quotes</serial>
 </item>
+<item type="image" height="200" width="200">
+	<name>architecture4</name>
+	<title>Berlin</title>
+	<data>architecture4_small.png</data>
+	<date>16.06.2026</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+	<serial>Photos: Architecture</serial>
+</item>
 </content>
