@@ -6233,4 +6233,14 @@
 	<tags><t>Photo</t></tags>
 	<serial>Photos: Architecture</serial>
 </item>
+<item type="text" format="normal">
+	<name>goedel_numbering</name>
+	<title>Gödelization</title>
+	<data>The sentence "This sentence is false," also known as the [liar paradox](https://en.wikipedia.org/wiki/Liar_paradox), inspired [Kurt Gödel](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del) to formulate his [incompleteness theorem](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems), which was published in *1931*. In it, he bypassed the paradox by replacing "false" with "unprovable". The sentence "I am unprovable" is neither contradictory nor resolvable; rather, it is simply true, yet unprovable (within the system).
+	Using [Gödel numbering](https://en.wikipedia.org/wiki/G%C3%B6del_numbering), in which statements are encoded as numbers so that a formal system can speak about its own assertions, he was able to show:
+	"Any sufficiently powerful, consistent formal system cannot prove its own consistency."</data>
+	<date>20.06.2026</date>
+	<index><i type="Person">Kurt Gödel</i></index>
+	<tags><t>Mathematics</t></tags>
+</item>
 </content>

@@ -6230,4 +6230,14 @@
 	<tags><t>Foto</t></tags>
 	<serial>Fotos: Architektur</serial>
 </item>
+<item type="text" format="normal">
+	<name>goedel_numbering</name>
+	<title>Gödelisierung</title>
+	<data>Der Satz "Dieser Satz ist falsch", auch bekannt als [Lügner-Paradoxon](https://de.wikipedia.org/wiki/L%C3%BCgner-Paradox), inspirierte [Kurt Gödel](https://de.wikipedia.org/wiki/Kurt_G%C3%B6del) zu seinem [Unvollständigkeitssatz](https://de.wikipedia.org/wiki/G%C3%B6delscher_Unvollst%C3%A4ndigkeitssatz), der *1931* veröffentlicht wurde. Darin umging er das Paradox, indem er _falsch_ durch _nicht ableitbar_ ersetzte. Der Satz "Ich bin nicht ableitbar" ist weder widersprüchlich noch auflösbar, sondern schlicht wahr, aber unbeweisbar (innerhalb des Systems).
+	Mit Hilfe der [Gödel-Nummerierung](https://de.wikipedia.org/wiki/G%C3%B6delnummer), bei der Sätze als Zahlen kodiert werden, sodass ein formales System über seine eigenen Aussagen sprechen kann, konnte er zeigen:
+	"Jedes hinreichend mächtige, konsistente formale System kann die eigene Konsistenz nicht beweisen."</data>
+	<date>20.06.2026</date>
+	<index><i type="Person">Kurt Gödel</i></index>
+	<tags><t>Mathematik</t></tags>
+</item>
 </content>
