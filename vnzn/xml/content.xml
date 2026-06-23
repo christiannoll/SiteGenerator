@@ -6240,4 +6240,13 @@
 	<index><i type="Person">Kurt Gödel</i></index>
 	<tags><t>Mathematik</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>happiness</name>
+	<title>Glück</title>
+	<data>Glücklich sind die im Licht, \ glücklich sind die, denen gegeben wird. \ Glücklich sind die ohne Schmerz \ und ohne Sorgen.
+	Doch was nützt es, wenn man es nicht erkennt \ und mit niemandem teilen kann?</data>
+	<date>24.06.2026</date>
+	<index><i>Glück</i></index>
+	<tags><t>Literatur</t></tags>
+</item>
 </content>
