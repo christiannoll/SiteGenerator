@@ -6249,4 +6249,13 @@
 	<index><i>Glück</i></index>
 	<tags><t>Literatur</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>poster_24</name>
+	<title>Poster</title>
+	<data>poster24_small.png</data>
+	<date>28.06.2026</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+	<serial>Fotos: Poster</serial>
+</item>
 </content>
