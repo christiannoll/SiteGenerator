@@ -6258,4 +6258,12 @@
 	<tags><t>Foto</t></tags>
 	<serial>Fotos: Poster</serial>
 </item>
+<item type="text" format="normal">
+	<name>end_of_time</name>
+	<title>Das Ende der Zeit</title>
+	<data>Von außen betrachtet "verschluckt" ein schwarzes Loch am [Ereignishorizont](https://de.wikipedia.org/wiki/Ereignishorizont) die Zeit. Sie kommt zum Stillstand und hört auf zu existieren.</data>
+	<date>02.07.2026</date>
+	<index><i>Zeit</i></index>
+	<tags><t>Physik</t><t>Philosophie</t></tags>
+</item>
 </content>

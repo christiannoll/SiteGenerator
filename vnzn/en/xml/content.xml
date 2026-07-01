@@ -6261,4 +6261,12 @@
 	<tags><t>Photo</t></tags>
 	<serial>Photos: Poster</serial>
 </item>
+<item type="text" format="normal">
+	<name>end_of_time</name>
+	<title>The End of Time</title>
+	<data>Viewed from the outside, a black hole 'swallows' time at the [event horizon](https://en.wikipedia.org/wiki/Event_horizon). It comes to a standstill and ceases to exist.</data>
+	<date>02.07.2026</date>
+	<index><i>Time</i></index>
+	<tags><t>Physics</t><t>Philosophy</t></tags>
+</item>
 </content>
