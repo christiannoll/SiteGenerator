@@ -8,6 +8,10 @@ function searchByURLParam() {
 	const params = new URLSearchParams(window.location.search);
 	const searchStr = params.get('q');
 	if (searchStr) {
+		const input = document.getElementById("search-bar");
+		if (input) {
+			input.value = searchStr;
+		}
 		search(searchStr);
 	}
 }

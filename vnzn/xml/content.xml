@@ -6266,4 +6266,12 @@
 	<index><i>Zeit</i></index>
 	<tags><t>Physik</t><t>Philosophie</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>beginning_and_end</name>
+	<title>Anfang und Ende</title>
+	<data>Auf der [Suche](#search/?q=Zeit) nach der [Zeit](#search/?q=Zeit).</data>
+	<date>06.07.2026</date>
+	<index><i>Suche</i></index>
+	<tags><t>Allgemein</t></tags>
+</item>
 </content>
