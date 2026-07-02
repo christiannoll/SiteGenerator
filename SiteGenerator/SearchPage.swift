@@ -34,7 +34,7 @@ class SearchPage : Page {
     }
     
     override func body(_ children: [SmlNode]) -> SmlNode {
-        let attributes = [onLoad => "startSearchWorker()"]
+        let attributes = [onLoad => "startSearchWorker(); searchByURLParam();"]
         return node("body", attributes, children)
     }
     

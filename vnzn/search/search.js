@@ -4,11 +4,19 @@ function startSearchWorker(){
 	worker.postMessage(["index", 0]);
 }
 
-function search(searchStr){
-	if (searchStr.length > 2) {
-		worker.postMessage(["search", searchStr]);
+function searchByURLParam() {
+	const params = new URLSearchParams(window.location.search);
+	const searchStr = params.get('q');
+	if (searchStr) {
+		search(searchStr);
 	}
-	else {
+}
+
+function search(searchStr) {
+	const trimmed = searchStr.trim();
+	if (trimmed.length > 2) {
+		worker.postMessage(["search", trimmed]);
+	} else {
 		showAll();
 	}
 }
