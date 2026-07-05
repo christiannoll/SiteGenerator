@@ -6269,4 +6269,12 @@
 	<index><i>Time</i></index>
 	<tags><t>Physics</t><t>Philosophy</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>beginning_and_end</name>
+	<title>Beginning and End</title>
+	<data>In [Search](#search/?q=time) of [Time](#search/?q=Time).</data>
+	<date>06.07.2026</date>
+	<index><i>Search</i></index>
+	<tags><t>General</t></tags>
+</item>
 </content>
