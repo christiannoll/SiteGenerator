@@ -6277,4 +6277,13 @@
 	<index><i>Search</i></index>
 	<tags><t>General</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>model</name>
+	<title>Model</title>
+	<data>model_small.png</data>
+	<date>10.07.2026</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+	<serial>Photos: Poster</serial>
+</item>
 </content>
