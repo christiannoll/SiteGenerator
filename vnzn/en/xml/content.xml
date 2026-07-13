@@ -6286,4 +6286,14 @@
 	<tags><t>Photo</t></tags>
 	<serial>Photos: Poster</serial>
 </item>
+<item type="text" format="normal">
+	<name>bayesian_prediction_machine</name>
+	<title>Bayesian Predictive Machine</title>
+	<data>Our brain thinks in probabilities. Why, then, do many people still have difficulty understanding probability problems?
+	The brain is essentially a highly efficient "Bayesian predictive machine." The term is derived from the concept of [Bayesian probability](https://en.wikipedia.org/wiki/Bayesian_probability), which interprets probability as a degree of personal belief or certainty.
+	Humans are constantly trying to find causalities in order to maintain a [consistent model](#2026/03/16/the_illusion/) of the world. In this model, randomness has no place because it acts as a disruptive factor in the narrative we continuously tell ourselves. Mathematical probability theory, however, demands that we accept randomness.</data>
+	<date>14.07.2026</date>
+	<index><i>Brain</i><i>Random</i></index>
+	<tags><t>Biology</t><t>Mathematics</t></tags>
+</item>
 </content>

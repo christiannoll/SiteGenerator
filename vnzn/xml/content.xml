@@ -6283,4 +6283,14 @@
 	<tags><t>Foto</t></tags>
 	<serial>Fotos: Poster</serial>
 </item>
+<item type="text" format="normal">
+	<name>bayesian_prediction_machine</name>
+	<title>Bayesianische Vorhersagemaschine</title>
+	<data>Unser Gehirn denkt in Wahrscheinlichkeiten. Warum haben viele Menschen trotzdem Schwierigkeiten, Wahrscheinlichkeitsprobleme zu verstehen?
+	Das Gehirn ist im Grunde eine sehr effiziente "Bayesianische Vorhersagemaschine". Der Begriff leitet sich vom [bayessche Wahrscheinlichkeitsbegriff](https://de.wikipedia.org/wiki/Bayesscher_Wahrscheinlichkeitsbegriff) ab, der Wahrscheinlichkeit als Grad persönlicher Überzeugung interpretiert.
+	Der Mensch versucht permanent, Kausalitäten zu finden, um ein [konsistentes Modell](#2026/03/16/the_illusion/) von der Welt aufrechtzuerhalten. In diesem Modell hat der Zufall keinen Platz, denn er ist ein Störfaktor in der Geschichte, die wir uns ständig erzählen. Die mathematische Wahrscheinlichkeitsrechnung verlangt aber von uns, den Zufall zu akzeptieren.</data>
+	<date>14.07.2026</date>
+	<index><i>Gehirn</i><i>Zufall</i></index>
+	<tags><t>Biologie</t><t>Mathematik</t></tags>
+</item>
 </content>
