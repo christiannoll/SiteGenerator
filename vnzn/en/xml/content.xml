@@ -6296,4 +6296,19 @@
 	<index><i>Brain</i><i>Random</i></index>
 	<tags><t>Biology</t><t>Mathematics</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>molecular_clocks</name>
+	<title>Molecular Clocks</title>
+	<data>_What do you focus on as a chronobiologist?_ \ In [chronobiology](https://en.wikipedia.org/wiki/Chronobiology), we study the evolution of the pacemakers that exist in all living organisms.
+	_You are saying there are molecules that act as pacemakers?_ \ Correct. And the amazing thing is that these molecular mechanisms were invented by evolution a very long time ago and have been passed down almost unchanged ever since.
+	_How are living organisms able to tell time?_ \ Cells have a photosensor. This allows them to perceive the lighting conditions around them. This means the day-night rhythm acts as a simple pacemaker, essentially setting the beat.
+	_Do human cells also have this kind of photosensor?_ \ In humans, these cells are now only present in our retina, which is in the eye.
+	_How, then, does the gut, for example, know what time it is?_ \ That is very interesting because we have a "master clock" in the brain that acts as a central clock, setting the pace for the entire body. This works via neural connections or chemical messengers, meaning hormones. That is how time is distributed throughout the body. These mechanisms run in parallel.
+	_Is it the same time everywhere in the body?_ \ No, we have a vast number of clocks in our body. However, they need to be synchronized regularly, and the master clock in the brain is responsible for that.
+	_What exactly do you mean by a "molecular clock"?_ \ An environmental response within a cell is triggered not only by spatial information but, at the same time, by temporal information. If you want to phrase it poetically, time is the music of life.</data>
+	<date>18.07.2026</date>
+	<index><i>Time</i><i>Interview</i><i type="Person">Alexander Kluge</i></index>
+	<tags><t>Biology</t></tags>
+	<serial>Interviews</serial>
+</item>
 </content>

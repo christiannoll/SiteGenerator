@@ -5732,7 +5732,7 @@
 <item type="text" format="normal">
 	<name>quantum_physics_of_love</name>
 	<title>Quantenphysik der Liebe</title>
-	<data>_Warum beschäftigen sie sich als Wissenschaftshistoriker mit der Liebe?_ \ Die [Liebe](#index/Liebe/) ist ein sehr starkes menschliches Gefühl, für das sich auch die Wissenschaft interessiert. Viele Wissenschaflter haben im Laufe der Zeit versucht, dem Geheimnis der Liebe auf die Spur zu kommen.
+	<data>_Warum beschäftigen sie sich als Wissenschaftshistoriker mit der Liebe?_ \ Die [Liebe](#index/Liebe/) ist ein sehr starkes menschliches Gefühl, für das sich auch die Wissenschaft interessiert. Viele Wissenschaftler haben im Laufe der Zeit versucht, dem Geheimnis der Liebe auf die Spur zu kommen.
 	_Aber die Liebe ist doch auch ein fundamentales Thema in der Literatur, der Musik und der darstellenden Kunst._ \ Das ist natürlich richtig, aber dabei handelt es sich mehr um eine beschreibende und künstlerische Auseinandersetzung mit der Liebe. In der Wissenschaft geht es um eine umfassende und evidenzbasierte Analyse der Liebe als menschliches Gefühl. Es wird versucht auf grundlegende Fragen wie, welche Auswirkungen hat die Liebe auf den gesamten Körper, bis hinunter auf molekularer Ebene, oder wie entsteht das Gefühl der Liebe, eine Antwort zu finden.
 	_Das klingt schwierig. Zu welchen Erkenntnissen ist die wissenschaftliche Forschung dabei gelangt?_ \ Nun ja, es gab in der Geschichte immer wieder neue Ansätze, diese Fragen zu beantworten. Letztlich waren diese aber bisher nicht erfolgreich.
 	_Wie kann man das erklären?_ \ Hier kommt die Quantenphysik ins Spiel, genauer gesagt die [Heisenbergsche Unschärferelation](https://de.wikipedia.org/wiki/Heisenbergsche_Unsch%C3%A4rferelation).
@@ -6292,5 +6292,20 @@
 	<date>14.07.2026</date>
 	<index><i>Gehirn</i><i>Zufall</i></index>
 	<tags><t>Biologie</t><t>Mathematik</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>molecular_clocks</name>
+	<title>Molekulare Uhren</title>
+	<data>_Womit beschäftigen Sie sich als Chronobiologe?_ \ In der [Chronobiologie](https://de.wikipedia.org/wiki/Chronobiologie) studieren wir die Evolution der Zeitgeber, die in allen Lebewesen vorhanden sind. 
+	_Sie sagen, dass es Moleküle gibt, die als Zeitgeber fungieren?_ \ Richtig, und das Erstaunliche ist, dass diese molekularen Mechanismen irgendwann vor sehr langer Zeit von der Evolution erfunden wurden und seitdem fast unverändert weitergegeben werden.
+	_Wie können die Lebewesen die Zeit messen?_ \ Die Zellen haben einen Photosensor. Dadurch können diese Zellen die Beleuchtungsverhältnisse um sie herum wahrnehmen. Das bedeutet, der Tag-Nacht-Rhythmus fungiert als einfacher Zeitgeber, gibt also den Takt vor.
+	_Haben die menschlichen Zellen auch so einen Photosensor?_ \ Bei uns sind diese Zellen nur noch in unserer Retina, also im Auge vorhanden.
+	_Woher bekommt dann z.B. der Darm seine Zeit?_ \ Das ist sehr interessant, denn wir haben eine Masteruhr im Gehirn, die als zentrale Uhr den Takt für den ganzen Körper vorgibt. Das funktioniert über neuronale Verbindungen oder über Botenstoffe, also Hormone. Dadurch wird die Zeit im Körper verteilt. Diese Mechanismen laufen parallel.
+	_Herrscht denn im ganzen Körper die gleiche Zeit?_ \ Nein, wir haben ganze viele Uhren im Körper. Diese müssen aber regelmäßig synchronisiert werden und dafür ist die Masteruhr im Gehirn verantwortlich.
+	_Was genau verstehen Sie unter einer molekularen Uhr?_ \ Eine Umweltreaktion innerhalb einer Zelle wird nicht nur durch räumliche Informationen sondern parallel auch durch zeitliche Informationen ausgelöst. Wenn man es poetisch formulieren möchte, ist die Zeit die Musik des Lebens.</data>
+	<date>18.07.2026</date>
+	<index><i>Zeit</i><i>Interview</i><i type="Person">Alexander Kluge</i></index>
+	<tags><t>Biologie</t></tags>
+	<serial>Interviews</serial>
 </item>
 </content>
