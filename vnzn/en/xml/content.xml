@@ -6311,4 +6311,12 @@
 	<tags><t>Biology</t></tags>
 	<serial>Interviews</serial>
 </item>
+<item type="image" height="200" width="200">
+	<name>forty</name>
+	<title>Forty</title>
+	<data>forty_small.png</data>
+	<date>22.07.2026</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+</item>
 </content>
