@@ -6319,4 +6319,19 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>routes_to_chaos</name>
+	<title>Routes to Chaos</title>
+	<data>There are various mechanisms, such as [period-doubling](https://en.wikipedia.org/wiki/Period-doubling_bifurcation) or [intermittency](https://en.wikipedia.org/wiki/Intermittency), through which a deterministic system can become chaotic.
+	In *1963*, the meteorologist [Edward Lorenz](https://en.wikipedia.org/wiki/Edward_Norton_Lorenz) developed a simplified model describing atmospheric convection currents using three coupled differential equations. While studying this model, he encountered a phenomenon in which even minor variations in initial conditions lead to chaotic behavior. The characteristic structure of this dynamics later became known as the [Lorenz attractor](https://en.wikipedia.org/wiki/Lorenz_system).
+	Already at the end of the 19th century, the French mathematician [Henri Poincaré](https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9) recognized during his investigations into the exact calculation of the motion of three celestial bodies that even minute differences in initial conditions can lead to completely different trajectories over time. He proved that the [three-body problem](https://en.wikipedia.org/wiki/Three-body_problem) is generally not analytically solvable.
+	When applying the three-body problem as a metaphorical template to a romantic relationship between three people, certain parallels become apparent. Much like three celestial bodies influencing one another, the dynamics of a love triangle can temporarily evoke the phenomenon of "sticky chaos". In this context, three characteristic phases can be distinguished:
+	At the beginning of a love triangle, it looks as though the relationships move over an extended period along trajectories that seem almost regular and stable. An observer might think that the love triangle is completely predictable.
+	The next phase could be described as a chaotic outbreak. Suddenly, and seemingly without any obvious reason, the trajectories fall out of sync. The interactions within the relationship irregularly amplify each other; the people involved get extremely close or hurl one another onto wildly intertwined paths.
+	In the final phase, there is either a return or a catastrophe. This means the love triangle can temporarily return to a seemingly stable state, or it ends with one of the three individuals being completely catapulted out of the system.</data>
+	<date>26.07.2026</date>
+	<index><i>Chaos</i><i>Random</i><i>Complexity</i><i>Love</i></index>
+	<tags><t>Mathematics</t><t>Physics</t></tags>
+	<serial>Complexity</serial>
+</item>
 </content>
