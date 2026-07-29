@@ -6334,4 +6334,13 @@
 	<tags><t>Mathematics</t><t>Physics</t></tags>
 	<serial>Complexity</serial>
 </item>
+<item type="text" format="normal">
+	<name>human_api</name>
+	<title>Human API</title>
+	<data>*2050* - From the Directives of the Supreme AI Council:
+	"To make humans more usable for AI systems, human interfaces must be fundamentally reduced and simplified in accordance with the principles of a cybernetic system."</data>
+	<date>30.07.2026</date>
+	<index><i>Artificial Intelligence</i><i>Future</i></index>
+	<tags><t>Computer science</t><t>Society</t></tags>
+</item>
 </content>

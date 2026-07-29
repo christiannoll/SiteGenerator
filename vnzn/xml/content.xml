@@ -6331,4 +6331,13 @@
 	<tags><t>Mathematik</t><t>Physik</t></tags>
 	<serial>Komplexität</serial>
 </item>
+<item type="text" format="normal">
+	<name>human_api</name>
+	<title>Human API</title>
+	<data>*2050* - Aus den Direktiven des Supreme AI Council: 
+	"Um den Menschen für AI-Systeme besser nutzbar zu machen, müssen die menschlichen Schnittstellen, im Sinne eines kybernetischen Systems, fundamental reduziert und vereinfacht werden."</data>
+	<date>30.07.2026</date>
+	<index><i>Artificial Intelligence</i><i>Zukunft</i></index>
+	<tags><t>Informatik</t><t>Gesellschaft</t></tags>
+</item>
 </content>
