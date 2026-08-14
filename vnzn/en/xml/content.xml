@@ -6371,4 +6371,13 @@
 	<index><i type="Person">John Wheeler</i><i type="Person">Douglas Adams</i><i>Universe</i></index>
 	<tags><t>Physics</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>filling_peaces</name>
+	<title>Filling Peaces</title>
+	<data>filling_peaces_small.png</data>
+	<date>15.08.2026</date>
+	<index></index>
+	<tags><t>Photo</t></tags>
+	<serial>Photos: Poster</serial>
+</item>
 </content>

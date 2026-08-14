@@ -6368,4 +6368,13 @@
 	<index><i type="Person">John Archibald Wheeler</i><i type="Person">Douglas Adams</i><i>Universum</i></index>
 	<tags><t>Physik</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>filling_peaces</name>
+	<title>Filling Peaces</title>
+	<data>filling_peaces_small.png</data>
+	<date>15.08.2026</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+	<serial>Fotos: Poster</serial>
+</item>
 </content>
