@@ -6380,4 +6380,14 @@
 	<tags><t>Photo</t></tags>
 	<serial>Photos: Poster</serial>
 </item>
+<item type="text" format="normal">
+	<name>the_portal_9</name>
+	<title>The Portal -IX-</title>
+	<data>After the first meeting with Vincent, Karina's mood changed. She was like a different person, full of joy for life and optimism. I was happy for her, but at the same time, I wondered about the reason for this change. She continually evaded my questions and made no further mention of the [portal](#portal/).
+	I decided to follow her to her planned second meeting with Vincent. She had told me that she was going to meet him at the café by the town hall. As I followed her, I quickly noticed that she was heading in a completely different direction.</data>
+	<date>19.08.2026</date>
+	<index><i>Serial Story</i></index>
+	<tags><t>Literature</t></tags>
+	<serial>The Portal</serial>
+</item>
 </content>
