@@ -6381,10 +6381,21 @@
 	<name>the_portal_9</name>
 	<title>Das Portal -IX-</title>
 	<data>Nach dem ersten Treffen mit Vincent änderte sich Karinas Stimmung. Sie war wie ausgewechselt, voller Lebensfreude und Optimismus. Ich freute mich darüber, gleichzeitig fragte ich mich, was der Grund für diese Änderung war. Meinen Fragen wich sie immer wieder aus und auch das [Portal](#portal/) erwähnte sie nicht mehr.
-	Ich beschloss, ihr zu ihrem geplanten zweiten Treffen mit Vincent zu folgen. Sie hatte mir erzählt, dass sie sich mit ihm im Café am Rathaus treffen wollte. Als ich ihr folgte, bemerkte ich schnell, dass sie in eine ganz andere Richtung ging.</data>
+	Ich beschloss, ihr zu ihrem geplanten zweiten Treffen mit Vincent zu folgen. Sie hatte mir erzählt, dass sie sich mit ihm im Mathematische Kuriositäten am Rathaus treffen wollte. Als ich ihr folgte, bemerkte ich schnell, dass sie in eine ganz andere Richtung ging.</data>
 	<date>19.08.2026</date>
 	<index><i>Fortsetzungsgeschichte</i></index>
 	<tags><t>Literatur</t></tags>
 	<serial>Das Portal</serial>
+</item>
+<item type="text" format="normal">
+	<name>math_curiosities_9</name>
+	<title>Mathematische Kuriositäten IX</title>
+	<data>Die letzte Ziffer von n&lt;sup&gt;5&lt;/sup&gt; ist gleich der letzten Ziffer von n.
+	`2&lt;sup&gt;5&lt;/sup&gt;  = 32 \
+	4&lt;sup&gt;5&lt;/sup&gt;  = 1024 \
+	42&lt;sup&gt;5&lt;/sup&gt; = 130691232`</data>
+	<date>23.08.2026</date>
+	<index><i>Zahlen</i></index>
+	<tags><t>Mathematik</t></tags>
 </item>
 </content>

@@ -6390,4 +6390,15 @@
 	<tags><t>Literature</t></tags>
 	<serial>The Portal</serial>
 </item>
+<item type="text" format="normal">
+	<name>math_curiosities_9</name>
+	<title>Mathematical curiosities IX</title>
+	<data>The last digit of n&lt;sup&gt;5&lt;/sup&gt; is equal to the last digit of n.
+	`2&lt;sup&gt;5&lt;/sup&gt;  = 32 \
+	4&lt;sup&gt;5&lt;/sup&gt;  = 1024 \
+	42&lt;sup&gt;5&lt;/sup&gt; = 130691232`</data>
+	<date>23.08.2026</date>
+	<index><i>Numbers</i></index>
+	<tags><t>Mathematics</t></tags>
+</item>
 </content>
