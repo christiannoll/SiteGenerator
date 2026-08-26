@@ -6398,4 +6398,12 @@
 	<index><i>Zahlen</i></index>
 	<tags><t>Mathematik</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>dance</name>
+	<title>Dance</title>
+	<data>dance3_small.jpg</data>
+	<date>27.08.2026</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
