@@ -6365,7 +6365,7 @@
 	"[It from bit](https://en.wikipedia.org/wiki/John_Archibald_Wheeler#It_from_bit). Otherwise put, every it - every particle, every field of force, even the space-time continuum itself - derives its function, its meaning, its very existence entirely - even if in some contexts indirectly - from the apparatus-elicited answers to yes-or-no questions, binary choices, bits."
 	Vielleicht hatte [Douglas Adams](https://de.wikipedia.org/wiki/Douglas_Adams) doch irgendwie [Recht](https://de.wikipedia.org/wiki/Per_Anhalter_durch_die_Galaxis).</data>
 	<date>11.08.2026</date>
-	<index><i type="Person">John Archibald Wheeler</i><i type="Person">Douglas Adams</i><i>Universum</i></index>
+	<index><i type="Person">John Archibald Wheeler</i><i type="Person">Douglas Adams</i><i>Universum</i><i>Information</i></index>
 	<tags><t>Physik</t></tags>
 </item>
 <item type="image" height="200" width="200">
@@ -6405,5 +6405,18 @@
 	<date>27.08.2026</date>
 	<index></index>
 	<tags><t>Foto</t></tags>
+</item>
+<item type="text" format="normal">
+	<name>really_big_questions</name>
+	<title>Die wirklich großen Fragen</title>
+	<data>[John Wheeler](https://de.wikipedia.org/wiki/John_Archibald_Wheeler) formulierte folgende grundlegenden Fragen, die über die Physik hinausreichen:
+	1. Wie kommt es zu dem, was existiert?
+	2. Warum gibt es Quanten?
+	3. Haben wir teil am Universum?
+	4. Was führt zur Bedeutung?
+	5. Besteht das Seiende aus Information?</data>
+	<date>31.08.2026</date>
+	<index><i type="Person">John Archibald Wheeler</i><i>Information</i><i>Universum</i></index>
+	<tags><t>Physik</t></tags>
 </item>
 </content>
