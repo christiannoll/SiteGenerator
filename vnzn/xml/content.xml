@@ -6419,4 +6419,13 @@
 	<index><i type="Person">John Archibald Wheeler</i><i>Information</i><i>Universum</i></index>
 	<tags><t>Physik</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>sausage_catastrophe</name>
+	<title>Die Wurstkatastrophe</title>
+	<data>Die Theorie der [endlichen Kugelpackungen](https://de.wikipedia.org/wiki/Theorie_der_endlichen_Kugelpackungen) untersucht die Frage, wie eine endliche Anzahl an gleichgroßen Kugeln möglichst platzsparend verpackt werden kann.
+	Mathematiker haben festgestellt, dass sich bis zu 56 Kugeln optimal in Form einer Röhre oder Wurst verpacken lassen. Aber vom 56. Ball an ändert sich dieses Ideal in ein Cluster, d.h. einen Haufen. Dieser plötzliche Übergang wird von Mathematikern scherzhaft als [Wurstkatastrophe](https://de.wikipedia.org/wiki/Theorie_der_endlichen_Kugelpackungen#Die_Wurstkatastrophe) bezeichnet.</data>
+	<date>04.09.2026</date>
+	<index><i>Zahlen</i></index>
+	<tags><t>Mathematik</t></tags>
+</item>
 </content>

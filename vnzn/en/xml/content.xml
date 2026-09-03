@@ -6422,4 +6422,13 @@
 	<index><i type="Person">John Wheeler</i><i>Universe</i><i>Information</i></index>
 	<tags><t>Physics</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>sausage_catastrophe</name>
+	<title>The Sausage Catastrophe</title>
+	<data>The theory of [finite sphere packing](https://en.wikipedia.org/wiki/Finite_sphere_packing) investigates the question of how a finite number of spheres of equal size can be packed as efficiently as possible.
+	Mathematicians have discovered that up to 56 spheres are optimally packed in the shape of a tube or sausage. However, starting from the 56th sphere, this ideal changes into a cluster, meaning a clump or pile. Mathematicians jokingly refer to this sudden transition as the [sausage catastrophe](https://en.wikipedia.org/wiki/Finite_sphere_packing#Sausage_catastrophe).</data>
+	<date>04.09.2026</date>
+	<index><i>Numbers</i></index>
+	<tags><t>Mathematics</t></tags>
+</item>
 </content>
