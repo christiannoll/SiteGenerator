@@ -33,6 +33,6 @@ User-agent: Seekr
 User-agent: YouBot
 Disallow: /
 
-User-agent: *
-# Misc.
-Disallow: /images/
+# User-agent: *
+# # Misc.
+# Disallow: /images/
