@@ -6428,4 +6428,13 @@
 	<index><i>Zahlen</i></index>
 	<tags><t>Mathematik</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>poster_25</name>
+	<title>Poster</title>
+	<data>poster25_small.jpg</data>
+	<date>08.09.2026</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+	<serial>Fotos: Poster</serial>
+</item>
 </content>
