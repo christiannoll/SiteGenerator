@@ -6440,4 +6440,17 @@
 	<tags><t>Photo</t></tags>
 	<serial>Photos: Poster</serial>
 </item>
+<item type="text" format="normal">
+	<name>odysseus</name>
+	<title>Odysseus</title>
+	<data>_In the ["Dialectic of Enlightenment"](https://en.wikipedia.org/wiki/Dialectic_of_Enlightenment) by Horkheimer and Adorno, Odysseus is depicted as the prototype of modern man. Could you explain that to us?_ \ Modernity finds expression, for example, in the myth of the singing or, better yet, the silence of the Sirens.
+	_What do you mean by the silence of the Sirens?_ \ That refers to the short story of the same name by [Franz Kafka](https://en.wikipedia.org/wiki/Franz_Kafka). Odysseus, who plugs his ears with wax and has himself chained to the ship’s mast, hears a song that exists only in his head, in his imagination. This song is even more seductive than the actual song of the Sirens.
+	_Why does that make [Odysseus](https://en.wikipedia.org/wiki/Odysseus) modern?_ \ Since he is aware of his imagination, he has himself chained to the mast as an extra precaution.
+	_And that symbolizes the victory of reason?_ \ Exactly, it is the victory over affect and irrationality.
+	_What relevance does Homer's text still hold today?_ \ It is the foundational text of European civilization.</data>
+	<date>12.09.2026</date>
+	<index><i>Odysseus</i><i>Interview</i><i type="Person">Theodor W. Adorno</i><i type="Person">Franz Kafka</i></index>
+	<tags><t>Literature</t><t>Philosophy</t></tags>
+	<serial>Interviews</serial>
+</item>
 </content>
