@@ -6450,4 +6450,12 @@
 	<tags><t>Literatur</t><t>Philosophie</t></tags>
 	<serial>Interviews</serial>
 </item>
+<item type="text" format="normal">
+	<name>fate_automaton</name>
+	<title>Der Schicksalsautomat</title>
+	<data>Wenn es einen Schicksalsautomaten gibt, kann man ihn ausschalten und wenn ja, wie?</data>
+	<date>16.09.2026</date>
+	<index><i>Freier Wille</i></index>
+	<tags><t>Philosophie</t></tags>
+</item>
 </content>

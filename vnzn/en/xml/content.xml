@@ -6453,4 +6453,12 @@
 	<tags><t>Literature</t><t>Philosophy</t></tags>
 	<serial>Interviews</serial>
 </item>
+<item type="text" format="normal">
+	<name>fate_automaton</name>
+	<title>The Fate Automaton</title>
+	<data>If there is a Fate Automaton, can it be turned off, and if so, how?</data>
+	<date>16.09.2026</date>
+	<index><i>Free Will</i></index>
+	<tags><t>Philosophy</t></tags>
+</item>
 </content>
