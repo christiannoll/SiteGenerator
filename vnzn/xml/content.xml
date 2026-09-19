@@ -6458,4 +6458,14 @@
 	<index><i>Freier Wille</i></index>
 	<tags><t>Philosophie</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>face</name>
+	<title>Face</title>
+	<data>face5_small.jpg</data>
+	<date>20.09.2026</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+	<serial>Fotos: Gesichter</serial>
+	<serial>Fotos: Poster</serial>
+</item>
 </content>
