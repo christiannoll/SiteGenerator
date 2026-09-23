@@ -6468,4 +6468,21 @@
 	<serial>Fotos: Gesichter</serial>
 	<serial>Fotos: Poster</serial>
 </item>
+<item type="text" format="normal">
+	<name>clapping_workshop</name>
+	<title>Der Klatsch-Workshop</title>
+	<data>"Lernen Sie richtig zu klatschen, inklusive Zertifikat"
+	_Warum bieten Sie einen Klatsch-Workshop an?_ \ Sehen Sie, vor Kurzem war ich im Theater, und da musste ich feststellen, dass viele Menschen verlernt haben, wie man korrekt klatscht.
+	_Was genau meinen Sie damit?_ \ Ich habe eine große Verunsicherung bei den Theaterbesuchern beobachtet. Viele wussten nicht, wann sie klatschen sollten, wie laut und wie lange.
+	_Könnten Sie uns das ein bisschen näher erläutern?_ \ Es ist doch so, dass man in einem Fußballstadion ganz anders klatscht als in einer Theatervorführung. Das Klatschen ist also abhängig von dem Kontext, in dem man sich gerade befindet.
+	_Muss man dafür wirklich einen Klatschkurs besuchen? Reicht es nicht, sich ein YouTube-Video anzuschauen?_ \ Das Klatschen wird oft unterschätzt. Haben Sie mal darauf geachtet, wie verschieden die Menschen klatschen? Je nachdem, wie sie die Hände dabei halten, ist der Klatschton ganz unterschiedlich.
+	_Was genau lernen die Teilnehmer in Ihrem Workshop?_ \ Zum einen lernen sie die richtige Klatschtechnik, und zum anderen beschäftigen wir uns mit der Klatschkultur.
+	_Was verstehen Sie unter Klatschkultur?_ \ Dabei geht es darum, wie ich als Einzelner in einer Gruppe richtig klatsche. Zusätzlich sprechen wir darüber, wie in verschiedenen Umgebungen korrekt geklatscht wird. Konkret heißt das, wann fange ich an zu klatschen, wann ist der richtige Zeitpunkt, mit dem Klatschen wieder aufzuhören, und bleibe ich beim Klatschen sitzen oder kann ich dabei auch aufstehen?
+	_Ist es angebracht, seinen Beifall neben dem Klatschen auch auf eine andere Art auszudrücken, z.B. verbal?_ \ Natürlich, aber niemals beides zusammen.  
+	_Eine letzte Frage. Am Ende ihres Kurses bekommt jeder Teilnehmer ein Klatschzertifikat?_ \ Selbstverständlich, aber nur, wenn die Klatschprüfung erfolgreich bestanden wurde.</data>
+	<date>24.09.2026</date>
+	<index><i>Interview</i></index>
+	<tags><t>Gesellschaft</t></tags>
+	<serial>Interviews</serial>
+</item>
 </content>

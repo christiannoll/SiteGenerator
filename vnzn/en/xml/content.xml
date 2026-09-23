@@ -6471,4 +6471,21 @@
 	<serial>Photos: Poster</serial>
 	<serial>Photos: Faces</serial>
 </item>
+<item type="text" format="normal">
+	<name>clapping_workshop</name>
+	<title>The Clapping Workshop</title>
+	<data>"Learn How to Clap Properly - Certificate Included"
+	_Why do you offer a clapping workshop?_ \ Well, you see, I was at the theater recently, and I had to realize that many people have forgotten how to clap properly.
+	_What exactly do you mean by that?_ \ I noticed that many theatergoers seemed rather unsure of themselves. A lot of them didn't know when to clap, how loudly to clap, or how long to keep clapping.
+	_Could you explain that in a little more detail?_ \ Well, the fact is that you clap very differently in a football stadium than at a theater performance. So, clapping depends on the context you find yourself in.
+	_Do you really need to take a clapping course for that? Isn't it enough to watch a YouTube video?_ \ Clapping is often underestimated. Have you ever paid attention to how differently people clap? Depending on how they hold their hands, the sound of the applause can be completely different.
+	_What exactly do participants learn in your workshop?_ \ For one thing, they learn the proper clapping technique, and for another, we explore the culture of clapping.
+	_What do you mean by "clapping culture"?_ \ It's about how I, as an individual, should clap appropriately as part of a group. We also discuss how to clap properly in different settings. More specifically: When do I start clapping? When is the right time to stop? And do I remain seated while clapping, or is it appropriate to stand up?
+	_Is it appropriate to express your appreciation in another way besides clapping, for example verbally?_ \ Of course, but never both at the same time.
+	_One last question. At the end of the course, does every participant receive a clapping certificate?_ \ Absolutely - but only if they successfully pass the clapping exam.</data>
+	<date>24.09.2026</date>
+	<index><i>Interview</i></index>
+	<tags><t>Society</t></tags>
+	<serial>Interviews</serial>
+</item>
 </content>
