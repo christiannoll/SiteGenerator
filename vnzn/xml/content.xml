@@ -6485,4 +6485,12 @@
 	<tags><t>Gesellschaft</t></tags>
 	<serial>Interviews</serial>
 </item>
+<item type="text" format="normal">
+	<name>the_misunderstanding</name>
+	<title>Das Missverständniss</title>
+	<data>Hohe kognitive Intelligenz führt nicht automatisch zu ethischem und verantwortungsvollem Verhalten. Das beste Beispiel dafür ist der [Mensch](https://de.wikipedia.org/wiki/Mensch).</data>
+	<date>28.09.2026</date>
+	<index><i>Artificial Intelligence</i></index>
+	<tags><t>Technologie</t><t>Gesellschaft</t></tags>
+</item>
 </content>

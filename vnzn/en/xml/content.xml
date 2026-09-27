@@ -6488,4 +6488,12 @@
 	<tags><t>Society</t></tags>
 	<serial>Interviews</serial>
 </item>
+<item type="text" format="normal">
+	<name>the_misunderstanding</name>
+	<title>The Misunderstanding</title>
+	<data>High intelligence doesn't automatically translate into ethical or responsible behavior. The best example of this is [humanity](https://en.wikipedia.org/wiki/Human) itself.</data>
+	<date>28.09.2026</date>
+	<index><i>Artificial Intelligence</i></index>
+	<tags><t>Technology</t><t>Society</t></tags>
+</item>
 </content>
