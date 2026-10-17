@@ -6534,4 +6534,16 @@
 	<tags><t>Foto</t></tags>
 	<serial>Fotos: Architektur</serial>
 </item>
+<item type="text" format="randomLinksColor">
+	<name>top_4_thomas_mann_novels</name>
+	<title>Top Four - Thomas Mann Romane</title>
+	<data>1. [Der Zauberberg](https://de.wikipedia.org/wiki/Der_Zauberberg)
+	2. [Joseph und seine Brüder](https://de.wikipedia.org/wiki/Joseph_und_seine_Br%C3%BCder)
+	3. [Doktor Faustus](https://de.wikipedia.org/wiki/Doktor_Faustus)
+	4. [Buddenbrooks - Verfall einer Familie](https://de.wikipedia.org/wiki/Buddenbrooks)</data>
+	<date>18.10.2026</date>
+	<index><i type="Person">Thomas Mann</i></index>
+	<tags><t>Literatur</t></tags>
+	<serial>Top Four</serial>
+</item>
 </content>

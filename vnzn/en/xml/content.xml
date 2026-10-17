@@ -6537,4 +6537,16 @@
 	<tags><t>Photo</t></tags>
 	<serial>Photos: Architecture</serial>
 </item>
+<item type="text" format="randomLinksColor">
+	<name>top_4_thomas_mann_novels</name>
+	<title>Top Four - Novels by Thomas Mann</title>
+	<data>1. [The Magic Mountain](https://en.wikipedia.org/wiki/The_Magic_Mountain)
+	2. [Joseph and His Brothers](https://en.wikipedia.org/wiki/Joseph_and_His_Brothers)
+	3. [Doctor Faustus](https://en.wikipedia.org/wiki/Doctor_Faustus_(novel))
+	4. [Buddenbrooks](https://en.wikipedia.org/wiki/Buddenbrooks)</data>
+	<date>18.10.2026</date>
+	<index><i type="Person">Thomas Mann</i></index>
+	<tags><t>Literature</t></tags>
+	<serial>Top Four</serial>
+</item>
 </content>
