@@ -6549,4 +6549,13 @@
 	<tags><t>Literature</t></tags>
 	<serial>Top Four</serial>
 </item>
+<item type="text" format="normal">
+	<name>writers_block</name>
+	<title>Writer's Block</title>
+	<data>It is shortly before midnight, and the moon shines pale into the room where the writer F. sits at his desk, staring at a blank sheet of paper for two hours. In truth, he already knew when he got up this morning that today, just like over the past two weeks, he wouldn't be able to write anything worthwhile. Waiting for inspiration will once again be in vain. Then, after all, he wrote something down:
+	Wrote nothing again today.</data>
+	<date>22.10.2026</date>
+	<index><i>Inspiration</i></index>
+	<tags><t>Literature</t><t>Short Story</t></tags>
+</item>
 </content>
