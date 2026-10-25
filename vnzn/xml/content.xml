@@ -6555,4 +6555,12 @@
 	<index><i>Inspiration</i></index>
 	<tags><t>Literatur</t><t>Short Story</t></tags>
 </item>
+<item type="image" height="200" width="200">
+	<name>pool</name>
+	<title>Pool</title>
+	<data>pool_small.jpg</data>
+	<date>26.10.2026</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+</item>
 </content>
