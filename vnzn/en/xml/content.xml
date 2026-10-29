@@ -6566,4 +6566,12 @@
 	<index></index>
 	<tags><t>Photo</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>secret_mathematicians</name>
+	<title>The League of Secret Mathematicians</title>
+	<data>At the end of August 2026, a group of mathematicians met in [Göttingen](https://en.wikipedia.org/wiki/David_Hilbert#G%C3%B6ttingen_school) to establish a secret society. Very little is known about it so far. Neither the number of mathematicians who belong to the society nor the goals they pursue are known. It is suspected that the society is a reaction to the large number of mathematical problem proofs recently published that were discovered by AI systems.</data>
+	<date>30.10.2026</date>
+	<index><i>Artificial Intelligence</i></index>
+	<tags><t>Mathematics</t></tags>
+</item>
 </content>

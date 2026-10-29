@@ -6563,4 +6563,12 @@
 	<index></index>
 	<tags><t>Foto</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>secret_mathematicians</name>
+	<title>Der Bund der geheimen Mathematiker</title>
+	<data>Ende August 2026 traf sich eine Gruppe von Mathematikern in [Göttingen](https://de.wikipedia.org/wiki/David_Hilbert#G%C3%B6ttingen), um eine Geheimgesellschaft zu gründen. Über sie ist bisher sehr wenig bekannt. Weder die Zahl der Mitglieder noch die verfolgten Ziele sind bisher klar. Es wird vermutet, dass die Gesellschaft eine Reaktion auf die große Zahl kürzlich veröffentlichter Beweise mathematischer Probleme ist, die von KI-Systemen gefunden wurden.</data>
+	<date>30.10.2026</date>
+	<index><i>Artificial Intelligence</i></index>
+	<tags><t>Mathematik</t></tags>
+</item>
 </content>
