@@ -6574,4 +6574,17 @@
 	<index><i>Artificial Intelligence</i></index>
 	<tags><t>Mathematics</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>cardinal_virtues</name>
+	<title>The Four Cardinal Virtues</title>
+	<data>In classical philosophy, four [virtues](https://en.wikipedia.org/wiki/Cardinal_virtues) are considered fundamental:
+	* Prudence _(prudentia)_
+	* Justice _(iustitia)_
+	* Courage _(fortitudo)_
+	* Temperance _(temperantia)_
+	I get the impression that these virtues are not particularly valued in today's world.</data>
+	<date>03.11.2026</date>
+	<index><i>Virtues</i></index>
+	<tags><t>Philosophy</t></tags>
+</item>
 </content>

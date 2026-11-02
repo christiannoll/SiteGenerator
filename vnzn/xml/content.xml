@@ -6571,4 +6571,17 @@
 	<index><i>Artificial Intelligence</i></index>
 	<tags><t>Mathematik</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>cardinal_virtues</name>
+	<title>Die vier Kardinaltugenden</title>
+	<data>In der klassischen Philosophie gelten vier [Tugenden](https://de.wikipedia.org/wiki/Kardinaltugend) als grundlegend:
+	* Klugheit _(prudentia)_
+	* Gerechtigkeit _(iustitia)_
+	* Tapferkeit _(fortitudo)_
+	* Mäßigung _(temperantia)_
+	Mir scheint, im Moment stehen diese Tugenden nicht besonders hoch im Kurs.</data>
+	<date>03.11.2026</date>
+	<index><i>Kardinaltugenden</i></index>
+	<tags><t>Philosophie</t></tags>
+</item>
 </content>
