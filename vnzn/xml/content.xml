@@ -6381,7 +6381,7 @@
 	<name>the_portal_9</name>
 	<title>Das Portal -IX-</title>
 	<data>Nach dem ersten Treffen mit Vincent änderte sich Karinas Stimmung. Sie war wie ausgewechselt, voller Lebensfreude und Optimismus. Ich freute mich darüber, gleichzeitig fragte ich mich, was der Grund für diese Änderung war. Meinen Fragen wich sie immer wieder aus und auch das [Portal](#portal/) erwähnte sie nicht mehr.
-	Ich beschloss, ihr zu ihrem geplanten zweiten Treffen mit Vincent zu folgen. Sie hatte mir erzählt, dass sie sich mit ihm im Mathematische Kuriositäten am Rathaus treffen wollte. Als ich ihr folgte, bemerkte ich schnell, dass sie in eine ganz andere Richtung ging.</data>
+	Ich beschloss, ihr zu ihrem geplanten zweiten Treffen mit Vincent zu folgen. Sie hatte mir erzählt, dass sie sich mit ihm im Café am Rathaus treffen wollte. Als ich ihr folgte, bemerkte ich schnell, dass sie in eine ganz andere Richtung ging.</data>
 	<date>19.08.2026</date>
 	<index><i>Fortsetzungsgeschichte</i></index>
 	<tags><t>Literatur</t></tags>
@@ -6583,5 +6583,14 @@
 	<date>03.11.2026</date>
 	<index><i>Kardinaltugenden</i></index>
 	<tags><t>Philosophie</t></tags>
+</item>
+<item type="image" height="200" width="200">
+	<name>abstract_23</name>
+	<title>Abstract 23</title>
+	<data>abstract23_small.jpg</data>
+	<date>07.11.2026</date>
+	<index></index>
+	<tags><t>Foto</t></tags>
+	<serial>Fotos: Abstrakt</serial>
 </item>
 </content>
