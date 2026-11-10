@@ -6596,4 +6596,12 @@
 	<tags><t>Photo</t></tags>
 	<serial>Photos: Abstract</serial>
 </item>
+<item type="text" format="normal">
+	<name>cosmic_reason</name>
+	<title>Cosmic Reason</title>
+	<data>Is the [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set), which manifests itself, for example, in the shape of the famous [Mandelbrot Beetle](https://en.wikipedia.org/wiki/Fractal), a set that repeats itself precisely at every level and exhibits self-similarity at every scale, an expression of the realization of a rational order or a mind operating on different levels throughout the cosmos?</data>
+	<date>11.11.2026</date>
+	<index><i>Fractal</i><i>Universe</i></index>
+	<tags><t>Philosophy</t><t>Mathematics</t></tags>
+</item>
 </content>

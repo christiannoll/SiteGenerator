@@ -6593,4 +6593,12 @@
 	<tags><t>Foto</t></tags>
 	<serial>Fotos: Abstrakt</serial>
 </item>
+<item type="text" format="normal">
+	<name>cosmic_reason</name>
+	<title>Kosmische Vernunft</title>
+	<data>Ist die [Mandelbrot-Menge](https://de.wikipedia.org/wiki/Mandelbrot-Menge), wie sie z. B. in der Form des [Apfelmännchens](https://de.wikipedia.org/wiki/Fraktal) in Erscheinung tritt, eine Menge, die sich auf jeder Ebene exakt wiederholt und sich in jedem Maßstab selbst ähnlich ist, ein Ausdruck für die Verwirklichung einer Vernunft, eines Geistes, der auf verschiedenen Ebenen im ganzen Kosmos wirkt?</data>
+	<date>11.11.2026</date>
+	<index><i>Fraktal</i><i>Universum</i></index>
+	<tags><t>Philosophie</t><t>Mathematik</t></tags>
+</item>
 </content>
