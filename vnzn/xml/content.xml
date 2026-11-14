@@ -6601,4 +6601,18 @@
 	<index><i>Fraktal</i><i>Universum</i></index>
 	<tags><t>Philosophie</t><t>Mathematik</t></tags>
 </item>
+<item type="text" format="normal">
+	<name>general_reports_on_peace</name>
+	<title>Ein General berichtet vom Frieden</title>
+	<data>_Herr General, Sie haben ein Buch über den Frieden geschrieben. Das scheint mir ein ungewöhnliches Thema für einen General zu sein._ \ Auf den ersten Blick würde ich Ihnen Recht geben, aber aus meiner Sicht ist der Frieden die Fortsetzung des Krieges mit anderen Mitteln. 
+	_Wie meinen Sie das?_ \ Sehen Sie, es ist doch so, dass es in der Zeit des sogenannten Friedens keineswegs nur friedlich zugeht. Vielmehr tritt der heiße Krieg in eine neue Phase ein, die oft als kalter oder hybrider Krieg bezeichnet wird.
+	_Sie argumentieren also, dass es gar keinen Frieden gibt?_ \ Genau, es geht um die bestmögliche Vorbereitung auf den nächsten Krieg.
+	_Ist das nicht nur die Sichtweise eines Mannes, dessen Beruf der Krieg ist?_ \ Nein, absolut nicht. Ich sehe mich da in einer Reihe von Wissenschaftlern und Philosophen, die sich mit Fragen der Evolution beschäftigt haben.
+	_Sie behaupten also, dass Krieg etwas mit Evolution zu tun hat?_ \ Für mich ist der Krieg ein Katalysator der menschlichen Evolution.
+	_Haben Sie keine Angst, dass Sie am Ende der technischen Entwicklung als General auch überflüssig werden?_ \ Nein, denn auch die KI-Systeme werden Krieg führen.</data>
+	<date>15.11.2026</date>
+	<index><i>Interview</i><i>Krieg</i></index>
+	<tags><t>Gesellschaft</t></tags>
+	<serial>Interviews</serial>
+</item>
 </content>
