@@ -6628,4 +6628,13 @@
 	<serial>Photos: Faces</serial>
 	<serial>Photos: Poster</serial>
 </item>
+<item type="text" format="normal">
+	<name>andy_warhol_on_cinema</name>
+	<title>Andy Warhol on Cinema</title>
+	<data>"It's the movies that have really been running things in America ever since they were invented. They show you what to do, how to do it, when to do it, how to feel about it, and how to look how you feel about it." - [Andy Warhol](https://en.wikipedia.org/wiki/Andy_Warhol)</data>
+	<date>23.11.2026</date>
+	<index><i type="Person">Andy Warhol</i></index>
+	<tags><t>Movie</t><t>Art</t></tags>
+	<serial>Quotes</serial>
+</item>
 </content>

@@ -6625,4 +6625,13 @@
 	<serial>Fotos: Gesichter</serial>
 	<serial>Fotos: Poster</serial>
 </item>
+<item type="text" format="normal">
+	<name>andy_warhol_on_cinema</name>
+	<title>Andy Warhol über das Kino</title>
+	<data>"Ich ging leidenschaftlich gern ins Kino und hoffte vermutlich, daß die Filme mir was übers Leben beibringen würden. (...) Seit das Kino erfunden wurde, bestimmt es das Leben in Amerika. Es zeigt dir, was du tun sollst, wann und wie du's tun sollst, was für Gefühle du dabei haben sollst und wie du aussehen sollst, wenn du diese Gefühle hast." - [Andy Warhol](https://de.wikipedia.org/wiki/Andy_Warhol)</data>
+	<date>23.11.2026</date>
+	<index><i type="Person">Andy Warhol</i></index>
+	<tags><t>Film</t><t>Kunst</t></tags>
+	<serial>Zitate</serial>
+</item>
 </content>
