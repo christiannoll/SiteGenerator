@@ -3191,7 +3191,7 @@
 	Wenn sich Wittgenstein in seiner Aussage auf den Menschen bezieht, trifft sie und das vielleicht noch viel stärker auch auf [generative AI](#index/Artificial-Intelligence/), wie z.B. ChatGPT, zu. Auf die Frage "Meinst Du das Zitat trifft auch auf deine Programmierung zu?" hat [ChatGPT](https://de.wikipedia.org/wiki/ChatGPT) (Mar 14 Version) geantwortet:
 	"... Insgesamt lässt sich sagen, dass das Zitat von Wittgenstein auch auf meine Programmierung zutreffen kann, da meine Fähigkeiten und mein Verständnis in gewisser Weise durch meine Sprache und mein Vokabular begrenzt sind. Aber anders als Menschen, kann ich schnell und unendlich neue Informationen aufnehmen und verarbeiten, und mein Verständnis der Welt kann sich dadurch schneller erweitern." 😱</data>
 	<date>20.03.2023</date>
-	<index><i>Gehirn</i><i>Sprache</i><i>Artificial Intelligence</i></index>
+	<index><i>Gehirn</i><i>Sprache</i><i>Artificial Intelligence</i><i type="Philosoph">Ludwig Wittgenstein</i></index>
 	<tags><t>Gesellschaft</t><t>Philosophie</t><t>Informatik</t></tags>
 	<serial>Zitate</serial>
 </item>
@@ -6633,5 +6633,14 @@
 	<index><i type="Person">Andy Warhol</i></index>
 	<tags><t>Film</t><t>Kunst</t></tags>
 	<serial>Zitate</serial>
+</item>
+<item type="text" format="normal">
+	<name>the_loan_is_due</name>
+	<title>Der Kredit wird fällig</title>
+	<data>Jahrzehntelang wurde bei der Entwicklung von Software unterschätzt, wie lange diese Programme tatsächlich im Einsatz bleiben. Niemand hat damals an Sicherheit gedacht oder daran, dass diese Systeme durch die zunehmende Vernetzung einmal jederzeit über das Internet erreichbar sein würden. Hinzu kommt, dass viele dieser Programme in [Sprachen](https://de.wikipedia.org/wiki/Programmiersprache) geschrieben wurden, die es Entwicklern sehr leicht gemacht haben, ungewollt Sicherheitslücken einzubauen. Unter Zeit- und Kostendruck entstand so Code voller Fehler und Schwachstellen, die bewusst oder unbewusst ignoriert wurden.
+	In der Informatik spricht man dabei von technischen Schulden und für die bekommen wir jetzt die Rechnung präsentiert. Durch die rasante Entwicklung von KI-Systemen, gerade im Bereich der Programmierung, ist es heute deutlich einfacher geworden, Sicherheitslücken zu finden. Praktischerweise liefern KI-Modelle den Code zum Ausnutzen dieser Lücken oft gleich mit. Was früher Wochen dauerte, passiert heute teils innerhalb eines Tages. Im günstigsten Fall stellen die Hersteller schnell ein Update bereit. Doch selbst das Einspielen dieser Patches birgt Risiken. Läuft dabei etwas schief, kann das im schlimmsten Fall zu weltweiten Ausfällen [kritischer Infrastruktur](https://de.wikipedia.org/wiki/Kritische_Infrastruktur) führen und den Alltag von Millionen Menschen lahmlegen.</data>
+	<date>27.11.2026</date>
+	<index><i>Artificial Intelligence</i><i>Programmierung</i></index>
+	<tags><t>Technologie</t><t>Informatik</t></tags>
 </item>
 </content>

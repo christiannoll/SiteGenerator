@@ -3194,7 +3194,7 @@
 	If Wittgenstein refers to humans in his statement, it applies and perhaps even more so to [generative AI](#index/Artificial-Intelligence/), such as [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT). To the question "Do you think the quote also applies to your programming?" ChatGPT (Mar 14 Version) replied:
 	"... Overall, the Wittgenstein quote may apply to my programming as well, since my skills and understanding are somewhat limited by my language and vocabulary. But unlike humans, I can absorb and process new information quickly and infinitely, and my understanding of the world can expand more quickly as a result." 😱</data>
 	<date>20.03.2023</date>
-	<index><i>Brain</i><i>Language</i><i>Artificial Intelligence</i></index>
+	<index><i>Brain</i><i>Language</i><i>Artificial Intelligence</i><i type="Philosoph">Ludwig Wittgenstein</i></index>
 	<tags><t>Society</t><t>Philosophy</t><t>Computer science</t></tags>
 	<serial>Quotes</serial>
 </item>
@@ -6636,5 +6636,14 @@
 	<index><i type="Person">Andy Warhol</i></index>
 	<tags><t>Movie</t><t>Art</t></tags>
 	<serial>Quotes</serial>
+</item>
+<item type="text" format="normal">
+	<name>the_loan_is_due</name>
+	<title>The Loan Comes Due</title>
+	<data>For decades, software development underestimated how long programs would actually remain in use. Back then, no one thought about security or the fact that, due to increasing connectivity, these systems would one day be accessible via the internet at any time. In addition, many of these programs were written in [languages](https://en.wikipedia.org/wiki/Programming_language) that made it very easy for developers to unintentionally introduce security vulnerabilities. Under time and cost pressure, code was created that was full of bugs and weaknesses, which were ignored either consciously or unconsciously.
+	In computer science, this is referred to as technical debt, and we are now being presented with the bill for it. Due to the rapid development of AI systems, particularly in the field of programming, it has become significantly easier today to find security vulnerabilities. Conveniently, AI models often immediately supply the code to exploit these flaws as well. What used to take weeks now sometimes happens within a single day. In the best-case scenario, vendors quickly provide an update. Yet even installing these patches carries risks. If something goes wrong in the process, in the worst-case scenario, it can lead to worldwide outages of [critical infrastructure](https://en.wikipedia.org/wiki/Critical_infrastructure) and bringing everyday life to a standstill for millions of people.</data>
+	<date>27.11.2026</date>
+	<index><i>Artificial Intelligence</i><i>Programming</i></index>
+	<tags><t>Technology</t><t>Computer science</t></tags>
 </item>
 </content>
