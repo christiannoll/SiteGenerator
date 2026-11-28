@@ -109,11 +109,10 @@ class Serials : Tags {
 class SerialsFactory {
     
     func createSerials(_ posts: [Item]) -> Serials {
-        let reversedPosts = posts.reversed()
         let serials = Serials()
         serials.headerText = SiteGeneratorEnv.forGerman() ? "Serien" : "Serials"
 
-        for post in reversedPosts {
+        for post in posts {
             serials.addPost(post)
         }
         
